@@ -32,17 +32,7 @@ def read_json_file(filepath, column=None):
     except Exception as e:
         logging.error(f"Error reading JSON file {filepath}: {e}")
         return {}
-
-def clean_temperature_value(value):
-    """Clean temperature values by extracting only the number."""
-    if isinstance(value, str):
-        # Remove all non-numeric characters except decimal point and minus sign
-        import re
-        matches = re.findall(r'-?\d+\.?\d*', value)
-        if matches:
-            return matches[0]
-    return value
-
+        
 def clean_numeric_value(value):
     """Clean numeric values by extracting only the number."""
     if pd.isna(value):
@@ -56,6 +46,15 @@ def clean_numeric_value(value):
     except (ValueError, TypeError):
         return None
 
+def clean_temperature_value(value):
+    """Clean temperature values by extracting only the number."""
+    if isinstance(value, str):
+        # Remove all non-numeric characters except decimal point and minus sign
+        import re
+        matches = re.findall(r'-?\d+\.?\d*', value)
+        if matches:
+            return matches[0]
+    return value
 
 def get_smiles_for_compound_ids(compound_ids, compounds_csv_path):
     """Get SMILES strings for a list of compound IDs using the compounds CSV file."""
@@ -104,11 +103,23 @@ def process_json_files_to_csv(json_files, output_file, column_mappings, valid_se
         full_data = read_json_file(os.path.join('density_data', json_file))
         
         header = ['setid'] + [column_mappings.get(item[0], item[0]) for item in full_data.get('dhead', [])]
-        data = [[set_id] + [clean_temperature_value(val) if column_mappings.get(item[0]) == 'Temperature, K' else 
-                          (f"{val[0]}±{val[1]}" if isinstance(val, list) and len(val) == 2 else val)
-                          for val, item in zip(row, full_data.get('dhead', []))
-                          if not isinstance(val, list) or len(val) != 0]
-                for row in full_data.get('data', [])]
+
+        data = []
+        for row in full_data.get('data', []):
+            cleaned_row = [set_id]
+            for val, item in zip(row, full_data.get('dhead', [])):
+                column_name = column_mappings.get(item[0], item[0])
+                if column_name == 'Temperature, K':
+                    cleaned_val = clean_temperature_value(val)
+                elif column_name == 'Pressure, kPa':
+                    cleaned_val = clean_temperature_value(val)
+                elif isinstance(val, list) and len(val) == 2:
+                    cleaned_val = f"{val[0]}±{val[1]}"
+                else:
+                    cleaned_val = val
+                cleaned_row.append(cleaned_val)
+
+            data.append(cleaned_row)
         
         if merged_header is None:
             merged_header = header
@@ -126,10 +137,7 @@ def process_json_files_to_csv(json_files, output_file, column_mappings, valid_se
     df_merged = pd.DataFrame(merged_data, columns=merged_header)
     
     # Clean numeric values for temperature and pressure
-    numeric_columns = ['Temperature, K', 'Pressure, kPa']
-    for col in numeric_columns:
-        if col in df_merged.columns:
-            df_merged[col] = df_merged[col].apply(clean_numeric_value)
+
     
     # Rename the specific density column
     df_merged.rename(columns={'Specific density, kg/m<SUP>3</SUP>': 'Specific density, kg/m³'}, inplace=True)

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GYqai,298.15,101,1047.4,Ma et al. (2013b),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+GYqai,303.15,101,1044.4,Ma et al. (2013b),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+GYqai,308.15,101,1041.4,Ma et al. (2013b),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+GYqai,313.15,101,1038.3,Ma et al. (2013b),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+GYqai,318.15,101,1035.2,Ma et al. (2013b),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+GYqai,323.15,101,1032.2,Ma et al. (2013b),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+GYqai,328.15,101,1029.2,Ma et al. (2013b),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+GYqai,333.15,101,1026.2,Ma et al. (2013b),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+GYqai,338.15,101,1023.3,Ma et al. (2013b),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,

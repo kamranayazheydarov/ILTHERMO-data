@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PqrOj,298.15,101.325,1201.8,Faraji et al. (2022),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,
+PqrOj,303.15,101.325,1198.8,Faraji et al. (2022),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,
+PqrOj,308.15,101.325,1195.8,Faraji et al. (2022),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,
+PqrOj,313.15,101.325,1192.8,Faraji et al. (2022),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,
+PqrOj,318.15,101.325,1189.8,Faraji et al. (2022),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,
+PqrOj,323.15,101.325,1186.8,Faraji et al. (2022),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,
+PqrOj,328.15,101.325,1183.8,Faraji et al. (2022),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,

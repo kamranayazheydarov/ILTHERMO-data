@@ -1,0 +1,13 @@
+setid,Mole fraction of benzene,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ulEUK,0,283.15,100,1022,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.051,283.15,100,1020,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.099,283.15,100,1018,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.199,283.15,100,1014,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.293,283.15,100,1010,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.401,283.15,100,1004,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.505,283.15,100,997,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.61,283.15,100,987,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.637,283.15,100,985,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.665,283.15,100,981,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.69,283.15,100,978,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+ulEUK,0.718,283.15,100,974,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,

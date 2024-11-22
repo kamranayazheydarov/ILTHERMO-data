@@ -1,0 +1,9 @@
+setid,"Temperature, K","MolaLity of 1-butyl-3-methylimidazolium tetrafluoroborate, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+opWOF,298.15,0,101,997.069,Kiselev et al. (2012),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+opWOF,298.15,0,101,997.077,Kiselev et al. (2012),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+opWOF,298.15,0.010014,101,997.468,Kiselev et al. (2012),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+opWOF,298.15,0.010123,101,997.452,Kiselev et al. (2012),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+opWOF,298.15,0.019799,101,997.84,Kiselev et al. (2012),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+opWOF,298.15,0.029885,101,998.219,Kiselev et al. (2012),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+opWOF,298.15,0.039898,101,998.605,Kiselev et al. (2012),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+opWOF,298.15,0.040197,101,998.611,Kiselev et al. (2012),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,

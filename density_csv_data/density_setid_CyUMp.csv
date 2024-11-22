@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CyUMp,293.15,101.325,1376,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+CyUMp,298.15,101.325,1372,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+CyUMp,303.15,101.325,1367,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+CyUMp,308.15,101.325,1363,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+CyUMp,313.15,101.325,1358,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+CyUMp,318.15,101.325,1354,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+CyUMp,323.15,101.325,1349,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+CyUMp,328.15,101.325,1344,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+CyUMp,333.15,101.325,1340,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+CyUMp,338.15,101.325,1336,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+CyUMp,343.15,101.325,1331,Henni et al. (2023),Density,Liquid,ACBOlB,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,

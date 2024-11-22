@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+AXeyi,293.15,92.3,973.6,Fernandes et al. (2020),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+AXeyi,298.15,92.3,970.8,Fernandes et al. (2020),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+AXeyi,303.15,92.3,968,Fernandes et al. (2020),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+AXeyi,308.15,92.3,965.2,Fernandes et al. (2020),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+AXeyi,313.15,92.3,962.5,Fernandes et al. (2020),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,

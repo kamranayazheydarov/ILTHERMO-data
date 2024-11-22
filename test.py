@@ -111,9 +111,9 @@ def process_json_files_to_csv(json_files, output_file, column_mappings, valid_se
                 column_name = column_mappings.get(item[0], item[0])
                 if column_name == 'Temperature, K':
                     cleaned_val = clean_temperature_value(val)
-                elif column_name == 'Pressure, kPa':
+                if column_name == 'Pressure, kPa':
                     cleaned_val = clean_temperature_value(val)
-                elif isinstance(val, list) and len(val) == 2:
+                if isinstance(val, list) and len(val) == 2:
                     cleaned_val = f"{val[0]}±{val[1]}"
                 else:
                     cleaned_val = val

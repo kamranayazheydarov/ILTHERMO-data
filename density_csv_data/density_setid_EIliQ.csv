@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EIliQ,293.15,101.325,1038.3,AYAD et al. (2018),Density,Liquid,AAuLqL,CCCC[n+]1ccc(C)cc1.N#C[C-](C#N)C#N,1-butyl-4-methylpyridinium tricyanomethanide,,,,,,
+EIliQ,303.15,101.325,1032.1,AYAD et al. (2018),Density,Liquid,AAuLqL,CCCC[n+]1ccc(C)cc1.N#C[C-](C#N)C#N,1-butyl-4-methylpyridinium tricyanomethanide,,,,,,
+EIliQ,313.15,101.325,1025.7,AYAD et al. (2018),Density,Liquid,AAuLqL,CCCC[n+]1ccc(C)cc1.N#C[C-](C#N)C#N,1-butyl-4-methylpyridinium tricyanomethanide,,,,,,
+EIliQ,323.15,101.325,1019.7,AYAD et al. (2018),Density,Liquid,AAuLqL,CCCC[n+]1ccc(C)cc1.N#C[C-](C#N)C#N,1-butyl-4-methylpyridinium tricyanomethanide,,,,,,

@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+haAaL,293.15,101.325,1.51431,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,
+haAaL,298.15,101.325,1.51296,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,
+haAaL,303.15,101.325,1.51162,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,
+haAaL,308.15,101.325,1.51029,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,
+haAaL,313.15,101.325,1.50895,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,
+haAaL,318.15,101.325,1.50764,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,
+haAaL,323.15,101.325,1.50629,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,
+haAaL,328.15,101.325,1.50497,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,
+haAaL,333.15,101.325,1.50361,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,
+haAaL,338.15,101.325,1.50226,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,
+haAaL,343.15,101.325,1.5009,Gomez et al. (2010c),Refractive index,Liquid,AAnYKa,COS(=O)(=O)[O-].C[n+]1ccccc1,1-methylpyridinium methylsulfate,,,,,,,

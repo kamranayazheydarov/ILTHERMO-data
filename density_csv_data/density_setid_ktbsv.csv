@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ktbsv,298.15,100,1098,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+ktbsv,303.15,100,1095,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+ktbsv,308.15,100,1092,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+ktbsv,313.15,100,1089,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+ktbsv,318.15,100,1085,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+ktbsv,323.15,100,1083,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+ktbsv,328.15,100,1079,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+ktbsv,333.15,100,1076,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+ktbsv,338.15,100,1074,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+ktbsv,343.15,100,1070,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+ktbsv,348.15,100,1067,Krolikowska et al. (2021c),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,

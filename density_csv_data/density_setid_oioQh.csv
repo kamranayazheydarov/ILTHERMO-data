@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oioQh,288.15,101.325,1014.05,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,293.15,101.325,1011.1,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,298.15,101.325,1008.27,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,303.15,101.325,1005.42,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,308.15,101.325,1002.57,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,313.15,101.325,999.7,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,318.15,101.325,996.67,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,323.15,101.325,994.1,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,328.15,101.325,991.28,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,333.15,101.325,988.41,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,338.15,101.325,985.63,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+oioQh,343.15,101.325,982.86,Mokhtarani et al. (2012a),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,

@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FtXUy,298.2,100.3,0.000194,Aki et al. (2004),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+FtXUy,313.2,98.6,0.000195,Aki et al. (2004),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+FtXUy,333.2,99.5,0.000198,Aki et al. (2004),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,

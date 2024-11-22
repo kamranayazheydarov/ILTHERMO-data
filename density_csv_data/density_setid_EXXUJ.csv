@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EXXUJ,293.15,101.325,1389.5,Garcia-Miaja et al. (2009a),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EXXUJ,298.15,101.325,1385.3,Garcia-Miaja et al. (2009a),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EXXUJ,303.15,101.325,1381.1,Garcia-Miaja et al. (2009a),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EXXUJ,308.15,101.325,1376.9,Garcia-Miaja et al. (2009a),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EXXUJ,313.15,101.325,1372.7,Garcia-Miaja et al. (2009a),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EXXUJ,318.15,101.325,1368.6,Garcia-Miaja et al. (2009a),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

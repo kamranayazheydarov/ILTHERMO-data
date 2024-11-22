@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QVZBs,293,101.325,1079,Curnow et al. (2020),Density,Liquid,ABNMAv,F[B-](F)(F)F.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium tetrafluoroborate,,,,,,
+QVZBs,303,101.325,1072,Curnow et al. (2020),Density,Liquid,ABNMAv,F[B-](F)(F)F.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium tetrafluoroborate,,,,,,
+QVZBs,313,101.325,1065,Curnow et al. (2020),Density,Liquid,ABNMAv,F[B-](F)(F)F.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium tetrafluoroborate,,,,,,
+QVZBs,323,101.325,1059,Curnow et al. (2020),Density,Liquid,ABNMAv,F[B-](F)(F)F.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium tetrafluoroborate,,,,,,
+QVZBs,333,101.325,1052,Curnow et al. (2020),Density,Liquid,ABNMAv,F[B-](F)(F)F.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium tetrafluoroborate,,,,,,
+QVZBs,343,101.325,1045,Curnow et al. (2020),Density,Liquid,ABNMAv,F[B-](F)(F)F.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium tetrafluoroborate,,,,,,
+QVZBs,353,101.325,1039,Curnow et al. (2020),Density,Liquid,ABNMAv,F[B-](F)(F)F.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium tetrafluoroborate,,,,,,
+QVZBs,363,101.325,1032,Curnow et al. (2020),Density,Liquid,ABNMAv,F[B-](F)(F)F.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium tetrafluoroborate,,,,,,

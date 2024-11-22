@@ -1,0 +1,7 @@
+setid,"Temperature, K",Mole fraction of octane,Mole fraction of benzene,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+wykHi,283.15,0.001,0.193,101,1228.3,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+wykHi,283.15,0.002,0.288,101,1208.91,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+wykHi,283.15,0.003,0.08,101,1248.36,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+wykHi,298.15,0,0.29,101,1199.23,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+wykHi,298.15,0.001,0.187,101,1220.1,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+wykHi,298.15,0.003,0.081,101,1238.98,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate

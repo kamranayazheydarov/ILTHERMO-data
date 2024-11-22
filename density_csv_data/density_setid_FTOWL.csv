@@ -1,0 +1,9 @@
+setid,"Temperature, K","MolaLity of tetrapropylammonium bromide, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FTOWL,298.15,0,100,997.06,Sailaja et al. (2020),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water,,,
+FTOWL,298.15,0.0508,100,997.67,Sailaja et al. (2020),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water,,,
+FTOWL,303.15,0,100,995.65,Sailaja et al. (2020),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water,,,
+FTOWL,303.15,0.0508,100,996.5,Sailaja et al. (2020),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water,,,
+FTOWL,308.15,0,100,994.03,Sailaja et al. (2020),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water,,,
+FTOWL,308.15,0.0508,100,995,Sailaja et al. (2020),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water,,,
+FTOWL,313.15,0,100,992.21,Sailaja et al. (2020),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water,,,
+FTOWL,313.15,0.0508,100,993.5,Sailaja et al. (2020),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water,,,

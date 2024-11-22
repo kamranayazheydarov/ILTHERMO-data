@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qCsOC,293.15,101,1407,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+qCsOC,298.15,101,1402,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+qCsOC,303.15,101,1398,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+qCsOC,308.15,101,1393,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+qCsOC,313.15,101,1388,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+qCsOC,318.15,101,1383,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+qCsOC,323.15,101,1379,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+qCsOC,328.15,101,1374,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+qCsOC,333.15,101,1370,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+qCsOC,338.15,101,1365,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+qCsOC,343.15,101,1360,Aljasmi et al. (2022),Density,Liquid,ABfRtt,CCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,

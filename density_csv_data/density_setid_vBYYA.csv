@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vBYYA,293.15,101.325,1397.4,Mutelet et al. (2013),Density,Liquid,ABdMNo,CCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+vBYYA,303.15,101.325,1389.2,Mutelet et al. (2013),Density,Liquid,ABdMNo,CCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+vBYYA,313.15,101.325,1381.1,Mutelet et al. (2013),Density,Liquid,ABdMNo,CCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+vBYYA,323.15,101.325,1372.7,Mutelet et al. (2013),Density,Liquid,ABdMNo,CCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+vBYYA,333.15,101.325,1364.1,Mutelet et al. (2013),Density,Liquid,ABdMNo,CCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

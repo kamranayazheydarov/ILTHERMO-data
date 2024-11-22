@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cxykf,278.15,101.325,1320.21,Kolbeck et al. (2010),Density,Liquid,ABJyus,CCCCCCCCn1cc[n+](C)c1.[I-],1-methyl-3-octyl-1H-imidazolium iodide,,,,,,
+cxykf,283.15,101.325,1316.47,Kolbeck et al. (2010),Density,Liquid,ABJyus,CCCCCCCCn1cc[n+](C)c1.[I-],1-methyl-3-octyl-1H-imidazolium iodide,,,,,,
+cxykf,288.15,101.325,1312.69,Kolbeck et al. (2010),Density,Liquid,ABJyus,CCCCCCCCn1cc[n+](C)c1.[I-],1-methyl-3-octyl-1H-imidazolium iodide,,,,,,
+cxykf,293.15,101.325,1308.82,Kolbeck et al. (2010),Density,Liquid,ABJyus,CCCCCCCCn1cc[n+](C)c1.[I-],1-methyl-3-octyl-1H-imidazolium iodide,,,,,,
+cxykf,298.15,101.325,1304.82,Kolbeck et al. (2010),Density,Liquid,ABJyus,CCCCCCCCn1cc[n+](C)c1.[I-],1-methyl-3-octyl-1H-imidazolium iodide,,,,,,
+cxykf,303.15,101.325,1300.95,Kolbeck et al. (2010),Density,Liquid,ABJyus,CCCCCCCCn1cc[n+](C)c1.[I-],1-methyl-3-octyl-1H-imidazolium iodide,,,,,,
+cxykf,308.15,101.325,1297.32,Kolbeck et al. (2010),Density,Liquid,ABJyus,CCCCCCCCn1cc[n+](C)c1.[I-],1-methyl-3-octyl-1H-imidazolium iodide,,,,,,

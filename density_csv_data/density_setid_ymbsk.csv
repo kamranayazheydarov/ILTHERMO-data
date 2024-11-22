@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ymbsk,293.3,101.325,973.3,Ramjhan et al. (2021),Density,Liquid,ABvyrm,C(C=1C(C(=O)O)=CC=CC1)(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium phthalate,,,,,,
+ymbsk,298.2,101.325,970,Ramjhan et al. (2021),Density,Liquid,ABvyrm,C(C=1C(C(=O)O)=CC=CC1)(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium phthalate,,,,,,
+ymbsk,303.3,101.325,966.7,Ramjhan et al. (2021),Density,Liquid,ABvyrm,C(C=1C(C(=O)O)=CC=CC1)(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium phthalate,,,,,,
+ymbsk,308.1,101.325,963.5,Ramjhan et al. (2021),Density,Liquid,ABvyrm,C(C=1C(C(=O)O)=CC=CC1)(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium phthalate,,,,,,
+ymbsk,313.2,101.325,960.1,Ramjhan et al. (2021),Density,Liquid,ABvyrm,C(C=1C(C(=O)O)=CC=CC1)(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium phthalate,,,,,,
+ymbsk,318.2,101.325,956.5,Ramjhan et al. (2021),Density,Liquid,ABvyrm,C(C=1C(C(=O)O)=CC=CC1)(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium phthalate,,,,,,
+ymbsk,323.1,101.325,953.7,Ramjhan et al. (2021),Density,Liquid,ABvyrm,C(C=1C(C(=O)O)=CC=CC1)(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium phthalate,,,,,,
+ymbsk,328.1,101.325,950.6,Ramjhan et al. (2021),Density,Liquid,ABvyrm,C(C=1C(C(=O)O)=CC=CC1)(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium phthalate,,,,,,
+ymbsk,333.2,101.325,946.8,Ramjhan et al. (2021),Density,Liquid,ABvyrm,C(C=1C(C(=O)O)=CC=CC1)(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium phthalate,,,,,,

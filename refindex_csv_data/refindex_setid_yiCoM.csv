@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+yiCoM,283.15,101.325,1.4786,Hasse et al. (2009),Refractive index,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,,
+yiCoM,293.15,101.325,1.4766,Hasse et al. (2009),Refractive index,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,,
+yiCoM,303.15,101.325,1.4737,Hasse et al. (2009),Refractive index,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,,
+yiCoM,313.15,101.325,1.4712,Hasse et al. (2009),Refractive index,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,,

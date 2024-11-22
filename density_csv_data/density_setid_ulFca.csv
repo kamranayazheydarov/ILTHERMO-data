@@ -1,0 +1,12 @@
+setid,Mole fraction of 1H-imidazolium octanoate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ulFca,0,298.15,101.3,790,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+ulFca,0.1011,298.15,101.3,853.9,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+ulFca,0.2001,298.15,101.3,891.8,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+ulFca,0.2994,298.15,101.3,918.8,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+ulFca,0.4001,298.15,101.3,938.1,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+ulFca,0.5214,298.15,101.3,954.6,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+ulFca,0.6,298.15,101.3,962.7,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+ulFca,0.699,298.15,101.3,970.1,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+ulFca,0.8016,298.15,101.3,976.3,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+ulFca,0.8957,298.15,101.3,981.6,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+ulFca,1,298.15,101.3,987,Anouti et al. (2010a),Density,Liquid,AAIsrh,CCO,ethanol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,

@@ -1,0 +1,12 @@
+setid,Mole fraction of 1-butyl-3-methylimidazolium dicyanamide,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BeIRR,0.009639,298.15,101,1003.22,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BeIRR,0.02791,298.15,101,1011.25,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BeIRR,0.05432,298.15,101,1019.63,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BeIRR,0.07995,298.15,101,1025.43,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BeIRR,0.1112,298.15,101,1031.05,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BeIRR,0.1933,298.15,101,1040.01,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BeIRR,0.3214,298.15,101,1047.31,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BeIRR,0.4686,298.15,101,1051.9,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BeIRR,0.6386,298.15,101,1055.4,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BeIRR,0.8742,298.15,101,1058.3,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BeIRR,1,298.15,101,1059.1,Stoppa et al. (2009),Density,Liquid,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,

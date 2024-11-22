@@ -1,0 +1,6 @@
+setid,"MolaLity of magnesium nitrate, mol/kg","MolaLity of water, mol/kg","Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Ujerc,0.5,3.01,100,298.15,1249.5,Vallet et al. (2022),Density,Liquid,AAcbys,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Mg+2],magnesium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate
+Ujerc,1,6.01,100,298.15,1288.7,Vallet et al. (2022),Density,Liquid,AAcbys,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Mg+2],magnesium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate
+Ujerc,1.5,9.02,100,298.15,1309.6,Vallet et al. (2022),Density,Liquid,AAcbys,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Mg+2],magnesium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate
+Ujerc,2,12.01,100,298.15,1340.5,Vallet et al. (2022),Density,Liquid,AAcbys,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Mg+2],magnesium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate
+Ujerc,2.51,15.05,100,298.15,1358.6,Vallet et al. (2022),Density,Liquid,AAcbys,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Mg+2],magnesium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate

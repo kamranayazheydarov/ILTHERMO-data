@@ -1,0 +1,7 @@
+setid,Mole fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JvMxm,0,101,297.55,1571.4,Bailey et al. (2017),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,AADYJk,O,water,,,
+JvMxm,0.059,101,297.55,1566.2,Bailey et al. (2017),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,AADYJk,O,water,,,
+JvMxm,0.112,101,297.55,1563.4,Bailey et al. (2017),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,AADYJk,O,water,,,
+JvMxm,0.201,101,297.55,1560.6,Bailey et al. (2017),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,AADYJk,O,water,,,
+JvMxm,0.333,101,297.55,1541.4,Bailey et al. (2017),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,AADYJk,O,water,,,
+JvMxm,0.506,101,297.55,1522.3,Bailey et al. (2017),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,AADYJk,O,water,,,

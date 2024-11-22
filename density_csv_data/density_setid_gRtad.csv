@@ -1,0 +1,8 @@
+setid,"MolaLity of 1-hexyl-3-methyl-1H-imidazolium bromide, mol/kg","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+gRtad,0,298.15,99.7,997.05,Zhao et al. (2019),Density,Liquid,AADYJk,O,water,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,
+gRtad,0.15,298.15,99.7,1003.87,Zhao et al. (2019),Density,Liquid,AADYJk,O,water,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,
+gRtad,0.3,298.15,99.7,1010.37,Zhao et al. (2019),Density,Liquid,AADYJk,O,water,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,
+gRtad,0.45,298.15,99.7,1016.58,Zhao et al. (2019),Density,Liquid,AADYJk,O,water,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,
+gRtad,0.6,298.15,99.7,1022.49,Zhao et al. (2019),Density,Liquid,AADYJk,O,water,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,
+gRtad,0.7,298.15,99.7,1026.26,Zhao et al. (2019),Density,Liquid,AADYJk,O,water,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,
+gRtad,0.8,298.15,99.7,1029.91,Zhao et al. (2019),Density,Liquid,AADYJk,O,water,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,

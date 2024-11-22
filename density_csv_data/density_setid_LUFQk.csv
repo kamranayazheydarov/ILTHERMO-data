@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LUFQk,293.15,100,1424,Papovic et al. (2016a),Density,Liquid,ABfReB,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium bis(trifluoromethylsulfonyl)amide",,,,,,
+LUFQk,298.15,100,1419,Papovic et al. (2016a),Density,Liquid,ABfReB,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium bis(trifluoromethylsulfonyl)amide",,,,,,
+LUFQk,303.15,100,1415,Papovic et al. (2016a),Density,Liquid,ABfReB,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium bis(trifluoromethylsulfonyl)amide",,,,,,
+LUFQk,308.15,100,1410,Papovic et al. (2016a),Density,Liquid,ABfReB,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium bis(trifluoromethylsulfonyl)amide",,,,,,
+LUFQk,313.15,100,1405,Papovic et al. (2016a),Density,Liquid,ABfReB,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium bis(trifluoromethylsulfonyl)amide",,,,,,
+LUFQk,318.15,100,1401,Papovic et al. (2016a),Density,Liquid,ABfReB,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium bis(trifluoromethylsulfonyl)amide",,,,,,
+LUFQk,323.15,100,1396,Papovic et al. (2016a),Density,Liquid,ABfReB,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium bis(trifluoromethylsulfonyl)amide",,,,,,

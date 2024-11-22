@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Tnwlw,278.15,101.325,1523,Dai et al. (2018b),Density,Liquid,ABWPZE,CC[NH+]=C(N(C)C)N(C)C.Cl[Fe-](Cl)(Cl)Br,"1,1,3,3-tetramethyl-4-ethylguanidinium bromotrichloroferrate(III)",,,,,,
+Tnwlw,283.15,101.325,1509,Dai et al. (2018b),Density,Liquid,ABWPZE,CC[NH+]=C(N(C)C)N(C)C.Cl[Fe-](Cl)(Cl)Br,"1,1,3,3-tetramethyl-4-ethylguanidinium bromotrichloroferrate(III)",,,,,,
+Tnwlw,288.15,101.325,1488,Dai et al. (2018b),Density,Liquid,ABWPZE,CC[NH+]=C(N(C)C)N(C)C.Cl[Fe-](Cl)(Cl)Br,"1,1,3,3-tetramethyl-4-ethylguanidinium bromotrichloroferrate(III)",,,,,,
+Tnwlw,293.15,101.325,1476,Dai et al. (2018b),Density,Liquid,ABWPZE,CC[NH+]=C(N(C)C)N(C)C.Cl[Fe-](Cl)(Cl)Br,"1,1,3,3-tetramethyl-4-ethylguanidinium bromotrichloroferrate(III)",,,,,,
+Tnwlw,298.15,101.325,1462,Dai et al. (2018b),Density,Liquid,ABWPZE,CC[NH+]=C(N(C)C)N(C)C.Cl[Fe-](Cl)(Cl)Br,"1,1,3,3-tetramethyl-4-ethylguanidinium bromotrichloroferrate(III)",,,,,,
+Tnwlw,303.15,101.325,1452,Dai et al. (2018b),Density,Liquid,ABWPZE,CC[NH+]=C(N(C)C)N(C)C.Cl[Fe-](Cl)(Cl)Br,"1,1,3,3-tetramethyl-4-ethylguanidinium bromotrichloroferrate(III)",,,,,,
+Tnwlw,308.15,101.325,1441,Dai et al. (2018b),Density,Liquid,ABWPZE,CC[NH+]=C(N(C)C)N(C)C.Cl[Fe-](Cl)(Cl)Br,"1,1,3,3-tetramethyl-4-ethylguanidinium bromotrichloroferrate(III)",,,,,,
+Tnwlw,313.15,101.325,1429,Dai et al. (2018b),Density,Liquid,ABWPZE,CC[NH+]=C(N(C)C)N(C)C.Cl[Fe-](Cl)(Cl)Br,"1,1,3,3-tetramethyl-4-ethylguanidinium bromotrichloroferrate(III)",,,,,,
+Tnwlw,318.15,101.325,1413,Dai et al. (2018b),Density,Liquid,ABWPZE,CC[NH+]=C(N(C)C)N(C)C.Cl[Fe-](Cl)(Cl)Br,"1,1,3,3-tetramethyl-4-ethylguanidinium bromotrichloroferrate(III)",,,,,,
+Tnwlw,323.15,101.325,1401,Dai et al. (2018b),Density,Liquid,ABWPZE,CC[NH+]=C(N(C)C)N(C)C.Cl[Fe-](Cl)(Cl)Br,"1,1,3,3-tetramethyl-4-ethylguanidinium bromotrichloroferrate(III)",,,,,,

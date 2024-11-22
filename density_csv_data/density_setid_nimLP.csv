@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nimLP,288.15,101,1520.5,Zhang et al. (2018f),Density,Liquid,ABLbxS,C[n+]1ccn(CCCC#N)c1.O=S(=O)(F)[N-]S(=O)(=O)F,3-(3-cyanopropyl)-1-methylimidazolium bis(fluorosulfonyl)amide,,,,,,
+nimLP,293.15,101,1515.9,Zhang et al. (2018f),Density,Liquid,ABLbxS,C[n+]1ccn(CCCC#N)c1.O=S(=O)(F)[N-]S(=O)(=O)F,3-(3-cyanopropyl)-1-methylimidazolium bis(fluorosulfonyl)amide,,,,,,
+nimLP,298.15,101,1511.4,Zhang et al. (2018f),Density,Liquid,ABLbxS,C[n+]1ccn(CCCC#N)c1.O=S(=O)(F)[N-]S(=O)(=O)F,3-(3-cyanopropyl)-1-methylimidazolium bis(fluorosulfonyl)amide,,,,,,
+nimLP,303.15,101,1506.8,Zhang et al. (2018f),Density,Liquid,ABLbxS,C[n+]1ccn(CCCC#N)c1.O=S(=O)(F)[N-]S(=O)(=O)F,3-(3-cyanopropyl)-1-methylimidazolium bis(fluorosulfonyl)amide,,,,,,
+nimLP,308.15,101,1502.3,Zhang et al. (2018f),Density,Liquid,ABLbxS,C[n+]1ccn(CCCC#N)c1.O=S(=O)(F)[N-]S(=O)(=O)F,3-(3-cyanopropyl)-1-methylimidazolium bis(fluorosulfonyl)amide,,,,,,
+nimLP,313.15,101,1497.8,Zhang et al. (2018f),Density,Liquid,ABLbxS,C[n+]1ccn(CCCC#N)c1.O=S(=O)(F)[N-]S(=O)(=O)F,3-(3-cyanopropyl)-1-methylimidazolium bis(fluorosulfonyl)amide,,,,,,
+nimLP,318.15,101,1493.4,Zhang et al. (2018f),Density,Liquid,ABLbxS,C[n+]1ccn(CCCC#N)c1.O=S(=O)(F)[N-]S(=O)(=O)F,3-(3-cyanopropyl)-1-methylimidazolium bis(fluorosulfonyl)amide,,,,,,
+nimLP,323.15,101,1489,Zhang et al. (2018f),Density,Liquid,ABLbxS,C[n+]1ccn(CCCC#N)c1.O=S(=O)(F)[N-]S(=O)(=O)F,3-(3-cyanopropyl)-1-methylimidazolium bis(fluorosulfonyl)amide,,,,,,

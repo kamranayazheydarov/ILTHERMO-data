@@ -1,0 +1,10 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HtlPR,100,293.15,1313.9,Ghanem et al. (2015b),Density,Liquid,AAsYza,Cn1cc[n+](CCO)c1.N[C@@H](CO)C(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium L-serinate,,,,,,
+HtlPR,100,303.15,1307.5,Ghanem et al. (2015b),Density,Liquid,AAsYza,Cn1cc[n+](CCO)c1.N[C@@H](CO)C(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium L-serinate,,,,,,
+HtlPR,100,313.15,1301,Ghanem et al. (2015b),Density,Liquid,AAsYza,Cn1cc[n+](CCO)c1.N[C@@H](CO)C(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium L-serinate,,,,,,
+HtlPR,100,323.15,1294.6,Ghanem et al. (2015b),Density,Liquid,AAsYza,Cn1cc[n+](CCO)c1.N[C@@H](CO)C(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium L-serinate,,,,,,
+HtlPR,100,333.15,1288,Ghanem et al. (2015b),Density,Liquid,AAsYza,Cn1cc[n+](CCO)c1.N[C@@H](CO)C(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium L-serinate,,,,,,
+HtlPR,100,343.15,1281.5,Ghanem et al. (2015b),Density,Liquid,AAsYza,Cn1cc[n+](CCO)c1.N[C@@H](CO)C(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium L-serinate,,,,,,
+HtlPR,100,353.15,1275.3,Ghanem et al. (2015b),Density,Liquid,AAsYza,Cn1cc[n+](CCO)c1.N[C@@H](CO)C(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium L-serinate,,,,,,
+HtlPR,100,363.15,1269.3,Ghanem et al. (2015b),Density,Liquid,AAsYza,Cn1cc[n+](CCO)c1.N[C@@H](CO)C(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium L-serinate,,,,,,
+HtlPR,100,373.15,1263.4,Ghanem et al. (2015b),Density,Liquid,AAsYza,Cn1cc[n+](CCO)c1.N[C@@H](CO)C(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium L-serinate,,,,,,

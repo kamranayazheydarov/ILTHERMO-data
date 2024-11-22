@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XOtGP,293.15,101.325,1189,Bittner et al. (2012),Density,Liquid,AAtejH,CCCC[n+]1cccc(C)c1.F[B-](F)(F)F,1-butyl-3-methylpyridinium tetrafluoroborate,,,,,,
+XOtGP,298.15,101.325,1177,Bittner et al. (2012),Density,Liquid,AAtejH,CCCC[n+]1cccc(C)c1.F[B-](F)(F)F,1-butyl-3-methylpyridinium tetrafluoroborate,,,,,,
+XOtGP,303.15,101.325,1172,Bittner et al. (2012),Density,Liquid,AAtejH,CCCC[n+]1cccc(C)c1.F[B-](F)(F)F,1-butyl-3-methylpyridinium tetrafluoroborate,,,,,,
+XOtGP,308.15,101.325,1168,Bittner et al. (2012),Density,Liquid,AAtejH,CCCC[n+]1cccc(C)c1.F[B-](F)(F)F,1-butyl-3-methylpyridinium tetrafluoroborate,,,,,,
+XOtGP,313.15,101.325,1166,Bittner et al. (2012),Density,Liquid,AAtejH,CCCC[n+]1cccc(C)c1.F[B-](F)(F)F,1-butyl-3-methylpyridinium tetrafluoroborate,,,,,,
+XOtGP,318.15,101.325,1163,Bittner et al. (2012),Density,Liquid,AAtejH,CCCC[n+]1cccc(C)c1.F[B-](F)(F)F,1-butyl-3-methylpyridinium tetrafluoroborate,,,,,,
+XOtGP,323.15,101.325,1160,Bittner et al. (2012),Density,Liquid,AAtejH,CCCC[n+]1cccc(C)c1.F[B-](F)(F)F,1-butyl-3-methylpyridinium tetrafluoroborate,,,,,,

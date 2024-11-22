@@ -1,0 +1,9 @@
+setid,"MolaLity of 1-hexadecylpyridinium bromide, mol/kg","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+goSCJ,0.0005,298.15,100,996.54,Harutyunyan et al. (2013),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,
+goSCJ,0.0005,303.15,100,995.89,Harutyunyan et al. (2013),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,
+goSCJ,0.0005,308.15,100,995.18,Harutyunyan et al. (2013),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,
+goSCJ,0.0005,313.15,100,994.58,Harutyunyan et al. (2013),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,
+goSCJ,0.05,298.15,100,998.25,Harutyunyan et al. (2013),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,
+goSCJ,0.05,303.15,100,997.33,Harutyunyan et al. (2013),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,
+goSCJ,0.05,308.15,100,996.34,Harutyunyan et al. (2013),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,
+goSCJ,0.05,313.15,100,995.46,Harutyunyan et al. (2013),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,

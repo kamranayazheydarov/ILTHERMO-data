@@ -1,0 +1,5 @@
+setid,"Temperature, K","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EHNGy,282.9,0.000151,Shiflett and Yokozeki (2008c),Density,Liquid mixture 1,Liquid mixture 2,,,Gas,,4,AAaIQi,FC(F)OC(F)(F)F,(difluoromethoxy)trifluoromethane
+EHNGy,293.6,0.00016,Shiflett and Yokozeki (2008c),Density,Liquid mixture 1,Liquid mixture 2,,,Gas,,4,AAaIQi,FC(F)OC(F)(F)F,(difluoromethoxy)trifluoromethane
+EHNGy,303.4,0.000169,Shiflett and Yokozeki (2008c),Density,Liquid mixture 1,Liquid mixture 2,,,Gas,,4,AAaIQi,FC(F)OC(F)(F)F,(difluoromethoxy)trifluoromethane
+EHNGy,313.5,0.000177,Shiflett and Yokozeki (2008c),Density,Liquid mixture 1,Liquid mixture 2,,,Gas,,4,AAaIQi,FC(F)OC(F)(F)F,(difluoromethoxy)trifluoromethane

@@ -1,0 +1,5 @@
+setid,Mole fraction of 1-butyl-3-methylimidazolium dicyanamide,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BTzJd,0.19,101,298.15,917,Khan et al. (2015),Density,Liquid,AAIsrh,CCO,ethanol,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BTzJd,0.4,101,298.15,983,Khan et al. (2015),Density,Liquid,AAIsrh,CCO,ethanol,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BTzJd,0.63,101,298.15,1023,Khan et al. (2015),Density,Liquid,AAIsrh,CCO,ethanol,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,
+BTzJd,0.83,101,298.15,1045,Khan et al. (2015),Density,Liquid,AAIsrh,CCO,ethanol,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,

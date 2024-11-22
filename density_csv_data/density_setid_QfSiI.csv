@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QfSiI,293.15,101,1214.5,Kurnia et al. (2011b),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,
+QfSiI,298.15,101,1210.2,Kurnia et al. (2011b),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,
+QfSiI,303.15,101,1206.9,Kurnia et al. (2011b),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,
+QfSiI,308.15,101,1204.5,Kurnia et al. (2011b),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,
+QfSiI,313.15,101,1201.5,Kurnia et al. (2011b),Density,Liquid,AAdDEB,CC(O)C(=O)[O-].[NH3+]CCO,2-hydroxyethylammonium lactate,,,,,,

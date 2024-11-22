@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JhZoF,288.15,101.325,1390.3,Vatascin and Dohnal (2018),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+JhZoF,293.15,101.325,1386.1,Vatascin and Dohnal (2018),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+JhZoF,298.15,101.325,1381.8,Vatascin and Dohnal (2018),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+JhZoF,303.15,101.325,1377.7,Vatascin and Dohnal (2018),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+JhZoF,308.15,101.325,1373.5,Vatascin and Dohnal (2018),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+JhZoF,313.15,101.325,1369.3,Vatascin and Dohnal (2018),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+JhZoF,318.15,101.325,1365.2,Vatascin and Dohnal (2018),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+JhZoF,323.15,101.325,1361,Vatascin and Dohnal (2018),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+JhZoF,328.15,101.325,1356.9,Vatascin and Dohnal (2018),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+JhZoF,333.15,101.325,1352.8,Vatascin and Dohnal (2018),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

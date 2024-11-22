@@ -1,0 +1,5 @@
+setid,Solvent: Volume fraction of trimethylammonium acetate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FONuC,0,298.15,101,1130.2,Vasantha et al. (2015),Density,Liquid,Crystal of pure component 1,,4,AAUKxI,N[C@@H](CO)C(=O)O,L-serine,AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate
+FONuC,0.3,298.15,101,1123.4,Vasantha et al. (2015),Density,Liquid,Crystal of pure component 1,,4,AAUKxI,N[C@@H](CO)C(=O)O,L-serine,AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate
+FONuC,0.5,298.15,101,1152.4,Vasantha et al. (2015),Density,Liquid,Crystal of pure component 1,,4,AAUKxI,N[C@@H](CO)C(=O)O,L-serine,AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate
+FONuC,0.7,298.15,101,1110,Vasantha et al. (2015),Density,Liquid,Crystal of pure component 1,,4,AAUKxI,N[C@@H](CO)C(=O)O,L-serine,AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate

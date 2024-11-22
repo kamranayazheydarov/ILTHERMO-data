@@ -1,0 +1,4 @@
+setid,Mole fraction of cyclooctane,Mole fraction of toluene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bpYBy,0.01,0.114,101,298.15,1214.3,Gonzalez et al. (2011a),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAVeaX,C1CCCCCCC1,cyclooctane,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+bpYBy,0.012,0.057,101,298.15,1223.8,Gonzalez et al. (2011a),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAVeaX,C1CCCCCCC1,cyclooctane,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+bpYBy,0.015,0.171,101,298.15,1204.4,Gonzalez et al. (2011a),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAVeaX,C1CCCCCCC1,cyclooctane,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate

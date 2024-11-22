@@ -1,0 +1,9 @@
+setid,Mole fraction of octane,Mole fraction of toluene,"Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yNayk,0,0.248,298.15,1189.1,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane
+yNayk,0.002,0.041,298.15,1229.5,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane
+yNayk,0.002,0.117,298.15,1215.3,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane
+yNayk,0.002,0.15,298.15,1209,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane
+yNayk,0.002,0.18,298.15,1203.9,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane
+yNayk,0.003,0,298.15,1236.42,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane
+yNayk,0.003,0.198,298.15,1199.7,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane
+yNayk,0.004,0.08,298.15,1222.2,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane

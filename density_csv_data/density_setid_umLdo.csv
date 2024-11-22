@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+umLdo,288.15,101,1026.95,Hong et al. (2013b),Density,Liquid,AArbTa,CCC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium propanoate,,,,,,
+umLdo,293.15,101,1023.89,Hong et al. (2013b),Density,Liquid,AArbTa,CCC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium propanoate,,,,,,
+umLdo,298.15,101,1020.51,Hong et al. (2013b),Density,Liquid,AArbTa,CCC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium propanoate,,,,,,
+umLdo,303.15,101,1017.68,Hong et al. (2013b),Density,Liquid,AArbTa,CCC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium propanoate,,,,,,
+umLdo,308.15,101,1014.71,Hong et al. (2013b),Density,Liquid,AArbTa,CCC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium propanoate,,,,,,
+umLdo,313.15,101,1011.75,Hong et al. (2013b),Density,Liquid,AArbTa,CCC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium propanoate,,,,,,
+umLdo,318.15,101,1008.72,Hong et al. (2013b),Density,Liquid,AArbTa,CCC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium propanoate,,,,,,
+umLdo,323.15,101,1005.72,Hong et al. (2013b),Density,Liquid,AArbTa,CCC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium propanoate,,,,,,
+umLdo,328.15,101,1002.69,Hong et al. (2013b),Density,Liquid,AArbTa,CCC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium propanoate,,,,,,

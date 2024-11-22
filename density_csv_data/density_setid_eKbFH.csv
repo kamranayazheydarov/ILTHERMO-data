@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eKbFH,303,101.325,888,Khan et al. (2019),Density,Liquid,ABpgKH,CCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium hexanoate,,,,,,
+eKbFH,313,101.325,882,Khan et al. (2019),Density,Liquid,ABpgKH,CCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium hexanoate,,,,,,
+eKbFH,323,101.325,874,Khan et al. (2019),Density,Liquid,ABpgKH,CCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium hexanoate,,,,,,
+eKbFH,333,101.325,873,Khan et al. (2019),Density,Liquid,ABpgKH,CCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium hexanoate,,,,,,
+eKbFH,343,101.325,860,Khan et al. (2019),Density,Liquid,ABpgKH,CCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium hexanoate,,,,,,
+eKbFH,353,101.325,852,Khan et al. (2019),Density,Liquid,ABpgKH,CCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium hexanoate,,,,,,
+eKbFH,363,101.325,844,Khan et al. (2019),Density,Liquid,ABpgKH,CCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium hexanoate,,,,,,
+eKbFH,373,101.325,837,Khan et al. (2019),Density,Liquid,ABpgKH,CCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium hexanoate,,,,,,

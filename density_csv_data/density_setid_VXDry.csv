@@ -1,0 +1,10 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VXDry,86,293.15,988.8,Shokri et al. (2019),Density,Liquid,ABNPsD,CC(C)[C@H](N)C(=O)[O-].CCCCCCCCCC[n+]1ccn(C)c1,1-decyl-3-methylimidazolium L-valinate,,,,,,
+VXDry,86,298.15,985.3,Shokri et al. (2019),Density,Liquid,ABNPsD,CC(C)[C@H](N)C(=O)[O-].CCCCCCCCCC[n+]1ccn(C)c1,1-decyl-3-methylimidazolium L-valinate,,,,,,
+VXDry,86,303.15,981.9,Shokri et al. (2019),Density,Liquid,ABNPsD,CC(C)[C@H](N)C(=O)[O-].CCCCCCCCCC[n+]1ccn(C)c1,1-decyl-3-methylimidazolium L-valinate,,,,,,
+VXDry,86,308.15,978.6,Shokri et al. (2019),Density,Liquid,ABNPsD,CC(C)[C@H](N)C(=O)[O-].CCCCCCCCCC[n+]1ccn(C)c1,1-decyl-3-methylimidazolium L-valinate,,,,,,
+VXDry,86,313.15,975.5,Shokri et al. (2019),Density,Liquid,ABNPsD,CC(C)[C@H](N)C(=O)[O-].CCCCCCCCCC[n+]1ccn(C)c1,1-decyl-3-methylimidazolium L-valinate,,,,,,
+VXDry,86,318.15,972.4,Shokri et al. (2019),Density,Liquid,ABNPsD,CC(C)[C@H](N)C(=O)[O-].CCCCCCCCCC[n+]1ccn(C)c1,1-decyl-3-methylimidazolium L-valinate,,,,,,
+VXDry,86,323.15,969.2,Shokri et al. (2019),Density,Liquid,ABNPsD,CC(C)[C@H](N)C(=O)[O-].CCCCCCCCCC[n+]1ccn(C)c1,1-decyl-3-methylimidazolium L-valinate,,,,,,
+VXDry,86,328.15,966.1,Shokri et al. (2019),Density,Liquid,ABNPsD,CC(C)[C@H](N)C(=O)[O-].CCCCCCCCCC[n+]1ccn(C)c1,1-decyl-3-methylimidazolium L-valinate,,,,,,
+VXDry,86,333.15,963,Shokri et al. (2019),Density,Liquid,ABNPsD,CC(C)[C@H](N)C(=O)[O-].CCCCCCCCCC[n+]1ccn(C)c1,1-decyl-3-methylimidazolium L-valinate,,,,,,

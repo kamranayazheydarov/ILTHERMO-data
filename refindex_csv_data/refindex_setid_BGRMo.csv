@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+BGRMo,293.15,101.325,1.4505,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,
+BGRMo,298.15,101.325,1.4484,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,
+BGRMo,303.15,101.325,1.4464,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,
+BGRMo,308.15,101.325,1.4447,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,
+BGRMo,313.15,101.325,1.4426,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,
+BGRMo,318.15,101.325,1.4406,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,
+BGRMo,323.15,101.325,1.4389,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,
+BGRMo,328.15,101.325,1.4369,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,
+BGRMo,333.15,101.325,1.4348,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,
+BGRMo,338.15,101.325,1.4329,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,
+BGRMo,343.15,101.325,1.4309,Keshapolla et al. (2019),Refractive index,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,,

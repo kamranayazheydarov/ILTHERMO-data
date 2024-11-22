@@ -1,0 +1,3 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZiCuM,343.15,100,1224,Requejo et al. (2017),Density,Liquid,ABoVAt,CCCC[N+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylmethylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+ZiCuM,343.15,100,1224,Requejo et al. (2017),Density,Liquid,ABoVAt,CCCC[N+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylmethylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,

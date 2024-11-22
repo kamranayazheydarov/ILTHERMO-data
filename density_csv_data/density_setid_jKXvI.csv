@@ -1,0 +1,4 @@
+setid,Weight fraction of tetrabutylphosphonium tetrafluoroborate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jKXvI,0.001,298.15,100,997.2,Roy et al. (2013c),Density,Liquid,ABOejo,CCCC[P+](CCCC)(CCCC)CCCC.F[B-](F)(F)F,tetrabutylphosphonium tetrafluoroborate,AADYJk,O,water,,,
+jKXvI,0.003,298.15,100,998.7,Roy et al. (2013c),Density,Liquid,ABOejo,CCCC[P+](CCCC)(CCCC)CCCC.F[B-](F)(F)F,tetrabutylphosphonium tetrafluoroborate,AADYJk,O,water,,,
+jKXvI,0.005,298.15,100,1000,Roy et al. (2013c),Density,Liquid,ABOejo,CCCC[P+](CCCC)(CCCC)CCCC.F[B-](F)(F)F,tetrabutylphosphonium tetrafluoroborate,AADYJk,O,water,,,

@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZCqxd,293.15,100,1220,Krolikowska et al. (2023),Density,Metastable liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+ZCqxd,298.15,100,1217,Krolikowska et al. (2023),Density,Metastable liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+ZCqxd,303.15,100,1214,Krolikowska et al. (2023),Density,Metastable liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+ZCqxd,308.15,100,1210,Krolikowska et al. (2023),Density,Metastable liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+ZCqxd,313.15,100,1207,Krolikowska et al. (2023),Density,Metastable liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+ZCqxd,318.15,100,1203,Krolikowska et al. (2023),Density,Metastable liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+ZCqxd,323.15,100,1200,Krolikowska et al. (2023),Density,Metastable liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+ZCqxd,328.15,100,1197,Krolikowska et al. (2023),Density,Metastable liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+ZCqxd,333.15,100,1193,Krolikowska et al. (2023),Density,Metastable liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+ZCqxd,338.15,100,1190,Krolikowska et al. (2023),Density,Metastable liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,

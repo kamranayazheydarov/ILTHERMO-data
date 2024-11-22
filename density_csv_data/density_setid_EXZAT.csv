@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EXZAT,293,101.325,1145.2,Sanchez (2008),Density,Liquid,AAzmDP,CCN(CC)CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-(2-diethylaminoethyl)3-methylimidazolium tetrafluoroborate,,,,,,
+EXZAT,303,101.325,1138.4,Sanchez (2008),Density,Liquid,AAzmDP,CCN(CC)CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-(2-diethylaminoethyl)3-methylimidazolium tetrafluoroborate,,,,,,
+EXZAT,313,101.325,1131.6,Sanchez (2008),Density,Liquid,AAzmDP,CCN(CC)CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-(2-diethylaminoethyl)3-methylimidazolium tetrafluoroborate,,,,,,
+EXZAT,323,101.325,1124.8,Sanchez (2008),Density,Liquid,AAzmDP,CCN(CC)CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-(2-diethylaminoethyl)3-methylimidazolium tetrafluoroborate,,,,,,
+EXZAT,333,101.325,1118,Sanchez (2008),Density,Liquid,AAzmDP,CCN(CC)CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-(2-diethylaminoethyl)3-methylimidazolium tetrafluoroborate,,,,,,
+EXZAT,343,101.325,1111.2,Sanchez (2008),Density,Liquid,AAzmDP,CCN(CC)CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-(2-diethylaminoethyl)3-methylimidazolium tetrafluoroborate,,,,,,
+EXZAT,353,101.325,1104.4,Sanchez (2008),Density,Liquid,AAzmDP,CCN(CC)CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-(2-diethylaminoethyl)3-methylimidazolium tetrafluoroborate,,,,,,

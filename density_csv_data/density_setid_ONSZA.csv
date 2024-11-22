@@ -1,0 +1,25 @@
+setid,"Temperature, K",Weight fraction of diethanolamine,Weight fraction of 1-butyl-3-methylimidazolium acetate,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ONSZA,293.15,0.3,0,101,1034.7,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,293.15,0.3,0.1,101,1045.6,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,293.15,0.35,0.05,101,1046.4,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,293.15,0.4,0,101,1047.8,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,303.15,0.3,0,101,1030.5,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,303.15,0.3,0.1,101,1040.5,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,303.15,0.35,0.05,101,1041.4,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,303.15,0.4,0,101,1043,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,313.15,0.3,0,101,1026,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,313.15,0.3,0.1,101,1035.3,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,313.15,0.35,0.05,101,1036.5,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,313.15,0.4,0,101,1038,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,323.15,0.3,0,101,1021.1,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,323.15,0.3,0.1,101,1029.6,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,323.15,0.35,0.05,101,1031,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,323.15,0.4,0,101,1032.6,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,333.15,0.3,0,101,1015.4,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,333.15,0.3,0.1,101,1023.5,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,333.15,0.35,0.05,101,1025,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,333.15,0.4,0,101,1026.7,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,343.15,0.3,0,101,1009.5,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,343.15,0.3,0.1,101,1017.1,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,343.15,0.35,0.05,101,1018.7,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate
+ONSZA,343.15,0.4,0,101,1020.4,Shojaeian and Haghtalab (2013),Density,Liquid,AAULmj,OCCNCCO,diethanolamine,AADYJk,O,water,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate

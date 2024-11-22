@@ -1,0 +1,9 @@
+setid,"MolaLity of sodium dodecyl sulfate, mol/kg","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GYzEz,0.0005,298.15,100,994.78,Harutyunyan et al. (2013),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,
+GYzEz,0.0005,303.15,100,994.12,Harutyunyan et al. (2013),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,
+GYzEz,0.0005,308.15,100,993.69,Harutyunyan et al. (2013),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,
+GYzEz,0.0005,313.15,100,993.15,Harutyunyan et al. (2013),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,
+GYzEz,0.05,298.15,100,994.74,Harutyunyan et al. (2013),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,
+GYzEz,0.05,303.15,100,994.19,Harutyunyan et al. (2013),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,
+GYzEz,0.05,308.15,100,993.64,Harutyunyan et al. (2013),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,
+GYzEz,0.05,313.15,100,993.11,Harutyunyan et al. (2013),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,

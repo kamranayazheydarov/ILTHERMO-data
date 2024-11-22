@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+ltucl,298.15,101.325,1.4924,Balchandani et al. (2020),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,,
+ltucl,303.15,101.325,1.4913,Balchandani et al. (2020),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,,
+ltucl,308.15,101.325,1.4895,Balchandani et al. (2020),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,,
+ltucl,313.15,101.325,1.4882,Balchandani et al. (2020),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,,
+ltucl,318.15,101.325,1.4866,Balchandani et al. (2020),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,,
+ltucl,323.15,101.325,1.4858,Balchandani et al. (2020),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,,
+ltucl,328.15,101.325,1.4849,Balchandani et al. (2020),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,,
+ltucl,333.15,101.325,1.4801,Balchandani et al. (2020),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,,

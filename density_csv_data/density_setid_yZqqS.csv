@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","MolaLity of 1-hexadecylpyridinium bromide, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yZqqS,298.15,100,0.005,997.1,Ali et al. (2018),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,
+yZqqS,303.15,100,0.005,995.7,Ali et al. (2018),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,
+yZqqS,308.15,100,0.005,994.1,Ali et al. (2018),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,
+yZqqS,313.15,100,0.005,992.3,Ali et al. (2018),Density,Liquid,ABVwnS,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Br-],1-hexadecylpyridinium bromide,AADYJk,O,water,,,

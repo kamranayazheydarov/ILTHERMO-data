@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of trimethylbenzylammonium chloride,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PDmfC,293,101.13,0.5,1142,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AAWlvM,OCCCCCCO,"1,6-hexanediol",,,
+PDmfC,298,101.13,0.5,1133,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AAWlvM,OCCCCCCO,"1,6-hexanediol",,,
+PDmfC,303,101.13,0.5,1126,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AAWlvM,OCCCCCCO,"1,6-hexanediol",,,
+PDmfC,308,101.13,0.5,1120,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AAWlvM,OCCCCCCO,"1,6-hexanediol",,,
+PDmfC,313,101.13,0.5,1113,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AAWlvM,OCCCCCCO,"1,6-hexanediol",,,
+PDmfC,318,101.13,0.5,1107,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AAWlvM,OCCCCCCO,"1,6-hexanediol",,,
+PDmfC,323,101.13,0.5,1100,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AAWlvM,OCCCCCCO,"1,6-hexanediol",,,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QLOXs,293,101.325,995,Curnow et al. (2020),Density,Liquid,ABJMiS,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium dicyanamide,,,,,,
+QLOXs,303,101.325,989,Curnow et al. (2020),Density,Liquid,ABJMiS,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium dicyanamide,,,,,,
+QLOXs,313,101.325,983,Curnow et al. (2020),Density,Liquid,ABJMiS,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium dicyanamide,,,,,,
+QLOXs,323,101.325,977,Curnow et al. (2020),Density,Liquid,ABJMiS,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium dicyanamide,,,,,,
+QLOXs,333,101.325,971,Curnow et al. (2020),Density,Liquid,ABJMiS,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium dicyanamide,,,,,,
+QLOXs,343,101.325,965,Curnow et al. (2020),Density,Liquid,ABJMiS,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium dicyanamide,,,,,,
+QLOXs,353,101.325,959,Curnow et al. (2020),Density,Liquid,ABJMiS,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium dicyanamide,,,,,,
+QLOXs,363,101.325,953,Curnow et al. (2020),Density,Liquid,ABJMiS,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1NCCCC,bis(diethylamino)(butylamino)cyclopropenium dicyanamide,,,,,,

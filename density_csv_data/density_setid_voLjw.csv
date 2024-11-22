@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+voLjw,283.15,101.325,1152.1,Peng et al. (2021),Density,Liquid,ABDEVt,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C[C@@H](C(=O)[O-])N,N-butyltropinium L-alaninate,,,,,,
+voLjw,288.15,101.325,1142.8,Peng et al. (2021),Density,Liquid,ABDEVt,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C[C@@H](C(=O)[O-])N,N-butyltropinium L-alaninate,,,,,,
+voLjw,293.15,101.325,1131.9,Peng et al. (2021),Density,Liquid,ABDEVt,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C[C@@H](C(=O)[O-])N,N-butyltropinium L-alaninate,,,,,,
+voLjw,298.15,101.325,1123.4,Peng et al. (2021),Density,Liquid,ABDEVt,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C[C@@H](C(=O)[O-])N,N-butyltropinium L-alaninate,,,,,,
+voLjw,303.15,101.325,1112.1,Peng et al. (2021),Density,Liquid,ABDEVt,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C[C@@H](C(=O)[O-])N,N-butyltropinium L-alaninate,,,,,,
+voLjw,308.15,101.325,1100.7,Peng et al. (2021),Density,Liquid,ABDEVt,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C[C@@H](C(=O)[O-])N,N-butyltropinium L-alaninate,,,,,,
+voLjw,313.15,101.325,1088.7,Peng et al. (2021),Density,Liquid,ABDEVt,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C[C@@H](C(=O)[O-])N,N-butyltropinium L-alaninate,,,,,,
+voLjw,318.15,101.325,1076.2,Peng et al. (2021),Density,Liquid,ABDEVt,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C[C@@H](C(=O)[O-])N,N-butyltropinium L-alaninate,,,,,,
+voLjw,323.15,101.325,1063.9,Peng et al. (2021),Density,Liquid,ABDEVt,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C[C@@H](C(=O)[O-])N,N-butyltropinium L-alaninate,,,,,,
+voLjw,328.15,101.325,1051.7,Peng et al. (2021),Density,Liquid,ABDEVt,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C[C@@H](C(=O)[O-])N,N-butyltropinium L-alaninate,,,,,,

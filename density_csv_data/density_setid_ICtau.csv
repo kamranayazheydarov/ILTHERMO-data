@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ICtau,293,101.325,927,Curnow et al. (2018),Density,Liquid,ACFpiH,[N-](C#N)C#N.c(N(CCCCC)CCCCC)1c(N(CCCCC)CCCCC)[c+]1N(CCCCC)CCCCC,tris(dipentylamino)cyclopropenium dicyanamide,,,,,,
+ICtau,303,101.325,921,Curnow et al. (2018),Density,Liquid,ACFpiH,[N-](C#N)C#N.c(N(CCCCC)CCCCC)1c(N(CCCCC)CCCCC)[c+]1N(CCCCC)CCCCC,tris(dipentylamino)cyclopropenium dicyanamide,,,,,,
+ICtau,313,101.325,915,Curnow et al. (2018),Density,Liquid,ACFpiH,[N-](C#N)C#N.c(N(CCCCC)CCCCC)1c(N(CCCCC)CCCCC)[c+]1N(CCCCC)CCCCC,tris(dipentylamino)cyclopropenium dicyanamide,,,,,,
+ICtau,323,101.325,909,Curnow et al. (2018),Density,Liquid,ACFpiH,[N-](C#N)C#N.c(N(CCCCC)CCCCC)1c(N(CCCCC)CCCCC)[c+]1N(CCCCC)CCCCC,tris(dipentylamino)cyclopropenium dicyanamide,,,,,,
+ICtau,333,101.325,903,Curnow et al. (2018),Density,Liquid,ACFpiH,[N-](C#N)C#N.c(N(CCCCC)CCCCC)1c(N(CCCCC)CCCCC)[c+]1N(CCCCC)CCCCC,tris(dipentylamino)cyclopropenium dicyanamide,,,,,,
+ICtau,343,101.325,897,Curnow et al. (2018),Density,Liquid,ACFpiH,[N-](C#N)C#N.c(N(CCCCC)CCCCC)1c(N(CCCCC)CCCCC)[c+]1N(CCCCC)CCCCC,tris(dipentylamino)cyclopropenium dicyanamide,,,,,,
+ICtau,353,101.325,891,Curnow et al. (2018),Density,Liquid,ACFpiH,[N-](C#N)C#N.c(N(CCCCC)CCCCC)1c(N(CCCCC)CCCCC)[c+]1N(CCCCC)CCCCC,tris(dipentylamino)cyclopropenium dicyanamide,,,,,,
+ICtau,363,101.325,885,Curnow et al. (2018),Density,Liquid,ACFpiH,[N-](C#N)C#N.c(N(CCCCC)CCCCC)1c(N(CCCCC)CCCCC)[c+]1N(CCCCC)CCCCC,tris(dipentylamino)cyclopropenium dicyanamide,,,,,,

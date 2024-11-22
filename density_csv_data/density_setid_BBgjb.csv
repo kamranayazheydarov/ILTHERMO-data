@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BBgjb,298.15,101.325,1074,Yokozeki et al. (2008),Density,Liquid,AArbyX,CC(C)C(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-methylpropanoate,,,,,,
+BBgjb,323.15,101.325,1061,Yokozeki et al. (2008),Density,Liquid,AArbyX,CC(C)C(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-methylpropanoate,,,,,,
+BBgjb,348.15,101.325,1048,Yokozeki et al. (2008),Density,Liquid,AArbyX,CC(C)C(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-methylpropanoate,,,,,,
+BBgjb,373.15,101.325,1033,Yokozeki et al. (2008),Density,Liquid,AArbyX,CC(C)C(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-methylpropanoate,,,,,,

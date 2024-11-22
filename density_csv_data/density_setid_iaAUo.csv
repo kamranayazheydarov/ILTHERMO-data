@@ -1,0 +1,25 @@
+setid,"Temperature, K",Weight fraction of 1-butyl-3-methylimidazolium dicyanamide,Weight fraction of glycerol,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iaAUo,313.15,0.3079,0.0115,101,1012,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,313.15,0.3079,0.023,101,1013,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,313.15,0.3079,0.0345,101,1017,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,313.15,0.3079,0.046,101,1020,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,313.15,0.6158,0.0115,101,1018,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,313.15,0.6158,0.023,101,1021,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,313.15,0.6158,0.0345,101,1023,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,313.15,0.6158,0.046,101,1026,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,333.15,0.3079,0.0115,101,991,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,333.15,0.3079,0.023,101,993,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,333.15,0.3079,0.0345,101,997,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,333.15,0.3079,0.046,101,999,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,333.15,0.6158,0.0115,101,997,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,333.15,0.6158,0.023,101,1000,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,333.15,0.6158,0.0345,101,1001,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,333.15,0.6158,0.046,101,1011,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,353.15,0.3079,0.0115,101,977,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,353.15,0.3079,0.023,101,979,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,353.15,0.3079,0.0345,101,980,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,353.15,0.3079,0.046,101,981,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,353.15,0.6158,0.0115,101,980,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,353.15,0.6158,0.023,101,986,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,353.15,0.6158,0.0345,101,988,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+iaAUo,353.15,0.6158,0.046,101,990,Leo et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide

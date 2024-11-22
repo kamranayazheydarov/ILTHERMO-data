@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RhPqR,293.2,101.325,928.8,Ramjhan et al. (2021),Density,Liquid,ACCvtj,C(=O)(O)CCCCCCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 9-carboxynonanoate,,,,,,
+RhPqR,298.3,101.325,925.6,Ramjhan et al. (2021),Density,Liquid,ACCvtj,C(=O)(O)CCCCCCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 9-carboxynonanoate,,,,,,
+RhPqR,303.2,101.325,922.3,Ramjhan et al. (2021),Density,Liquid,ACCvtj,C(=O)(O)CCCCCCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 9-carboxynonanoate,,,,,,
+RhPqR,308.2,101.325,918.5,Ramjhan et al. (2021),Density,Liquid,ACCvtj,C(=O)(O)CCCCCCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 9-carboxynonanoate,,,,,,
+RhPqR,313.1,101.325,915.1,Ramjhan et al. (2021),Density,Liquid,ACCvtj,C(=O)(O)CCCCCCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 9-carboxynonanoate,,,,,,
+RhPqR,318.2,101.325,911.7,Ramjhan et al. (2021),Density,Liquid,ACCvtj,C(=O)(O)CCCCCCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 9-carboxynonanoate,,,,,,
+RhPqR,323.2,101.325,907.9,Ramjhan et al. (2021),Density,Liquid,ACCvtj,C(=O)(O)CCCCCCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 9-carboxynonanoate,,,,,,
+RhPqR,328.2,101.325,904.6,Ramjhan et al. (2021),Density,Liquid,ACCvtj,C(=O)(O)CCCCCCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 9-carboxynonanoate,,,,,,
+RhPqR,333.2,101.325,901,Ramjhan et al. (2021),Density,Liquid,ACCvtj,C(=O)(O)CCCCCCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 9-carboxynonanoate,,,,,,

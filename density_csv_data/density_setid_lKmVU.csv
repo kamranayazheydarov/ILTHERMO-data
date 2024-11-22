@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+lKmVU,308.15,101.325,1166.4,Gonzalez et al. (2011c),Density,Liquid,AArlcj,CC[N+](C)(CC)CC.COS(=O)(=O)[O-],"N,N-diethyl-N-methylethanaminium methyl sulfate",,,,,,
+lKmVU,313.15,101.325,1163.4,Gonzalez et al. (2011c),Density,Liquid,AArlcj,CC[N+](C)(CC)CC.COS(=O)(=O)[O-],"N,N-diethyl-N-methylethanaminium methyl sulfate",,,,,,
+lKmVU,318.15,101.325,1160.4,Gonzalez et al. (2011c),Density,Liquid,AArlcj,CC[N+](C)(CC)CC.COS(=O)(=O)[O-],"N,N-diethyl-N-methylethanaminium methyl sulfate",,,,,,
+lKmVU,323.15,101.325,1157.3,Gonzalez et al. (2011c),Density,Liquid,AArlcj,CC[N+](C)(CC)CC.COS(=O)(=O)[O-],"N,N-diethyl-N-methylethanaminium methyl sulfate",,,,,,
+lKmVU,328.15,101.325,1154.3,Gonzalez et al. (2011c),Density,Liquid,AArlcj,CC[N+](C)(CC)CC.COS(=O)(=O)[O-],"N,N-diethyl-N-methylethanaminium methyl sulfate",,,,,,
+lKmVU,333.15,101.325,1151.3,Gonzalez et al. (2011c),Density,Liquid,AArlcj,CC[N+](C)(CC)CC.COS(=O)(=O)[O-],"N,N-diethyl-N-methylethanaminium methyl sulfate",,,,,,
+lKmVU,338.15,101.325,1148.3,Gonzalez et al. (2011c),Density,Liquid,AArlcj,CC[N+](C)(CC)CC.COS(=O)(=O)[O-],"N,N-diethyl-N-methylethanaminium methyl sulfate",,,,,,
+lKmVU,343.15,101.325,1145.4,Gonzalez et al. (2011c),Density,Liquid,AArlcj,CC[N+](C)(CC)CC.COS(=O)(=O)[O-],"N,N-diethyl-N-methylethanaminium methyl sulfate",,,,,,

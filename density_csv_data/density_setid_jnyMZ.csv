@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jnyMZ,285.65,101.325,1015,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,
+jnyMZ,293.55,101.325,1010,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,
+jnyMZ,298.15,101.325,1007,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,
+jnyMZ,303.65,101.325,1004,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,
+jnyMZ,313.35,101.325,998,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,
+jnyMZ,322.75,101.325,993,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,
+jnyMZ,333.15,101.325,987,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,
+jnyMZ,338.75,101.325,983,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,
+jnyMZ,344.95,101.325,980,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,
+jnyMZ,353.15,101.325,974,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,
+jnyMZ,363.15,101.325,969,Martins et al. (2017),Density,Liquid,AAvTzM,C(#N)[C-](C#N)C#N.C(CCC)[N+]1(CCCCC1)C,N-butyl-N-methylpiperidinium tricyanomethanide,,,,,,

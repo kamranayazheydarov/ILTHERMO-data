@@ -1,0 +1,9 @@
+setid,Mole fraction of undecane,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DWRcS,0.0167,298.15,101,1195,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+DWRcS,0.0172,298.15,101,1177,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+DWRcS,0.0244,298.15,101,902,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+DWRcS,0.0577,298.15,101,1293.3,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+DWRcS,0.2385,298.15,101,809.4,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+DWRcS,0.2553,298.15,101,805.6,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+DWRcS,0.5427,298.15,101,766.1,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+DWRcS,0.9488,298.15,101,731.2,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane

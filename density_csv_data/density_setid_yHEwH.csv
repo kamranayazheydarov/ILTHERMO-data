@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yHEwH,333.15,101.325,1709.4,Abafe et al. (2022),Density,Liquid,ACHKKk,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCn1c[n+](C)cc1.[O-]S(=O)(=O)C(F)(F)F,"1-methyl-3-(1H,1H,2H,2H-perfluorooctyl)imidazolium trifluoromethanesulfonate",,,,,,
+yHEwH,343.15,101.325,1699.6,Abafe et al. (2022),Density,Liquid,ACHKKk,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCn1c[n+](C)cc1.[O-]S(=O)(=O)C(F)(F)F,"1-methyl-3-(1H,1H,2H,2H-perfluorooctyl)imidazolium trifluoromethanesulfonate",,,,,,
+yHEwH,353.15,101.325,1690.9,Abafe et al. (2022),Density,Liquid,ACHKKk,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCn1c[n+](C)cc1.[O-]S(=O)(=O)C(F)(F)F,"1-methyl-3-(1H,1H,2H,2H-perfluorooctyl)imidazolium trifluoromethanesulfonate",,,,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VATLT,293.15,100,1101.3,Queiros et al. (2020),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+VATLT,298.15,100,1098.2,Queiros et al. (2020),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+VATLT,303.15,100,1095.1,Queiros et al. (2020),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+VATLT,313.15,100,1088.9,Queiros et al. (2020),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+VATLT,323.15,100,1082.8,Queiros et al. (2020),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+VATLT,333.15,100,1076.8,Queiros et al. (2020),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+VATLT,343.15,100,1070.8,Queiros et al. (2020),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,

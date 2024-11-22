@@ -1,0 +1,6 @@
+setid,Mole fraction of water,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MTdGX,0.019,298.15,101,1121.9,Skowronek et al. (2015),Density,Liquid,AADYJk,O,water,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+MTdGX,0.045,298.15,101,1122.5,Skowronek et al. (2015),Density,Liquid,AADYJk,O,water,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+MTdGX,0.153,298.15,101,1120.9,Skowronek et al. (2015),Density,Liquid,AADYJk,O,water,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+MTdGX,0.204,298.15,101,1119,Skowronek et al. (2015),Density,Liquid,AADYJk,O,water,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+MTdGX,0.24,298.15,101,1117.7,Skowronek et al. (2015),Density,Liquid,AADYJk,O,water,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OcULk,288.15,100,1116.1,wang et al. (2022),Density,Liquid,AApKLy,C(CC)(=O)[O-].COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium propanoate,,,,,,
+OcULk,293.15,100,1112.7,wang et al. (2022),Density,Liquid,AApKLy,C(CC)(=O)[O-].COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium propanoate,,,,,,
+OcULk,298.15,100,1109.4,wang et al. (2022),Density,Liquid,AApKLy,C(CC)(=O)[O-].COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium propanoate,,,,,,
+OcULk,303.15,100,1106,wang et al. (2022),Density,Liquid,AApKLy,C(CC)(=O)[O-].COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium propanoate,,,,,,
+OcULk,308.15,100,1102.8,wang et al. (2022),Density,Liquid,AApKLy,C(CC)(=O)[O-].COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium propanoate,,,,,,
+OcULk,313.15,100,1099.5,wang et al. (2022),Density,Liquid,AApKLy,C(CC)(=O)[O-].COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium propanoate,,,,,,
+OcULk,318.15,100,1096.1,wang et al. (2022),Density,Liquid,AApKLy,C(CC)(=O)[O-].COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium propanoate,,,,,,

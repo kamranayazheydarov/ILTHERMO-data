@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OrcXj,298.15,101,1225,Ge et al. (2009),Density,Liquid,AArYos,CCCn1cc[n+](C)c1C.F[B-](F)(F)F,"1,2-dimethyl-3-propylimidazolium tetrafluoroborate",,,,,,
+OrcXj,303.15,101,1222,Ge et al. (2009),Density,Liquid,AArYos,CCCn1cc[n+](C)c1C.F[B-](F)(F)F,"1,2-dimethyl-3-propylimidazolium tetrafluoroborate",,,,,,
+OrcXj,308.15,101,1219,Ge et al. (2009),Density,Liquid,AArYos,CCCn1cc[n+](C)c1C.F[B-](F)(F)F,"1,2-dimethyl-3-propylimidazolium tetrafluoroborate",,,,,,
+OrcXj,313.15,101,1217,Ge et al. (2009),Density,Liquid,AArYos,CCCn1cc[n+](C)c1C.F[B-](F)(F)F,"1,2-dimethyl-3-propylimidazolium tetrafluoroborate",,,,,,
+OrcXj,318.15,101,1216,Ge et al. (2009),Density,Liquid,AArYos,CCCn1cc[n+](C)c1C.F[B-](F)(F)F,"1,2-dimethyl-3-propylimidazolium tetrafluoroborate",,,,,,
+OrcXj,323.15,101,1215,Ge et al. (2009),Density,Liquid,AArYos,CCCn1cc[n+](C)c1C.F[B-](F)(F)F,"1,2-dimethyl-3-propylimidazolium tetrafluoroborate",,,,,,
+OrcXj,333.15,101,1213,Ge et al. (2009),Density,Liquid,AArYos,CCCn1cc[n+](C)c1C.F[B-](F)(F)F,"1,2-dimethyl-3-propylimidazolium tetrafluoroborate",,,,,,
+OrcXj,343.15,101,1212,Ge et al. (2009),Density,Liquid,AArYos,CCCn1cc[n+](C)c1C.F[B-](F)(F)F,"1,2-dimethyl-3-propylimidazolium tetrafluoroborate",,,,,,

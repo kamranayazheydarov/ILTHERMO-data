@@ -1,0 +1,12 @@
+setid,Mole fraction of methanol,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+TPtaF,0,298.15,100,1.55065,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,
+TPtaF,0.1297,298.15,100,1.54281,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,
+TPtaF,0.2018,298.15,100,1.53843,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,
+TPtaF,0.3185,298.15,100,1.52943,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,
+TPtaF,0.4076,298.15,100,1.51995,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,
+TPtaF,0.5037,298.15,100,1.50836,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,
+TPtaF,0.5936,298.15,100,1.49377,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,
+TPtaF,0.6923,298.15,100,1.47381,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,
+TPtaF,0.805,298.15,100,1.44104,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,
+TPtaF,0.9014,298.15,100,1.39839,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,
+TPtaF,1,298.15,100,1.3266,Wojtczuk et al. (2020),Refractive index,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,

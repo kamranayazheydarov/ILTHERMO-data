@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WXqAX,333.6,7200,1126,Lopes et al. (2016),Density,Liquid,Gas,,9,AAIYzl,O=C=O,carbon dioxide,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride
+WXqAX,334.7,1000,1125,Lopes et al. (2016),Density,Liquid,Gas,,9,AAIYzl,O=C=O,carbon dioxide,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride
+WXqAX,337.3,5000,1124,Lopes et al. (2016),Density,Liquid,Gas,,9,AAIYzl,O=C=O,carbon dioxide,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride
+WXqAX,345.3,4000,1119,Lopes et al. (2016),Density,Liquid,Gas,,9,AAIYzl,O=C=O,carbon dioxide,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride
+WXqAX,349.3,4300,1106,Lopes et al. (2016),Density,Liquid,Gas,,9,AAIYzl,O=C=O,carbon dioxide,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride
+WXqAX,356.6,1000,1113,Lopes et al. (2016),Density,Liquid,Gas,,9,AAIYzl,O=C=O,carbon dioxide,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride
+WXqAX,368.7,5800,1106,Lopes et al. (2016),Density,Liquid,Gas,,9,AAIYzl,O=C=O,carbon dioxide,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride
+WXqAX,368.9,4000,1106,Lopes et al. (2016),Density,Liquid,Gas,,9,AAIYzl,O=C=O,carbon dioxide,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride
+WXqAX,371.5,1000,1104,Lopes et al. (2016),Density,Liquid,Gas,,9,AAIYzl,O=C=O,carbon dioxide,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride

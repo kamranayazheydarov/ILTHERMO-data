@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+YHNJE,293.15,101.325,1148.2,Hiraga et al. (2015a),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,
+YHNJE,303.15,101.325,1141.2,Hiraga et al. (2015a),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,
+YHNJE,313.15,101.325,1134.4,Hiraga et al. (2015a),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,
+YHNJE,323.15,101.325,1127.8,Hiraga et al. (2015a),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,
+YHNJE,333.15,101.325,1121.2,Hiraga et al. (2015a),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,
+YHNJE,343.15,101.325,1114.6,Hiraga et al. (2015a),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,
+YHNJE,353.15,101.325,1108,Hiraga et al. (2015a),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,
+YHNJE,363.15,101.325,1101.5,Hiraga et al. (2015a),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,
+YHNJE,373.15,101.325,1094.9,Hiraga et al. (2015a),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,

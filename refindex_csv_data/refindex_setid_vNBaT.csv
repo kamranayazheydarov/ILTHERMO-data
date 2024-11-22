@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+vNBaT,283.15,101.325,1.5084,Koller et al. (2014),Refractive index,Liquid,AAxZyO,CCCCCCn1cc[n+](C)c1.N#C[C-](C#N)C#N,3-hexyl-1-methylimidazolium tricyanomethanide,,,,,,,
+vNBaT,293.15,101.325,1.5055,Koller et al. (2014),Refractive index,Liquid,AAxZyO,CCCCCCn1cc[n+](C)c1.N#C[C-](C#N)C#N,3-hexyl-1-methylimidazolium tricyanomethanide,,,,,,,
+vNBaT,303.15,101.325,1.5026,Koller et al. (2014),Refractive index,Liquid,AAxZyO,CCCCCCn1cc[n+](C)c1.N#C[C-](C#N)C#N,3-hexyl-1-methylimidazolium tricyanomethanide,,,,,,,
+vNBaT,313.15,101.325,1.4994,Koller et al. (2014),Refractive index,Liquid,AAxZyO,CCCCCCn1cc[n+](C)c1.N#C[C-](C#N)C#N,3-hexyl-1-methylimidazolium tricyanomethanide,,,,,,,

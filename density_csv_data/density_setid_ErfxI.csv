@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ErfxI,298.15,101.325,1231.7,Deenadayalu et al. (2009),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,
+ErfxI,298.15,101.325,1235.7,Deenadayalu et al. (2009),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,
+ErfxI,298.15,101.325,1237.3,Deenadayalu et al. (2009),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,
+ErfxI,303.15,101.325,1228.4,Deenadayalu et al. (2009),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,
+ErfxI,303.15,101.325,1232.2,Deenadayalu et al. (2009),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,
+ErfxI,303.15,101.325,1233.9,Deenadayalu et al. (2009),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,
+ErfxI,313.15,101.325,1221.6,Deenadayalu et al. (2009),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,
+ErfxI,313.15,101.325,1225.9,Deenadayalu et al. (2009),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,
+ErfxI,313.15,101.325,1227.8,Deenadayalu et al. (2009),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,

@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+qJScn,293.15,101.325,1.45967,Tariq et al. (2009),Refractive index,Liquid,ACRlHi,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([O-])C(F)(F)F,"trihexyltetradecylphosphonium 1,1,1-trifluoromethanesulfonate",,,,,,,
+qJScn,298.15,101.325,1.45766,Tariq et al. (2009),Refractive index,Liquid,ACRlHi,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([O-])C(F)(F)F,"trihexyltetradecylphosphonium 1,1,1-trifluoromethanesulfonate",,,,,,,
+qJScn,313.15,101.325,1.45365,Tariq et al. (2009),Refractive index,Liquid,ACRlHi,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([O-])C(F)(F)F,"trihexyltetradecylphosphonium 1,1,1-trifluoromethanesulfonate",,,,,,,
+qJScn,333.15,101.325,1.44662,Tariq et al. (2009),Refractive index,Liquid,ACRlHi,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([O-])C(F)(F)F,"trihexyltetradecylphosphonium 1,1,1-trifluoromethanesulfonate",,,,,,,

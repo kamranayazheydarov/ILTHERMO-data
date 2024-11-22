@@ -1,0 +1,8 @@
+setid,"Mole fraction of 1,3-dimethylbenzene","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RrUOc,0,283.15,100,1023,Requejo et al. (2017),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+RrUOc,0.057,283.15,100,1020,Requejo et al. (2017),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+RrUOc,0.112,283.15,100,1016,Requejo et al. (2017),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+RrUOc,0.202,283.15,100,1010,Requejo et al. (2017),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+RrUOc,0.26,283.15,100,1006,Requejo et al. (2017),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+RrUOc,0.318,283.15,100,1000,Requejo et al. (2017),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+RrUOc,0.388,283.15,100,995,Requejo et al. (2017),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,

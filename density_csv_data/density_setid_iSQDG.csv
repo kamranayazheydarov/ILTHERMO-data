@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iSQDG,293.15,100,1322.5,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,
+iSQDG,298.15,100,1318.7,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,
+iSQDG,303.15,100,1314.5,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,
+iSQDG,308.15,100,1310.4,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,
+iSQDG,313.15,100,1306.3,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,
+iSQDG,318.15,100,1302.6,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,
+iSQDG,323.15,100,1298.2,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,
+iSQDG,328.15,100,1294,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,
+iSQDG,333.15,100,1289.9,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,
+iSQDG,338.15,100,1285.9,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,
+iSQDG,343.15,100,1281.9,Song et al. (2021),Density,Liquid,AAygfU,CCCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-amylpyridinium trifluoroacetate,,,,,,

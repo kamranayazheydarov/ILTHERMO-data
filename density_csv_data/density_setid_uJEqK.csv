@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uJEqK,288.15,101.325,1062.7,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,293.15,101.325,1059.6,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,298.15,101.325,1056.6,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,303.15,101.325,1053.6,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,308.15,101.325,1050.6,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,313.15,101.325,1047.6,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,318.15,101.325,1044.6,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,323.15,101.325,1041.6,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,328.15,101.325,1038.5,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,333.15,101.325,1035.5,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,338.15,101.325,1032.5,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+uJEqK,343.15,101.325,1029.5,Bai et al. (2020),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,

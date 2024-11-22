@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+aAagE,293.15,100,1283.6,Rao et al. (2017a),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+aAagE,303.15,100,1276.1,Rao et al. (2017a),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+aAagE,313.15,100,1268.6,Rao et al. (2017a),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+aAagE,323.15,100,1261,Rao et al. (2017a),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,

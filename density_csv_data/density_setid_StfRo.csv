@@ -1,0 +1,9 @@
+setid,Mole fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+StfRo,0.25,101,298.15,944,Yasaka and Kimura (2016),Density,Liquid,AADYJk,O,water,ABGcfe,CCCC[P+](CCCC)(CCCC)CCCC.O=C[O-],tetrabutylphosphonium formate,,,
+StfRo,0.32,101,298.15,945.2,Yasaka and Kimura (2016),Density,Liquid,AADYJk,O,water,ABGcfe,CCCC[P+](CCCC)(CCCC)CCCC.O=C[O-],tetrabutylphosphonium formate,,,
+StfRo,0.5,101,298.15,948,Yasaka and Kimura (2016),Density,Liquid,AADYJk,O,water,ABGcfe,CCCC[P+](CCCC)(CCCC)CCCC.O=C[O-],tetrabutylphosphonium formate,,,
+StfRo,0.6,101,298.15,950.4,Yasaka and Kimura (2016),Density,Liquid,AADYJk,O,water,ABGcfe,CCCC[P+](CCCC)(CCCC)CCCC.O=C[O-],tetrabutylphosphonium formate,,,
+StfRo,0.74,101,298.15,955.5,Yasaka and Kimura (2016),Density,Liquid,AADYJk,O,water,ABGcfe,CCCC[P+](CCCC)(CCCC)CCCC.O=C[O-],tetrabutylphosphonium formate,,,
+StfRo,0.8,101,298.15,959.2,Yasaka and Kimura (2016),Density,Liquid,AADYJk,O,water,ABGcfe,CCCC[P+](CCCC)(CCCC)CCCC.O=C[O-],tetrabutylphosphonium formate,,,
+StfRo,0.91,101,298.15,974.1,Yasaka and Kimura (2016),Density,Liquid,AADYJk,O,water,ABGcfe,CCCC[P+](CCCC)(CCCC)CCCC.O=C[O-],tetrabutylphosphonium formate,,,
+StfRo,1,101,298.15,996.8,Yasaka and Kimura (2016),Density,Liquid,AADYJk,O,water,ABGcfe,CCCC[P+](CCCC)(CCCC)CCCC.O=C[O-],tetrabutylphosphonium formate,,,

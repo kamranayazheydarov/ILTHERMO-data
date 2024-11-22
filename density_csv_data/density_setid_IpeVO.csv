@@ -1,0 +1,13 @@
+setid,Weight fraction of water,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IpeVO,0.0004,298.15,100,1518,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.0004,303.15,100,1513,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.0004,313.15,100,1503,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.0004,323.15,100,1493,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.0004,333.15,100,1484,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.0004,343.15,100,1474,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.017,298.15,100,1502,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.017,303.15,100,1497,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.017,313.15,100,1487,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.017,323.15,100,1477,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.017,333.15,100,1466,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,
+IpeVO,0.017,343.15,100,1456,Yoo et al. (2013a),Density,Liquid,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,AADYJk,O,water,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uwnGN,298.15,101,1017,Ma et al. (2013b),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+uwnGN,303.15,101,1013.9,Ma et al. (2013b),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+uwnGN,308.15,101,1010.9,Ma et al. (2013b),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+uwnGN,313.15,101,1007.9,Ma et al. (2013b),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+uwnGN,318.15,101,1004.9,Ma et al. (2013b),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+uwnGN,323.15,101,1001.9,Ma et al. (2013b),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+uwnGN,328.15,101,998.9,Ma et al. (2013b),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+uwnGN,333.15,101,995.9,Ma et al. (2013b),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+uwnGN,338.15,101,992.9,Ma et al. (2013b),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,

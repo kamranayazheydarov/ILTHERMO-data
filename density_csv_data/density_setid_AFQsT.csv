@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+AFQsT,288.15,101.325,1440.7,Vatascin and Dohnal (2018),Density,Metastable liquid,ABEKef,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-ethyl-3-methyl-1H-imidazolium 1,1,2,2-tetrafluoroethane-1-sulfonate",,,,,,
+AFQsT,293.15,101.325,1436.5,Vatascin and Dohnal (2018),Density,Metastable liquid,ABEKef,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-ethyl-3-methyl-1H-imidazolium 1,1,2,2-tetrafluoroethane-1-sulfonate",,,,,,
+AFQsT,298.15,101.325,1432.2,Vatascin and Dohnal (2018),Density,Metastable liquid,ABEKef,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-ethyl-3-methyl-1H-imidazolium 1,1,2,2-tetrafluoroethane-1-sulfonate",,,,,,
+AFQsT,303.15,101.325,1428,Vatascin and Dohnal (2018),Density,Metastable liquid,ABEKef,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-ethyl-3-methyl-1H-imidazolium 1,1,2,2-tetrafluoroethane-1-sulfonate",,,,,,
+AFQsT,308.15,101.325,1423.8,Vatascin and Dohnal (2018),Density,Metastable liquid,ABEKef,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-ethyl-3-methyl-1H-imidazolium 1,1,2,2-tetrafluoroethane-1-sulfonate",,,,,,
+AFQsT,313.15,101.325,1419.6,Vatascin and Dohnal (2018),Density,Metastable liquid,ABEKef,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-ethyl-3-methyl-1H-imidazolium 1,1,2,2-tetrafluoroethane-1-sulfonate",,,,,,
+AFQsT,318.15,101.325,1415.3,Vatascin and Dohnal (2018),Density,Metastable liquid,ABEKef,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-ethyl-3-methyl-1H-imidazolium 1,1,2,2-tetrafluoroethane-1-sulfonate",,,,,,
+AFQsT,323.15,101.325,1411.2,Vatascin and Dohnal (2018),Density,Metastable liquid,ABEKef,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-ethyl-3-methyl-1H-imidazolium 1,1,2,2-tetrafluoroethane-1-sulfonate",,,,,,
+AFQsT,328.15,101.325,1407,Vatascin and Dohnal (2018),Density,Metastable liquid,ABEKef,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-ethyl-3-methyl-1H-imidazolium 1,1,2,2-tetrafluoroethane-1-sulfonate",,,,,,
+AFQsT,333.15,101.325,1402.9,Vatascin and Dohnal (2018),Density,Metastable liquid,ABEKef,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-ethyl-3-methyl-1H-imidazolium 1,1,2,2-tetrafluoroethane-1-sulfonate",,,,,,

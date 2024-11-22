@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eteMT,293.15,101.325,1061.6,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+eteMT,298.15,101.325,1058.5,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+eteMT,303.15,101.325,1055.5,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+eteMT,308.15,101.325,1052.4,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+eteMT,313.15,101.325,1049.4,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+eteMT,318.15,101.325,1046.3,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+eteMT,323.15,101.325,1043.3,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+eteMT,328.15,101.325,1040.3,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+eteMT,333.15,101.325,1037.2,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+eteMT,338.15,101.325,1034.2,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+eteMT,343.15,101.325,1031.2,Deive et al. (2013),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,

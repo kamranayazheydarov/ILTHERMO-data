@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SyvVF,298.23,101.325,1365.95,Kabo et al. (2004),Density,Liquid,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,,,,
+SyvVF,302.89,101.325,1362.05,Kabo et al. (2004),Density,Liquid,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,,,,
+SyvVF,307.9,101.325,1357.94,Kabo et al. (2004),Density,Liquid,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,,,,
+SyvVF,312.67,101.325,1353.99,Kabo et al. (2004),Density,Liquid,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,,,,
+SyvVF,317.58,101.325,1349.92,Kabo et al. (2004),Density,Liquid,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,,,,
+SyvVF,322.33,101.325,1346.02,Kabo et al. (2004),Density,Liquid,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,,,,
+SyvVF,327.16,101.325,1342.02,Kabo et al. (2004),Density,Liquid,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,,,,
+SyvVF,344.23,101.325,1328.03,Kabo et al. (2004),Density,Liquid,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,,,,
+SyvVF,348.93,101.325,1324.35,Kabo et al. (2004),Density,Liquid,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,,,,
+SyvVF,353.47,101.325,1320.69,Kabo et al. (2004),Density,Liquid,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,,,,

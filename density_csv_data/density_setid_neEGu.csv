@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa",Weight fraction of water,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+neEGu,293.15,101,0.001,1367.5,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+neEGu,298.15,101,0.001,1363.4,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+neEGu,303.15,101,0.001,1359.2,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+neEGu,308.15,101,0.001,1355.2,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+neEGu,313.15,101,0.001,1351,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+neEGu,318.15,101,0.001,1346.8,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+neEGu,323.15,101,0.001,1342.4,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+neEGu,328.15,101,0.001,1338.5,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+neEGu,333.15,101,0.001,1334.4,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+neEGu,338.15,101,0.001,1330.3,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+neEGu,343.15,101,0.001,1326.2,Jacquemin et al. (2008b),Density,Liquid,AADYJk,O,water,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,

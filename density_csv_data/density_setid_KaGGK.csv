@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KaGGK,293.15,100,1293.6,Warminska and Cichowska-Kopczynska (2022),Density,Liquid,ABlkEe,CCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+KaGGK,298.15,100,1289.4,Warminska and Cichowska-Kopczynska (2022),Density,Liquid,ABlkEe,CCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+KaGGK,303.15,100,1285.2,Warminska and Cichowska-Kopczynska (2022),Density,Liquid,ABlkEe,CCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+KaGGK,308.15,100,1281,Warminska and Cichowska-Kopczynska (2022),Density,Liquid,ABlkEe,CCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+KaGGK,313.15,100,1276.9,Warminska and Cichowska-Kopczynska (2022),Density,Liquid,ABlkEe,CCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,

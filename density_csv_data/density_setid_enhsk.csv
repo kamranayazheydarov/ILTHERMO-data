@@ -1,0 +1,4 @@
+setid,"MolaRity of lithium bis((trifluoromethyl)sulfonyl)amide, mol/dm3","Pressure, kPa","Temperature, K","Specific volume, m<SUP>3</SUP>/kg",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+enhsk,0.05,101,295.1,0.000899,Lindberg et al. (2018),Density,Liquid,AAPByN,CS(C)=O,dimethyl sulfoxide,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,,,
+enhsk,0.5,101,295.1,0.000858,Lindberg et al. (2018),Density,Liquid,AAPByN,CS(C)=O,dimethyl sulfoxide,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,,,
+enhsk,1,101,295.1,0.000813,Lindberg et al. (2018),Density,Liquid,AAPByN,CS(C)=O,dimethyl sulfoxide,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,,,

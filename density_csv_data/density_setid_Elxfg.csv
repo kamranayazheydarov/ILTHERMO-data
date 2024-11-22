@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Elxfg,298.15,101,1252.3,Krolikowska et al. (2014a),Density,Liquid,AAxFCR,CCOS(=O)(=O)[O-].CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium ethyl sulfate,,,,,,
+Elxfg,303.15,101,1249,Krolikowska et al. (2014a),Density,Liquid,AAxFCR,CCOS(=O)(=O)[O-].CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium ethyl sulfate,,,,,,
+Elxfg,308.15,101,1245.9,Krolikowska et al. (2014a),Density,Liquid,AAxFCR,CCOS(=O)(=O)[O-].CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium ethyl sulfate,,,,,,
+Elxfg,313.15,101,1242.7,Krolikowska et al. (2014a),Density,Liquid,AAxFCR,CCOS(=O)(=O)[O-].CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium ethyl sulfate,,,,,,
+Elxfg,318.15,101,1239.5,Krolikowska et al. (2014a),Density,Liquid,AAxFCR,CCOS(=O)(=O)[O-].CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium ethyl sulfate,,,,,,
+Elxfg,323.15,101,1236.3,Krolikowska et al. (2014a),Density,Liquid,AAxFCR,CCOS(=O)(=O)[O-].CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium ethyl sulfate,,,,,,
+Elxfg,328.15,101,1233.2,Krolikowska et al. (2014a),Density,Liquid,AAxFCR,CCOS(=O)(=O)[O-].CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium ethyl sulfate,,,,,,
+Elxfg,333.15,101,1230.1,Krolikowska et al. (2014a),Density,Liquid,AAxFCR,CCOS(=O)(=O)[O-].CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium ethyl sulfate,,,,,,
+Elxfg,338.15,101,1226.9,Krolikowska et al. (2014a),Density,Liquid,AAxFCR,CCOS(=O)(=O)[O-].CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium ethyl sulfate,,,,,,
+Elxfg,343.15,101,1223.8,Krolikowska et al. (2014a),Density,Liquid,AAxFCR,CCOS(=O)(=O)[O-].CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium ethyl sulfate,,,,,,

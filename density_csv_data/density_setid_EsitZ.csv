@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EsitZ,283.15,101.325,1450,Zoubeik et al. (2016),Density,Liquid,ABIrca,C[n+]1ccn(CCCCS(=O)(=O)O)c1.O=S(=O)([O-])O,1-methyl-3-(4-sulfobutyl)-imidazolium hydrogensulfate,,,,,,
+EsitZ,288.15,101.325,1447,Zoubeik et al. (2016),Density,Liquid,ABIrca,C[n+]1ccn(CCCCS(=O)(=O)O)c1.O=S(=O)([O-])O,1-methyl-3-(4-sulfobutyl)-imidazolium hydrogensulfate,,,,,,
+EsitZ,298.15,101.325,1437,Zoubeik et al. (2016),Density,Liquid,ABIrca,C[n+]1ccn(CCCCS(=O)(=O)O)c1.O=S(=O)([O-])O,1-methyl-3-(4-sulfobutyl)-imidazolium hydrogensulfate,,,,,,
+EsitZ,303.15,101.325,1434,Zoubeik et al. (2016),Density,Liquid,ABIrca,C[n+]1ccn(CCCCS(=O)(=O)O)c1.O=S(=O)([O-])O,1-methyl-3-(4-sulfobutyl)-imidazolium hydrogensulfate,,,,,,
+EsitZ,313.15,101.325,1427,Zoubeik et al. (2016),Density,Liquid,ABIrca,C[n+]1ccn(CCCCS(=O)(=O)O)c1.O=S(=O)([O-])O,1-methyl-3-(4-sulfobutyl)-imidazolium hydrogensulfate,,,,,,
+EsitZ,323.15,101.325,1421,Zoubeik et al. (2016),Density,Liquid,ABIrca,C[n+]1ccn(CCCCS(=O)(=O)O)c1.O=S(=O)([O-])O,1-methyl-3-(4-sulfobutyl)-imidazolium hydrogensulfate,,,,,,
+EsitZ,333.15,101.325,1414,Zoubeik et al. (2016),Density,Liquid,ABIrca,C[n+]1ccn(CCCCS(=O)(=O)O)c1.O=S(=O)([O-])O,1-methyl-3-(4-sulfobutyl)-imidazolium hydrogensulfate,,,,,,
+EsitZ,343.15,101.325,1408,Zoubeik et al. (2016),Density,Liquid,ABIrca,C[n+]1ccn(CCCCS(=O)(=O)O)c1.O=S(=O)([O-])O,1-methyl-3-(4-sulfobutyl)-imidazolium hydrogensulfate,,,,,,
+EsitZ,353.15,101.325,1402,Zoubeik et al. (2016),Density,Liquid,ABIrca,C[n+]1ccn(CCCCS(=O)(=O)O)c1.O=S(=O)([O-])O,1-methyl-3-(4-sulfobutyl)-imidazolium hydrogensulfate,,,,,,

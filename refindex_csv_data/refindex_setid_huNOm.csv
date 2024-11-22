@@ -1,0 +1,5 @@
+setid,"MolaLity of lithium nitrate, mol/kg","Pressure, kPa","Temperature, K",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+huNOm,0.1,100,298.15,1.4548,Vallet et al. (2022),Refractive index,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+huNOm,0.5,100,298.15,1.4562,Vallet et al. (2022),Refractive index,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+huNOm,1,100,298.15,1.4576,Vallet et al. (2022),Refractive index,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+huNOm,2,100,298.15,1.4598,Vallet et al. (2022),Refractive index,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,

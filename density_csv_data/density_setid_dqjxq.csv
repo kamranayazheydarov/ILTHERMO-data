@@ -1,0 +1,10 @@
+setid,Mole fraction of heptane,Mole fraction of toluene,"Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+dqjxq,0,0.248,298.15,1189.1,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,9,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane
+dqjxq,0.001,0.219,298.15,1195.8,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,9,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane
+dqjxq,0.003,0.113,298.15,1215.6,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,9,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane
+dqjxq,0.003,0.181,298.15,1202.8,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,9,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane
+dqjxq,0.003,0.197,298.15,1199.6,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,9,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane
+dqjxq,0.006,0.076,298.15,1222.5,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,9,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane
+dqjxq,0.006,0.101,298.15,1217.9,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,9,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane
+dqjxq,0.008,0,298.15,1235.4,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,9,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane
+dqjxq,0.008,0.041,298.15,1228.3,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,9,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane

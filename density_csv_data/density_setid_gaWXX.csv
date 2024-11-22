@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of benzyltriphenylphosphonium chloride,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+gaWXX,293.15,101,0.083,1135,Ibrahim et al. (2019),Density,Liquid,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+gaWXX,303.15,101,0.083,1128,Ibrahim et al. (2019),Density,Liquid,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+gaWXX,313.15,101,0.083,1121,Ibrahim et al. (2019),Density,Liquid,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+gaWXX,323.15,101,0.083,1114,Ibrahim et al. (2019),Density,Liquid,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+gaWXX,333.15,101,0.083,1107,Ibrahim et al. (2019),Density,Liquid,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+gaWXX,343.15,101,0.083,1100,Ibrahim et al. (2019),Density,Liquid,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+gaWXX,353.15,101,0.083,1093,Ibrahim et al. (2019),Density,Liquid,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,

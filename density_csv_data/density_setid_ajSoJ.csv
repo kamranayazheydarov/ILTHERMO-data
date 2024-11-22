@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ajSoJ,288.15,100,1348.9,Fang et al. (2019b),Density,Liquid,ABGawV,CC[n+]1ccn(CCOC)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-(2-methoxyethyl)imidazolium trifluoromethanesulfonate,,,,,,
+ajSoJ,293.15,100,1344.7,Fang et al. (2019b),Density,Liquid,ABGawV,CC[n+]1ccn(CCOC)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-(2-methoxyethyl)imidazolium trifluoromethanesulfonate,,,,,,
+ajSoJ,298.15,100,1340.4,Fang et al. (2019b),Density,Liquid,ABGawV,CC[n+]1ccn(CCOC)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-(2-methoxyethyl)imidazolium trifluoromethanesulfonate,,,,,,
+ajSoJ,303.15,100,1336.2,Fang et al. (2019b),Density,Liquid,ABGawV,CC[n+]1ccn(CCOC)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-(2-methoxyethyl)imidazolium trifluoromethanesulfonate,,,,,,
+ajSoJ,308.15,100,1332,Fang et al. (2019b),Density,Liquid,ABGawV,CC[n+]1ccn(CCOC)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-(2-methoxyethyl)imidazolium trifluoromethanesulfonate,,,,,,
+ajSoJ,313.15,100,1327.8,Fang et al. (2019b),Density,Liquid,ABGawV,CC[n+]1ccn(CCOC)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-(2-methoxyethyl)imidazolium trifluoromethanesulfonate,,,,,,
+ajSoJ,318.15,100,1323.6,Fang et al. (2019b),Density,Liquid,ABGawV,CC[n+]1ccn(CCOC)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-(2-methoxyethyl)imidazolium trifluoromethanesulfonate,,,,,,

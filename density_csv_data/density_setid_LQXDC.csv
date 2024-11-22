@@ -1,0 +1,10 @@
+setid,"Temperature, K","MolaLity of 1-ethyl-3-methylimidazolium hexafluorophosphate, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LQXDC,298.15,0.001,100,997.1,Mallick et al. (2023),Density,Liquid,AAxNbY,CC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-ethyl-3-methylimidazolium hexafluorophosphate,AADYJk,O,water,,,
+LQXDC,298.15,0.003,100,997.3,Mallick et al. (2023),Density,Liquid,AAxNbY,CC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-ethyl-3-methylimidazolium hexafluorophosphate,AADYJk,O,water,,,
+LQXDC,298.15,0.005,100,997.5,Mallick et al. (2023),Density,Liquid,AAxNbY,CC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-ethyl-3-methylimidazolium hexafluorophosphate,AADYJk,O,water,,,
+LQXDC,303.15,0.001,100,995.7,Mallick et al. (2023),Density,Liquid,AAxNbY,CC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-ethyl-3-methylimidazolium hexafluorophosphate,AADYJk,O,water,,,
+LQXDC,303.15,0.003,100,995.8,Mallick et al. (2023),Density,Liquid,AAxNbY,CC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-ethyl-3-methylimidazolium hexafluorophosphate,AADYJk,O,water,,,
+LQXDC,303.15,0.005,100,996,Mallick et al. (2023),Density,Liquid,AAxNbY,CC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-ethyl-3-methylimidazolium hexafluorophosphate,AADYJk,O,water,,,
+LQXDC,308.15,0.001,100,994.1,Mallick et al. (2023),Density,Liquid,AAxNbY,CC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-ethyl-3-methylimidazolium hexafluorophosphate,AADYJk,O,water,,,
+LQXDC,308.15,0.003,100,994.1,Mallick et al. (2023),Density,Liquid,AAxNbY,CC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-ethyl-3-methylimidazolium hexafluorophosphate,AADYJk,O,water,,,
+LQXDC,308.15,0.005,100,994.4,Mallick et al. (2023),Density,Liquid,AAxNbY,CC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-ethyl-3-methylimidazolium hexafluorophosphate,AADYJk,O,water,,,

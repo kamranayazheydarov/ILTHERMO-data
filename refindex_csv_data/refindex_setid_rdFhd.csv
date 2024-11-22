@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+rdFhd,288.15,101.325,1.48197,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,293.15,101.325,1.48072,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,298.15,101.325,1.4794,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,303.15,101.325,1.47803,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,308.15,101.325,1.47669,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,313.15,101.325,1.47535,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,318.15,101.325,1.47397,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,323.15,101.325,1.47259,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,328.15,101.325,1.47124,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,333.15,101.325,1.46989,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,338.15,101.325,1.46851,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,
+rdFhd,343.15,101.325,1.46718,Gomez et al. (2006c),Refractive index,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,,,,

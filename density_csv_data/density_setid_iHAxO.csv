@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iHAxO,293.15,101.325,1192.8,Xu et al. (2014a),Density,Liquid,AAlIby,Cn1cc[n+](CCO)c1.N#C[N-]C#N,3-(2-hydroxyethyl)-1-methyl-1H-imidazol-3-ium dicyanoazanide,,,,,,
+iHAxO,303.15,101.325,1186.4,Xu et al. (2014a),Density,Liquid,AAlIby,Cn1cc[n+](CCO)c1.N#C[N-]C#N,3-(2-hydroxyethyl)-1-methyl-1H-imidazol-3-ium dicyanoazanide,,,,,,
+iHAxO,313.15,101.325,1179.9,Xu et al. (2014a),Density,Liquid,AAlIby,Cn1cc[n+](CCO)c1.N#C[N-]C#N,3-(2-hydroxyethyl)-1-methyl-1H-imidazol-3-ium dicyanoazanide,,,,,,
+iHAxO,323.15,101.325,1173.5,Xu et al. (2014a),Density,Liquid,AAlIby,Cn1cc[n+](CCO)c1.N#C[N-]C#N,3-(2-hydroxyethyl)-1-methyl-1H-imidazol-3-ium dicyanoazanide,,,,,,
+iHAxO,333.15,101.325,1167.2,Xu et al. (2014a),Density,Liquid,AAlIby,Cn1cc[n+](CCO)c1.N#C[N-]C#N,3-(2-hydroxyethyl)-1-methyl-1H-imidazol-3-ium dicyanoazanide,,,,,,

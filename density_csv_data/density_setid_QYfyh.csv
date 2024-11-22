@@ -1,0 +1,4 @@
+setid,"MolaRity of lithium trifluoromethanesulfonate, mol/dm3","Pressure, kPa","Temperature, K","Specific volume, m<SUP>3</SUP>/kg",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QYfyh,0.05,101,295.1,0.0009,Lindberg et al. (2018),Density,Liquid,AAPByN,CS(C)=O,dimethyl sulfoxide,AAeAbd,O=S(=O)([O-])C(F)(F)F.[Li+],lithium trifluoromethanesulfonate,,,
+QYfyh,0.5,101,295.1,0.000875,Lindberg et al. (2018),Density,Liquid,AAPByN,CS(C)=O,dimethyl sulfoxide,AAeAbd,O=S(=O)([O-])C(F)(F)F.[Li+],lithium trifluoromethanesulfonate,,,
+QYfyh,1,101,295.1,0.000848,Lindberg et al. (2018),Density,Liquid,AAPByN,CS(C)=O,dimethyl sulfoxide,AAeAbd,O=S(=O)([O-])C(F)(F)F.[Li+],lithium trifluoromethanesulfonate,,,

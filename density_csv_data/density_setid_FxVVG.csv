@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FxVVG,278.15,101.325,1520.5,Nazet et al. (2017a),Density,Liquid,ABWFcI,CC[S+](C)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,diethylmethylsulfonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+FxVVG,288.15,101.325,1510.6,Nazet et al. (2017a),Density,Liquid,ABWFcI,CC[S+](C)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,diethylmethylsulfonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+FxVVG,298.15,101.325,1500.7,Nazet et al. (2017a),Density,Liquid,ABWFcI,CC[S+](C)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,diethylmethylsulfonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+FxVVG,308.15,101.325,1491,Nazet et al. (2017a),Density,Liquid,ABWFcI,CC[S+](C)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,diethylmethylsulfonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+FxVVG,318.15,101.325,1481.3,Nazet et al. (2017a),Density,Liquid,ABWFcI,CC[S+](C)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,diethylmethylsulfonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+FxVVG,328.15,101.325,1471.7,Nazet et al. (2017a),Density,Liquid,ABWFcI,CC[S+](C)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,diethylmethylsulfonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+FxVVG,338.15,101.325,1462.2,Nazet et al. (2017a),Density,Liquid,ABWFcI,CC[S+](C)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,diethylmethylsulfonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

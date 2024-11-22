@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+wgdvC,293.15,101.325,1641,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,
+wgdvC,298.15,101.325,1639,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,
+wgdvC,303.15,101.325,1635,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,
+wgdvC,308.15,101.325,1628,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,
+wgdvC,313.15,101.325,1623,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,
+wgdvC,318.15,101.325,1617,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,
+wgdvC,323.15,101.325,1612,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,
+wgdvC,328.15,101.325,1606,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,
+wgdvC,333.15,101.325,1601,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,
+wgdvC,338.15,101.325,1596,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,
+wgdvC,343.15,101.325,1591,Zang et al. (2005),Density,Liquid,ABSlYv,CCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-ethyl-3-methylimidazolium tetrachloroindate,,,,,,

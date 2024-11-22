@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iufPc,293.15,101.325,1120,Larriba et al. (2014c),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+iufPc,298.15,101.325,1117,Larriba et al. (2014c),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+iufPc,303.15,101.325,1113.9,Larriba et al. (2014c),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+iufPc,313.15,101.325,1108,Larriba et al. (2014c),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+iufPc,323.15,101.325,1101.8,Larriba et al. (2014c),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+iufPc,333.15,101.325,1095.9,Larriba et al. (2014c),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+iufPc,343.15,101.325,1090,Larriba et al. (2014c),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+iufPc,353.15,101.325,1084.1,Larriba et al. (2014c),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,

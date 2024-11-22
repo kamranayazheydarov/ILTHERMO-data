@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ArTJi,293,101.325,1218,Yasuda et al. (2013),Density,Liquid,AAzAsH,CCC[NH+](C)CCC.O=S(=O)([O-])C(F)(F)F,N-methyl-N-propylpropan-1-aminium trifluoromethanesulfonate,,,,,,
+ArTJi,298.1,101.325,1211,Yasuda et al. (2013),Density,Liquid,AAzAsH,CCC[NH+](C)CCC.O=S(=O)([O-])C(F)(F)F,N-methyl-N-propylpropan-1-aminium trifluoromethanesulfonate,,,,,,
+ArTJi,303,101.325,1203,Yasuda et al. (2013),Density,Liquid,AAzAsH,CCC[NH+](C)CCC.O=S(=O)([O-])C(F)(F)F,N-methyl-N-propylpropan-1-aminium trifluoromethanesulfonate,,,,,,
+ArTJi,308.1,101.325,1196,Yasuda et al. (2013),Density,Liquid,AAzAsH,CCC[NH+](C)CCC.O=S(=O)([O-])C(F)(F)F,N-methyl-N-propylpropan-1-aminium trifluoromethanesulfonate,,,,,,
+ArTJi,313,101.325,1189,Yasuda et al. (2013),Density,Liquid,AAzAsH,CCC[NH+](C)CCC.O=S(=O)([O-])C(F)(F)F,N-methyl-N-propylpropan-1-aminium trifluoromethanesulfonate,,,,,,

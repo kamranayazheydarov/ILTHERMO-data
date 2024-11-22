@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fDxYt,283.1,101.325,1392.9,Maginn (2005),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+fDxYt,298.05,101.325,1375.5,Maginn (2005),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+fDxYt,308.15,101.325,1371.6,Maginn (2005),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+fDxYt,323.05,101.325,1355.7,Maginn (2005),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+fDxYt,343.05,101.325,1337,Maginn (2005),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

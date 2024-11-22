@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+hQCPK,295.1,100,1236,Tomida et al. (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,
+hQCPK,295.1,10000,1243,Tomida et al. (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,
+hQCPK,295.1,20000,1249,Tomida et al. (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,
+hQCPK,315.1,100,1222,Tomida et al. (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,
+hQCPK,315.1,10000,1228,Tomida et al. (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,
+hQCPK,315.1,20000,1234,Tomida et al. (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,
+hQCPK,335.2,100,1207,Tomida et al. (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,
+hQCPK,335.2,10000,1213,Tomida et al. (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,
+hQCPK,335.2,20000,1219,Tomida et al. (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,

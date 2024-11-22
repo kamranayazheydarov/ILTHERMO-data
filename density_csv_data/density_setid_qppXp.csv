@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qppXp,278.15,101.325,989.15,Kolbeck et al. (2010),Density,Liquid,ABHiuv,CCCCCCCCn1cc[n+](C)c1.N#C[B-](C#N)(C#N)C#N,1-methyl-3-octylimidazolium tetracyanoborate,,,,,,
+qppXp,283.15,101.325,985.58,Kolbeck et al. (2010),Density,Liquid,ABHiuv,CCCCCCCCn1cc[n+](C)c1.N#C[B-](C#N)(C#N)C#N,1-methyl-3-octylimidazolium tetracyanoborate,,,,,,
+qppXp,288.15,101.325,982.06,Kolbeck et al. (2010),Density,Liquid,ABHiuv,CCCCCCCCn1cc[n+](C)c1.N#C[B-](C#N)(C#N)C#N,1-methyl-3-octylimidazolium tetracyanoborate,,,,,,
+qppXp,293.15,101.325,978.53,Kolbeck et al. (2010),Density,Liquid,ABHiuv,CCCCCCCCn1cc[n+](C)c1.N#C[B-](C#N)(C#N)C#N,1-methyl-3-octylimidazolium tetracyanoborate,,,,,,
+qppXp,298.15,101.325,975.02,Kolbeck et al. (2010),Density,Liquid,ABHiuv,CCCCCCCCn1cc[n+](C)c1.N#C[B-](C#N)(C#N)C#N,1-methyl-3-octylimidazolium tetracyanoborate,,,,,,
+qppXp,303.15,101.325,971.52,Kolbeck et al. (2010),Density,Liquid,ABHiuv,CCCCCCCCn1cc[n+](C)c1.N#C[B-](C#N)(C#N)C#N,1-methyl-3-octylimidazolium tetracyanoborate,,,,,,
+qppXp,308.15,101.325,968.03,Kolbeck et al. (2010),Density,Liquid,ABHiuv,CCCCCCCCn1cc[n+](C)c1.N#C[B-](C#N)(C#N)C#N,1-methyl-3-octylimidazolium tetracyanoborate,,,,,,

@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qriyd,288.15,100,1449.2,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,293.15,100,1445,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,298.15,100,1440.9,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,303.15,100,1436.7,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,308.15,100,1432.5,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,313.15,100,1428.4,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,318.15,100,1424.3,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,323.15,100,1420,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,328.15,100,1415.9,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,333.15,100,1411.7,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,338.15,100,1407.6,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+qriyd,343.15,100,1403.4,Wei et al. (2022b),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,

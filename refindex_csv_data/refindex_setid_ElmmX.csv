@@ -1,0 +1,13 @@
+setid,Mole fraction of ethanol,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+ElmmX,0,298.15,101,1.52182,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,0.098,298.15,101,1.52022,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,0.196,298.15,101,1.51336,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,0.2898,298.15,101,1.50603,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,0.4075,298.15,101,1.49228,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,0.568,298.15,101,1.47741,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,0.7044,298.15,101,1.4553,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,0.7955,298.15,101,1.43465,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,0.903,298.15,101,1.40198,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,0.9047,298.15,101,1.40175,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,0.9445,298.15,101,1.38605,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,
+ElmmX,1,298.15,101,1.3592,Gomez et al. (2006a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,

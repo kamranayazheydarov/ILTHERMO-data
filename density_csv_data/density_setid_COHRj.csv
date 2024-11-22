@@ -1,0 +1,12 @@
+setid,Mole fraction of 1-ethyl-3-methylimidazolium nitrate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+COHRj,0,101,298.15,787.9,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,
+COHRj,0.0995,101,298.15,891.3,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,
+COHRj,0.201,101,298.15,958.3,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,
+COHRj,0.2937,101,298.15,1009.1,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,
+COHRj,0.4,101,298.15,1054.8,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,
+COHRj,0.5,101,298.15,1089.4,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,
+COHRj,0.6004,101,298.15,1117,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,
+COHRj,0.668,101,298.15,1130.8,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,
+COHRj,0.8,101,298.15,1157.2,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,
+COHRj,0.9,101,298.15,1176.5,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,
+COHRj,1,101,298.15,1208.5,Zhao et al. (2012),Density,Liquid,AAIsrh,CCO,ethanol,AAhPAz,CC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-ethyl-3-methylimidazolium nitrate,,,

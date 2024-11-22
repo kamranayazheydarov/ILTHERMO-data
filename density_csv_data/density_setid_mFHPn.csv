@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mFHPn,293,101.325,1278,Sanchez (2008),Density,Liquid,ABcrZC,Cn1cc[n+](CCCN)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-aminopropyl)-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFHPn,303,101.325,1271.2,Sanchez (2008),Density,Liquid,ABcrZC,Cn1cc[n+](CCCN)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-aminopropyl)-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFHPn,313,101.325,1264.4,Sanchez (2008),Density,Liquid,ABcrZC,Cn1cc[n+](CCCN)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-aminopropyl)-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFHPn,323,101.325,1257.6,Sanchez (2008),Density,Liquid,ABcrZC,Cn1cc[n+](CCCN)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-aminopropyl)-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFHPn,333,101.325,1250.8,Sanchez (2008),Density,Liquid,ABcrZC,Cn1cc[n+](CCCN)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-aminopropyl)-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFHPn,343,101.325,1244,Sanchez (2008),Density,Liquid,ABcrZC,Cn1cc[n+](CCCN)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-aminopropyl)-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFHPn,353,101.325,1237.2,Sanchez (2008),Density,Liquid,ABcrZC,Cn1cc[n+](CCCN)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-aminopropyl)-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,

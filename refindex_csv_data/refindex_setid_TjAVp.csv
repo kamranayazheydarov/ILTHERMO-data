@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+TjAVp,298.15,101.325,1.5209,Yu et al. (2012),Refractive index,Liquid,ABCtec,CCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-butyl-3-methylimidazolium (S)-2-amino-4-carboxybutanoate,,,,,,,
+TjAVp,303.15,101.325,1.5194,Yu et al. (2012),Refractive index,Liquid,ABCtec,CCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-butyl-3-methylimidazolium (S)-2-amino-4-carboxybutanoate,,,,,,,
+TjAVp,308.15,101.325,1.5182,Yu et al. (2012),Refractive index,Liquid,ABCtec,CCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-butyl-3-methylimidazolium (S)-2-amino-4-carboxybutanoate,,,,,,,
+TjAVp,313.15,101.325,1.5168,Yu et al. (2012),Refractive index,Liquid,ABCtec,CCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-butyl-3-methylimidazolium (S)-2-amino-4-carboxybutanoate,,,,,,,

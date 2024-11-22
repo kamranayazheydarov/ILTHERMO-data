@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+hQcbJ,273.15,101.325,1394.8,Safarov et al. (2013b),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+hQcbJ,283.15,101.325,1385.8,Safarov et al. (2013b),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+hQcbJ,293.15,101.325,1376.8,Safarov et al. (2013b),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+hQcbJ,298.15,101.325,1372.3,Safarov et al. (2013b),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+hQcbJ,313.15,101.325,1358.7,Safarov et al. (2013b),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+hQcbJ,333.15,101.325,1340.5,Safarov et al. (2013b),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+hQcbJ,353.15,101.325,1322.2,Safarov et al. (2013b),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+hQcbJ,373.15,101.325,1303.8,Safarov et al. (2013b),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+hQcbJ,393.15,101.325,1285.3,Safarov et al. (2013b),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+hQcbJ,413.15,101.325,1266.7,Safarov et al. (2013b),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

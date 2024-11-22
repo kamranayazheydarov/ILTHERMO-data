@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VXbXP,303.15,101.325,1061.7,Ghanem et al. (2015a),Density,Liquid,ABKoWQ,CCCCCCCCn1cc[n+](C)c1.NC(=O)C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-asparaginate,,,,,,
+VXbXP,313.15,101.325,1057.2,Ghanem et al. (2015a),Density,Liquid,ABKoWQ,CCCCCCCCn1cc[n+](C)c1.NC(=O)C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-asparaginate,,,,,,
+VXbXP,323.15,101.325,1052.2,Ghanem et al. (2015a),Density,Liquid,ABKoWQ,CCCCCCCCn1cc[n+](C)c1.NC(=O)C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-asparaginate,,,,,,
+VXbXP,333.15,101.325,1048.6,Ghanem et al. (2015a),Density,Liquid,ABKoWQ,CCCCCCCCn1cc[n+](C)c1.NC(=O)C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-asparaginate,,,,,,
+VXbXP,343.15,101.325,1044.1,Ghanem et al. (2015a),Density,Liquid,ABKoWQ,CCCCCCCCn1cc[n+](C)c1.NC(=O)C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-asparaginate,,,,,,
+VXbXP,353.15,101.325,1039,Ghanem et al. (2015a),Density,Liquid,ABKoWQ,CCCCCCCCn1cc[n+](C)c1.NC(=O)C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-asparaginate,,,,,,
+VXbXP,363.15,101.325,1034.4,Ghanem et al. (2015a),Density,Liquid,ABKoWQ,CCCCCCCCn1cc[n+](C)c1.NC(=O)C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-asparaginate,,,,,,
+VXbXP,373.15,101.325,1030.1,Ghanem et al. (2015a),Density,Liquid,ABKoWQ,CCCCCCCCn1cc[n+](C)c1.NC(=O)C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-asparaginate,,,,,,

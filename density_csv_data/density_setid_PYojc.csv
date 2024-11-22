@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PYojc,313.15,101.325,1178,Schreiner et al. (2010b),Density,Liquid,AAzSjI,CC[N+](CC)(CC)CC.O=C1O[B-](F)(F)OC1=O,tetraethylammonium difluoromono(oxalato)borate,,,,,,
+PYojc,323.15,101.325,1171,Schreiner et al. (2010b),Density,Liquid,AAzSjI,CC[N+](CC)(CC)CC.O=C1O[B-](F)(F)OC1=O,tetraethylammonium difluoromono(oxalato)borate,,,,,,
+PYojc,333.15,101.325,1163,Schreiner et al. (2010b),Density,Liquid,AAzSjI,CC[N+](CC)(CC)CC.O=C1O[B-](F)(F)OC1=O,tetraethylammonium difluoromono(oxalato)borate,,,,,,

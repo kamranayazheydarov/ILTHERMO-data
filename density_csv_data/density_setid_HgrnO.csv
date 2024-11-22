@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HgrnO,303,101.325,974,Curnow et al. (2018),Density,Liquid,ABUBNX,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCC)CCCC,bis(diethylamino)(dibutylamino)cyclopropenium dicyanamide,,,,,,
+HgrnO,313,101.325,968,Curnow et al. (2018),Density,Liquid,ABUBNX,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCC)CCCC,bis(diethylamino)(dibutylamino)cyclopropenium dicyanamide,,,,,,
+HgrnO,323,101.325,962,Curnow et al. (2018),Density,Liquid,ABUBNX,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCC)CCCC,bis(diethylamino)(dibutylamino)cyclopropenium dicyanamide,,,,,,
+HgrnO,333,101.325,955,Curnow et al. (2018),Density,Liquid,ABUBNX,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCC)CCCC,bis(diethylamino)(dibutylamino)cyclopropenium dicyanamide,,,,,,
+HgrnO,343,101.325,949,Curnow et al. (2018),Density,Liquid,ABUBNX,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCC)CCCC,bis(diethylamino)(dibutylamino)cyclopropenium dicyanamide,,,,,,
+HgrnO,353,101.325,943,Curnow et al. (2018),Density,Liquid,ABUBNX,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCC)CCCC,bis(diethylamino)(dibutylamino)cyclopropenium dicyanamide,,,,,,
+HgrnO,363,101.325,937,Curnow et al. (2018),Density,Liquid,ABUBNX,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCC)CCCC,bis(diethylamino)(dibutylamino)cyclopropenium dicyanamide,,,,,,

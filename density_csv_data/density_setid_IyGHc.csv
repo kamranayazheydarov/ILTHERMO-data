@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IyGHc,293.15,101,1163.7,Gonfa et al. (2015a),Density,Liquid,AAtXKX,CCCCn1cc[n+](CCC#N)c1.N#C[S-],3-butyl-1-(2-cyanoethyl)-imidazolium thiocyanate,,,,,,
+IyGHc,298.15,101,1160.5,Gonfa et al. (2015a),Density,Liquid,AAtXKX,CCCCn1cc[n+](CCC#N)c1.N#C[S-],3-butyl-1-(2-cyanoethyl)-imidazolium thiocyanate,,,,,,
+IyGHc,303.15,101,1157.2,Gonfa et al. (2015a),Density,Liquid,AAtXKX,CCCCn1cc[n+](CCC#N)c1.N#C[S-],3-butyl-1-(2-cyanoethyl)-imidazolium thiocyanate,,,,,,
+IyGHc,308.15,101,1154.1,Gonfa et al. (2015a),Density,Liquid,AAtXKX,CCCCn1cc[n+](CCC#N)c1.N#C[S-],3-butyl-1-(2-cyanoethyl)-imidazolium thiocyanate,,,,,,
+IyGHc,313.15,101,1150.9,Gonfa et al. (2015a),Density,Liquid,AAtXKX,CCCCn1cc[n+](CCC#N)c1.N#C[S-],3-butyl-1-(2-cyanoethyl)-imidazolium thiocyanate,,,,,,
+IyGHc,318.15,101,1147.7,Gonfa et al. (2015a),Density,Liquid,AAtXKX,CCCCn1cc[n+](CCC#N)c1.N#C[S-],3-butyl-1-(2-cyanoethyl)-imidazolium thiocyanate,,,,,,
+IyGHc,323.15,101,1144.5,Gonfa et al. (2015a),Density,Liquid,AAtXKX,CCCCn1cc[n+](CCC#N)c1.N#C[S-],3-butyl-1-(2-cyanoethyl)-imidazolium thiocyanate,,,,,,

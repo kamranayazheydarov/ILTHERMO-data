@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+FfrmM,283.15,101.325,1.4561,Koller et al. (2014),Refractive index,Liquid,AAwtfy,CCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-butyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,,
+FfrmM,293.15,101.325,1.4533,Koller et al. (2014),Refractive index,Liquid,AAwtfy,CCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-butyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,,
+FfrmM,303.15,101.325,1.45,Koller et al. (2014),Refractive index,Liquid,AAwtfy,CCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-butyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,,
+FfrmM,313.15,101.325,1.4473,Koller et al. (2014),Refractive index,Liquid,AAwtfy,CCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-butyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,,

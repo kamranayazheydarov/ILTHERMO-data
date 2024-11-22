@@ -1,0 +1,9 @@
+setid,"Temperature, K","Mole fraction of 1,4-butanediol","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NqosI,298.15,0.19,100,0.0001368,Turnaoglu et al. (2019b),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+NqosI,298.15,0.978,100,9.18e-05,Turnaoglu et al. (2019b),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+NqosI,303.15,0.24,100,0.0001346,Turnaoglu et al. (2019b),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+NqosI,303.15,0.962,100,9.26e-05,Turnaoglu et al. (2019b),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+NqosI,308.15,0.251,100,0.0001345,Turnaoglu et al. (2019b),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+NqosI,308.15,0.957,100,9.33e-05,Turnaoglu et al. (2019b),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+NqosI,313.15,0.326,100,0.0001286,Turnaoglu et al. (2019b),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+NqosI,313.15,0.944,100,9.04e-05,Turnaoglu et al. (2019b),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,

@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mAGFp,283.15,101.325,1197.2,Peng et al. (2021),Density,Liquid,ABGIXZ,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C([C@@H](C(=O)[O-])N)O,N-butyltropinium L-serinate,,,,,,
+mAGFp,288.15,101.325,1186.1,Peng et al. (2021),Density,Liquid,ABGIXZ,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C([C@@H](C(=O)[O-])N)O,N-butyltropinium L-serinate,,,,,,
+mAGFp,293.15,101.325,1176.3,Peng et al. (2021),Density,Liquid,ABGIXZ,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C([C@@H](C(=O)[O-])N)O,N-butyltropinium L-serinate,,,,,,
+mAGFp,298.15,101.325,1166.8,Peng et al. (2021),Density,Liquid,ABGIXZ,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C([C@@H](C(=O)[O-])N)O,N-butyltropinium L-serinate,,,,,,
+mAGFp,303.15,101.325,1154.7,Peng et al. (2021),Density,Liquid,ABGIXZ,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C([C@@H](C(=O)[O-])N)O,N-butyltropinium L-serinate,,,,,,
+mAGFp,308.15,101.325,1142.7,Peng et al. (2021),Density,Liquid,ABGIXZ,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C([C@@H](C(=O)[O-])N)O,N-butyltropinium L-serinate,,,,,,
+mAGFp,313.15,101.325,1133.8,Peng et al. (2021),Density,Liquid,ABGIXZ,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C([C@@H](C(=O)[O-])N)O,N-butyltropinium L-serinate,,,,,,
+mAGFp,318.15,101.325,1122.9,Peng et al. (2021),Density,Liquid,ABGIXZ,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C([C@@H](C(=O)[O-])N)O,N-butyltropinium L-serinate,,,,,,
+mAGFp,323.15,101.325,1110.2,Peng et al. (2021),Density,Liquid,ABGIXZ,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C([C@@H](C(=O)[O-])N)O,N-butyltropinium L-serinate,,,,,,
+mAGFp,328.15,101.325,1096.3,Peng et al. (2021),Density,Liquid,ABGIXZ,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C([C@@H](C(=O)[O-])N)O,N-butyltropinium L-serinate,,,,,,

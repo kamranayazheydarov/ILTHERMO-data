@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+AKUUz,288.15,100,1131.6,Wang et al. (2021a),Density,Liquid,AArlns,CCCC[n+]1ccn(C)c1C.NCC(=O)[O-],"1-butyl-2,3-dimethylimidazolium glycinate",,,,,,
+AKUUz,293.15,100,1128.5,Wang et al. (2021a),Density,Liquid,AArlns,CCCC[n+]1ccn(C)c1C.NCC(=O)[O-],"1-butyl-2,3-dimethylimidazolium glycinate",,,,,,
+AKUUz,298.15,100,1125.4,Wang et al. (2021a),Density,Liquid,AArlns,CCCC[n+]1ccn(C)c1C.NCC(=O)[O-],"1-butyl-2,3-dimethylimidazolium glycinate",,,,,,
+AKUUz,303.15,100,1122.2,Wang et al. (2021a),Density,Liquid,AArlns,CCCC[n+]1ccn(C)c1C.NCC(=O)[O-],"1-butyl-2,3-dimethylimidazolium glycinate",,,,,,
+AKUUz,308.15,100,1119,Wang et al. (2021a),Density,Liquid,AArlns,CCCC[n+]1ccn(C)c1C.NCC(=O)[O-],"1-butyl-2,3-dimethylimidazolium glycinate",,,,,,
+AKUUz,313.15,100,1115.9,Wang et al. (2021a),Density,Liquid,AArlns,CCCC[n+]1ccn(C)c1C.NCC(=O)[O-],"1-butyl-2,3-dimethylimidazolium glycinate",,,,,,
+AKUUz,318.15,100,1112.6,Wang et al. (2021a),Density,Liquid,AArlns,CCCC[n+]1ccn(C)c1C.NCC(=O)[O-],"1-butyl-2,3-dimethylimidazolium glycinate",,,,,,
+AKUUz,323.15,100,1109.5,Wang et al. (2021a),Density,Liquid,AArlns,CCCC[n+]1ccn(C)c1C.NCC(=O)[O-],"1-butyl-2,3-dimethylimidazolium glycinate",,,,,,
+AKUUz,328.15,100,1106.4,Wang et al. (2021a),Density,Liquid,AArlns,CCCC[n+]1ccn(C)c1C.NCC(=O)[O-],"1-butyl-2,3-dimethylimidazolium glycinate",,,,,,

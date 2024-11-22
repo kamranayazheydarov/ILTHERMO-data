@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vDexs,293.15,101.325,1190.6,Ayad et al. (2015),Density,Liquid,AAnhGV,CC[n+]1ccn(C)c1.CO[PH](=O)[O-],1-ethyl-3-methylimidazolium methyl phosphonate,,,,,,
+vDexs,303.15,101.325,1184.1,Ayad et al. (2015),Density,Liquid,AAnhGV,CC[n+]1ccn(C)c1.CO[PH](=O)[O-],1-ethyl-3-methylimidazolium methyl phosphonate,,,,,,
+vDexs,313.15,101.325,1180.1,Ayad et al. (2015),Density,Liquid,AAnhGV,CC[n+]1ccn(C)c1.CO[PH](=O)[O-],1-ethyl-3-methylimidazolium methyl phosphonate,,,,,,
+vDexs,323.15,101.325,1174,Ayad et al. (2015),Density,Liquid,AAnhGV,CC[n+]1ccn(C)c1.CO[PH](=O)[O-],1-ethyl-3-methylimidazolium methyl phosphonate,,,,,,
+vDexs,333.15,101.325,1168.7,Ayad et al. (2015),Density,Liquid,AAnhGV,CC[n+]1ccn(C)c1.CO[PH](=O)[O-],1-ethyl-3-methylimidazolium methyl phosphonate,,,,,,
+vDexs,343.15,101.325,1163.2,Ayad et al. (2015),Density,Liquid,AAnhGV,CC[n+]1ccn(C)c1.CO[PH](=O)[O-],1-ethyl-3-methylimidazolium methyl phosphonate,,,,,,

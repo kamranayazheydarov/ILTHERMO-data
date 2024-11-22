@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+LedOE,293.15,101.325,1.4419,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,
+LedOE,298.15,101.325,1.44,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,
+LedOE,303.15,101.325,1.438,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,
+LedOE,308.15,101.325,1.4361,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,
+LedOE,313.15,101.325,1.4342,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,
+LedOE,318.15,101.325,1.4322,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,
+LedOE,323.15,101.325,1.4302,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,
+LedOE,328.15,101.325,1.4282,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,
+LedOE,333.15,101.325,1.4262,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,
+LedOE,338.15,101.325,1.4241,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,
+LedOE,343.15,101.325,1.4221,Keshapolla et al. (2019),Refractive index,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,,

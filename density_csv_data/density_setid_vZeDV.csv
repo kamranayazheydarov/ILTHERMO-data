@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vZeDV,293.15,101.325,1070.1,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,
+vZeDV,298.15,101.325,1067.4,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,
+vZeDV,303.15,101.325,1064.6,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,
+vZeDV,308.15,101.325,1061.9,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,
+vZeDV,313.15,101.325,1059.2,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,
+vZeDV,318.15,101.325,1056.4,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,
+vZeDV,323.15,101.325,1053.6,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,
+vZeDV,328.15,101.325,1050.9,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,
+vZeDV,333.15,101.325,1048.2,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,
+vZeDV,338.15,101.325,1045.5,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,
+vZeDV,343.15,101.325,1042.9,Patinha et al. (2015),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,,,,,,

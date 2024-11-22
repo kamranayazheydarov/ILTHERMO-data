@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of 1-ethyl-3-methylimidazolium chloride,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MxDeK,298.15,101,0.667,1163.6,Long et al. (2020b),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MxDeK,303.15,101,0.667,1160.7,Long et al. (2020b),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MxDeK,313.15,101,0.667,1154.8,Long et al. (2020b),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MxDeK,323.15,101,0.667,1148.9,Long et al. (2020b),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MxDeK,333.15,101,0.667,1143.1,Long et al. (2020b),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AARkmK,OCC(O)CO,glycerol,,,

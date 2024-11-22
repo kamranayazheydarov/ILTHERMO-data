@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of tetrabutylphosphonium bromide,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SLjny,293.15,101.3,0.333,1116.5,Al-Ghamdi et al. (2022),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AARkmK,OCC(O)CO,glycerol,,,
+SLjny,298.15,101.3,0.333,1113,Al-Ghamdi et al. (2022),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AARkmK,OCC(O)CO,glycerol,,,
+SLjny,303.15,101.3,0.333,1109.7,Al-Ghamdi et al. (2022),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AARkmK,OCC(O)CO,glycerol,,,
+SLjny,308.15,101.3,0.333,1106.4,Al-Ghamdi et al. (2022),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AARkmK,OCC(O)CO,glycerol,,,
+SLjny,313.15,101.3,0.333,1103.2,Al-Ghamdi et al. (2022),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AARkmK,OCC(O)CO,glycerol,,,
+SLjny,318.15,101.3,0.333,1099.8,Al-Ghamdi et al. (2022),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AARkmK,OCC(O)CO,glycerol,,,
+SLjny,323.15,101.3,0.333,1096.6,Al-Ghamdi et al. (2022),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AARkmK,OCC(O)CO,glycerol,,,

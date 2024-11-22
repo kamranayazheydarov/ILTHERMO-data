@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+tsMoB,293.15,101.325,1050.71,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,
+tsMoB,298.15,101.325,1046.06,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,
+tsMoB,303.15,101.325,1041.42,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,
+tsMoB,308.15,101.325,1036.77,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,
+tsMoB,313.15,101.325,1032.12,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,
+tsMoB,318.15,101.325,1027.46,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,
+tsMoB,323.15,101.325,1022.79,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,
+tsMoB,328.15,101.325,1018.12,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,
+tsMoB,333.15,101.325,1013.44,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,
+tsMoB,338.15,101.325,1008.75,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,
+tsMoB,343.15,101.325,1004.05,Panda and Gardas (2015),Density,Liquid,AAefzT,CC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium acetate,,,,,,

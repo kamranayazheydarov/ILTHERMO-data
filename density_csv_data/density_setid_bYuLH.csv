@@ -1,0 +1,12 @@
+setid,Mole fraction of butanone,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bYuLH,0.0471,100,298.15,889.1,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+bYuLH,0.0996,100,298.15,888.6,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+bYuLH,0.198,100,298.15,887.1,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+bYuLH,0.2994,100,298.15,885.4,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+bYuLH,0.3986,100,298.15,883.3,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+bYuLH,0.4996,100,298.15,880.3,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+bYuLH,0.5997,100,298.15,876.1,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+bYuLH,0.6991,100,298.15,870,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+bYuLH,0.7992,100,298.15,860.1,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+bYuLH,0.9001,100,298.15,842,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+bYuLH,0.95,100,298.15,826.3,Lee et al. (2017),Density,Liquid,AANtck,CCC(C)=O,butanone,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+flrGY,288.15,101.325,1108.1,Vatascin and Dohnal (2017),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+flrGY,293.15,101.325,1104.8,Vatascin and Dohnal (2017),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+flrGY,298.15,101.325,1101.4,Vatascin and Dohnal (2017),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+flrGY,303.15,101.325,1098.1,Vatascin and Dohnal (2017),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+flrGY,308.15,101.325,1094.8,Vatascin and Dohnal (2017),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+flrGY,313.15,101.325,1091.5,Vatascin and Dohnal (2017),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+flrGY,318.15,101.325,1088.3,Vatascin and Dohnal (2017),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,

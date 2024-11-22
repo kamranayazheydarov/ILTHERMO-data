@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EZACT,303.15,101,1298.4,Ge et al. (2008d),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EZACT,308.15,101,1294.9,Ge et al. (2008d),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EZACT,313.15,101,1291.4,Ge et al. (2008d),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EZACT,318.15,101,1287.8,Ge et al. (2008d),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EZACT,323.15,101,1284.4,Ge et al. (2008d),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EZACT,333.15,101,1277.4,Ge et al. (2008d),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+EZACT,343.15,101,1270.5,Ge et al. (2008d),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

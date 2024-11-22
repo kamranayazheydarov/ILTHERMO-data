@@ -1,0 +1,6 @@
+setid,Mole fraction of lithium bis((trifluoromethyl)sulfonyl)amide,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZWbei,0.1,101,303.15,1367,Nakanishi et al. (2019),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AAXFYs,O=S1(=O)CCCC1,sulfolane,,,
+ZWbei,0.111,101,303.15,1377,Nakanishi et al. (2019),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AAXFYs,O=S1(=O)CCCC1,sulfolane,,,
+ZWbei,0.2,101,303.15,1459,Nakanishi et al. (2019),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AAXFYs,O=S1(=O)CCCC1,sulfolane,,,
+ZWbei,0.25,101,303.15,1502,Nakanishi et al. (2019),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AAXFYs,O=S1(=O)CCCC1,sulfolane,,,
+ZWbei,0.333,101,303.15,1568,Nakanishi et al. (2019),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AAXFYs,O=S1(=O)CCCC1,sulfolane,,,

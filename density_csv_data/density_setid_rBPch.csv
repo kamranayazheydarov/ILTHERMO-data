@@ -1,0 +1,4 @@
+setid,Solvent: Weight fraction of diethylammonium hydrogen sulfate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rBPch,0.113,298.15,101,1113.13,Vasantha et al. (2013),Density,Liquid,Crystal of pure component 1,,3,AAZfHj,O=C(O)CNCC(=O)O,N-(carboxymethyl)glycine,AADYJk,O,water
+rBPch,0.178,298.15,101,1148.7,Vasantha et al. (2013),Density,Liquid,Crystal of pure component 1,,3,AAZfHj,O=C(O)CNCC(=O)O,N-(carboxymethyl)glycine,AADYJk,O,water
+rBPch,0.239,298.15,101,1159.01,Vasantha et al. (2013),Density,Liquid,Crystal of pure component 1,,3,AAZfHj,O=C(O)CNCC(=O)O,N-(carboxymethyl)glycine,AADYJk,O,water

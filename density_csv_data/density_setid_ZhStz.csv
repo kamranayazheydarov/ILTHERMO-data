@@ -1,0 +1,14 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZhStz,297.8,99,0.00027,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,298.1,1200,0.000189,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,298.2,2310,0.000155,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,298.2,5960,8.6e-05,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,298.3,3550,0.000124,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,298.4,4990,0.000105,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,313.1,98,0.000268,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,313.1,1040,0.000262,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,313.1,2370,0.000218,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,313.1,3290,0.000205,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,313.1,4350,0.000173,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,313.1,5930,0.000163,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+ZhStz,313.1,8020,0.000134,Mejia et al. (2013),Density,Liquid,Gas,,13,AAIYzl,O=C=O,carbon dioxide,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate

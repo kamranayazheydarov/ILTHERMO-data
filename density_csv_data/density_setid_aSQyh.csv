@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+aSQyh,298.15,101.325,1129.3,Xu et al. (2013b),Density,Liquid,AApKJX,CCCC[n+]1ccn(C)c1.O=C([O-])CO,1-butyl-3-methylimidazolium glycolate,,,,,,
+aSQyh,303.15,101.325,1126,Xu et al. (2013b),Density,Liquid,AApKJX,CCCC[n+]1ccn(C)c1.O=C([O-])CO,1-butyl-3-methylimidazolium glycolate,,,,,,
+aSQyh,313.15,101.325,1119,Xu et al. (2013b),Density,Liquid,AApKJX,CCCC[n+]1ccn(C)c1.O=C([O-])CO,1-butyl-3-methylimidazolium glycolate,,,,,,
+aSQyh,323.15,101.325,1111.8,Xu et al. (2013b),Density,Liquid,AApKJX,CCCC[n+]1ccn(C)c1.O=C([O-])CO,1-butyl-3-methylimidazolium glycolate,,,,,,
+aSQyh,333.15,101.325,1104.3,Xu et al. (2013b),Density,Liquid,AApKJX,CCCC[n+]1ccn(C)c1.O=C([O-])CO,1-butyl-3-methylimidazolium glycolate,,,,,,
+aSQyh,343.15,101.325,1097.7,Xu et al. (2013b),Density,Liquid,AApKJX,CCCC[n+]1ccn(C)c1.O=C([O-])CO,1-butyl-3-methylimidazolium glycolate,,,,,,

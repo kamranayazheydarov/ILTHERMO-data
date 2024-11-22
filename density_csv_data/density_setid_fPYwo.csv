@@ -1,0 +1,18 @@
+setid,"Temperature, K",Mole fraction of octane,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fPYwo,283.15,0,101,1198.57,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,283.15,0.001,101,1203.34,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,283.15,0.001,101,1224.77,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,283.15,0.002,101,1215.97,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,283.15,0.002,101,1237.08,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,283.15,0.003,101,1244.78,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,283.15,0.003,101,1252.65,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,283.15,0.004,101,1260.58,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,298.15,0,101,1171.69,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,298.15,0.001,101,1184.28,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,298.15,0.001,101,1196.36,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,298.15,0.001,101,1205.23,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,298.15,0.001,101,1214.81,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,298.15,0.001,101,1226.96,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,298.15,0.003,101,1236.46,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,298.15,0.004,101,1242.63,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane
+fPYwo,298.15,0.005,101,1251.45,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,17,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane

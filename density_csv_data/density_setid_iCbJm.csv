@@ -1,0 +1,10 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iCbJm,86,293.15,1002.7,Shokri et al. (2019),Density,Liquid,ABHumb,CCCCCCCCCC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-decyl-3-methylimidazolium L-alaninate,,,,,,
+iCbJm,86,298.15,999.6,Shokri et al. (2019),Density,Liquid,ABHumb,CCCCCCCCCC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-decyl-3-methylimidazolium L-alaninate,,,,,,
+iCbJm,86,303.15,996.2,Shokri et al. (2019),Density,Liquid,ABHumb,CCCCCCCCCC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-decyl-3-methylimidazolium L-alaninate,,,,,,
+iCbJm,86,308.15,992.9,Shokri et al. (2019),Density,Liquid,ABHumb,CCCCCCCCCC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-decyl-3-methylimidazolium L-alaninate,,,,,,
+iCbJm,86,313.15,989.8,Shokri et al. (2019),Density,Liquid,ABHumb,CCCCCCCCCC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-decyl-3-methylimidazolium L-alaninate,,,,,,
+iCbJm,86,318.15,986.7,Shokri et al. (2019),Density,Liquid,ABHumb,CCCCCCCCCC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-decyl-3-methylimidazolium L-alaninate,,,,,,
+iCbJm,86,323.15,983.6,Shokri et al. (2019),Density,Liquid,ABHumb,CCCCCCCCCC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-decyl-3-methylimidazolium L-alaninate,,,,,,
+iCbJm,86,328.15,980.6,Shokri et al. (2019),Density,Liquid,ABHumb,CCCCCCCCCC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-decyl-3-methylimidazolium L-alaninate,,,,,,
+iCbJm,86,333.15,977.4,Shokri et al. (2019),Density,Liquid,ABHumb,CCCCCCCCCC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-decyl-3-methylimidazolium L-alaninate,,,,,,

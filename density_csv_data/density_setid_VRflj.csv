@@ -1,0 +1,11 @@
+setid,"Temperature, K","MolaLity of 1-methylimidazolium chloride, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VRflj,288.15,0.1059,100,1001.8,Pal et al. (2015b),Density,Liquid,AADYJk,O,water,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,
+VRflj,288.15,0.2999,100,1006.7,Pal et al. (2015b),Density,Liquid,AADYJk,O,water,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,
+VRflj,293.15,0.1059,100,1000.7,Pal et al. (2015b),Density,Liquid,AADYJk,O,water,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,
+VRflj,293.15,0.2999,100,1005.7,Pal et al. (2015b),Density,Liquid,AADYJk,O,water,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,
+VRflj,298.15,0.1059,100,999.6,Pal et al. (2015b),Density,Liquid,AADYJk,O,water,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,
+VRflj,298.15,0.2999,100,1004.1,Pal et al. (2015b),Density,Liquid,AADYJk,O,water,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,
+VRflj,303.15,0.1059,100,998,Pal et al. (2015b),Density,Liquid,AADYJk,O,water,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,
+VRflj,303.15,0.2999,100,1002.9,Pal et al. (2015b),Density,Liquid,AADYJk,O,water,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,
+VRflj,308.15,0.1059,100,996.6,Pal et al. (2015b),Density,Liquid,AADYJk,O,water,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,
+VRflj,308.15,0.2999,100,1001.2,Pal et al. (2015b),Density,Liquid,AADYJk,O,water,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,

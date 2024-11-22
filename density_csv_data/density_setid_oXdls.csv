@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oXdls,293.15,101.325,1638.5,Jacquemin et al. (2008b),Density,Liquid,ACHoqE,CCCC[n+]1ccccc1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butylpyridinium trifluorotris(perfluoroethyl)phosphate,,,,,,
+oXdls,298.15,101.325,1633,Jacquemin et al. (2008b),Density,Liquid,ACHoqE,CCCC[n+]1ccccc1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butylpyridinium trifluorotris(perfluoroethyl)phosphate,,,,,,
+oXdls,303.15,101.325,1627.6,Jacquemin et al. (2008b),Density,Liquid,ACHoqE,CCCC[n+]1ccccc1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butylpyridinium trifluorotris(perfluoroethyl)phosphate,,,,,,
+oXdls,313.15,101.325,1616.6,Jacquemin et al. (2008b),Density,Liquid,ACHoqE,CCCC[n+]1ccccc1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butylpyridinium trifluorotris(perfluoroethyl)phosphate,,,,,,
+oXdls,323.15,101.325,1605.6,Jacquemin et al. (2008b),Density,Liquid,ACHoqE,CCCC[n+]1ccccc1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butylpyridinium trifluorotris(perfluoroethyl)phosphate,,,,,,
+oXdls,333.15,101.325,1594.7,Jacquemin et al. (2008b),Density,Liquid,ACHoqE,CCCC[n+]1ccccc1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butylpyridinium trifluorotris(perfluoroethyl)phosphate,,,,,,
+oXdls,343.15,101.325,1583.8,Jacquemin et al. (2008b),Density,Liquid,ACHoqE,CCCC[n+]1ccccc1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butylpyridinium trifluorotris(perfluoroethyl)phosphate,,,,,,
+oXdls,353.15,101.325,1572.9,Jacquemin et al. (2008b),Density,Liquid,ACHoqE,CCCC[n+]1ccccc1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butylpyridinium trifluorotris(perfluoroethyl)phosphate,,,,,,
+oXdls,363.15,101.325,1562,Jacquemin et al. (2008b),Density,Liquid,ACHoqE,CCCC[n+]1ccccc1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butylpyridinium trifluorotris(perfluoroethyl)phosphate,,,,,,

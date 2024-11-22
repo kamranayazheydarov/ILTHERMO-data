@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+aMzUB,288.15,100,1107.1,Wang et al. (2022f),Density,Liquid,AApKPw,C(C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium acetate,,,,,,
+aMzUB,293.15,100,1103.6,Wang et al. (2022f),Density,Liquid,AApKPw,C(C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium acetate,,,,,,
+aMzUB,298.15,100,1100.1,Wang et al. (2022f),Density,Liquid,AApKPw,C(C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium acetate,,,,,,
+aMzUB,303.15,100,1096.6,Wang et al. (2022f),Density,Liquid,AApKPw,C(C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium acetate,,,,,,
+aMzUB,308.15,100,1093.2,Wang et al. (2022f),Density,Liquid,AApKPw,C(C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium acetate,,,,,,
+aMzUB,313.15,100,1089.7,Wang et al. (2022f),Density,Liquid,AApKPw,C(C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium acetate,,,,,,
+aMzUB,318.15,100,1086.2,Wang et al. (2022f),Density,Liquid,AApKPw,C(C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium acetate,,,,,,

@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+blrLo,298.15,101.3,1212.1,Singh et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+blrLo,303.15,101.3,1208.7,Singh et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+blrLo,308.15,101.3,1205.3,Singh et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+blrLo,313.15,101.3,1202,Singh et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,

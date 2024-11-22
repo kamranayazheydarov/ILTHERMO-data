@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Hvzkx,298.15,101,986.8,Wang et al. (2012e),Density,Liquid,ABPBeu,CCCC[P+](CCCC)(CCCC)CCCN.C[C@H](N)C(=O)[O-],(3-aminopropyl)tributylphosphonium L-alaninate,,,,,,
+Hvzkx,303.15,101,983.7,Wang et al. (2012e),Density,Liquid,ABPBeu,CCCC[P+](CCCC)(CCCC)CCCN.C[C@H](N)C(=O)[O-],(3-aminopropyl)tributylphosphonium L-alaninate,,,,,,
+Hvzkx,313.15,101,977.6,Wang et al. (2012e),Density,Liquid,ABPBeu,CCCC[P+](CCCC)(CCCC)CCCN.C[C@H](N)C(=O)[O-],(3-aminopropyl)tributylphosphonium L-alaninate,,,,,,
+Hvzkx,323.15,101,971.6,Wang et al. (2012e),Density,Liquid,ABPBeu,CCCC[P+](CCCC)(CCCC)CCCN.C[C@H](N)C(=O)[O-],(3-aminopropyl)tributylphosphonium L-alaninate,,,,,,
+Hvzkx,333.15,101,965.7,Wang et al. (2012e),Density,Liquid,ABPBeu,CCCC[P+](CCCC)(CCCC)CCCN.C[C@H](N)C(=O)[O-],(3-aminopropyl)tributylphosphonium L-alaninate,,,,,,
+Hvzkx,343.15,101,960,Wang et al. (2012e),Density,Liquid,ABPBeu,CCCC[P+](CCCC)(CCCC)CCCN.C[C@H](N)C(=O)[O-],(3-aminopropyl)tributylphosphonium L-alaninate,,,,,,

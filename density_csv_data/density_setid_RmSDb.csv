@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RmSDb,273.15,101.325,1210.9,Murray et al. (2013),Density,Liquid,ACOBoS,CCCCCCCC/C=C\CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-oleyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RmSDb,283.15,101.325,1202.6,Murray et al. (2013),Density,Liquid,ACOBoS,CCCCCCCC/C=C\CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-oleyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RmSDb,293.15,101.325,1194.5,Murray et al. (2013),Density,Liquid,ACOBoS,CCCCCCCC/C=C\CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-oleyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RmSDb,303.15,101.325,1186.4,Murray et al. (2013),Density,Liquid,ACOBoS,CCCCCCCC/C=C\CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-oleyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RmSDb,313.15,101.325,1178.4,Murray et al. (2013),Density,Liquid,ACOBoS,CCCCCCCC/C=C\CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-oleyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RmSDb,323.15,101.325,1170.4,Murray et al. (2013),Density,Liquid,ACOBoS,CCCCCCCC/C=C\CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-oleyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RmSDb,333.15,101.325,1162.5,Murray et al. (2013),Density,Liquid,ACOBoS,CCCCCCCC/C=C\CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-oleyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RmSDb,343.15,101.325,1154.6,Murray et al. (2013),Density,Liquid,ACOBoS,CCCCCCCC/C=C\CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-oleyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,

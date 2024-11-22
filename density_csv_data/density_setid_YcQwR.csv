@@ -1,0 +1,4 @@
+setid,"MolaLity of choline lactate, mol/kg","Temperature, K","Pressure, kPa",Solvent: Weight fraction of propan-1-ol,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+YcQwR,0.1,288.15,100,0.8,856.328,Ehsani-Tabar et al. (2022),Density,Liquid,AAlIDA,CC(O)C(=O)[O-].C[N+](C)(C)CCO,choline lactate,AALcLI,CCCO,propan-1-ol,AADYJk,O,water
+YcQwR,0.1,298.15,100,0.8,848.321,Ehsani-Tabar et al. (2022),Density,Liquid,AAlIDA,CC(O)C(=O)[O-].C[N+](C)(C)CCO,choline lactate,AALcLI,CCCO,propan-1-ol,AADYJk,O,water
+YcQwR,0.1,308.15,100,0.8,840.151,Ehsani-Tabar et al. (2022),Density,Liquid,AAlIDA,CC(O)C(=O)[O-].C[N+](C)(C)CCO,choline lactate,AALcLI,CCCO,propan-1-ol,AADYJk,O,water

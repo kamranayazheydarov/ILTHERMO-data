@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CndjO,293,101.325,983,Curnow et al. (2018),Density,Liquid,ABRRPR,[N-](C#N)C#N.c(N(CCCC)C)1c(N(CCCC)C)[c+]1N(CCCC)C,tris(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+CndjO,303,101.325,977,Curnow et al. (2018),Density,Liquid,ABRRPR,[N-](C#N)C#N.c(N(CCCC)C)1c(N(CCCC)C)[c+]1N(CCCC)C,tris(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+CndjO,313,101.325,970,Curnow et al. (2018),Density,Liquid,ABRRPR,[N-](C#N)C#N.c(N(CCCC)C)1c(N(CCCC)C)[c+]1N(CCCC)C,tris(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+CndjO,323,101.325,964,Curnow et al. (2018),Density,Liquid,ABRRPR,[N-](C#N)C#N.c(N(CCCC)C)1c(N(CCCC)C)[c+]1N(CCCC)C,tris(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+CndjO,333,101.325,958,Curnow et al. (2018),Density,Liquid,ABRRPR,[N-](C#N)C#N.c(N(CCCC)C)1c(N(CCCC)C)[c+]1N(CCCC)C,tris(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+CndjO,343,101.325,952,Curnow et al. (2018),Density,Liquid,ABRRPR,[N-](C#N)C#N.c(N(CCCC)C)1c(N(CCCC)C)[c+]1N(CCCC)C,tris(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+CndjO,353,101.325,947,Curnow et al. (2018),Density,Liquid,ABRRPR,[N-](C#N)C#N.c(N(CCCC)C)1c(N(CCCC)C)[c+]1N(CCCC)C,tris(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+CndjO,363,101.325,941,Curnow et al. (2018),Density,Liquid,ABRRPR,[N-](C#N)C#N.c(N(CCCC)C)1c(N(CCCC)C)[c+]1N(CCCC)C,tris(butylmethylamino)cyclopropenium dicyanamide,,,,,,

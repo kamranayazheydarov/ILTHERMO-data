@@ -1,0 +1,12 @@
+setid,Mole fraction of acetonitrile,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WkvCL,0,101,298.15,1212.8,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+WkvCL,0.0798,101,298.15,1208,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+WkvCL,0.1769,101,298.15,1197.8,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+WkvCL,0.2556,101,298.15,1186.9,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+WkvCL,0.3539,101,298.15,1169.9,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+WkvCL,0.4443,101,298.15,1150.8,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+WkvCL,0.547,101,298.15,1123.3,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+WkvCL,0.6553,101,298.15,1084.3,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+WkvCL,0.7649,101,298.15,1027.7,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+WkvCL,0.8457,101,298.15,970.5,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+WkvCL,0.8802,101,298.15,939.8,Li et al. (2007c),Density,Liquid,AAHueB,CC#N,acetonitrile,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,

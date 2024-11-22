@@ -1,0 +1,11 @@
+setid,"Mole fraction of 1,3-dimethylbenzene","Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FPkgM,0,101,283.15,1230.73,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+FPkgM,0.0505,101,283.15,1220.85,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+FPkgM,0.1027,101,283.15,1210.24,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+FPkgM,0.1213,101,283.15,1206.53,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+FPkgM,0.1433,101,283.15,1202.21,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+FPkgM,0.1631,101,283.15,1197.82,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+FPkgM,0.1813,101,283.15,1194,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+FPkgM,0.1962,101,283.15,1192.64,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+FPkgM,0.2016,101,283.15,1191.38,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+FPkgM,1,101,283.15,872.69,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,

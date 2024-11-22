@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oLgpp,296.15,101.325,1491.3,Fredlake et al. (2004),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+oLgpp,303.75,101.325,1485.5,Fredlake et al. (2004),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+oLgpp,313.55,101.325,1476.9,Fredlake et al. (2004),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+oLgpp,323.35,101.325,1468,Fredlake et al. (2004),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+oLgpp,333.65,101.325,1457.2,Fredlake et al. (2004),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,

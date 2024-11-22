@@ -1,0 +1,5 @@
+setid,"MolaLity of sodium dodecyl sulfate, mol/kg","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cjkve,0.05,298.15,101,999.078,Dubey (2010),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,
+cjkve,0.05,308.15,101,995.942,Dubey (2010),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,
+cjkve,0.1,298.15,101,1000.97,Dubey (2010),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,
+cjkve,0.1,308.15,101,997.734,Dubey (2010),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water,,,

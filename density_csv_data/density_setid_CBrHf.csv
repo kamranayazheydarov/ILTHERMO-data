@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CBrHf,283.15,101.325,1492,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,288.15,101.325,1487,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,293.15,101.325,1482,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,298.15,101.325,1477,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,303.15,101.325,1472,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,308.15,101.325,1467,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,313.15,101.325,1463,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,318.15,101.325,1458,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,323.15,101.325,1453,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,328.15,101.325,1449,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,333.15,101.325,1444,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,
+CBrHf,338.15,101.325,1439,Tong et al. (2007),Density,Liquid,ABdaxJ,CCCCCCn1cc[n+](C)c1.Cl[In-](Cl)(Cl)Cl,1-methyl-3-hexylimidazolium chloroindium,,,,,,

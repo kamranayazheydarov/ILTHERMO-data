@@ -1,0 +1,12 @@
+setid,Mole fraction of acetone,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rUveI,0,101,298.15,1364,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+rUveI,0.1006,101,298.15,1355,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+rUveI,0.1935,101,298.15,1333,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+rUveI,0.3033,101,298.15,1302.6,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+rUveI,0.3988,101,298.15,1271.9,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+rUveI,0.4972,101,298.15,1239.5,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+rUveI,0.6016,101,298.15,1189.8,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+rUveI,0.6992,101,298.15,1125.5,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+rUveI,0.7839,101,298.15,1061.3,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+rUveI,0.8433,101,298.15,1000.8,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+rUveI,0.8853,101,298.15,958,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,

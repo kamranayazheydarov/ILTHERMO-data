@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GtJVi,298,101.325,1304.6,Ozdemir and Ozgun (2017),Density,Liquid,ABIwMI,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccc(Cl)cc2)n1C,"1-(4-chlorophenyl)-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,
+GtJVi,308,101.325,1298.5,Ozdemir and Ozgun (2017),Density,Liquid,ABIwMI,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccc(Cl)cc2)n1C,"1-(4-chlorophenyl)-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,
+GtJVi,313,101.325,1292.5,Ozdemir and Ozgun (2017),Density,Liquid,ABIwMI,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccc(Cl)cc2)n1C,"1-(4-chlorophenyl)-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,
+GtJVi,333,101.325,1277.6,Ozdemir and Ozgun (2017),Density,Liquid,ABIwMI,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccc(Cl)cc2)n1C,"1-(4-chlorophenyl)-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,

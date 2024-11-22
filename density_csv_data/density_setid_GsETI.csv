@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GsETI,293.15,101.325,1223.6,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+GsETI,298.15,101.325,1220.2,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+GsETI,303.15,101.325,1217,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+GsETI,308.15,101.325,1213.9,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+GsETI,313.15,101.325,1210.3,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+GsETI,318.15,101.325,1206.8,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+GsETI,323.15,101.325,1203.4,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+GsETI,328.15,101.325,1200.1,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+GsETI,333.15,101.325,1196.8,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+GsETI,338.15,101.325,1193.6,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+GsETI,343.15,101.325,1190.3,Gomez et al. (2010c),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,

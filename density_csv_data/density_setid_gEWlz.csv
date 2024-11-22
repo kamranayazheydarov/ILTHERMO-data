@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+gEWlz,298.15,101,1101.9,Ma et al. (2013b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+gEWlz,303.15,101,1098.8,Ma et al. (2013b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+gEWlz,308.15,101,1095.8,Ma et al. (2013b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+gEWlz,313.15,101,1092.7,Ma et al. (2013b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+gEWlz,318.15,101,1089.7,Ma et al. (2013b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+gEWlz,323.15,101,1086.7,Ma et al. (2013b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+gEWlz,328.15,101,1083.6,Ma et al. (2013b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+gEWlz,333.15,101,1080.6,Ma et al. (2013b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,
+gEWlz,338.15,101,1077.7,Ma et al. (2013b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Xicgs,283.25,101.325,1033.7,Hilder et al. (2020),Density,Liquid,AAlSLJ,CCC[N+]1(C)CCCC1.N#C[N-]C#N,1-methyl-1-propylpyrrolidinium dicyanamide,,,,,,
+Xicgs,293.25,101.325,1027.7,Hilder et al. (2020),Density,Liquid,AAlSLJ,CCC[N+]1(C)CCCC1.N#C[N-]C#N,1-methyl-1-propylpyrrolidinium dicyanamide,,,,,,
+Xicgs,303.15,101.325,1022.5,Hilder et al. (2020),Density,Liquid,AAlSLJ,CCC[N+]1(C)CCCC1.N#C[N-]C#N,1-methyl-1-propylpyrrolidinium dicyanamide,,,,,,
+Xicgs,313.25,101.325,1017.6,Hilder et al. (2020),Density,Liquid,AAlSLJ,CCC[N+]1(C)CCCC1.N#C[N-]C#N,1-methyl-1-propylpyrrolidinium dicyanamide,,,,,,
+Xicgs,323.25,101.325,1011,Hilder et al. (2020),Density,Liquid,AAlSLJ,CCC[N+]1(C)CCCC1.N#C[N-]C#N,1-methyl-1-propylpyrrolidinium dicyanamide,,,,,,
+Xicgs,333.25,101.325,1006.1,Hilder et al. (2020),Density,Liquid,AAlSLJ,CCC[N+]1(C)CCCC1.N#C[N-]C#N,1-methyl-1-propylpyrrolidinium dicyanamide,,,,,,
+Xicgs,343.35,101.325,999.8,Hilder et al. (2020),Density,Liquid,AAlSLJ,CCC[N+]1(C)CCCC1.N#C[N-]C#N,1-methyl-1-propylpyrrolidinium dicyanamide,,,,,,
+Xicgs,353.05,101.325,994.9,Hilder et al. (2020),Density,Liquid,AAlSLJ,CCC[N+]1(C)CCCC1.N#C[N-]C#N,1-methyl-1-propylpyrrolidinium dicyanamide,,,,,,
+Xicgs,363.15,101.325,989.1,Hilder et al. (2020),Density,Liquid,AAlSLJ,CCC[N+]1(C)CCCC1.N#C[N-]C#N,1-methyl-1-propylpyrrolidinium dicyanamide,,,,,,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qaNzC,293,101.325,1277,Walst et al. (2015),Density,Liquid,AByVQP,CCN(CC)c1c(N(CC)CC)[c+]1N(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tris(diethylamino)cyclopropenium bis(trifluoromethansulfonyl)amide,,,,,,
+qaNzC,303,101.325,1269,Walst et al. (2015),Density,Liquid,AByVQP,CCN(CC)c1c(N(CC)CC)[c+]1N(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tris(diethylamino)cyclopropenium bis(trifluoromethansulfonyl)amide,,,,,,
+qaNzC,313,101.325,1260,Walst et al. (2015),Density,Liquid,AByVQP,CCN(CC)c1c(N(CC)CC)[c+]1N(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tris(diethylamino)cyclopropenium bis(trifluoromethansulfonyl)amide,,,,,,
+qaNzC,323,101.325,1251,Walst et al. (2015),Density,Liquid,AByVQP,CCN(CC)c1c(N(CC)CC)[c+]1N(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tris(diethylamino)cyclopropenium bis(trifluoromethansulfonyl)amide,,,,,,
+qaNzC,333,101.325,1243,Walst et al. (2015),Density,Liquid,AByVQP,CCN(CC)c1c(N(CC)CC)[c+]1N(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tris(diethylamino)cyclopropenium bis(trifluoromethansulfonyl)amide,,,,,,
+qaNzC,343,101.325,1234,Walst et al. (2015),Density,Liquid,AByVQP,CCN(CC)c1c(N(CC)CC)[c+]1N(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tris(diethylamino)cyclopropenium bis(trifluoromethansulfonyl)amide,,,,,,
+qaNzC,353,101.325,1226,Walst et al. (2015),Density,Liquid,AByVQP,CCN(CC)c1c(N(CC)CC)[c+]1N(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tris(diethylamino)cyclopropenium bis(trifluoromethansulfonyl)amide,,,,,,
+qaNzC,363,101.325,1217,Walst et al. (2015),Density,Liquid,AByVQP,CCN(CC)c1c(N(CC)CC)[c+]1N(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tris(diethylamino)cyclopropenium bis(trifluoromethansulfonyl)amide,,,,,,

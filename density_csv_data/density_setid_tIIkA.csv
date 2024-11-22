@@ -1,0 +1,13 @@
+setid,Mole fraction of toluene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+tIIkA,0,101,283.15,1034.3,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,0.0494,101,283.15,1031.7,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,0.1031,101,283.15,1028.6,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,0.2071,101,283.15,1022,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,0.306,101,283.15,1014.63,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,0.4079,101,283.15,1005.76,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,0.5128,101,283.15,994.42,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,0.6058,101,283.15,982.37,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,0.6269,101,283.15,979.19,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,0.633,101,283.15,978.02,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,0.6491,101,283.15,975.52,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+tIIkA,1,101,283.15,876.1,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RRKlg,293.15,101.325,1195.4,Tot et al. (2016),Density,Liquid,AAyhgg,CCCC[n+]1ccn(C)c1.NCCS(=O)(=O)[O-],1-butyl-3-methylimidazolium taurate,,,,,,
+RRKlg,298.15,101.325,1192.1,Tot et al. (2016),Density,Liquid,AAyhgg,CCCC[n+]1ccn(C)c1.NCCS(=O)(=O)[O-],1-butyl-3-methylimidazolium taurate,,,,,,
+RRKlg,303.15,101.325,1188.8,Tot et al. (2016),Density,Liquid,AAyhgg,CCCC[n+]1ccn(C)c1.NCCS(=O)(=O)[O-],1-butyl-3-methylimidazolium taurate,,,,,,
+RRKlg,308.15,101.325,1185.4,Tot et al. (2016),Density,Liquid,AAyhgg,CCCC[n+]1ccn(C)c1.NCCS(=O)(=O)[O-],1-butyl-3-methylimidazolium taurate,,,,,,
+RRKlg,313.15,101.325,1182,Tot et al. (2016),Density,Liquid,AAyhgg,CCCC[n+]1ccn(C)c1.NCCS(=O)(=O)[O-],1-butyl-3-methylimidazolium taurate,,,,,,
+RRKlg,318.15,101.325,1178.5,Tot et al. (2016),Density,Liquid,AAyhgg,CCCC[n+]1ccn(C)c1.NCCS(=O)(=O)[O-],1-butyl-3-methylimidazolium taurate,,,,,,
+RRKlg,323.15,101.325,1175.1,Tot et al. (2016),Density,Liquid,AAyhgg,CCCC[n+]1ccn(C)c1.NCCS(=O)(=O)[O-],1-butyl-3-methylimidazolium taurate,,,,,,

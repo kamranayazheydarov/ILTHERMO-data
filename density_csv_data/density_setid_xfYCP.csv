@@ -1,0 +1,13 @@
+setid,Weight fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xfYCP,0.000475,101,298.15,1236.3,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.00754,101,298.15,1234.5,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.014399,101,298.15,1233.9,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.025306,101,298.15,1231.3,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.030466,101,298.15,1230,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.038486,101,298.15,1227.2,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.04185,101,298.15,1228,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.056434,101,298.15,1226.3,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.069373,101,298.15,1222.5,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.075187,101,298.15,1219.5,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.092916,101,298.15,1215.4,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+xfYCP,0.094926,101,298.15,1215,Torrecilla et al. (2008),Density,Liquid,AADYJk,O,water,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,

@@ -1,0 +1,4 @@
+setid,"MolaLity of cholinium propanoate, mol/kg","Temperature, K","Pressure, kPa",Solvent: Weight fraction of propan-1-ol,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xIYxn,0.1,288.15,100,0.8,855.55,Ehsani-Tabar et al. (2022),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,AALcLI,CCCO,propan-1-ol,AADYJk,O,water
+xIYxn,0.1,298.15,100,0.8,847.25,Ehsani-Tabar et al. (2022),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,AALcLI,CCCO,propan-1-ol,AADYJk,O,water
+xIYxn,0.1,308.15,100,0.8,838.926,Ehsani-Tabar et al. (2022),Density,Liquid,AAiEum,CCC(=O)[O-].C[N+](C)(C)CCO,cholinium propanoate,AALcLI,CCCO,propan-1-ol,AADYJk,O,water

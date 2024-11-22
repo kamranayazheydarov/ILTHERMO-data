@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XolnQ,298.15,101.325,1224,AlTuwaim et al. (2014),Density,Liquid,AAtWMw,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-butyl-3-methylimidazolium hydrogen sulfate,,,,,,
+XolnQ,303.15,101.325,1220,AlTuwaim et al. (2014),Density,Liquid,AAtWMw,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-butyl-3-methylimidazolium hydrogen sulfate,,,,,,
+XolnQ,308.15,101.325,1217,AlTuwaim et al. (2014),Density,Liquid,AAtWMw,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-butyl-3-methylimidazolium hydrogen sulfate,,,,,,
+XolnQ,313.15,101.325,1214,AlTuwaim et al. (2014),Density,Liquid,AAtWMw,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-butyl-3-methylimidazolium hydrogen sulfate,,,,,,
+XolnQ,318.15,101.325,1211,AlTuwaim et al. (2014),Density,Liquid,AAtWMw,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-butyl-3-methylimidazolium hydrogen sulfate,,,,,,
+XolnQ,323.15,101.325,1208,AlTuwaim et al. (2014),Density,Liquid,AAtWMw,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-butyl-3-methylimidazolium hydrogen sulfate,,,,,,
+XolnQ,328.15,101.325,1204,AlTuwaim et al. (2014),Density,Liquid,AAtWMw,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-butyl-3-methylimidazolium hydrogen sulfate,,,,,,
+XolnQ,333.15,101.325,1201,AlTuwaim et al. (2014),Density,Liquid,AAtWMw,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-butyl-3-methylimidazolium hydrogen sulfate,,,,,,

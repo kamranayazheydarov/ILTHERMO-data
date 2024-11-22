@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+lGnTc,298.15,101.325,1.4878,Marcinkowski et al. (2019a),Refractive index,Liquid,ABGIns,CC[C@H](C)[C@H](NC(C)=O)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-isoleucinate,,,,,,,
+lGnTc,303.15,101.325,1.4861,Marcinkowski et al. (2019a),Refractive index,Liquid,ABGIns,CC[C@H](C)[C@H](NC(C)=O)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-isoleucinate,,,,,,,
+lGnTc,308.15,101.325,1.4846,Marcinkowski et al. (2019a),Refractive index,Liquid,ABGIns,CC[C@H](C)[C@H](NC(C)=O)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-isoleucinate,,,,,,,
+lGnTc,313.15,101.325,1.4832,Marcinkowski et al. (2019a),Refractive index,Liquid,ABGIns,CC[C@H](C)[C@H](NC(C)=O)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-isoleucinate,,,,,,,
+lGnTc,318.15,101.325,1.4815,Marcinkowski et al. (2019a),Refractive index,Liquid,ABGIns,CC[C@H](C)[C@H](NC(C)=O)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-isoleucinate,,,,,,,

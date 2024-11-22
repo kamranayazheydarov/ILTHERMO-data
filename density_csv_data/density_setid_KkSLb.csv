@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KkSLb,298.15,101.325,998,Kilaru et al. (2007),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+KkSLb,303.15,101.325,996,Kilaru et al. (2007),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+KkSLb,308.15,101.325,993,Kilaru et al. (2007),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+KkSLb,313.15,101.325,990,Kilaru et al. (2007),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+KkSLb,318.15,101.325,986,Kilaru et al. (2007),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+KkSLb,323.15,101.325,983,Kilaru et al. (2007),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+KkSLb,328.15,101.325,980,Kilaru et al. (2007),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+KkSLb,333.15,101.325,976,Kilaru et al. (2007),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,

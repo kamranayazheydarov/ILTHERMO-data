@@ -1,0 +1,3 @@
+setid,"Temperature, K","MolaLity of tetrabutylammonium tetrabutylborate, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Vwggy,308.15,0.023015,101,944.05,Thompson et al. (1980),Density,Liquid,AAOCDM,CNC(C)=O,N-methylacetamide,ABohkM,CCCC[B-](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium tetrabutylborate,,,
+Vwggy,328.15,0.02554,101,927.36,Thompson et al. (1980),Density,Liquid,AAOCDM,CNC(C)=O,N-methylacetamide,ABohkM,CCCC[B-](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium tetrabutylborate,,,

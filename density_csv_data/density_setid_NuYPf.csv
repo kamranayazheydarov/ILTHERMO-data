@@ -1,0 +1,6 @@
+setid,"Temperature, K",Weight fraction of triethanolamine,Weight fraction of 1-butyl-3-methylimidazolium tetrafluoroborate,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NuYPf,303.15,0.3,0.3001,101,1096,Zhao et al. (2010a),Density,Liquid,AAcjhv,OCCN(CCO)CCO,triethanolamine,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+NuYPf,313.15,0.3,0.3001,101,1089.29,Zhao et al. (2010a),Density,Liquid,AAcjhv,OCCN(CCO)CCO,triethanolamine,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+NuYPf,323.15,0.3,0.3001,101,1082.12,Zhao et al. (2010a),Density,Liquid,AAcjhv,OCCN(CCO)CCO,triethanolamine,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+NuYPf,333.15,0.3,0.3001,101,1074.88,Zhao et al. (2010a),Density,Liquid,AAcjhv,OCCN(CCO)CCO,triethanolamine,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+NuYPf,343.15,0.3,0.3001,101,1065.95,Zhao et al. (2010a),Density,Liquid,AAcjhv,OCCN(CCO)CCO,triethanolamine,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate

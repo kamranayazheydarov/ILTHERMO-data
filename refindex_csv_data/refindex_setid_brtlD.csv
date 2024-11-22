@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+brtlD,283.15,101.325,1.4612,Koller et al. (2014),Refractive index,Liquid,ABNCwG,CCCCCCCCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-decyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,,
+brtlD,293.15,101.325,1.4584,Koller et al. (2014),Refractive index,Liquid,ABNCwG,CCCCCCCCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-decyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,,
+brtlD,303.15,101.325,1.4552,Koller et al. (2014),Refractive index,Liquid,ABNCwG,CCCCCCCCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-decyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,,
+brtlD,313.15,101.325,1.4522,Koller et al. (2014),Refractive index,Liquid,ABNCwG,CCCCCCCCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-decyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,,

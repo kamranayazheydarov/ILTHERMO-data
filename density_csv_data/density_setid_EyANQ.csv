@@ -1,0 +1,4 @@
+setid,Weight fraction of water,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EyANQ,3.5e-05,298.15,101,1372.1,Widegren and Magee (2007),Density,Liquid,AADYJk,O,water,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,
+EyANQ,0.00102,298.15,101,1370.5,Widegren and Magee (2007),Density,Liquid,AADYJk,O,water,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,
+EyANQ,0.00722,298.15,101,1367,Widegren and Magee (2007),Density,Liquid,AADYJk,O,water,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,

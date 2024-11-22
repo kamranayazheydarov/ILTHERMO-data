@@ -1,0 +1,4 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NiFYo,88,298.15,1063.9,Mokhtarani et al. (2016b),Density,Liquid,AAxZbI,CCCCCCCCn1cc[n+](C)c1.O=[N+]([O-])[O-],1-methyl-3-octylimidazolium nitrate,,,,,,
+NiFYo,88,313.15,1054.5,Mokhtarani et al. (2016b),Density,Liquid,AAxZbI,CCCCCCCCn1cc[n+](C)c1.O=[N+]([O-])[O-],1-methyl-3-octylimidazolium nitrate,,,,,,
+NiFYo,88,333.15,1042.4,Mokhtarani et al. (2016b),Density,Liquid,AAxZbI,CCCCCCCCn1cc[n+](C)c1.O=[N+]([O-])[O-],1-methyl-3-octylimidazolium nitrate,,,,,,

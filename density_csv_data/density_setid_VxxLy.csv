@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VxxLy,298.15,100,1302.2,Harris et al. (2018),Density,Liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+VxxLy,303.15,100,1298.3,Harris et al. (2018),Density,Liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+VxxLy,313.15,100,1290.4,Harris et al. (2018),Density,Liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+VxxLy,323.15,100,1282.2,Harris et al. (2018),Density,Liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+VxxLy,333.15,100,1273.7,Harris et al. (2018),Density,Liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+VxxLy,343.15,100,1264.8,Harris et al. (2018),Density,Liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+VxxLy,353.15,100,1255.7,Harris et al. (2018),Density,Liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,

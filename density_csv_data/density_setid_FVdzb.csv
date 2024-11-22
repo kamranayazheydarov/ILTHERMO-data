@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FVdzb,313,101.325,1299.6,Fadeeva et al. (2020),Density,Liquid,ABAmzS,CCCCn1cc[nH+]c1.O=S(=O)([O-])C(F)(F)F,N-butylimidazolium trifluoromethanesulfonate,,,,,,
+FVdzb,318,101.325,1295.5,Fadeeva et al. (2020),Density,Liquid,ABAmzS,CCCCn1cc[nH+]c1.O=S(=O)([O-])C(F)(F)F,N-butylimidazolium trifluoromethanesulfonate,,,,,,
+FVdzb,323,101.325,1291.4,Fadeeva et al. (2020),Density,Liquid,ABAmzS,CCCCn1cc[nH+]c1.O=S(=O)([O-])C(F)(F)F,N-butylimidazolium trifluoromethanesulfonate,,,,,,
+FVdzb,328,101.325,1287.3,Fadeeva et al. (2020),Density,Liquid,ABAmzS,CCCCn1cc[nH+]c1.O=S(=O)([O-])C(F)(F)F,N-butylimidazolium trifluoromethanesulfonate,,,,,,
+FVdzb,333,101.325,1283.2,Fadeeva et al. (2020),Density,Liquid,ABAmzS,CCCCn1cc[nH+]c1.O=S(=O)([O-])C(F)(F)F,N-butylimidazolium trifluoromethanesulfonate,,,,,,
+FVdzb,338,101.325,1279.1,Fadeeva et al. (2020),Density,Liquid,ABAmzS,CCCCn1cc[nH+]c1.O=S(=O)([O-])C(F)(F)F,N-butylimidazolium trifluoromethanesulfonate,,,,,,
+FVdzb,343,101.325,1275,Fadeeva et al. (2020),Density,Liquid,ABAmzS,CCCCn1cc[nH+]c1.O=S(=O)([O-])C(F)(F)F,N-butylimidazolium trifluoromethanesulfonate,,,,,,
+FVdzb,348,101.325,1271,Fadeeva et al. (2020),Density,Liquid,ABAmzS,CCCCn1cc[nH+]c1.O=S(=O)([O-])C(F)(F)F,N-butylimidazolium trifluoromethanesulfonate,,,,,,
+FVdzb,353,101.325,1267,Fadeeva et al. (2020),Density,Liquid,ABAmzS,CCCCn1cc[nH+]c1.O=S(=O)([O-])C(F)(F)F,N-butylimidazolium trifluoromethanesulfonate,,,,,,

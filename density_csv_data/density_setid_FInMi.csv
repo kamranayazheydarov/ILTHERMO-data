@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FInMi,298.15,101,1414.7,Gonzalez et al. (2013e),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+FInMi,303.15,101,1410.1,Gonzalez et al. (2013e),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+FInMi,308.15,101,1405.5,Gonzalez et al. (2013e),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,

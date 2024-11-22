@@ -1,0 +1,7 @@
+setid,"Temperature, K","Mole fraction of 1,3-bis(hexyloxymethyl)imidazolium tetrafluoroborate","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cRyYs,308.15,0.002,101,809.5,Domanska et al. (2008d),Density,Liquid,AAThYT,CCCCCCO,hexan-1-ol,ABVuik,CCCCCCOCn1cc[n+](COCCCCCC)c1.F[B-](F)(F)F,"1,3-bis(hexyloxymethyl)imidazolium tetrafluoroborate",,,
+cRyYs,308.15,0.0035,101,811,Domanska et al. (2008d),Density,Liquid,AAThYT,CCCCCCO,hexan-1-ol,ABVuik,CCCCCCOCn1cc[n+](COCCCCCC)c1.F[B-](F)(F)F,"1,3-bis(hexyloxymethyl)imidazolium tetrafluoroborate",,,
+cRyYs,308.15,0.0055,101,812.3,Domanska et al. (2008d),Density,Liquid,AAThYT,CCCCCCO,hexan-1-ol,ABVuik,CCCCCCOCn1cc[n+](COCCCCCC)c1.F[B-](F)(F)F,"1,3-bis(hexyloxymethyl)imidazolium tetrafluoroborate",,,
+cRyYs,318.15,0.0034,101,802,Domanska et al. (2008d),Density,Liquid,AAThYT,CCCCCCO,hexan-1-ol,ABVuik,CCCCCCOCn1cc[n+](COCCCCCC)c1.F[B-](F)(F)F,"1,3-bis(hexyloxymethyl)imidazolium tetrafluoroborate",,,
+cRyYs,318.15,0.0048,101,803.6,Domanska et al. (2008d),Density,Liquid,AAThYT,CCCCCCO,hexan-1-ol,ABVuik,CCCCCCOCn1cc[n+](COCCCCCC)c1.F[B-](F)(F)F,"1,3-bis(hexyloxymethyl)imidazolium tetrafluoroborate",,,
+cRyYs,318.15,0.0061,101,804.8,Domanska et al. (2008d),Density,Liquid,AAThYT,CCCCCCO,hexan-1-ol,ABVuik,CCCCCCOCn1cc[n+](COCCCCCC)c1.F[B-](F)(F)F,"1,3-bis(hexyloxymethyl)imidazolium tetrafluoroborate",,,

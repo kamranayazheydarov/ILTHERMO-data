@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XDypH,298.15,101.325,1128.5,Xu et al. (2013b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+XDypH,303.15,101.325,1125.9,Xu et al. (2013b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+XDypH,313.15,101.325,1119.3,Xu et al. (2013b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+XDypH,323.15,101.325,1112.8,Xu et al. (2013b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+XDypH,333.15,101.325,1107.1,Xu et al. (2013b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+XDypH,343.15,101.325,1100.5,Xu et al. (2013b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,

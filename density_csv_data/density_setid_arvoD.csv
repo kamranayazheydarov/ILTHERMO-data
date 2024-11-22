@@ -1,0 +1,11 @@
+setid,Mole fraction of 1-methyl-3-octylimidazolium tetrafluoroborate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+arvoD,0.1012,101,298.15,893,Rilo et al. (2009),Density,Liquid,AAIsrh,CCO,ethanol,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,
+arvoD,0.2034,101,298.15,957.9,Rilo et al. (2009),Density,Liquid,AAIsrh,CCO,ethanol,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,
+arvoD,0.3,101,298.15,996.6,Rilo et al. (2009),Density,Liquid,AAIsrh,CCO,ethanol,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,
+arvoD,0.4096,101,298.15,1026.4,Rilo et al. (2009),Density,Liquid,AAIsrh,CCO,ethanol,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,
+arvoD,0.5125,101,298.15,1047.8,Rilo et al. (2009),Density,Liquid,AAIsrh,CCO,ethanol,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,
+arvoD,0.6156,101,298.15,1065.2,Rilo et al. (2009),Density,Liquid,AAIsrh,CCO,ethanol,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,
+arvoD,0.7207,101,298.15,1079.3,Rilo et al. (2009),Density,Liquid,AAIsrh,CCO,ethanol,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,
+arvoD,0.815,101,298.15,1088.8,Rilo et al. (2009),Density,Liquid,AAIsrh,CCO,ethanol,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,
+arvoD,0.9014,101,298.15,1095.6,Rilo et al. (2009),Density,Liquid,AAIsrh,CCO,ethanol,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,
+arvoD,1,101,298.15,1104.2,Rilo et al. (2009),Density,Liquid,AAIsrh,CCO,ethanol,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,

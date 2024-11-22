@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QdpCV,288.15,100,1444.6,Soldatovic et al. (2017),Density,Liquid,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+QdpCV,293.15,100,1439.8,Soldatovic et al. (2017),Density,Liquid,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+QdpCV,298.15,100,1435,Soldatovic et al. (2017),Density,Liquid,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+QdpCV,303.15,100,1430.2,Soldatovic et al. (2017),Density,Liquid,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+QdpCV,308.15,100,1425.4,Soldatovic et al. (2017),Density,Liquid,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+QdpCV,313.15,100,1420.6,Soldatovic et al. (2017),Density,Liquid,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+QdpCV,318.15,100,1415.9,Soldatovic et al. (2017),Density,Liquid,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+QdpCV,323.15,100,1411.2,Soldatovic et al. (2017),Density,Liquid,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+QdpCV,328.15,100,1406.5,Soldatovic et al. (2017),Density,Liquid,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+QdpCV,333.15,100,1401.9,Soldatovic et al. (2017),Density,Liquid,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,

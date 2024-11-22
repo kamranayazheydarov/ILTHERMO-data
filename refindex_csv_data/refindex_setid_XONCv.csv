@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+XONCv,288.15,87,1.6503,Shekaari et al. (2016d),Refractive index,Liquid,ABBHCu,CCCC[n+]1ccn(C)c1.O=C([O-])c1ccccc1O,1-butyl-3-methylimidazolium salicylate,,,,,,,
+XONCv,298.15,87,1.647,Shekaari et al. (2016d),Refractive index,Liquid,ABBHCu,CCCC[n+]1ccn(C)c1.O=C([O-])c1ccccc1O,1-butyl-3-methylimidazolium salicylate,,,,,,,
+XONCv,308.15,87,1.6442,Shekaari et al. (2016d),Refractive index,Liquid,ABBHCu,CCCC[n+]1ccn(C)c1.O=C([O-])c1ccccc1O,1-butyl-3-methylimidazolium salicylate,,,,,,,
+XONCv,318.15,87,1.6413,Shekaari et al. (2016d),Refractive index,Liquid,ABBHCu,CCCC[n+]1ccn(C)c1.O=C([O-])c1ccccc1O,1-butyl-3-methylimidazolium salicylate,,,,,,,

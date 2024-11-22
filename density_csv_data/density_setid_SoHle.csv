@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SoHle,292.9,101.325,1490.58,Khan et al. (2017d),Density,Liquid,ABbkWb,Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1.O=S(=O)([O-])O.O=S(=O)([O-])O,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) hydrogen sulfate (1:2)",,,,,,
+SoHle,303.1,101.325,1481.7,Khan et al. (2017d),Density,Liquid,ABbkWb,Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1.O=S(=O)([O-])O.O=S(=O)([O-])O,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) hydrogen sulfate (1:2)",,,,,,
+SoHle,313,101.325,1472.31,Khan et al. (2017d),Density,Liquid,ABbkWb,Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1.O=S(=O)([O-])O.O=S(=O)([O-])O,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) hydrogen sulfate (1:2)",,,,,,
+SoHle,323,101.325,1465.41,Khan et al. (2017d),Density,Liquid,ABbkWb,Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1.O=S(=O)([O-])O.O=S(=O)([O-])O,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) hydrogen sulfate (1:2)",,,,,,
+SoHle,332.4,101.325,1457.52,Khan et al. (2017d),Density,Liquid,ABbkWb,Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1.O=S(=O)([O-])O.O=S(=O)([O-])O,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) hydrogen sulfate (1:2)",,,,,,
+SoHle,342.9,101.325,1448.13,Khan et al. (2017d),Density,Liquid,ABbkWb,Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1.O=S(=O)([O-])O.O=S(=O)([O-])O,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) hydrogen sulfate (1:2)",,,,,,
+SoHle,353,101.325,1440.74,Khan et al. (2017d),Density,Liquid,ABbkWb,Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1.O=S(=O)([O-])O.O=S(=O)([O-])O,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) hydrogen sulfate (1:2)",,,,,,
+SoHle,363,101.325,1432.84,Khan et al. (2017d),Density,Liquid,ABbkWb,Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1.O=S(=O)([O-])O.O=S(=O)([O-])O,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) hydrogen sulfate (1:2)",,,,,,
+SoHle,373.2,101.325,1424.95,Khan et al. (2017d),Density,Liquid,ABbkWb,Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1.O=S(=O)([O-])O.O=S(=O)([O-])O,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) hydrogen sulfate (1:2)",,,,,,

@@ -1,0 +1,9 @@
+setid,Mole fraction of undecane,Mole fraction of benzene,"Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yyeki,0.0194,0.6128,298.15,1112.7,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+yyeki,0.1442,0.848,298.15,831.596,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+yyeki,0.1655,0.8274,298.15,827.981,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+yyeki,0.1944,0.7966,298.15,818.7,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+yyeki,0.2101,0.7756,298.15,815.1,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+yyeki,0.4152,0.5703,298.15,782.3,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+yyeki,0.5145,0.4698,298.15,771.3,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane
+yyeki,0.6083,0.364,298.15,761.908,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,8,AAPBFE,c1ccccc1,benzene,AAeDlm,CCCCCCCCCCC,undecane

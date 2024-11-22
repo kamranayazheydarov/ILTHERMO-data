@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HhpdM,303.15,100,1400.9,Garcia-Andreu et al. (2016),Density,Liquid,AAxYCa,CC[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F,1-ethylpyridinium triflate,,,,,,
+HhpdM,303.15,5000,1403.5,Garcia-Andreu et al. (2016),Density,Liquid,AAxYCa,CC[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F,1-ethylpyridinium triflate,,,,,,
+HhpdM,303.15,10000,1406.1,Garcia-Andreu et al. (2016),Density,Liquid,AAxYCa,CC[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F,1-ethylpyridinium triflate,,,,,,
+HhpdM,303.15,15000,1408.7,Garcia-Andreu et al. (2016),Density,Liquid,AAxYCa,CC[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F,1-ethylpyridinium triflate,,,,,,
+HhpdM,303.15,20000,1411.2,Garcia-Andreu et al. (2016),Density,Liquid,AAxYCa,CC[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F,1-ethylpyridinium triflate,,,,,,
+HhpdM,303.15,25000,1413.6,Garcia-Andreu et al. (2016),Density,Liquid,AAxYCa,CC[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F,1-ethylpyridinium triflate,,,,,,
+HhpdM,303.15,30000,1415.9,Garcia-Andreu et al. (2016),Density,Liquid,AAxYCa,CC[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F,1-ethylpyridinium triflate,,,,,,
+HhpdM,303.15,35000,1418.2,Garcia-Andreu et al. (2016),Density,Liquid,AAxYCa,CC[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F,1-ethylpyridinium triflate,,,,,,
+HhpdM,303.15,40000,1420.4,Garcia-Andreu et al. (2016),Density,Liquid,AAxYCa,CC[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F,1-ethylpyridinium triflate,,,,,,

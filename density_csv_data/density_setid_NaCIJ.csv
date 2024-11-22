@@ -1,0 +1,10 @@
+setid,Mole fraction of n-butylammonium nitrate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NaCIJ,0.1024,101,298.15,855.8,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+NaCIJ,0.1616,101,298.15,887.8,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+NaCIJ,0.2075,101,298.15,909.9,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+NaCIJ,0.2474,101,298.15,927.4,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+NaCIJ,0.3341,101,298.15,961.5,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+NaCIJ,0.4225,101,298.15,989.8,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+NaCIJ,0.5518,101,298.15,1024.8,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+NaCIJ,0.6588,101,298.15,1048.9,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+NaCIJ,0.7909,101,298.15,1073.9,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,

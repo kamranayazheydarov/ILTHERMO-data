@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kxpZk,288.15,101.325,1049.2,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,293.15,101.325,1045.5,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,298.15,101.325,1041.8,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,303.15,101.325,1038,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,308.15,101.325,1034.1,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,313.15,101.325,1030.1,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,318.15,101.325,1026.3,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,323.15,101.325,1022.6,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,328.15,101.325,1019.1,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,333.15,101.325,1015.6,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,338.15,101.325,1012.1,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,
+kxpZk,343.15,101.325,1008.8,Trivedi et al. (2012),Density,Liquid,ABbHqT,CC(C)COC(=O)[C@H](C)[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate,,,,,,

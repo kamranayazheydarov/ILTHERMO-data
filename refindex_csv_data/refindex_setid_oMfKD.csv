@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+oMfKD,293.15,101.325,1.47876,Tariq et al. (2009),Refractive index,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,,
+oMfKD,298.15,101.325,1.47775,Tariq et al. (2009),Refractive index,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,,
+oMfKD,313.15,101.325,1.47473,Tariq et al. (2009),Refractive index,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,,
+oMfKD,333.15,101.325,1.46971,Tariq et al. (2009),Refractive index,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,,

@@ -1,0 +1,4 @@
+setid,"Temperature, K","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XslZl,281.1,5.05e-05,Shiflett et al. (2008),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,3,AAIYzl,O=C=O,carbon dioxide
+XslZl,288.7,5.4e-05,Shiflett et al. (2008),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,3,AAIYzl,O=C=O,carbon dioxide
+XslZl,292.2,5.49e-05,Shiflett et al. (2008),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,3,AAIYzl,O=C=O,carbon dioxide

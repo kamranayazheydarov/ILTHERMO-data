@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nFZBb,318.15,101.325,945,Bhattacharjee et al. (2015),Density,Liquid,ACEVui,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylphosphonium bromide,,,,,,
+nFZBb,323.15,101.325,942,Bhattacharjee et al. (2015),Density,Liquid,ACEVui,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylphosphonium bromide,,,,,,
+nFZBb,328.15,101.325,938.9,Bhattacharjee et al. (2015),Density,Liquid,ACEVui,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylphosphonium bromide,,,,,,
+nFZBb,333.15,101.325,935.9,Bhattacharjee et al. (2015),Density,Liquid,ACEVui,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylphosphonium bromide,,,,,,
+nFZBb,338.15,101.325,932.9,Bhattacharjee et al. (2015),Density,Liquid,ACEVui,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylphosphonium bromide,,,,,,
+nFZBb,343.15,101.325,929.8,Bhattacharjee et al. (2015),Density,Liquid,ACEVui,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylphosphonium bromide,,,,,,
+nFZBb,348.15,101.325,926.8,Bhattacharjee et al. (2015),Density,Liquid,ACEVui,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylphosphonium bromide,,,,,,
+nFZBb,353.15,101.325,923.7,Bhattacharjee et al. (2015),Density,Liquid,ACEVui,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylphosphonium bromide,,,,,,

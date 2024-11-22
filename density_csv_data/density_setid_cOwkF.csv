@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cOwkF,293.15,100,1162,Skonieczny and Krolikowska (2022),Density,Liquid,ABCZfn,CCOP(=O)([O-])OCC.CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium diethyl phosphate,,,,,,
+cOwkF,298.15,100,1159,Skonieczny and Krolikowska (2022),Density,Liquid,ABCZfn,CCOP(=O)([O-])OCC.CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium diethyl phosphate,,,,,,
+cOwkF,303.15,100,1156,Skonieczny and Krolikowska (2022),Density,Liquid,ABCZfn,CCOP(=O)([O-])OCC.CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium diethyl phosphate,,,,,,
+cOwkF,308.15,100,1152,Skonieczny and Krolikowska (2022),Density,Liquid,ABCZfn,CCOP(=O)([O-])OCC.CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium diethyl phosphate,,,,,,
+cOwkF,313.15,100,1149,Skonieczny and Krolikowska (2022),Density,Liquid,ABCZfn,CCOP(=O)([O-])OCC.CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium diethyl phosphate,,,,,,
+cOwkF,318.15,100,1146,Skonieczny and Krolikowska (2022),Density,Liquid,ABCZfn,CCOP(=O)([O-])OCC.CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium diethyl phosphate,,,,,,
+cOwkF,323.15,100,1143,Skonieczny and Krolikowska (2022),Density,Liquid,ABCZfn,CCOP(=O)([O-])OCC.CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium diethyl phosphate,,,,,,
+cOwkF,328.15,100,1140,Skonieczny and Krolikowska (2022),Density,Liquid,ABCZfn,CCOP(=O)([O-])OCC.CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium diethyl phosphate,,,,,,
+cOwkF,333.15,100,1136,Skonieczny and Krolikowska (2022),Density,Liquid,ABCZfn,CCOP(=O)([O-])OCC.CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium diethyl phosphate,,,,,,
+cOwkF,338.15,100,1133,Skonieczny and Krolikowska (2022),Density,Liquid,ABCZfn,CCOP(=O)([O-])OCC.CC[N+]1(C)CCOCC1,4-ethyl-4-methylmorpholinium diethyl phosphate,,,,,,

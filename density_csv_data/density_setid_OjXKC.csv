@@ -1,0 +1,4 @@
+setid,Mole fraction of methyltriphenylphosphonium bromide,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OjXKC,0.16,298.15,101,1186,Shahbaz et al. (2013),Density,Liquid,AActxI,OCCOCCOCCO,triethylene glycol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+OjXKC,0.2,298.15,101,1199,Shahbaz et al. (2013),Density,Liquid,AActxI,OCCOCCOCCO,triethylene glycol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+OjXKC,0.25,298.15,101,1216,Shahbaz et al. (2013),Density,Liquid,AActxI,OCCOCCOCCO,triethylene glycol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,

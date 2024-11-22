@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","MolaLity of tetrapentylammonium nitrate, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nujie,293.15,100,0.01,998.304,Kaur and Chauhan (2020),Density,Liquid,ABRRch,CCCCC[N+](CCCCC)(CCCCC)CCCCC.O=[N+]([O-])[O-],tetrapentylammonium nitrate,AADYJk,O,water,,,
+nujie,298.15,100,0.01,996.848,Kaur and Chauhan (2020),Density,Liquid,ABRRch,CCCCC[N+](CCCCC)(CCCCC)CCCCC.O=[N+]([O-])[O-],tetrapentylammonium nitrate,AADYJk,O,water,,,
+nujie,303.15,100,0.01,995.686,Kaur and Chauhan (2020),Density,Liquid,ABRRch,CCCCC[N+](CCCCC)(CCCCC)CCCCC.O=[N+]([O-])[O-],tetrapentylammonium nitrate,AADYJk,O,water,,,
+nujie,308.15,100,0.01,994.023,Kaur and Chauhan (2020),Density,Liquid,ABRRch,CCCCC[N+](CCCCC)(CCCCC)CCCCC.O=[N+]([O-])[O-],tetrapentylammonium nitrate,AADYJk,O,water,,,
+nujie,313.15,100,0.01,991.87,Kaur and Chauhan (2020),Density,Liquid,ABRRch,CCCCC[N+](CCCCC)(CCCCC)CCCCC.O=[N+]([O-])[O-],tetrapentylammonium nitrate,AADYJk,O,water,,,
+nujie,318.15,100,0.01,990.029,Kaur and Chauhan (2020),Density,Liquid,ABRRch,CCCCC[N+](CCCCC)(CCCCC)CCCCC.O=[N+]([O-])[O-],tetrapentylammonium nitrate,AADYJk,O,water,,,

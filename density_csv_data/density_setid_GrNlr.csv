@@ -1,0 +1,7 @@
+setid,"Temperature, K","MolaLity of 1-methyl-3-pentylimidazolium chloride, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GrNlr,288.15,0.01,101,999.8,Gaba et al. (2017d),Density,Liquid,AAkOaH,CCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-pentylimidazolium chloride,AADYJk,O,water,,,
+GrNlr,288.15,0.03,101,1000.6,Gaba et al. (2017d),Density,Liquid,AAkOaH,CCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-pentylimidazolium chloride,AADYJk,O,water,,,
+GrNlr,298.15,0.01,101,997.8,Gaba et al. (2017d),Density,Liquid,AAkOaH,CCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-pentylimidazolium chloride,AADYJk,O,water,,,
+GrNlr,298.15,0.03,101,998.5,Gaba et al. (2017d),Density,Liquid,AAkOaH,CCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-pentylimidazolium chloride,AADYJk,O,water,,,
+GrNlr,308.15,0.01,101,994.7,Gaba et al. (2017d),Density,Liquid,AAkOaH,CCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-pentylimidazolium chloride,AADYJk,O,water,,,
+GrNlr,308.15,0.03,101,995.5,Gaba et al. (2017d),Density,Liquid,AAkOaH,CCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-pentylimidazolium chloride,AADYJk,O,water,,,

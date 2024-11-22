@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OwWMD,293.15,93.2,960,Bittencourt et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+OwWMD,298.15,93.2,960,Bittencourt et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+OwWMD,303.15,93.2,960,Bittencourt et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+OwWMD,308.15,93.2,950,Bittencourt et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+OwWMD,313.15,93.2,950,Bittencourt et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,

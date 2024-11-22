@@ -1,0 +1,15 @@
+setid,"Temperature, K",Mole fraction of nonane,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qcouW,283.15,0,101,1198.57,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,283.15,0.001,101,1215.82,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,283.15,0.002,101,1225.43,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,283.15,0.002,101,1237.11,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,283.15,0.002,101,1245.99,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,283.15,0.002,101,1253.63,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,283.15,0.004,101,1261.25,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,298.15,0,101,1171.69,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,298.15,0.001,101,1205.52,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,298.15,0.001,101,1215.82,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,298.15,0.001,101,1226.95,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,298.15,0.001,101,1235.68,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,298.15,0.003,101,1243.42,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+qcouW,298.15,0.004,101,1250.84,Gomez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane

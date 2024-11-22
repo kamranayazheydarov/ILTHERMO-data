@@ -1,0 +1,12 @@
+setid,Weight fraction of 1-hexyl-3-methylimidazolium chloride,Weight fraction of sodium nitrate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ceMak,0,0.4718,101,298.15,1392.2,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride
+ceMak,0.0515,0.3796,101,298.15,1358.2,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride
+ceMak,0.1158,0.3029,101,298.15,1325.8,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride
+ceMak,0.1921,0.2293,101,298.15,1292.79,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride
+ceMak,0.275,0.1725,101,298.15,1258.65,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride
+ceMak,0.3618,0.129,101,298.15,1224.36,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride
+ceMak,0.4477,0.102,101,298.15,1192.13,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride
+ceMak,0.5347,0.0806,101,298.15,1162.53,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride
+ceMak,0.6225,0.0635,101,298.15,1135.21,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride
+ceMak,0.7129,0.0466,101,298.15,1090.26,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride
+ceMak,0.8025,0.034,101,298.15,1049.58,Li et al. (2016d),Density,Liquid,AAQRpw,O=[N+]([O-])[O-].[Na+],sodium nitrate,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride

@@ -1,0 +1,9 @@
+setid,Mole fraction of hexane,"Mole fraction of 1,4-dimethylbenzene","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+giTCx,0,0.163,298.15,1188.7,Gonzalez et al. (2010i),Density,Liquid mixture 1,Liquid mixture 2,,8,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAQdzy,CCCCCC,hexane
+giTCx,0.002,0.107,298.15,1199.7,Gonzalez et al. (2010i),Density,Liquid mixture 1,Liquid mixture 2,,8,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAQdzy,CCCCCC,hexane
+giTCx,0.003,0.118,298.15,1197.4,Gonzalez et al. (2010i),Density,Liquid mixture 1,Liquid mixture 2,,8,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAQdzy,CCCCCC,hexane
+giTCx,0.007,0.079,298.15,1204.3,Gonzalez et al. (2010i),Density,Liquid mixture 1,Liquid mixture 2,,8,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAQdzy,CCCCCC,hexane
+giTCx,0.008,0.039,298.15,1211,Gonzalez et al. (2010i),Density,Liquid mixture 1,Liquid mixture 2,,8,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAQdzy,CCCCCC,hexane
+giTCx,0.009,0,298.15,1217.2,Gonzalez et al. (2010i),Density,Liquid mixture 1,Liquid mixture 2,,8,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAQdzy,CCCCCC,hexane
+giTCx,0.011,0.039,298.15,1210.5,Gonzalez et al. (2010i),Density,Liquid mixture 1,Liquid mixture 2,,8,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAQdzy,CCCCCC,hexane
+giTCx,0.012,0.024,298.15,1212.9,Gonzalez et al. (2010i),Density,Liquid mixture 1,Liquid mixture 2,,8,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAQdzy,CCCCCC,hexane

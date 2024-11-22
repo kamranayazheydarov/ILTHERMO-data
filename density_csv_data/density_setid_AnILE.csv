@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+AnILE,283.15,101.325,1309,Yadav et al. (2018),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+AnILE,293.15,101.325,1301,Yadav et al. (2018),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+AnILE,303.15,101.325,1293,Yadav et al. (2018),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+AnILE,313.15,101.325,1285,Yadav et al. (2018),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+AnILE,323.15,101.325,1277,Yadav et al. (2018),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+AnILE,333.15,101.325,1270,Yadav et al. (2018),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+AnILE,343.15,101.325,1262,Yadav et al. (2018),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+AnILE,353.15,101.325,1254,Yadav et al. (2018),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+AnILE,363.15,101.325,1247,Yadav et al. (2018),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jaOPQ,283,101.325,1385.6,Song et al. (2020a),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+jaOPQ,293,101.325,1376.5,Song et al. (2020a),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+jaOPQ,295,101.325,1374.6,Song et al. (2020a),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+jaOPQ,303,101.325,1367.3,Song et al. (2020a),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+jaOPQ,313,101.325,1358.3,Song et al. (2020a),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+jaOPQ,323,101.325,1349.2,Song et al. (2020a),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+jaOPQ,333,101.325,1340.3,Song et al. (2020a),Density,Liquid,ABiCtA,CCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

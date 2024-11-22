@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bASYX,298.1,101.325,1111,Philippi et al. (2017),Density,Liquid,ABdgRB,FC(S(=O)(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoromethanesulfonate,,,,,,
+bASYX,308.1,101.325,1103,Philippi et al. (2017),Density,Liquid,ABdgRB,FC(S(=O)(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoromethanesulfonate,,,,,,
+bASYX,318.1,101.325,1096,Philippi et al. (2017),Density,Liquid,ABdgRB,FC(S(=O)(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoromethanesulfonate,,,,,,
+bASYX,328.1,101.325,1088,Philippi et al. (2017),Density,Liquid,ABdgRB,FC(S(=O)(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoromethanesulfonate,,,,,,
+bASYX,338.1,101.325,1081,Philippi et al. (2017),Density,Liquid,ABdgRB,FC(S(=O)(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoromethanesulfonate,,,,,,
+bASYX,348.1,101.325,1074,Philippi et al. (2017),Density,Liquid,ABdgRB,FC(S(=O)(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoromethanesulfonate,,,,,,

@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+TTGcq,293.15,100,1293,Nordness et al. (2019),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+TTGcq,298.15,100,1289,Nordness et al. (2019),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+TTGcq,303.15,100,1285,Nordness et al. (2019),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+TTGcq,313.15,100,1276,Nordness et al. (2019),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,

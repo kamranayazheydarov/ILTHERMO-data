@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+gKVvC,298.15,101.325,1424.9,Ibrahim et al. (2016),Density,Liquid,ABbPbH,CC[N+](C)(C)CCOC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-ethyl-N,N-dimethyl-2-methoxyethylammonium bis(trifluoromethylsulfonyl)imide",,,,,,
+gKVvC,303.15,101.325,1420.5,Ibrahim et al. (2016),Density,Liquid,ABbPbH,CC[N+](C)(C)CCOC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-ethyl-N,N-dimethyl-2-methoxyethylammonium bis(trifluoromethylsulfonyl)imide",,,,,,
+gKVvC,313.15,101.325,1411,Ibrahim et al. (2016),Density,Liquid,ABbPbH,CC[N+](C)(C)CCOC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-ethyl-N,N-dimethyl-2-methoxyethylammonium bis(trifluoromethylsulfonyl)imide",,,,,,
+gKVvC,323.15,101.325,1401.5,Ibrahim et al. (2016),Density,Liquid,ABbPbH,CC[N+](C)(C)CCOC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-ethyl-N,N-dimethyl-2-methoxyethylammonium bis(trifluoromethylsulfonyl)imide",,,,,,
+gKVvC,333.15,101.325,1390.3,Ibrahim et al. (2016),Density,Liquid,ABbPbH,CC[N+](C)(C)CCOC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-ethyl-N,N-dimethyl-2-methoxyethylammonium bis(trifluoromethylsulfonyl)imide",,,,,,
+gKVvC,343.15,101.325,1379.2,Ibrahim et al. (2016),Density,Liquid,ABbPbH,CC[N+](C)(C)CCOC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-ethyl-N,N-dimethyl-2-methoxyethylammonium bis(trifluoromethylsulfonyl)imide",,,,,,
+gKVvC,353.15,101.325,1368.9,Ibrahim et al. (2016),Density,Liquid,ABbPbH,CC[N+](C)(C)CCOC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-ethyl-N,N-dimethyl-2-methoxyethylammonium bis(trifluoromethylsulfonyl)imide",,,,,,

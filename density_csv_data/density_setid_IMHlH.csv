@@ -1,0 +1,4 @@
+setid,Mole fraction of heptane,Mole fraction of toluene,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IMHlH,0.002,0.122,298.15,101.3,1199,Gonzalez et al. (2010d),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+IMHlH,0.003,0.194,298.15,101.3,1185.3,Gonzalez et al. (2010d),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+IMHlH,0.005,0.073,298.15,101.3,1206.7,Gonzalez et al. (2010d),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate

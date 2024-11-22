@@ -1,0 +1,5 @@
+setid,"MolaLity of magnesium nitrate, mol/kg","MolaLity of water, mol/kg","Pressure, kPa","Temperature, K",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+BbuVz,0.1,0.63,100,298.15,1.4551,Vallet et al. (2022),Refractive index,Liquid,AAcbys,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Mg+2],magnesium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,
+BbuVz,0.5,3.02,100,298.15,1.4573,Vallet et al. (2022),Refractive index,Liquid,AAcbys,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Mg+2],magnesium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,
+BbuVz,1.01,6.03,100,298.15,1.4572,Vallet et al. (2022),Refractive index,Liquid,AAcbys,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Mg+2],magnesium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,
+BbuVz,2,12.02,100,298.15,1.4608,Vallet et al. (2022),Refractive index,Liquid,AAcbys,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Mg+2],magnesium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cKsXC,293.15,101.325,1061.72,Sanchez (2008),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+cKsXC,303.15,101.325,1055.51,Sanchez (2008),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+cKsXC,313.15,101.325,1049.3,Sanchez (2008),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+cKsXC,323.15,101.325,1043.09,Sanchez (2008),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+cKsXC,333.15,101.325,1036.88,Sanchez (2008),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+cKsXC,343.15,101.325,1030.67,Sanchez (2008),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+cKsXC,353.15,101.325,1024.46,Sanchez (2008),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+cKsXC,363.15,101.325,1018.25,Sanchez (2008),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,

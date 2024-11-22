@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eMhoG,293.15,101.325,1852.6,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,
+eMhoG,298.15,101.325,1844.6,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,
+eMhoG,303.15,101.325,1836.1,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,
+eMhoG,308.15,101.325,1829.2,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,
+eMhoG,313.15,101.325,1823,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,
+eMhoG,318.15,101.325,1818.1,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,
+eMhoG,323.15,101.325,1809.9,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,
+eMhoG,328.15,101.325,1802.9,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,
+eMhoG,333.15,101.325,1796.7,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,
+eMhoG,338.15,101.325,1792.9,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,
+eMhoG,343.15,101.325,1787,Wang et al. (2011d),Density,Liquid,ABZAzk,CCCCC[n+]1ccccc1.O=[Re](=O)(=O)[O-],1-pentylpyridinium tetraoxorhenate,,,,,,

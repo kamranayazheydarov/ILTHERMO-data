@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ixkkV,288.15,101,673.9,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AATOnt,CCCCCCC,heptane,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate
+ixkkV,298.15,101,670,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AATOnt,CCCCCCC,heptane,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate
+ixkkV,308.15,101,665.3,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AATOnt,CCCCCCC,heptane,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate
+ixkkV,318.15,101,659.1,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AATOnt,CCCCCCC,heptane,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate
+ixkkV,328.15,101,654.8,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AATOnt,CCCCCCC,heptane,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate

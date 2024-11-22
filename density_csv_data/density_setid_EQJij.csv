@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EQJij,328.15,101.325,1156.6,Cai et al. (2020b),Density,Liquid,ABVwkM,CCCCCCCC[n+]1ccc(N(C)C)cc1.O=S(=O)([O-])C(F)(F)F,1-octyl-4-(dimethylamino)pyridinium trifluoromethanesulfonate,,,,,,
+EQJij,333.15,101.325,1153,Cai et al. (2020b),Density,Liquid,ABVwkM,CCCCCCCC[n+]1ccc(N(C)C)cc1.O=S(=O)([O-])C(F)(F)F,1-octyl-4-(dimethylamino)pyridinium trifluoromethanesulfonate,,,,,,
+EQJij,338.15,101.325,1149.5,Cai et al. (2020b),Density,Liquid,ABVwkM,CCCCCCCC[n+]1ccc(N(C)C)cc1.O=S(=O)([O-])C(F)(F)F,1-octyl-4-(dimethylamino)pyridinium trifluoromethanesulfonate,,,,,,
+EQJij,343.15,101.325,1145.8,Cai et al. (2020b),Density,Liquid,ABVwkM,CCCCCCCC[n+]1ccc(N(C)C)cc1.O=S(=O)([O-])C(F)(F)F,1-octyl-4-(dimethylamino)pyridinium trifluoromethanesulfonate,,,,,,
+EQJij,348.15,101.325,1142.4,Cai et al. (2020b),Density,Liquid,ABVwkM,CCCCCCCC[n+]1ccc(N(C)C)cc1.O=S(=O)([O-])C(F)(F)F,1-octyl-4-(dimethylamino)pyridinium trifluoromethanesulfonate,,,,,,
+EQJij,353.15,101.325,1138.7,Cai et al. (2020b),Density,Liquid,ABVwkM,CCCCCCCC[n+]1ccc(N(C)C)cc1.O=S(=O)([O-])C(F)(F)F,1-octyl-4-(dimethylamino)pyridinium trifluoromethanesulfonate,,,,,,
+EQJij,358.15,101.325,1135.1,Cai et al. (2020b),Density,Liquid,ABVwkM,CCCCCCCC[n+]1ccc(N(C)C)cc1.O=S(=O)([O-])C(F)(F)F,1-octyl-4-(dimethylamino)pyridinium trifluoromethanesulfonate,,,,,,

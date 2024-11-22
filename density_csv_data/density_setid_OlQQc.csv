@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OlQQc,288.1,101.325,1318,Yasuda et al. (2013),Density,Liquid,AAtMjG,C=CC[NH+](C)C.O=S(=O)([O-])C(F)(F)F,"N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+OlQQc,293,101.325,1311,Yasuda et al. (2013),Density,Liquid,AAtMjG,C=CC[NH+](C)C.O=S(=O)([O-])C(F)(F)F,"N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+OlQQc,298.1,101.325,1303,Yasuda et al. (2013),Density,Liquid,AAtMjG,C=CC[NH+](C)C.O=S(=O)([O-])C(F)(F)F,"N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+OlQQc,303,101.325,1295,Yasuda et al. (2013),Density,Liquid,AAtMjG,C=CC[NH+](C)C.O=S(=O)([O-])C(F)(F)F,"N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+OlQQc,308.1,101.325,1288,Yasuda et al. (2013),Density,Liquid,AAtMjG,C=CC[NH+](C)C.O=S(=O)([O-])C(F)(F)F,"N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+OlQQc,313,101.325,1280,Yasuda et al. (2013),Density,Liquid,AAtMjG,C=CC[NH+](C)C.O=S(=O)([O-])C(F)(F)F,"N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,

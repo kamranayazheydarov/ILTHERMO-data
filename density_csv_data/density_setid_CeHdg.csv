@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CeHdg,293.15,101.325,1118,Seddon et al. (2002),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+CeHdg,303.15,101.325,1114,Seddon et al. (2002),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+CeHdg,313.15,101.325,1108,Seddon et al. (2002),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+CeHdg,323.15,101.325,1101,Seddon et al. (2002),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+CeHdg,333.15,101.325,1095,Seddon et al. (2002),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+CeHdg,343.15,101.325,1089,Seddon et al. (2002),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+CeHdg,353.15,101.325,1082,Seddon et al. (2002),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+CeHdg,363.15,101.325,1077,Seddon et al. (2002),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,

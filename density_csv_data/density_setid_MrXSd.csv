@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MrXSd,288.15,101.325,1306,Tokuda et al. (2006b),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MrXSd,293.15,101.325,1302,Tokuda et al. (2006b),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MrXSd,298.15,101.325,1298,Tokuda et al. (2006b),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MrXSd,303.15,101.325,1294,Tokuda et al. (2006b),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MrXSd,308.15,101.325,1290,Tokuda et al. (2006b),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MrXSd,313.15,101.325,1286,Tokuda et al. (2006b),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ifwzz,293.15,101.325,1154,Niemczak et al. (2019),Density,Liquid,ABhsWc,CC(Oc1ccc(Cl)cc1Cl)C(=O)[O-].CCCCCCCC[N+]1(C)CCCCC1,"1-methyl-1-octylpiperidinium 2-(2,4-dichlorophenoxy)propionate",,,,,,
+ifwzz,303.15,101.325,1147.1,Niemczak et al. (2019),Density,Liquid,ABhsWc,CC(Oc1ccc(Cl)cc1Cl)C(=O)[O-].CCCCCCCC[N+]1(C)CCCCC1,"1-methyl-1-octylpiperidinium 2-(2,4-dichlorophenoxy)propionate",,,,,,
+ifwzz,313.15,101.325,1140.1,Niemczak et al. (2019),Density,Liquid,ABhsWc,CC(Oc1ccc(Cl)cc1Cl)C(=O)[O-].CCCCCCCC[N+]1(C)CCCCC1,"1-methyl-1-octylpiperidinium 2-(2,4-dichlorophenoxy)propionate",,,,,,
+ifwzz,323.15,101.325,1132.9,Niemczak et al. (2019),Density,Liquid,ABhsWc,CC(Oc1ccc(Cl)cc1Cl)C(=O)[O-].CCCCCCCC[N+]1(C)CCCCC1,"1-methyl-1-octylpiperidinium 2-(2,4-dichlorophenoxy)propionate",,,,,,
+ifwzz,333.15,101.325,1125.6,Niemczak et al. (2019),Density,Liquid,ABhsWc,CC(Oc1ccc(Cl)cc1Cl)C(=O)[O-].CCCCCCCC[N+]1(C)CCCCC1,"1-methyl-1-octylpiperidinium 2-(2,4-dichlorophenoxy)propionate",,,,,,
+ifwzz,343.15,101.325,1118.2,Niemczak et al. (2019),Density,Liquid,ABhsWc,CC(Oc1ccc(Cl)cc1Cl)C(=O)[O-].CCCCCCCC[N+]1(C)CCCCC1,"1-methyl-1-octylpiperidinium 2-(2,4-dichlorophenoxy)propionate",,,,,,
+ifwzz,353.15,101.325,1110.8,Niemczak et al. (2019),Density,Liquid,ABhsWc,CC(Oc1ccc(Cl)cc1Cl)C(=O)[O-].CCCCCCCC[N+]1(C)CCCCC1,"1-methyl-1-octylpiperidinium 2-(2,4-dichlorophenoxy)propionate",,,,,,

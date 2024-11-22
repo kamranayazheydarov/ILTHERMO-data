@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eWFCG,277.9,101.325,1061,Martins et al. (2017),Density,Liquid,AAsEJq,CCCC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-butyl-3-methylimidazolium tricyanomethane,,,,,,
+eWFCG,285.55,101.325,1055,Martins et al. (2017),Density,Liquid,AAsEJq,CCCC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-butyl-3-methylimidazolium tricyanomethane,,,,,,
+eWFCG,293.55,101.325,1050,Martins et al. (2017),Density,Liquid,AAsEJq,CCCC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-butyl-3-methylimidazolium tricyanomethane,,,,,,
+eWFCG,298.05,101.325,1047,Martins et al. (2017),Density,Liquid,AAsEJq,CCCC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-butyl-3-methylimidazolium tricyanomethane,,,,,,
+eWFCG,303.75,101.325,1043,Martins et al. (2017),Density,Liquid,AAsEJq,CCCC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-butyl-3-methylimidazolium tricyanomethane,,,,,,
+eWFCG,313.25,101.325,1037,Martins et al. (2017),Density,Liquid,AAsEJq,CCCC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-butyl-3-methylimidazolium tricyanomethane,,,,,,
+eWFCG,322.75,101.325,1030,Martins et al. (2017),Density,Liquid,AAsEJq,CCCC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-butyl-3-methylimidazolium tricyanomethane,,,,,,
+eWFCG,333.15,101.325,1024,Martins et al. (2017),Density,Liquid,AAsEJq,CCCC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-butyl-3-methylimidazolium tricyanomethane,,,,,,
+eWFCG,338.85,101.325,1020,Martins et al. (2017),Density,Liquid,AAsEJq,CCCC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-butyl-3-methylimidazolium tricyanomethane,,,,,,
+eWFCG,345.15,101.325,1016,Martins et al. (2017),Density,Liquid,AAsEJq,CCCC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-butyl-3-methylimidazolium tricyanomethane,,,,,,

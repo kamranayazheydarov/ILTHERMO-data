@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+wKTPC,298.15,101.3,1382.8,Srinivasa Reddy et al. (2016b),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wKTPC,308.15,101.3,1374.4,Srinivasa Reddy et al. (2016b),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wKTPC,318.15,101.3,1366.1,Srinivasa Reddy et al. (2016b),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wKTPC,328.15,101.3,1357.9,Srinivasa Reddy et al. (2016b),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

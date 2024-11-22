@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BspSz,293.15,100,1210.6,Zarrougui et al. (2015),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,
+BspSz,298.15,100,1206,Zarrougui et al. (2015),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,
+BspSz,303.15,100,1201.4,Zarrougui et al. (2015),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,
+BspSz,308.15,100,1196.5,Zarrougui et al. (2015),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,
+BspSz,313.15,100,1192.2,Zarrougui et al. (2015),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,
+BspSz,318.15,100,1188.8,Zarrougui et al. (2015),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,

@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XDKYV,298.15,101.325,1120.3,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,303.15,101.325,1117.5,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,308.15,101.325,1114.5,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,313.15,101.325,1111.8,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,318.15,101.325,1109,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,323.15,101.325,1106.2,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,328.15,101.325,1103.4,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,333.15,101.325,1100.6,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,338.15,101.325,1097.8,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,343.15,101.325,1095,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,348.15,101.325,1092.3,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,
+XDKYV,353.15,101.325,1089.6,Tao et al. (2013),Density,Liquid,AAkyBi,C[N+](C)(C)CCO.NCCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate",,,,,,

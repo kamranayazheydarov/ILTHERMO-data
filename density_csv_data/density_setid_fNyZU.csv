@@ -1,0 +1,5 @@
+setid,Mole fraction of water,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fNyZU,0.0016,298.15,101,1475,Skowronek et al. (2015),Density,Liquid,AADYJk,O,water,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,
+fNyZU,0.0556,298.15,101,1472.8,Skowronek et al. (2015),Density,Liquid,AADYJk,O,water,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,
+fNyZU,0.1641,298.15,101,1467.6,Skowronek et al. (2015),Density,Liquid,AADYJk,O,water,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,
+fNyZU,0.2358,298.15,101,1463.8,Skowronek et al. (2015),Density,Liquid,AADYJk,O,water,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,

@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NsbFU,298.6,4270,0.000112,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate
+NsbFU,298.8,2200,0.000128,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate
+NsbFU,299,3340,0.000119,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate
+NsbFU,299.4,98,0.000155,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate
+NsbFU,299.4,1090,0.000147,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate
+NsbFU,299.5,1340,0.000137,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate
+NsbFU,313,100,0.000159,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate
+NsbFU,313.3,1690,0.00014,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate
+NsbFU,313.3,3030,0.000128,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate
+NsbFU,313.3,4280,0.000118,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate
+NsbFU,313.3,5670,8.2e-05,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate

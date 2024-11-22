@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WRJKH,293.15,101.3,1496.36,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,298.15,101.3,1491.51,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,303.15,101.3,1486.67,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,308.15,101.3,1481.85,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,313.15,101.3,1477.04,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,318.15,101.3,1472.26,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,323.15,101.3,1467.48,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,328.15,101.3,1462.72,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,333.15,101.3,1457.97,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,338.15,101.3,1453.23,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,343.15,101.3,1448.5,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WRJKH,348.15,101.3,1443.79,Liu et al. (2021a),Density,Liquid,ABZxnD,CC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,

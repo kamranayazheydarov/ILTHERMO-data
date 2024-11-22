@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MsqdJ,293.15,101.325,1496.2,Bara et al. (2019),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+MsqdJ,303.15,101.325,1486.3,Bara et al. (2019),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+MsqdJ,313.15,101.325,1476.6,Bara et al. (2019),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+MsqdJ,323.15,101.325,1467,Bara et al. (2019),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+MsqdJ,333.15,101.325,1457.5,Bara et al. (2019),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+MsqdJ,343.15,101.325,1448,Bara et al. (2019),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+MsqdJ,353.15,101.325,1438.7,Bara et al. (2019),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,

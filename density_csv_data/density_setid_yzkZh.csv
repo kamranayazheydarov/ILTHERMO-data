@@ -1,0 +1,5 @@
+setid,Mole fraction of 1-butyl-3-methylimidazolium thiocyanate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yzkZh,0.2,101,298.15,925,Khan et al. (2015),Density,Liquid,AAIsrh,CCO,ethanol,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,
+yzkZh,0.4,101,298.15,991,Khan et al. (2015),Density,Liquid,AAIsrh,CCO,ethanol,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,
+yzkZh,0.59,101,298.15,1026,Khan et al. (2015),Density,Liquid,AAIsrh,CCO,ethanol,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,
+yzkZh,0.8,101,298.15,1053,Khan et al. (2015),Density,Liquid,AAIsrh,CCO,ethanol,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,

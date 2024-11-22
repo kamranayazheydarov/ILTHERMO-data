@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ypIbm,348.15,101.325,1055.7,Machida et al. (2011),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,,,
+ypIbm,353.15,101.325,1053,Machida et al. (2011),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,,,
+ypIbm,358.15,101.325,1050.4,Machida et al. (2011),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,,,
+ypIbm,363.15,101.325,1047.7,Machida et al. (2011),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,,,
+ypIbm,368.15,101.325,1045.1,Machida et al. (2011),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,,,
+ypIbm,373.15,101.325,1042.6,Machida et al. (2011),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,,,

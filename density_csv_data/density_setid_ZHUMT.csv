@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZHUMT,288.15,101.325,1261.9,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,293.15,101.325,1258.1,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,298.15,101.325,1254.4,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,303.15,101.325,1250.8,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,308.15,101.325,1247.1,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,313.15,101.325,1243.3,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,318.15,101.325,1239.6,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,323.15,101.325,1235.8,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,328.15,101.325,1232.2,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,333.15,101.325,1228.5,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,338.15,101.325,1224.8,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+ZHUMT,343.15,101.325,1221.2,Zhang et al. (2016a),Density,Liquid,AAqmFg,CC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-ethyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,

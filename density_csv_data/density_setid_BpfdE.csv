@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BpfdE,293.15,101.325,1263,Zec et al. (2018a),Density,Liquid,AAsrvt,CCCC[n+]1ccn(CC)c1.[Br-],1-butyl-3-ethylimidazolium bromide,,,,,,
+BpfdE,298.15,101.325,1259,Zec et al. (2018a),Density,Liquid,AAsrvt,CCCC[n+]1ccn(CC)c1.[Br-],1-butyl-3-ethylimidazolium bromide,,,,,,
+BpfdE,303.15,101.325,1256,Zec et al. (2018a),Density,Liquid,AAsrvt,CCCC[n+]1ccn(CC)c1.[Br-],1-butyl-3-ethylimidazolium bromide,,,,,,
+BpfdE,308.15,101.325,1252,Zec et al. (2018a),Density,Liquid,AAsrvt,CCCC[n+]1ccn(CC)c1.[Br-],1-butyl-3-ethylimidazolium bromide,,,,,,
+BpfdE,313.15,101.325,1249,Zec et al. (2018a),Density,Liquid,AAsrvt,CCCC[n+]1ccn(CC)c1.[Br-],1-butyl-3-ethylimidazolium bromide,,,,,,
+BpfdE,318.15,101.325,1245,Zec et al. (2018a),Density,Liquid,AAsrvt,CCCC[n+]1ccn(CC)c1.[Br-],1-butyl-3-ethylimidazolium bromide,,,,,,
+BpfdE,323.15,101.325,1242,Zec et al. (2018a),Density,Liquid,AAsrvt,CCCC[n+]1ccn(CC)c1.[Br-],1-butyl-3-ethylimidazolium bromide,,,,,,

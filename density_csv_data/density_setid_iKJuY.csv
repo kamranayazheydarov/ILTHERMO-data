@@ -1,0 +1,10 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iKJuY,86,293.15,1024.4,Shokri et al. (2019),Density,Liquid,ABFKGC,CCCCCCCCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-decyl-3-methylimidazolium glycinate,,,,,,
+iKJuY,86,298.15,1021.1,Shokri et al. (2019),Density,Liquid,ABFKGC,CCCCCCCCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-decyl-3-methylimidazolium glycinate,,,,,,
+iKJuY,86,303.15,1018.4,Shokri et al. (2019),Density,Liquid,ABFKGC,CCCCCCCCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-decyl-3-methylimidazolium glycinate,,,,,,
+iKJuY,86,308.15,1015.9,Shokri et al. (2019),Density,Liquid,ABFKGC,CCCCCCCCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-decyl-3-methylimidazolium glycinate,,,,,,
+iKJuY,86,313.15,1013.3,Shokri et al. (2019),Density,Liquid,ABFKGC,CCCCCCCCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-decyl-3-methylimidazolium glycinate,,,,,,
+iKJuY,86,318.15,1010.5,Shokri et al. (2019),Density,Liquid,ABFKGC,CCCCCCCCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-decyl-3-methylimidazolium glycinate,,,,,,
+iKJuY,86,323.15,1007.2,Shokri et al. (2019),Density,Liquid,ABFKGC,CCCCCCCCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-decyl-3-methylimidazolium glycinate,,,,,,
+iKJuY,86,328.15,1004.3,Shokri et al. (2019),Density,Liquid,ABFKGC,CCCCCCCCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-decyl-3-methylimidazolium glycinate,,,,,,
+iKJuY,86,333.15,1001,Shokri et al. (2019),Density,Liquid,ABFKGC,CCCCCCCCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-decyl-3-methylimidazolium glycinate,,,,,,

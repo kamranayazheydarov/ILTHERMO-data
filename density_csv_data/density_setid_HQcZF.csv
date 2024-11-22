@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HQcZF,293.15,100.9,1556.7,Endo et al. (2019),Density,Liquid,ABtJKc,CC(C)[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-isopropyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,,,,,,
+HQcZF,298.15,100.9,1551.3,Endo et al. (2019),Density,Liquid,ABtJKc,CC(C)[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-isopropyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,,,,,,
+HQcZF,303.15,100.9,1546,Endo et al. (2019),Density,Liquid,ABtJKc,CC(C)[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-isopropyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,,,,,,
+HQcZF,313.15,100.9,1535.5,Endo et al. (2019),Density,Liquid,ABtJKc,CC(C)[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-isopropyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,,,,,,
+HQcZF,323.15,100.9,1524.6,Endo et al. (2019),Density,Liquid,ABtJKc,CC(C)[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-isopropyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,,,,,,
+HQcZF,333.15,100.9,1514,Endo et al. (2019),Density,Liquid,ABtJKc,CC(C)[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-isopropyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,,,,,,
+HQcZF,343.15,100.9,1503.5,Endo et al. (2019),Density,Liquid,ABtJKc,CC(C)[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-isopropyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,,,,,,
+HQcZF,353.15,100.9,1492.8,Endo et al. (2019),Density,Liquid,ABtJKc,CC(C)[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-isopropyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,,,,,,

@@ -1,0 +1,11 @@
+setid,Mole fraction of undecane,Mole fraction of toluene,"Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+wXCdV,0.0501,0.4931,298.15,1136.2,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AARlpN,Cc1ccccc1,toluene,AAeDlm,CCCCCCCCCCC,undecane
+wXCdV,0.0584,0.4477,298.15,1138.1,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AARlpN,Cc1ccccc1,toluene,AAeDlm,CCCCCCCCCCC,undecane
+wXCdV,0.0641,0.3725,298.15,1140,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AARlpN,Cc1ccccc1,toluene,AAeDlm,CCCCCCCCCCC,undecane
+wXCdV,0.1225,0.8735,298.15,834.14,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AARlpN,Cc1ccccc1,toluene,AAeDlm,CCCCCCCCCCC,undecane
+wXCdV,0.1531,0.8429,298.15,828.582,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AARlpN,Cc1ccccc1,toluene,AAeDlm,CCCCCCCCCCC,undecane
+wXCdV,0.1773,0.819,298.15,825.611,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AARlpN,Cc1ccccc1,toluene,AAeDlm,CCCCCCCCCCC,undecane
+wXCdV,0.2319,0.7608,298.15,815.9,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AARlpN,Cc1ccccc1,toluene,AAeDlm,CCCCCCCCCCC,undecane
+wXCdV,0.3753,0.6058,298.15,792.3,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AARlpN,Cc1ccccc1,toluene,AAeDlm,CCCCCCCCCCC,undecane
+wXCdV,0.4315,0.5436,298.15,788.1,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AARlpN,Cc1ccccc1,toluene,AAeDlm,CCCCCCCCCCC,undecane
+wXCdV,0.6367,0.3026,298.15,761.9,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AARlpN,Cc1ccccc1,toluene,AAeDlm,CCCCCCCCCCC,undecane

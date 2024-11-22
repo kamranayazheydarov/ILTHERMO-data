@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+hjSfS,298.15,101.325,1069.3,Marcinkowski et al. (2019a),Density,Liquid,ABOMXN,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCCCC[N+]1(C)CCOCC1,N-hexyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,
+hjSfS,303.15,101.325,1066,Marcinkowski et al. (2019a),Density,Liquid,ABOMXN,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCCCC[N+]1(C)CCOCC1,N-hexyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,
+hjSfS,308.15,101.325,1062.6,Marcinkowski et al. (2019a),Density,Liquid,ABOMXN,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCCCC[N+]1(C)CCOCC1,N-hexyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,
+hjSfS,313.15,101.325,1059.3,Marcinkowski et al. (2019a),Density,Liquid,ABOMXN,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCCCC[N+]1(C)CCOCC1,N-hexyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,
+hjSfS,318.15,101.325,1056,Marcinkowski et al. (2019a),Density,Liquid,ABOMXN,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCCCC[N+]1(C)CCOCC1,N-hexyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,

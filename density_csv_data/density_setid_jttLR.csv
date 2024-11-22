@@ -1,0 +1,8 @@
+setid,"MolaLity of 1-allyl-3-methylimidazolium chloride, mol/kg","Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jttLR,0.05,101,298.15,998.1,Jin and Chen (2011),Density,Liquid,AADYJk,O,water,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,
+jttLR,0.1,101,298.15,999,Jin and Chen (2011),Density,Liquid,AADYJk,O,water,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,
+jttLR,0.15,101,298.15,999.8,Jin and Chen (2011),Density,Liquid,AADYJk,O,water,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,
+jttLR,0.25,101,298.15,1001.3,Jin and Chen (2011),Density,Liquid,AADYJk,O,water,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,
+jttLR,0.5,101,298.15,1004.8,Jin and Chen (2011),Density,Liquid,AADYJk,O,water,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,
+jttLR,0.75,101,298.15,1007.8,Jin and Chen (2011),Density,Liquid,AADYJk,O,water,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,
+jttLR,1,101,298.15,1010.3,Jin and Chen (2011),Density,Liquid,AADYJk,O,water,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,

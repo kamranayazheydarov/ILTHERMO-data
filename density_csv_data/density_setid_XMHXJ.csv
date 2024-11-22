@@ -1,0 +1,5 @@
+setid,Weight fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XMHXJ,0.00078,100,298.15,844.5,Keshapolla et al. (2019),Density,Liquid,ABmSNB,CCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium hexanoate,AADYJk,O,water,,,
+XMHXJ,0.001285,100,298.15,844.9,Keshapolla et al. (2019),Density,Liquid,ABmSNB,CCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium hexanoate,AADYJk,O,water,,,
+XMHXJ,0.002315,100,298.15,845.4,Keshapolla et al. (2019),Density,Liquid,ABmSNB,CCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium hexanoate,AADYJk,O,water,,,
+XMHXJ,0.003128,100,298.15,845.8,Keshapolla et al. (2019),Density,Liquid,ABmSNB,CCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium hexanoate,AADYJk,O,water,,,

@@ -1,0 +1,19 @@
+setid,Solvent: Weight fraction of triethylammonium dihydrogen phosphate,Mass ratio to solvent: 2-aminoacetic acid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cWeBp,0.123,0.085,298.15,101,1054.13,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.123,0.092,298.15,101,1058.33,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.123,0.0989,298.15,101,1062.18,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.123,0.109,298.15,101,1067.5,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.123,0.1133,298.15,101,1069.87,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.123,0.1221,298.15,101,1074.71,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.1901,0.0249,298.15,101,1103.72,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.1901,0.036,298.15,101,1104.84,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.1901,0.0479,298.15,101,1106.08,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.1901,0.058,298.15,101,1107.05,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.1901,0.068,298.15,101,1108.13,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.1901,0.0748,298.15,101,1108.82,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.259,0.0152,298.15,101,1108.29,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.259,0.0259,298.15,101,1114.75,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.259,0.0324,298.15,101,1118.6,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.259,0.0367,298.15,101,1121.18,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.259,0.0409,298.15,101,1123.72,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate
+cWeBp,0.259,0.0455,298.15,101,1125.06,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmPLu,CC[NH+](CC)CC.O=P([O-])(O)O,triethylammonium dihydrogen phosphate

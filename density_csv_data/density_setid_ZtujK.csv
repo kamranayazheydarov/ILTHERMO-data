@@ -1,0 +1,5 @@
+setid,Weight fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZtujK,0.001324,100,303.15,1056.7,Chennuri et al. (2017),Density,Liquid,AADYJk,O,water,AArQKv,CCCC(=O)[O-].OCC[NH2+]c1ccccc1,N-(2-hydroxyethyl)benzenaminium butyrate,,,
+ZtujK,0.003159,100,303.15,1057.2,Chennuri et al. (2017),Density,Liquid,AADYJk,O,water,AArQKv,CCCC(=O)[O-].OCC[NH2+]c1ccccc1,N-(2-hydroxyethyl)benzenaminium butyrate,,,
+ZtujK,0.004612,100,303.15,1057.7,Chennuri et al. (2017),Density,Liquid,AADYJk,O,water,AArQKv,CCCC(=O)[O-].OCC[NH2+]c1ccccc1,N-(2-hydroxyethyl)benzenaminium butyrate,,,
+ZtujK,0.006233,100,303.15,1058.3,Chennuri et al. (2017),Density,Liquid,AADYJk,O,water,AArQKv,CCCC(=O)[O-].OCC[NH2+]c1ccccc1,N-(2-hydroxyethyl)benzenaminium butyrate,,,

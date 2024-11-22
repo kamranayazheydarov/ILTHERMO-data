@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+boMmP,293.15,101.325,1347,Rabari et al. (2014),Density,Liquid,ABAxwq,COS(=O)(=O)[O-].C[N+](CCO)(CCO)CCO,tris(2-hydroxyethyl) methylammonium methylsulfate,,,,,,
+boMmP,298.15,101.325,1344,Rabari et al. (2014),Density,Liquid,ABAxwq,COS(=O)(=O)[O-].C[N+](CCO)(CCO)CCO,tris(2-hydroxyethyl) methylammonium methylsulfate,,,,,,
+boMmP,303.15,101.325,1341,Rabari et al. (2014),Density,Liquid,ABAxwq,COS(=O)(=O)[O-].C[N+](CCO)(CCO)CCO,tris(2-hydroxyethyl) methylammonium methylsulfate,,,,,,
+boMmP,308.15,101.325,1338,Rabari et al. (2014),Density,Liquid,ABAxwq,COS(=O)(=O)[O-].C[N+](CCO)(CCO)CCO,tris(2-hydroxyethyl) methylammonium methylsulfate,,,,,,
+boMmP,313.15,101.325,1336,Rabari et al. (2014),Density,Liquid,ABAxwq,COS(=O)(=O)[O-].C[N+](CCO)(CCO)CCO,tris(2-hydroxyethyl) methylammonium methylsulfate,,,,,,
+boMmP,318.15,101.325,1333,Rabari et al. (2014),Density,Liquid,ABAxwq,COS(=O)(=O)[O-].C[N+](CCO)(CCO)CCO,tris(2-hydroxyethyl) methylammonium methylsulfate,,,,,,
+boMmP,323.15,101.325,1330,Rabari et al. (2014),Density,Liquid,ABAxwq,COS(=O)(=O)[O-].C[N+](CCO)(CCO)CCO,tris(2-hydroxyethyl) methylammonium methylsulfate,,,,,,
+boMmP,328.15,101.325,1327,Rabari et al. (2014),Density,Liquid,ABAxwq,COS(=O)(=O)[O-].C[N+](CCO)(CCO)CCO,tris(2-hydroxyethyl) methylammonium methylsulfate,,,,,,

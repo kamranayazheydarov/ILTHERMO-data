@@ -1,0 +1,5 @@
+setid,Mole ratio to solvent: water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+YTvxN,2,101,298.15,1202,Jacquemin et al. (2013),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,AADYJk,O,water,,,
+YTvxN,5,101,298.15,1167,Jacquemin et al. (2013),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,AADYJk,O,water,,,
+YTvxN,10,101,298.15,1123.7,Jacquemin et al. (2013),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,AADYJk,O,water,,,
+YTvxN,20,101,298.15,1080.9,Jacquemin et al. (2013),Density,Liquid,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,AADYJk,O,water,,,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HFrQf,293,101.325,984,Curnow et al. (2018),Density,Liquid,ABRRqI,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCCCC)C,bis(diethylamino)(hexylmethylamino)cyclopropenium dicyanamide,,,,,,
+HFrQf,303,101.325,978,Curnow et al. (2018),Density,Liquid,ABRRqI,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCCCC)C,bis(diethylamino)(hexylmethylamino)cyclopropenium dicyanamide,,,,,,
+HFrQf,313,101.325,972,Curnow et al. (2018),Density,Liquid,ABRRqI,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCCCC)C,bis(diethylamino)(hexylmethylamino)cyclopropenium dicyanamide,,,,,,
+HFrQf,323,101.325,966,Curnow et al. (2018),Density,Liquid,ABRRqI,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCCCC)C,bis(diethylamino)(hexylmethylamino)cyclopropenium dicyanamide,,,,,,
+HFrQf,333,101.325,960,Curnow et al. (2018),Density,Liquid,ABRRqI,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCCCC)C,bis(diethylamino)(hexylmethylamino)cyclopropenium dicyanamide,,,,,,
+HFrQf,343,101.325,954,Curnow et al. (2018),Density,Liquid,ABRRqI,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCCCC)C,bis(diethylamino)(hexylmethylamino)cyclopropenium dicyanamide,,,,,,
+HFrQf,353,101.325,948,Curnow et al. (2018),Density,Liquid,ABRRqI,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCCCC)C,bis(diethylamino)(hexylmethylamino)cyclopropenium dicyanamide,,,,,,
+HFrQf,363,101.325,942,Curnow et al. (2018),Density,Liquid,ABRRqI,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(CCCCCC)C,bis(diethylamino)(hexylmethylamino)cyclopropenium dicyanamide,,,,,,

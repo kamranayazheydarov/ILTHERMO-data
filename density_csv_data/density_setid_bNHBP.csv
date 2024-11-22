@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bNHBP,303.15,101.325,1025.1,Trivedi et al. (2012),Density,Liquid,ABVncg,CC(C)OC(=O)C[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],2-isopropoxy-2-oxoethan-1-aminium dodecyl sulfate,,,,,,
+bNHBP,308.15,101.325,1021.4,Trivedi et al. (2012),Density,Liquid,ABVncg,CC(C)OC(=O)C[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],2-isopropoxy-2-oxoethan-1-aminium dodecyl sulfate,,,,,,
+bNHBP,313.15,101.325,1017.7,Trivedi et al. (2012),Density,Liquid,ABVncg,CC(C)OC(=O)C[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],2-isopropoxy-2-oxoethan-1-aminium dodecyl sulfate,,,,,,
+bNHBP,318.15,101.325,1014.2,Trivedi et al. (2012),Density,Liquid,ABVncg,CC(C)OC(=O)C[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],2-isopropoxy-2-oxoethan-1-aminium dodecyl sulfate,,,,,,
+bNHBP,323.15,101.325,1010.6,Trivedi et al. (2012),Density,Liquid,ABVncg,CC(C)OC(=O)C[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],2-isopropoxy-2-oxoethan-1-aminium dodecyl sulfate,,,,,,
+bNHBP,328.15,101.325,1007.1,Trivedi et al. (2012),Density,Liquid,ABVncg,CC(C)OC(=O)C[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],2-isopropoxy-2-oxoethan-1-aminium dodecyl sulfate,,,,,,
+bNHBP,333.15,101.325,1003.6,Trivedi et al. (2012),Density,Liquid,ABVncg,CC(C)OC(=O)C[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],2-isopropoxy-2-oxoethan-1-aminium dodecyl sulfate,,,,,,
+bNHBP,338.15,101.325,1000.1,Trivedi et al. (2012),Density,Liquid,ABVncg,CC(C)OC(=O)C[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],2-isopropoxy-2-oxoethan-1-aminium dodecyl sulfate,,,,,,
+bNHBP,343.15,101.325,996.6,Trivedi et al. (2012),Density,Liquid,ABVncg,CC(C)OC(=O)C[NH3+].CCCCCCCCCCCCOS(=O)(=O)[O-],2-isopropoxy-2-oxoethan-1-aminium dodecyl sulfate,,,,,,

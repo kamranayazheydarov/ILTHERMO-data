@@ -1,0 +1,14 @@
+setid,Weight fraction of ethyl acetate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+aGoUT,0.017,101,313,1340,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.036,101,313,1297,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.044,101,313,1284,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.057,101,313,1262,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.08,101,313,1233,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.12,101,313,1191.7,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.129,101,313,1186.8,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.178,101,313,1142.2,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.197,101,313,1132.4,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.249,101,313,1099.3,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.257,101,313,1095.7,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.287,101,313,1078.8,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate
+aGoUT,0.314,101,313,1064.1,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,13,AALcAl,CC(=O)O,acetic acid,AAQxSq,CCOC(C)=O,ethyl acetate

@@ -1,0 +1,10 @@
+setid,Mole fraction of ethylammonium nitrate,"Pressure, kPa","Temperature, K",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+ZOBRd,0.0941,101,298.15,1.37659,Segade et al. (2016),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+ZOBRd,0.161,101,298.15,1.38653,Segade et al. (2016),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+ZOBRd,0.2121,101,298.15,1.39227,Segade et al. (2016),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+ZOBRd,0.245,101,298.15,1.39736,Segade et al. (2016),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+ZOBRd,0.3318,101,298.15,1.40657,Segade et al. (2016),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+ZOBRd,0.4281,101,298.15,1.41592,Segade et al. (2016),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+ZOBRd,0.5603,101,298.15,1.42638,Segade et al. (2016),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+ZOBRd,0.6702,101,298.15,1.43398,Segade et al. (2016),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,
+ZOBRd,0.8009,101,298.15,1.44181,Segade et al. (2016),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,

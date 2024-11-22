@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mwyLZ,288.15,101.325,1043.2,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,293.15,101.325,1039.5,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,298.15,101.325,1035.9,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,303.15,101.325,1032.2,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,308.15,101.325,1028.6,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,313.15,101.325,1024.9,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,318.15,101.325,1021.3,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,323.15,101.325,1017.7,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,328.15,101.325,1014.2,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,333.15,101.325,1010.9,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,338.15,101.325,1007.6,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,
+mwyLZ,343.15,101.325,1005,Trivedi et al. (2012),Density,Liquid,ABgIlL,CC(C)COC(=O)[C@@H]1CCC[NH2+]1.CCCCCCCCCCCCOS(=O)(=O)[O-],(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate,,,,,,

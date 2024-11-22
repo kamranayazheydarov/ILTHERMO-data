@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mWXpM,278.15,101.325,1024.8,Nazet et al. (2017a),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+mWXpM,288.15,101.325,1019.1,Nazet et al. (2017a),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+mWXpM,298.15,101.325,1013.4,Nazet et al. (2017a),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+mWXpM,308.15,101.325,1007.8,Nazet et al. (2017a),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+mWXpM,318.15,101.325,1002.3,Nazet et al. (2017a),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+mWXpM,328.15,101.325,996.8,Nazet et al. (2017a),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+mWXpM,338.15,101.325,991.4,Nazet et al. (2017a),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+mWXpM,348.15,101.325,986,Nazet et al. (2017a),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+mWXpM,358.15,101.325,980.7,Nazet et al. (2017a),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,

@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cQSak,293.15,101.325,1256.36,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+cQSak,298.15,101.325,1252.71,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+cQSak,303.15,101.325,1249.05,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+cQSak,308.15,101.325,1245.4,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+cQSak,313.15,101.325,1241.77,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+cQSak,318.15,101.325,1238.16,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+cQSak,323.15,101.325,1234.56,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+cQSak,328.15,101.325,1230.98,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+cQSak,333.15,101.325,1227.41,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+cQSak,338.15,101.325,1223.85,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+cQSak,343.15,101.325,1220.3,Seoane et al. (2012b),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,

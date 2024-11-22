@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RYCTB,293.15,101,1206,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,
+RYCTB,298.15,101,1202.4,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,
+RYCTB,303.15,101,1198.8,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,
+RYCTB,308.15,101,1195.2,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,
+RYCTB,313.15,101,1191.7,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,
+RYCTB,318.15,101,1188.1,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,
+RYCTB,323.15,101,1184.6,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,
+RYCTB,328.15,101,1181.1,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,
+RYCTB,333.15,101,1177.6,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,
+RYCTB,338.15,101,1174.2,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,
+RYCTB,343.15,101,1170.7,Ebrahiminejadhasanabadi et al. (2018),Density,Liquid,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,,,,

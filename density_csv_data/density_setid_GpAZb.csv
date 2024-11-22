@@ -1,0 +1,11 @@
+setid,Mole fraction of nonane,Mole fraction of benzene,"Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GpAZb,0.0725,0.3612,298.15,1160.9,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+GpAZb,0.0797,0.1912,298.15,1184.5,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+GpAZb,0.0835,0.1514,298.15,1187,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+GpAZb,0.1694,0.8287,298.15,818.919,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+GpAZb,0.261,0.7219,298.15,808.412,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+GpAZb,0.2868,0.6935,298.15,802.863,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+GpAZb,0.4481,0.5373,298.15,768.5,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+GpAZb,0.5332,0.4506,298.15,755.9,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+GpAZb,0.6387,0.3504,298.15,742.7,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+GpAZb,0.7928,0.1916,298.15,730.4,Maduro and Aznar (2010),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane

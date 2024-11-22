@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KYeyK,293.15,101.325,1165.2,Shah et al. (2015),Density,Liquid,AAyDtk,CCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-hexyl-3-methylimidazolium phenolate,,,,,,
+KYeyK,303.15,101.325,1158.2,Shah et al. (2015),Density,Liquid,AAyDtk,CCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-hexyl-3-methylimidazolium phenolate,,,,,,
+KYeyK,313.15,101.325,1151.2,Shah et al. (2015),Density,Liquid,AAyDtk,CCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-hexyl-3-methylimidazolium phenolate,,,,,,
+KYeyK,323.15,101.325,1144.2,Shah et al. (2015),Density,Liquid,AAyDtk,CCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-hexyl-3-methylimidazolium phenolate,,,,,,
+KYeyK,333.15,101.325,1137.2,Shah et al. (2015),Density,Liquid,AAyDtk,CCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-hexyl-3-methylimidazolium phenolate,,,,,,
+KYeyK,343.15,101.325,1130.2,Shah et al. (2015),Density,Liquid,AAyDtk,CCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-hexyl-3-methylimidazolium phenolate,,,,,,
+KYeyK,353.15,101.325,1123.1,Shah et al. (2015),Density,Liquid,AAyDtk,CCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-hexyl-3-methylimidazolium phenolate,,,,,,
+KYeyK,363.15,101.325,1116.2,Shah et al. (2015),Density,Liquid,AAyDtk,CCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-hexyl-3-methylimidazolium phenolate,,,,,,
+KYeyK,373.15,101.325,1109.3,Shah et al. (2015),Density,Liquid,AAyDtk,CCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-hexyl-3-methylimidazolium phenolate,,,,,,

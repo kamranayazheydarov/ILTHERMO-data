@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RYNxU,298,100,883.7,Martak and Schlosser (2017),Density,Liquid,ACskOY,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C.CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",,,,,,
+RYNxU,310,100,876.5,Martak and Schlosser (2017),Density,Liquid,ACskOY,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C.CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",,,,,,
+RYNxU,318,100,871.8,Martak and Schlosser (2017),Density,Liquid,ACskOY,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C.CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",,,,,,

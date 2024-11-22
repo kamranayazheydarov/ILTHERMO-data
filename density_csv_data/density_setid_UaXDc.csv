@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+UaXDc,293.15,100,977,Wei et al. (2018),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+UaXDc,298.15,100,973.8,Wei et al. (2018),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+UaXDc,303.15,100,970.7,Wei et al. (2018),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+UaXDc,308.15,100,967.5,Wei et al. (2018),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+UaXDc,313.15,100,964.4,Wei et al. (2018),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+UaXDc,318.15,100,961.2,Wei et al. (2018),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+UaXDc,323.15,100,958,Wei et al. (2018),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+UaXDc,328.15,100,955,Wei et al. (2018),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,
+UaXDc,333.15,100,951.8,Wei et al. (2018),Density,Liquid,AAWvbn,CCCC[NH3+].O=C[O-],butylammonium formate,,,,,,

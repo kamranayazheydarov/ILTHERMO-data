@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yFery,295.75,101.325,1301.3,Fredlake et al. (2004),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+yFery,303.95,101.325,1296.5,Fredlake et al. (2004),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+yFery,313.35,101.325,1289.4,Fredlake et al. (2004),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+yFery,328.75,101.325,1279,Fredlake et al. (2004),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+yFery,342.95,101.325,1270,Fredlake et al. (2004),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

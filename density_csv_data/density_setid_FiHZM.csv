@@ -1,0 +1,10 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FiHZM,100,293.15,1373.6,Ghanem et al. (2015b),Density,Liquid,AAmkTY,Cn1cc[n+](CCO)c1.NCC(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium glycinate,,,,,,
+FiHZM,100,303.15,1366.9,Ghanem et al. (2015b),Density,Liquid,AAmkTY,Cn1cc[n+](CCO)c1.NCC(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium glycinate,,,,,,
+FiHZM,100,313.15,1360.3,Ghanem et al. (2015b),Density,Liquid,AAmkTY,Cn1cc[n+](CCO)c1.NCC(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium glycinate,,,,,,
+FiHZM,100,323.15,1353.5,Ghanem et al. (2015b),Density,Liquid,AAmkTY,Cn1cc[n+](CCO)c1.NCC(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium glycinate,,,,,,
+FiHZM,100,333.15,1346.8,Ghanem et al. (2015b),Density,Liquid,AAmkTY,Cn1cc[n+](CCO)c1.NCC(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium glycinate,,,,,,
+FiHZM,100,343.15,1340.4,Ghanem et al. (2015b),Density,Liquid,AAmkTY,Cn1cc[n+](CCO)c1.NCC(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium glycinate,,,,,,
+FiHZM,100,353.15,1334.1,Ghanem et al. (2015b),Density,Liquid,AAmkTY,Cn1cc[n+](CCO)c1.NCC(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium glycinate,,,,,,
+FiHZM,100,363.15,1327.9,Ghanem et al. (2015b),Density,Liquid,AAmkTY,Cn1cc[n+](CCO)c1.NCC(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium glycinate,,,,,,
+FiHZM,100,373.15,1321.8,Ghanem et al. (2015b),Density,Liquid,AAmkTY,Cn1cc[n+](CCO)c1.NCC(=O)[O-],1-(2-hydroxyethyl)-3-methylimidazolium glycinate,,,,,,

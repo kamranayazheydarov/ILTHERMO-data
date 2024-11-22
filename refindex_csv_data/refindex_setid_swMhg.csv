@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+swMhg,298.15,101.325,1.5452,Devi et al. (2024),Refractive index,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,,,,,,,
+swMhg,303.15,101.325,1.5441,Devi et al. (2024),Refractive index,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,,,,,,,
+swMhg,308.15,101.325,1.5421,Devi et al. (2024),Refractive index,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,,,,,,,
+swMhg,313.15,101.325,1.5413,Devi et al. (2024),Refractive index,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,,,,,,,

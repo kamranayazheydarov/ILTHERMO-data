@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iWgVA,298.15,100,1134,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,
+iWgVA,303.15,100,1130.7,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,
+iWgVA,308.15,100,1127.3,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,
+iWgVA,313.15,100,1124,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,
+iWgVA,318.15,100,1120.8,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,
+iWgVA,323.15,100,1117.6,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,
+iWgVA,328.15,100,1114.4,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,
+iWgVA,333.15,100,1111.2,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,
+iWgVA,338.15,100,1108.1,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,
+iWgVA,343.15,100,1105,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,
+iWgVA,348.15,100,1101.9,Krolikowska et al. (2017),Density,Liquid,AAkUnP,CC[N+]1(C)CCCC1.O=C([O-])CO,1-ethyl-1-methylpyrrolidinium glycolate,,,,,,

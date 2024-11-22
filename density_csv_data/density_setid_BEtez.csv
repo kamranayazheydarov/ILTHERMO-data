@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BEtez,303.15,101,1046.1,Wang et al. (2018c),Density,Liquid,AAqnjS,CCCCCC[n+]1ccccc1.N#C[S-],1-hexylpyridinium thiocyanate,,,,,,
+BEtez,313.15,101,1040.4,Wang et al. (2018c),Density,Liquid,AAqnjS,CCCCCC[n+]1ccccc1.N#C[S-],1-hexylpyridinium thiocyanate,,,,,,
+BEtez,323.15,101,1034.8,Wang et al. (2018c),Density,Liquid,AAqnjS,CCCCCC[n+]1ccccc1.N#C[S-],1-hexylpyridinium thiocyanate,,,,,,
+BEtez,333.15,101,1029.3,Wang et al. (2018c),Density,Liquid,AAqnjS,CCCCCC[n+]1ccccc1.N#C[S-],1-hexylpyridinium thiocyanate,,,,,,

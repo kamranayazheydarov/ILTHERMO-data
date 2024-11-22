@@ -1,0 +1,7 @@
+setid,"MolaLity of tetrapentylammonium bromide, mol/kg","Temperature, K","Pressure, kPa","Specific density<SUP>*</SUP>, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RNDIM,0.00827,298,101,-0.459,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,,,
+RNDIM,0.02097,298,101,-1.161,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,,,
+RNDIM,0.03118,298,101,-1.722,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,,,
+RNDIM,0.04991,298,101,-2.751,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,,,
+RNDIM,0.05956,298,101,-3.254,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,,,
+RNDIM,0.09828,298,101,-5.273,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,,,

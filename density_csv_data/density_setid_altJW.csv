@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+altJW,303.15,101.325,1136.6,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,
+altJW,308.15,101.325,1133.5,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,
+altJW,313.15,101.325,1130.5,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,
+altJW,318.15,101.325,1127.6,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,
+altJW,323.15,101.325,1124.6,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,
+altJW,328.15,101.325,1121.7,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,
+altJW,333.15,101.325,1118.7,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,
+altJW,338.15,101.325,1115.8,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,
+altJW,343.15,101.325,1112.8,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,
+altJW,348.15,101.325,1109.9,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,
+altJW,353.15,101.325,1107,Hossain et al. (2011),Density,Liquid,AAnStc,OCCCCCCn1cc[nH+]c1.[Cl-],1-(6-hydroxyhexyl)imidazolium chloride,,,,,,

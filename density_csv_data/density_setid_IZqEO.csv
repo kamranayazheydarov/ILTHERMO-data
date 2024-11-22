@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IZqEO,288,101.325,1207.41,Navas et al. (2009),Density,Liquid,AAtepM,CCCC[n+]1ccccc1C.F[B-](F)(F)F,1-butyl-2-methylpyridinium tetrafluoroborate,,,,,,
+IZqEO,298,101.325,1200.55,Navas et al. (2009),Density,Liquid,AAtepM,CCCC[n+]1ccccc1C.F[B-](F)(F)F,1-butyl-2-methylpyridinium tetrafluoroborate,,,,,,
+IZqEO,308,101.325,1193.73,Navas et al. (2009),Density,Liquid,AAtepM,CCCC[n+]1ccccc1C.F[B-](F)(F)F,1-butyl-2-methylpyridinium tetrafluoroborate,,,,,,
+IZqEO,318,101.325,1186.94,Navas et al. (2009),Density,Liquid,AAtepM,CCCC[n+]1ccccc1C.F[B-](F)(F)F,1-butyl-2-methylpyridinium tetrafluoroborate,,,,,,
+IZqEO,328,101.325,1180.2,Navas et al. (2009),Density,Liquid,AAtepM,CCCC[n+]1ccccc1C.F[B-](F)(F)F,1-butyl-2-methylpyridinium tetrafluoroborate,,,,,,

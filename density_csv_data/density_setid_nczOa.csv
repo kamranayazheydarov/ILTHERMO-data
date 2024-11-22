@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nczOa,313.15,101,1176.3,Krolikowska et al. (2014a),Density,Liquid,AAuByn,CCOS(=O)(=O)[O-].CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium ethyl sulfate,,,,,,
+nczOa,318.15,101,1173.6,Krolikowska et al. (2014a),Density,Liquid,AAuByn,CCOS(=O)(=O)[O-].CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium ethyl sulfate,,,,,,
+nczOa,323.15,101,1171,Krolikowska et al. (2014a),Density,Liquid,AAuByn,CCOS(=O)(=O)[O-].CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium ethyl sulfate,,,,,,
+nczOa,328.15,101,1168.3,Krolikowska et al. (2014a),Density,Liquid,AAuByn,CCOS(=O)(=O)[O-].CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium ethyl sulfate,,,,,,
+nczOa,333.15,101,1165.6,Krolikowska et al. (2014a),Density,Liquid,AAuByn,CCOS(=O)(=O)[O-].CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium ethyl sulfate,,,,,,
+nczOa,338.15,101,1162.9,Krolikowska et al. (2014a),Density,Liquid,AAuByn,CCOS(=O)(=O)[O-].CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium ethyl sulfate,,,,,,
+nczOa,343.15,101,1160.2,Krolikowska et al. (2014a),Density,Liquid,AAuByn,CCOS(=O)(=O)[O-].CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium ethyl sulfate,,,,,,

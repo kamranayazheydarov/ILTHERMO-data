@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+upAvB,293.15,101.325,1448,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+upAvB,298.85,101.325,1444.4,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+upAvB,303.15,101.325,1440.3,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+upAvB,313.15,101.325,1432.5,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+upAvB,323.15,101.325,1424.8,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+upAvB,330.65,101.325,1419.5,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+upAvB,333.15,101.325,1417,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+upAvB,343.15,101.325,1409.3,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+upAvB,353.15,101.325,1401.5,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+upAvB,363.15,101.325,1393.8,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+upAvB,373.15,101.325,1386,Mutelet et al. (2017),Density,Liquid,ABjoAU,C[N+]1(Cc2ccccc2)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,

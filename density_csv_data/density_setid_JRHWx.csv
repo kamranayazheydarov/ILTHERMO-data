@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JRHWx,293.15,101.325,1291.2,Ficke et al. (2010),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,
+JRHWx,298.15,101.325,1287.8,Ficke et al. (2010),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,
+JRHWx,303.15,101.325,1284.4,Ficke et al. (2010),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,
+JRHWx,313.15,101.325,1277.6,Ficke et al. (2010),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,
+JRHWx,323.15,101.325,1270.9,Ficke et al. (2010),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,
+JRHWx,333.15,101.325,1264.2,Ficke et al. (2010),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,
+JRHWx,343.15,101.325,1257.7,Ficke et al. (2010),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,

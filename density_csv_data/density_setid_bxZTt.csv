@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bxZTt,288.15,101,1449.2,Zhang et al. (2018f),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+bxZTt,293.15,101,1445,Zhang et al. (2018f),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+bxZTt,298.15,101,1440.9,Zhang et al. (2018f),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+bxZTt,303.15,101,1436.7,Zhang et al. (2018f),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+bxZTt,308.15,101,1432.5,Zhang et al. (2018f),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+bxZTt,313.15,101,1428.4,Zhang et al. (2018f),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+bxZTt,318.15,101,1424.3,Zhang et al. (2018f),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,
+bxZTt,323.15,101,1420,Zhang et al. (2018f),Density,Liquid,ABFcpW,C[n+]1ccn(CCCC#N)c1.O=S(=O)([O-])C(F)(F)F,3-(3-cyanopropyl)-1-methylimidazolium trifluoromethanesulfonate,,,,,,

@@ -1,0 +1,8 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PSeXu,100,293.15,1227.5,Patel et al. (2016),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,
+PSeXu,100,298.15,1223.7,Patel et al. (2016),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,
+PSeXu,100,303.15,1220.3,Patel et al. (2016),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,
+PSeXu,100,308.15,1216.7,Patel et al. (2016),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,
+PSeXu,100,313.15,1213.1,Patel et al. (2016),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,
+PSeXu,100,318.15,1209.4,Patel et al. (2016),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,
+PSeXu,100,323.15,1205.6,Patel et al. (2016),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QICZM,288.15,101,1013.43,Hong et al. (2013b),Density,Liquid,AAuLsy,CCC(=O)[O-].CCCCCC[n+]1ccn(C)c1,1-hexyl-3-methylimidazolium propanoate,,,,,,
+QICZM,293.15,101,1010.47,Hong et al. (2013b),Density,Liquid,AAuLsy,CCC(=O)[O-].CCCCCC[n+]1ccn(C)c1,1-hexyl-3-methylimidazolium propanoate,,,,,,
+QICZM,298.15,101,1007.35,Hong et al. (2013b),Density,Liquid,AAuLsy,CCC(=O)[O-].CCCCCC[n+]1ccn(C)c1,1-hexyl-3-methylimidazolium propanoate,,,,,,
+QICZM,303.15,101,1004.39,Hong et al. (2013b),Density,Liquid,AAuLsy,CCC(=O)[O-].CCCCCC[n+]1ccn(C)c1,1-hexyl-3-methylimidazolium propanoate,,,,,,
+QICZM,308.15,101,1001.41,Hong et al. (2013b),Density,Liquid,AAuLsy,CCC(=O)[O-].CCCCCC[n+]1ccn(C)c1,1-hexyl-3-methylimidazolium propanoate,,,,,,
+QICZM,313.15,101,998.43,Hong et al. (2013b),Density,Liquid,AAuLsy,CCC(=O)[O-].CCCCCC[n+]1ccn(C)c1,1-hexyl-3-methylimidazolium propanoate,,,,,,
+QICZM,318.15,101,995.39,Hong et al. (2013b),Density,Liquid,AAuLsy,CCC(=O)[O-].CCCCCC[n+]1ccn(C)c1,1-hexyl-3-methylimidazolium propanoate,,,,,,
+QICZM,323.15,101,992.4,Hong et al. (2013b),Density,Liquid,AAuLsy,CCC(=O)[O-].CCCCCC[n+]1ccn(C)c1,1-hexyl-3-methylimidazolium propanoate,,,,,,
+QICZM,328.15,101,989.39,Hong et al. (2013b),Density,Liquid,AAuLsy,CCC(=O)[O-].CCCCCC[n+]1ccn(C)c1,1-hexyl-3-methylimidazolium propanoate,,,,,,

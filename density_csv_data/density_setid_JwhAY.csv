@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of ethyltributylphosphonium bromide,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JwhAY,303.15,101,0.333,1094.63,Cui et al. (2023),Density,Liquid,ABHsyP,CCCC[P+](CC)(CCCC)CCCC.[Br-],ethyltributylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,
+JwhAY,313.15,101,0.333,1088.18,Cui et al. (2023),Density,Liquid,ABHsyP,CCCC[P+](CC)(CCCC)CCCC.[Br-],ethyltributylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,
+JwhAY,323.15,101,0.333,1081.77,Cui et al. (2023),Density,Liquid,ABHsyP,CCCC[P+](CC)(CCCC)CCCC.[Br-],ethyltributylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,
+JwhAY,333.15,101,0.333,1075.77,Cui et al. (2023),Density,Liquid,ABHsyP,CCCC[P+](CC)(CCCC)CCCC.[Br-],ethyltributylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,
+JwhAY,343.15,101,0.333,1068.93,Cui et al. (2023),Density,Liquid,ABHsyP,CCCC[P+](CC)(CCCC)CCCC.[Br-],ethyltributylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,
+JwhAY,353.15,101,0.333,1062.53,Cui et al. (2023),Density,Liquid,ABHsyP,CCCC[P+](CC)(CCCC)CCCC.[Br-],ethyltributylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,

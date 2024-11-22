@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RXldu,293.15,101.325,994.31,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,
+RXldu,298.15,101.325,990.01,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,
+RXldu,303.15,101.325,985.7,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,
+RXldu,308.15,101.325,981.38,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,
+RXldu,313.15,101.325,977.06,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,
+RXldu,318.15,101.325,972.73,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,
+RXldu,323.15,101.325,968.39,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,
+RXldu,328.15,101.325,964.05,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,
+RXldu,333.15,101.325,959.71,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,
+RXldu,338.15,101.325,955.36,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,
+RXldu,343.15,101.325,951.01,Panda and Gardas (2015),Density,Liquid,AAmkkZ,CCCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium pentanoate,,,,,,

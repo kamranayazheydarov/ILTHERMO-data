@@ -1,0 +1,20 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vDWKO,298.3,100,0.000238,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,298.4,1200,0.000189,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,298.5,2460,0.000146,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,298.6,3310,0.000131,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,298.6,4890,0.000104,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,298.7,5470,9.7e-05,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,313.7,2540,0.000175,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,313.7,3590,0.000157,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,313.7,4600,0.000141,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,313.7,5790,0.000125,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,313.7,7120,0.000111,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,313.8,98,0.000242,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,313.8,1300,0.000198,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,333.2,5570,0.000155,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,333.3,99,0.000241,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,333.3,1220,0.000218,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,333.3,2590,0.000202,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,333.3,4010,0.000179,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate
+vDWKO,333.3,4810,0.000161,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate

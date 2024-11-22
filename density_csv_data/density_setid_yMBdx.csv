@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yMBdx,303.2,101.325,1105.8,Wong et al. (2008),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+yMBdx,308.2,101.325,1102.6,Wong et al. (2008),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+yMBdx,313.2,101.325,1099.4,Wong et al. (2008),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+yMBdx,318.2,101.325,1096.2,Wong et al. (2008),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+yMBdx,323.2,101.325,1093,Wong et al. (2008),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,

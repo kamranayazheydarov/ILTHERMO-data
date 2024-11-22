@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vgbTC,293,101,1235.8,Penley et al. (2022),Density,Liquid,ABIhFX,CCCC[N+]1(CCCC1)C.[N-](C#N)S(=O)(=O)C(F)(F)F,N-methyl-N-butylpyrrolidinium cyano(trifluoromethanesulfonyl)imide,,,,,,
+vgbTC,298,101,1232,Penley et al. (2022),Density,Liquid,ABIhFX,CCCC[N+]1(CCCC1)C.[N-](C#N)S(=O)(=O)C(F)(F)F,N-methyl-N-butylpyrrolidinium cyano(trifluoromethanesulfonyl)imide,,,,,,
+vgbTC,303,101,1228.3,Penley et al. (2022),Density,Liquid,ABIhFX,CCCC[N+]1(CCCC1)C.[N-](C#N)S(=O)(=O)C(F)(F)F,N-methyl-N-butylpyrrolidinium cyano(trifluoromethanesulfonyl)imide,,,,,,
+vgbTC,308,101,1224.6,Penley et al. (2022),Density,Liquid,ABIhFX,CCCC[N+]1(CCCC1)C.[N-](C#N)S(=O)(=O)C(F)(F)F,N-methyl-N-butylpyrrolidinium cyano(trifluoromethanesulfonyl)imide,,,,,,
+vgbTC,313,101,1220.9,Penley et al. (2022),Density,Liquid,ABIhFX,CCCC[N+]1(CCCC1)C.[N-](C#N)S(=O)(=O)C(F)(F)F,N-methyl-N-butylpyrrolidinium cyano(trifluoromethanesulfonyl)imide,,,,,,
+vgbTC,318,101,1217.2,Penley et al. (2022),Density,Liquid,ABIhFX,CCCC[N+]1(CCCC1)C.[N-](C#N)S(=O)(=O)C(F)(F)F,N-methyl-N-butylpyrrolidinium cyano(trifluoromethanesulfonyl)imide,,,,,,
+vgbTC,323,101,1213.5,Penley et al. (2022),Density,Liquid,ABIhFX,CCCC[N+]1(CCCC1)C.[N-](C#N)S(=O)(=O)C(F)(F)F,N-methyl-N-butylpyrrolidinium cyano(trifluoromethanesulfonyl)imide,,,,,,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bdrKv,293.15,101.325,1188.8,Sardar et al. (2020a),Density,Liquid,ABFXKC,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].C[N+](C)=CCl,N-(chloromethylene)-N-methylmethanaminium 2-acrylamido-2-methylpropane-1-sulfonate,,,,,,
+bdrKv,303.15,101.325,1180.2,Sardar et al. (2020a),Density,Liquid,ABFXKC,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].C[N+](C)=CCl,N-(chloromethylene)-N-methylmethanaminium 2-acrylamido-2-methylpropane-1-sulfonate,,,,,,
+bdrKv,313.15,101.325,1171.9,Sardar et al. (2020a),Density,Liquid,ABFXKC,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].C[N+](C)=CCl,N-(chloromethylene)-N-methylmethanaminium 2-acrylamido-2-methylpropane-1-sulfonate,,,,,,
+bdrKv,323.15,101.325,1163.8,Sardar et al. (2020a),Density,Liquid,ABFXKC,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].C[N+](C)=CCl,N-(chloromethylene)-N-methylmethanaminium 2-acrylamido-2-methylpropane-1-sulfonate,,,,,,
+bdrKv,333.15,101.325,1155.6,Sardar et al. (2020a),Density,Liquid,ABFXKC,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].C[N+](C)=CCl,N-(chloromethylene)-N-methylmethanaminium 2-acrylamido-2-methylpropane-1-sulfonate,,,,,,
+bdrKv,343.15,101.325,1147.4,Sardar et al. (2020a),Density,Liquid,ABFXKC,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].C[N+](C)=CCl,N-(chloromethylene)-N-methylmethanaminium 2-acrylamido-2-methylpropane-1-sulfonate,,,,,,
+bdrKv,353.15,101.325,1139.1,Sardar et al. (2020a),Density,Liquid,ABFXKC,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].C[N+](C)=CCl,N-(chloromethylene)-N-methylmethanaminium 2-acrylamido-2-methylpropane-1-sulfonate,,,,,,
+bdrKv,363.15,101.325,1130.7,Sardar et al. (2020a),Density,Liquid,ABFXKC,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].C[N+](C)=CCl,N-(chloromethylene)-N-methylmethanaminium 2-acrylamido-2-methylpropane-1-sulfonate,,,,,,

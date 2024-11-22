@@ -1,0 +1,4 @@
+setid,"Temperature, K","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+dOpwk,291.8,8.92e-05,Shiflett and Yokozeki (2006a),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,3,AAQIZu,CC(F)(F)F,"1,1,1-trifluoroethane"
+dOpwk,324.6,0.0001056,Shiflett and Yokozeki (2006a),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,3,AAQIZu,CC(F)(F)F,"1,1,1-trifluoroethane"
+dOpwk,338.6,0.0001241,Shiflett and Yokozeki (2006a),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,3,AAQIZu,CC(F)(F)F,"1,1,1-trifluoroethane"

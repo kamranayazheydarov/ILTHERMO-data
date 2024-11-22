@@ -1,0 +1,5 @@
+setid,"MolaLity of calcium nitrate, mol/kg","MolaLity of water, mol/kg","Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VrhKO,0.2,0.81,100,298.15,1230.9,Vallet et al. (2022),Density,Liquid,AAfcho,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ca+2],calcium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate
+VrhKO,0.5,2.01,100,298.15,1255,Vallet et al. (2022),Density,Liquid,AAfcho,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ca+2],calcium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate
+VrhKO,0.7,2.82,100,298.15,1270.1,Vallet et al. (2022),Density,Liquid,AAfcho,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ca+2],calcium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate
+VrhKO,1,4,100,298.15,1289.4,Vallet et al. (2022),Density,Liquid,AAfcho,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ca+2],calcium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate

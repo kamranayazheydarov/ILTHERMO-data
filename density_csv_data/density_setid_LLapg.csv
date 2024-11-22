@@ -1,0 +1,20 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LLapg,299.5,99,0.000177,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,299.5,1130,0.000155,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,299.6,2470,0.000133,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,299.6,3860,0.000113,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,299.6,5210,9.6e-05,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,313.2,1330,0.000176,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,313.2,2590,0.000155,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,313.2,3770,0.000143,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,313.3,99,0.000179,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,313.3,4850,0.000135,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,313.3,6140,0.000129,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,313.3,7480,0.000122,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,332.9,100,0.000179,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,333,1310,0.000182,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,333,2650,0.00017,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,333,4070,0.000161,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,333,5200,0.000145,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,333,6730,0.000137,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate
+LLapg,333,7930,0.000129,Mejia et al. (2013),Density,Liquid,Gas,,19,AAIYzl,O=C=O,carbon dioxide,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate

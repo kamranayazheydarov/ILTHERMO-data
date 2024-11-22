@@ -1,0 +1,11 @@
+setid,Mole fraction of acetonitrile,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kMBpN,0.2,100,293,1092,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAHueB,CC#N,acetonitrile,,,
+kMBpN,0.4,100,293,1072,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAHueB,CC#N,acetonitrile,,,
+kMBpN,0.6,100,293,1047,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAHueB,CC#N,acetonitrile,,,
+kMBpN,0.7,100,293,1027,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAHueB,CC#N,acetonitrile,,,
+kMBpN,0.8,100,293,1006,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAHueB,CC#N,acetonitrile,,,
+kMBpN,0.9,100,293,940,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAHueB,CC#N,acetonitrile,,,
+kMBpN,0.95,100,293,873,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAHueB,CC#N,acetonitrile,,,
+kMBpN,0.97,100,293,834,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAHueB,CC#N,acetonitrile,,,
+kMBpN,0.99,100,293,803,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAHueB,CC#N,acetonitrile,,,
+kMBpN,1,100,293,782,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAHueB,CC#N,acetonitrile,,,

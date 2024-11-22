@@ -1,0 +1,23 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EmtxQ,298.6,98,0.00039,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,298.8,1130,0.000316,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,299,1960,0.000256,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,299.1,2760,0.000224,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,299.2,3530,0.000202,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,299.3,4320,0.000179,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,299.4,5110,0.00016,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,313.3,100,0.000394,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,313.3,1230,0.000304,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,313.3,2550,0.000256,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,313.3,3810,0.000224,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,313.3,4740,0.000203,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,313.3,6010,0.000173,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,313.3,7370,0.000139,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,333.6,3640,0.000264,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,333.7,100,0.000396,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,333.7,1310,0.000363,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,333.7,2710,0.000295,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,333.7,4890,0.000247,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,333.7,6080,0.000232,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,333.7,7500,0.000194,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate
+EmtxQ,333.7,8410,0.000173,Mejia et al. (2013),Density,Liquid,Gas,,22,AAIYzl,O=C=O,carbon dioxide,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate

@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SVIdl,298.15,101.325,1116.6,Bhujrajh and Deenadayalu (2007),Density,Liquid,ABXtCT,CCCCCCCCn1cc[n+](C)c1.COCCOCCOS(=O)(=O)[O-],1-methyl-3-octylimidazolium 2-(2-methoxyethoxy)ethyl sulfate,,,,,,
+SVIdl,303.15,101.325,1113,Bhujrajh and Deenadayalu (2007),Density,Liquid,ABXtCT,CCCCCCCCn1cc[n+](C)c1.COCCOCCOS(=O)(=O)[O-],1-methyl-3-octylimidazolium 2-(2-methoxyethoxy)ethyl sulfate,,,,,,
+SVIdl,313.15,101.325,1106.1,Bhujrajh and Deenadayalu (2007),Density,Liquid,ABXtCT,CCCCCCCCn1cc[n+](C)c1.COCCOCCOS(=O)(=O)[O-],1-methyl-3-octylimidazolium 2-(2-methoxyethoxy)ethyl sulfate,,,,,,

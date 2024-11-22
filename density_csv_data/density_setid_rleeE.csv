@@ -1,0 +1,7 @@
+setid,Mole fraction of hexane,Mole fraction of ethylbenzene,"Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rleeE,0,0.168,298.15,1185.9,Gonzalez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,6,AAUVOo,CCc1ccccc1,ethylbenzene,AAQdzy,CCCCCC,hexane
+rleeE,0.001,0.121,298.15,1196.5,Gonzalez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,6,AAUVOo,CCc1ccccc1,ethylbenzene,AAQdzy,CCCCCC,hexane
+rleeE,0.002,0.078,298.15,1205.1,Gonzalez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,6,AAUVOo,CCc1ccccc1,ethylbenzene,AAQdzy,CCCCCC,hexane
+rleeE,0.005,0.058,298.15,1208.2,Gonzalez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,6,AAUVOo,CCc1ccccc1,ethylbenzene,AAQdzy,CCCCCC,hexane
+rleeE,0.006,0.037,298.15,1211.5,Gonzalez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,6,AAUVOo,CCc1ccccc1,ethylbenzene,AAQdzy,CCCCCC,hexane
+rleeE,0.009,0,298.15,1217.2,Gonzalez et al. (2010a),Density,Liquid mixture 1,Liquid mixture 2,,6,AAUVOo,CCc1ccccc1,ethylbenzene,AAQdzy,CCCCCC,hexane

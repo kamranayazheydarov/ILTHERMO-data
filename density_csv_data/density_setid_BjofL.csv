@@ -1,0 +1,12 @@
+setid,Mole fraction of diethylammonium acetate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BjofL,0,101,298.15,1095,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+BjofL,0.105,101,298.15,1077,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+BjofL,0.205,101,298.15,1057,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+BjofL,0.302,101,298.15,1042,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+BjofL,0.4,101,298.15,1029,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+BjofL,0.503,101,298.15,1016,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+BjofL,0.606,101,298.15,1006,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+BjofL,0.683,101,298.15,997,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+BjofL,0.803,101,298.15,981,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+BjofL,0.906,101,298.15,969,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+BjofL,1,101,298.15,958,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,

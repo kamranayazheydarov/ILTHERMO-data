@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+COmPB,293.16,101.325,915.3,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,
+COmPB,298.14,101.325,912.3,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,
+COmPB,303.14,101.325,909.4,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,
+COmPB,308.14,101.325,906.4,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,
+COmPB,313.14,101.325,903.4,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,
+COmPB,318.14,101.325,900.5,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,
+COmPB,323.14,101.325,897.6,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,
+COmPB,328.14,101.325,894.7,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,
+COmPB,333.14,101.325,891.8,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,
+COmPB,338.14,101.325,888.8,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,
+COmPB,343.14,101.325,885.9,Carneiro et al. (2012b),Density,Liquid,ABerrA,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=[N+]([O-])[O-],"N-methyl-N,N,N-trioctylammonium nitrate",,,,,,

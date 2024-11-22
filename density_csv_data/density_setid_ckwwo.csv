@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ckwwo,288.15,101.325,1168.6,Zhang et al. (2019e),Density,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,
+ckwwo,293.15,101.325,1165.5,Zhang et al. (2019e),Density,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,
+ckwwo,298.15,101.325,1162.3,Zhang et al. (2019e),Density,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,
+ckwwo,303.15,101.325,1159.2,Zhang et al. (2019e),Density,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,
+ckwwo,308.15,101.325,1156,Zhang et al. (2019e),Density,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,
+ckwwo,313.15,101.325,1152.9,Zhang et al. (2019e),Density,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,
+ckwwo,318.15,101.325,1149.8,Zhang et al. (2019e),Density,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,
+ckwwo,323.15,101.325,1146.6,Zhang et al. (2019e),Density,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,
+ckwwo,328.15,101.325,1143.3,Zhang et al. (2019e),Density,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,

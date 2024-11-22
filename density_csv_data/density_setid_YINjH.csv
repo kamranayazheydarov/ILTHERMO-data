@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+YINjH,293.15,101.325,995.5,Gardas et al. (2010b),Density,Liquid,ABRvJb,CCCC[P+](CCCC)(CCCC)CCCC.N[C@@H](CO)C(=O)[O-],tetrabutylphosphonium L-serinate,,,,,,
+YINjH,298.15,101.325,992.3,Gardas et al. (2010b),Density,Liquid,ABRvJb,CCCC[P+](CCCC)(CCCC)CCCC.N[C@@H](CO)C(=O)[O-],tetrabutylphosphonium L-serinate,,,,,,
+YINjH,303.15,101.325,989.2,Gardas et al. (2010b),Density,Liquid,ABRvJb,CCCC[P+](CCCC)(CCCC)CCCC.N[C@@H](CO)C(=O)[O-],tetrabutylphosphonium L-serinate,,,,,,
+YINjH,313.15,101.325,983,Gardas et al. (2010b),Density,Liquid,ABRvJb,CCCC[P+](CCCC)(CCCC)CCCC.N[C@@H](CO)C(=O)[O-],tetrabutylphosphonium L-serinate,,,,,,
+YINjH,323.15,101.325,976.9,Gardas et al. (2010b),Density,Liquid,ABRvJb,CCCC[P+](CCCC)(CCCC)CCCC.N[C@@H](CO)C(=O)[O-],tetrabutylphosphonium L-serinate,,,,,,
+YINjH,333.15,101.325,970.8,Gardas et al. (2010b),Density,Liquid,ABRvJb,CCCC[P+](CCCC)(CCCC)CCCC.N[C@@H](CO)C(=O)[O-],tetrabutylphosphonium L-serinate,,,,,,
+YINjH,343.15,101.325,964.8,Gardas et al. (2010b),Density,Liquid,ABRvJb,CCCC[P+](CCCC)(CCCC)CCCC.N[C@@H](CO)C(=O)[O-],tetrabutylphosphonium L-serinate,,,,,,
+YINjH,353.15,101.325,958.9,Gardas et al. (2010b),Density,Liquid,ABRvJb,CCCC[P+](CCCC)(CCCC)CCCC.N[C@@H](CO)C(=O)[O-],tetrabutylphosphonium L-serinate,,,,,,
+YINjH,363.15,101.325,953,Gardas et al. (2010b),Density,Liquid,ABRvJb,CCCC[P+](CCCC)(CCCC)CCCC.N[C@@H](CO)C(=O)[O-],tetrabutylphosphonium L-serinate,,,,,,

@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+rLAPc,293,101.325,1.518,Venkatraman et al. (2018),Refractive index,Liquid,ABBRjN,CCCCn1cc[n+](CCC(=O)OC)c1.N#C[N-]C#N,3-butyl-1-(3-methoxy-3-oxopropyl)imidazolium dicyanamide,,,,,,,
+rLAPc,303,101.325,1.515,Venkatraman et al. (2018),Refractive index,Liquid,ABBRjN,CCCCn1cc[n+](CCC(=O)OC)c1.N#C[N-]C#N,3-butyl-1-(3-methoxy-3-oxopropyl)imidazolium dicyanamide,,,,,,,
+rLAPc,313,101.325,1.511,Venkatraman et al. (2018),Refractive index,Liquid,ABBRjN,CCCCn1cc[n+](CCC(=O)OC)c1.N#C[N-]C#N,3-butyl-1-(3-methoxy-3-oxopropyl)imidazolium dicyanamide,,,,,,,
+rLAPc,323,101.325,1.508,Venkatraman et al. (2018),Refractive index,Liquid,ABBRjN,CCCCn1cc[n+](CCC(=O)OC)c1.N#C[N-]C#N,3-butyl-1-(3-methoxy-3-oxopropyl)imidazolium dicyanamide,,,,,,,
+rLAPc,333,101.325,1.505,Venkatraman et al. (2018),Refractive index,Liquid,ABBRjN,CCCCn1cc[n+](CCC(=O)OC)c1.N#C[N-]C#N,3-butyl-1-(3-methoxy-3-oxopropyl)imidazolium dicyanamide,,,,,,,

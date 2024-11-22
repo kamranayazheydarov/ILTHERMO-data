@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rGhQS,292.968,101.325,1561,Shang et al. (2017),Density,Liquid,ABiVtw,Cn1cc[n+](CCCC(=O)O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-carboxypropyl)-3-methyl-imidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+rGhQS,302.981,101.325,1551,Shang et al. (2017),Density,Liquid,ABiVtw,Cn1cc[n+](CCCC(=O)O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-carboxypropyl)-3-methyl-imidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+rGhQS,312.988,101.325,1542,Shang et al. (2017),Density,Liquid,ABiVtw,Cn1cc[n+](CCCC(=O)O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-carboxypropyl)-3-methyl-imidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+rGhQS,322.988,101.325,1532,Shang et al. (2017),Density,Liquid,ABiVtw,Cn1cc[n+](CCCC(=O)O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-carboxypropyl)-3-methyl-imidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+rGhQS,332.998,101.325,1523,Shang et al. (2017),Density,Liquid,ABiVtw,Cn1cc[n+](CCCC(=O)O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-carboxypropyl)-3-methyl-imidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+rGhQS,343.011,101.325,1514,Shang et al. (2017),Density,Liquid,ABiVtw,Cn1cc[n+](CCCC(=O)O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-carboxypropyl)-3-methyl-imidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iCoBO,298.15,101,1030.1,Ma et al. (2013b),Density,Liquid,AAoqkI,CC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium acetate,,,,,,
+iCoBO,303.15,101,1027,Ma et al. (2013b),Density,Liquid,AAoqkI,CC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium acetate,,,,,,
+iCoBO,308.15,101,1024,Ma et al. (2013b),Density,Liquid,AAoqkI,CC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium acetate,,,,,,
+iCoBO,313.15,101,1021,Ma et al. (2013b),Density,Liquid,AAoqkI,CC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium acetate,,,,,,
+iCoBO,318.15,101,1017.9,Ma et al. (2013b),Density,Liquid,AAoqkI,CC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium acetate,,,,,,
+iCoBO,323.15,101,1014.9,Ma et al. (2013b),Density,Liquid,AAoqkI,CC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium acetate,,,,,,
+iCoBO,328.15,101,1011.9,Ma et al. (2013b),Density,Liquid,AAoqkI,CC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium acetate,,,,,,
+iCoBO,333.15,101,1008.9,Ma et al. (2013b),Density,Liquid,AAoqkI,CC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium acetate,,,,,,
+iCoBO,338.15,101,1005.9,Ma et al. (2013b),Density,Liquid,AAoqkI,CC(=O)[O-].CCCCCn1cc[n+](C)c1,1-methyl-3-pentylimidazolium acetate,,,,,,

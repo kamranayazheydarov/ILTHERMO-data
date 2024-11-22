@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mlslR,288.15,101.325,1162.7,Zhao et al. (2021b),Density,Liquid,AAxZXm,NC(C)C(=O)[O-].COCCCCN1C=[N+](C=C1)C,1-(4-methoxybutyl)-3-methylimidazolium DL-alaninate,,,,,,
+mlslR,293.15,101.325,1159.1,Zhao et al. (2021b),Density,Liquid,AAxZXm,NC(C)C(=O)[O-].COCCCCN1C=[N+](C=C1)C,1-(4-methoxybutyl)-3-methylimidazolium DL-alaninate,,,,,,
+mlslR,298.15,101.325,1155.5,Zhao et al. (2021b),Density,Liquid,AAxZXm,NC(C)C(=O)[O-].COCCCCN1C=[N+](C=C1)C,1-(4-methoxybutyl)-3-methylimidazolium DL-alaninate,,,,,,
+mlslR,303.15,101.325,1151.8,Zhao et al. (2021b),Density,Liquid,AAxZXm,NC(C)C(=O)[O-].COCCCCN1C=[N+](C=C1)C,1-(4-methoxybutyl)-3-methylimidazolium DL-alaninate,,,,,,
+mlslR,308.15,101.325,1148.2,Zhao et al. (2021b),Density,Liquid,AAxZXm,NC(C)C(=O)[O-].COCCCCN1C=[N+](C=C1)C,1-(4-methoxybutyl)-3-methylimidazolium DL-alaninate,,,,,,
+mlslR,313.15,101.325,1144.5,Zhao et al. (2021b),Density,Liquid,AAxZXm,NC(C)C(=O)[O-].COCCCCN1C=[N+](C=C1)C,1-(4-methoxybutyl)-3-methylimidazolium DL-alaninate,,,,,,
+mlslR,318.15,101.325,1140.8,Zhao et al. (2021b),Density,Liquid,AAxZXm,NC(C)C(=O)[O-].COCCCCN1C=[N+](C=C1)C,1-(4-methoxybutyl)-3-methylimidazolium DL-alaninate,,,,,,
+mlslR,323.15,101.325,1137.2,Zhao et al. (2021b),Density,Liquid,AAxZXm,NC(C)C(=O)[O-].COCCCCN1C=[N+](C=C1)C,1-(4-methoxybutyl)-3-methylimidazolium DL-alaninate,,,,,,
+mlslR,328.15,101.325,1133.6,Zhao et al. (2021b),Density,Liquid,AAxZXm,NC(C)C(=O)[O-].COCCCCN1C=[N+](C=C1)C,1-(4-methoxybutyl)-3-methylimidazolium DL-alaninate,,,,,,

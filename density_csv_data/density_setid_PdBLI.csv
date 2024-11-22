@@ -1,0 +1,24 @@
+setid,"Solvent: MolaLity of N,N,N-trimethyl-1-decanaminium bromide, mol/kg","MolaLity of 1-pentanamine, mol/kg","Pressure, kPa","Temperature, K","Specific density<SUP>*</SUP>, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PdBLI,0,0.01993,101,298,-0.261,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.03666,0.01996,101,298,-0.27,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.05981,0.02002,101,298,-0.28,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.1,0.01996,101,298,-0.31,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.1311,0.02001,101,298,-0.33,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.1649,0.01999,101,298,-0.34,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.2,0.02002,101,298,-0.35,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.2103,0.02002,101,298,-0.35,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.2499,0.02001,101,298,-0.361,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.255,0.02,101,298,-0.36,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.2975,0.02004,101,298,-0.37,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.2999,0.02001,101,298,-0.371,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.3002,0.01998,101,298,-0.36,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.339,0.01999,101,298,-0.37,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.3741,0.01998,101,298,-0.375,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.398,0.01997,101,298,-0.377,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.425,0.01999,101,298,-0.377,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.445,0.02001,101,298,-0.38,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.4973,0.01998,101,298,-0.386,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.5,0.01999,101,298,-0.387,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.573,0.02,101,298,-0.39,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.6001,0.01998,101,298,-0.4,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water
+PdBLI,0.608,0.01996,101,298,-0.39,De Lisi et al. (1989a),Density,Liquid,AAQnVO,CCCCCN,1-pentanamine,ABBuyO,CCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-decanaminium bromide",AADYJk,O,water

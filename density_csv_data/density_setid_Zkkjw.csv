@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Zkkjw,318,101.325,872.8,Myrdek et al. (2021),Density,Liquid,ABbdFc,C(CCCCCCCCCCCCCCCCC)(=O)[O-].C(C)[N+](CC)(CC)CC,tetraethylammonium stearate,,,,,,
+Zkkjw,328,101.325,867.4,Myrdek et al. (2021),Density,Liquid,ABbdFc,C(CCCCCCCCCCCCCCCCC)(=O)[O-].C(C)[N+](CC)(CC)CC,tetraethylammonium stearate,,,,,,
+Zkkjw,338,101.325,861.5,Myrdek et al. (2021),Density,Liquid,ABbdFc,C(CCCCCCCCCCCCCCCCC)(=O)[O-].C(C)[N+](CC)(CC)CC,tetraethylammonium stearate,,,,,,
+Zkkjw,348,101.325,855.8,Myrdek et al. (2021),Density,Liquid,ABbdFc,C(CCCCCCCCCCCCCCCCC)(=O)[O-].C(C)[N+](CC)(CC)CC,tetraethylammonium stearate,,,,,,
+Zkkjw,358,101.325,850.1,Myrdek et al. (2021),Density,Liquid,ABbdFc,C(CCCCCCCCCCCCCCCCC)(=O)[O-].C(C)[N+](CC)(CC)CC,tetraethylammonium stearate,,,,,,
+Zkkjw,368,101.325,843.6,Myrdek et al. (2021),Density,Liquid,ABbdFc,C(CCCCCCCCCCCCCCCCC)(=O)[O-].C(C)[N+](CC)(CC)CC,tetraethylammonium stearate,,,,,,

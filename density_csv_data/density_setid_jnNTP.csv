@@ -1,0 +1,5 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jnNTP,101.2,298.15,1289.7,Machanova et al. (2014),Density,Liquid,ABlkEe,CCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+jnNTP,500,298.15,1289.9,Machanova et al. (2014),Density,Liquid,ABlkEe,CCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+jnNTP,1000,298.15,1290.3,Machanova et al. (2014),Density,Liquid,ABlkEe,CCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+jnNTP,2000,298.15,1290.9,Machanova et al. (2014),Density,Liquid,ABlkEe,CCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,

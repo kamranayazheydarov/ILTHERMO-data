@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+wPcld,278.15,101,1313.9,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wPcld,283.15,101,1309.8,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wPcld,293.15,101,1301.8,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wPcld,298.15,101,1297.7,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wPcld,303.15,101,1293.7,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wPcld,313.15,101,1285.8,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wPcld,333.15,101,1270.1,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wPcld,353.15,101,1254.6,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wPcld,373.15,101,1239.4,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wPcld,393.15,101,1224.4,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+wPcld,413.15,101,1209.6,Safarov and Guluzade (2022),Density,Liquid,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

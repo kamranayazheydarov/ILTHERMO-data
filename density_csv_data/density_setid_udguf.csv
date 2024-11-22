@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+udguf,283.15,101.325,1218.8,Rodil et al. (2018),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+udguf,293.15,101.325,1212,Rodil et al. (2018),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+udguf,303.15,101.325,1205.3,Rodil et al. (2018),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+udguf,313.15,101.325,1198.8,Rodil et al. (2018),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+udguf,323.15,101.325,1192.3,Rodil et al. (2018),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+udguf,333.15,101.325,1185.8,Rodil et al. (2018),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+udguf,343.15,101.325,1179.3,Rodil et al. (2018),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,

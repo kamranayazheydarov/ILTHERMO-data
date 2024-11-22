@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LhmfV,298,101.325,1257.5,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,303,101.325,1253.8,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,308,101.325,1250.2,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,313,101.325,1246.5,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,318,101.325,1243,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,323,101.325,1239.3,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,328,101.325,1235.8,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,333,101.325,1232.1,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,338,101.325,1228.5,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,343,101.325,1225,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,348,101.325,1221.3,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,
+LhmfV,353,101.325,1217.8,Hachicha et al. (2019),Density,Liquid,AAygSz,C=CC[N+](C)(C)CC.O=S(=O)([O-])C(F)(F)F,"N-ethyl-N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate",,,,,,

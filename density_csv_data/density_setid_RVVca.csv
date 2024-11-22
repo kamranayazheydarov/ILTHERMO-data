@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RVVca,293.15,101,1304,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RVVca,298.15,101,1300,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RVVca,303.15,101,1296,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RVVca,308.15,101,1291,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RVVca,313.15,101,1287,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RVVca,318.15,101,1282,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RVVca,323.15,101,1278,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RVVca,328.15,101,1274,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RVVca,333.15,101,1270,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RVVca,338.15,101,1265,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,
+RVVca,343.15,101,1261,Aljasmi et al. (2022),Density,Liquid,ABqGad,CCCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide,,,,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+AanjI,293.15,101.325,1386,Bittner et al. (2012),Density,Liquid,ABhYBm,CCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexylpyridinium bis(trifluromethylsulfonyl)imide,,,,,,
+AanjI,298.15,101.325,1382,Bittner et al. (2012),Density,Liquid,ABhYBm,CCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexylpyridinium bis(trifluromethylsulfonyl)imide,,,,,,
+AanjI,303.15,101.325,1379,Bittner et al. (2012),Density,Liquid,ABhYBm,CCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexylpyridinium bis(trifluromethylsulfonyl)imide,,,,,,
+AanjI,308.15,101.325,1373,Bittner et al. (2012),Density,Liquid,ABhYBm,CCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexylpyridinium bis(trifluromethylsulfonyl)imide,,,,,,
+AanjI,313.15,101.325,1368,Bittner et al. (2012),Density,Liquid,ABhYBm,CCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexylpyridinium bis(trifluromethylsulfonyl)imide,,,,,,
+AanjI,318.15,101.325,1368,Bittner et al. (2012),Density,Liquid,ABhYBm,CCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexylpyridinium bis(trifluromethylsulfonyl)imide,,,,,,
+AanjI,323.15,101.325,1362,Bittner et al. (2012),Density,Liquid,ABhYBm,CCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-hexylpyridinium bis(trifluromethylsulfonyl)imide,,,,,,

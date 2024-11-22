@@ -181,6 +181,7 @@ def update_density_csv_with_metadata(output_csv_path, density_data_csv_path):
             'property': str,
             'phases': str,
             'compound id 1': str,
+            'compound id 1': str,
             'compound id 2': str,
             'compound id 3': str,
             'compound name 1': str,

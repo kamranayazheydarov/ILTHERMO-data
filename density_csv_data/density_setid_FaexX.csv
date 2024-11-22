@@ -1,0 +1,17 @@
+setid,Mole fraction of heptane,Mole fraction of benzene,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FaexX,0.0018,0.1519,313.15,101,1188,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0018,0.39,313.15,101,1143.5,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0022,0.0467,313.15,101,1203.1,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0032,0.2923,313.15,101,1163.2,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0035,0.2482,313.15,101,1171.7,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0041,0.0487,313.15,101,1201.8,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0049,0.1979,313.15,101,1179,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.005,0.2991,313.15,101,1161.1,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0051,0.2465,313.15,101,1170.8,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0058,0.1002,313.15,101,1194.5,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0069,0.1452,313.15,101,1188,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0085,0.2005,313.15,101,1178.3,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0087,0.1005,313.15,101,1194.6,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0089,0.1493,313.15,101,1186.3,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0107,0.0481,313.15,101,1201.2,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+FaexX,0.0114,0.0989,313.15,101,1195.1,Gonzalez et al. (2009b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate

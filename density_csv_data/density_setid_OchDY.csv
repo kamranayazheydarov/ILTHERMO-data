@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OchDY,298.15,101.325,1188.81,Abafe et al. (2022),Density,Liquid,ABOLOh,CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-octyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+OchDY,303.15,101.325,1185.61,Abafe et al. (2022),Density,Liquid,ABOLOh,CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-octyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+OchDY,313.15,101.325,1179.8,Abafe et al. (2022),Density,Liquid,ABOLOh,CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-octyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+OchDY,323.15,101.325,1172.94,Abafe et al. (2022),Density,Liquid,ABOLOh,CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-octyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+OchDY,333.15,101.325,1166.8,Abafe et al. (2022),Density,Liquid,ABOLOh,CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-octyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+OchDY,343.15,101.325,1160.38,Abafe et al. (2022),Density,Liquid,ABOLOh,CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-octyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+OchDY,353.15,101.325,1152.79,Abafe et al. (2022),Density,Liquid,ABOLOh,CCCCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-octyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

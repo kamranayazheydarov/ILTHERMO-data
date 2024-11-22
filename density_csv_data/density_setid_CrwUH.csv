@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CrwUH,303,101.325,1215.8,Camelo et al. (2020),Density,Liquid,AAbLlA,OCC[NH2+]CCO.[Cl-],bis(2-hydroxyethyl)ammonium chloride,,,,,,
+CrwUH,308,101.325,1213.1,Camelo et al. (2020),Density,Liquid,AAbLlA,OCC[NH2+]CCO.[Cl-],bis(2-hydroxyethyl)ammonium chloride,,,,,,
+CrwUH,313,101.325,1210.5,Camelo et al. (2020),Density,Liquid,AAbLlA,OCC[NH2+]CCO.[Cl-],bis(2-hydroxyethyl)ammonium chloride,,,,,,
+CrwUH,318,101.325,1207.9,Camelo et al. (2020),Density,Liquid,AAbLlA,OCC[NH2+]CCO.[Cl-],bis(2-hydroxyethyl)ammonium chloride,,,,,,
+CrwUH,323,101.325,1205.3,Camelo et al. (2020),Density,Liquid,AAbLlA,OCC[NH2+]CCO.[Cl-],bis(2-hydroxyethyl)ammonium chloride,,,,,,
+CrwUH,328,101.325,1202.7,Camelo et al. (2020),Density,Liquid,AAbLlA,OCC[NH2+]CCO.[Cl-],bis(2-hydroxyethyl)ammonium chloride,,,,,,
+CrwUH,333,101.325,1200.1,Camelo et al. (2020),Density,Liquid,AAbLlA,OCC[NH2+]CCO.[Cl-],bis(2-hydroxyethyl)ammonium chloride,,,,,,

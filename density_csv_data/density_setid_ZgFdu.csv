@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZgFdu,293,101.325,1252,Sanchez (2008),Density,Liquid,AApcDG,C[N+]1(CCN)CCCC1.F[B-](F)(F)F,1-(2-aminoethyl)-1-methylpyrrolidinium tetrafluoroborate,,,,,,
+ZgFdu,303,101.325,1245.3,Sanchez (2008),Density,Liquid,AApcDG,C[N+]1(CCN)CCCC1.F[B-](F)(F)F,1-(2-aminoethyl)-1-methylpyrrolidinium tetrafluoroborate,,,,,,
+ZgFdu,313,101.325,1238.5,Sanchez (2008),Density,Liquid,AApcDG,C[N+]1(CCN)CCCC1.F[B-](F)(F)F,1-(2-aminoethyl)-1-methylpyrrolidinium tetrafluoroborate,,,,,,
+ZgFdu,323,101.325,1231.8,Sanchez (2008),Density,Liquid,AApcDG,C[N+]1(CCN)CCCC1.F[B-](F)(F)F,1-(2-aminoethyl)-1-methylpyrrolidinium tetrafluoroborate,,,,,,
+ZgFdu,333,101.325,1225,Sanchez (2008),Density,Liquid,AApcDG,C[N+]1(CCN)CCCC1.F[B-](F)(F)F,1-(2-aminoethyl)-1-methylpyrrolidinium tetrafluoroborate,,,,,,
+ZgFdu,343,101.325,1218.2,Sanchez (2008),Density,Liquid,AApcDG,C[N+]1(CCN)CCCC1.F[B-](F)(F)F,1-(2-aminoethyl)-1-methylpyrrolidinium tetrafluoroborate,,,,,,
+ZgFdu,353,101.325,1211.5,Sanchez (2008),Density,Liquid,AApcDG,C[N+]1(CCN)CCCC1.F[B-](F)(F)F,1-(2-aminoethyl)-1-methylpyrrolidinium tetrafluoroborate,,,,,,

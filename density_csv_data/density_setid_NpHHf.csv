@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NpHHf,288.15,101.325,1084.3,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,293.15,101.325,1081.3,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,298.15,101.325,1078.3,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,303.15,101.325,1075.3,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,308.15,101.325,1072.3,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,313.15,101.325,1069.2,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,318.15,101.325,1066.2,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,323.15,101.325,1063.2,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,328.15,101.325,1060.2,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,333.15,101.325,1057.2,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,338.15,101.325,1054.1,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,
+NpHHf,343.15,101.325,1051.1,Bai et al. (2020),Density,Liquid,AAjWCu,CC(=O)[O-].CCC[n+]1ccn(C)c1,1-propyl-3-methylimidazolium acetate,,,,,,

@@ -15,7 +15,7 @@ meltingtemp = ['melting-temperature','NmYB']
 
 url_for_get_all = 'https://ilthermo.boulder.nist.gov/ILT2/ilsearch?cmp=&ncmp=0&year=&auth=&keyw=&prp=' # +query
 url_data_for_setid = 'https://ilthermo.boulder.nist.gov/ILT2/ilset?set=' # +setid
-
+# urlden json file saxlayir 
 def get_setid_list(list): # e.g input -> dens = []
     url = f"{url_for_get_all}{list[1]}"
     response = requests.get(url)
@@ -25,6 +25,10 @@ def get_setid_list(list): # e.g input -> dens = []
             json.dump(data, json_file)
     else:
         print(f"Failed to retrieve data: {response.status_code}")
+
+
+get_setid_list(refindex)
+
 density_setids = []
 refindex_setids = []
 meltingtemp_setids = []
@@ -56,7 +60,7 @@ def read_idsets_and_combine():
 if not os.path.exists('idsets'):
     os.makedirs('idsets')
 
-read_idsets_and_combine()
+#read_idsets_and_combine()
 
 def get_folder_size(folder):
     total_size = 0
@@ -84,8 +88,7 @@ def fetch_and_save_data(filename,setids, folder_name, start_index=0):
         except requests.exceptions.RequestException as e:
             print(f"Failed to retrieve data for setid {setid}: {e}")
 
-read_idsets_and_combine()
+#read_idsets_and_combine()
 filenames = ['density','refindex','meltingtemp']
 #fetch_and_save_data(filenames[0],density_setids, 'density_data', start_index=1610)
-fetch_and_save_data(filenames[1],refindex_setids, 'refindex_data')
-fetch_and_save_data(filenames[2],meltingtemp_setids, 'meltingtemp_data')
+#fetch_and_save_data(filenames[2],meltingtemp_setids, 'meltingtemp_data')

@@ -1,0 +1,25 @@
+setid,"Temperature, K","MolaLity of glycylglycine, mol/kg","Pressure, kPa","Solvent: MolaLity of cetylpyridinium chloride, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ciBrp,298.15,0,100,0.005,997,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,298.15,0.02,100,0.005,998,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,298.15,0.04,100,0.005,998.9,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,298.15,0.06,100,0.005,999.8,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,298.15,0.08,100,0.005,1000.7,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,298.15,0.1,100,0.005,1001.5,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,303.15,0,100,0.005,995.4,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,303.15,0.02,100,0.005,996.3,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,303.15,0.04,100,0.005,997.1,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,303.15,0.06,100,0.005,997.9,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,303.15,0.08,100,0.005,998.7,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,303.15,0.1,100,0.005,999.4,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,308.15,0,100,0.005,993.5,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,308.15,0.02,100,0.005,994.2,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,308.15,0.04,100,0.005,994.9,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,308.15,0.06,100,0.005,995.6,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,308.15,0.08,100,0.005,996.1,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,308.15,0.1,100,0.005,996.7,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,313.15,0,100,0.005,990.7,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,313.15,0.02,100,0.005,991.4,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,313.15,0.04,100,0.005,992,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,313.15,0.06,100,0.005,992.5,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,313.15,0.08,100,0.005,993,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water
+ciBrp,313.15,0.1,100,0.005,993.5,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AADYJk,O,water

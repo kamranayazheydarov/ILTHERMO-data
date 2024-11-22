@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Kjxus,303,101.325,857,Khan et al. (2019),Density,Liquid,ABvAUm,CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium octanoate,,,,,,
+Kjxus,313,101.325,850,Khan et al. (2019),Density,Liquid,ABvAUm,CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium octanoate,,,,,,
+Kjxus,323,101.325,843,Khan et al. (2019),Density,Liquid,ABvAUm,CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium octanoate,,,,,,
+Kjxus,333,101.325,838,Khan et al. (2019),Density,Liquid,ABvAUm,CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium octanoate,,,,,,
+Kjxus,343,101.325,830,Khan et al. (2019),Density,Liquid,ABvAUm,CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium octanoate,,,,,,
+Kjxus,353,101.325,822,Khan et al. (2019),Density,Liquid,ABvAUm,CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium octanoate,,,,,,
+Kjxus,363,101.325,815,Khan et al. (2019),Density,Liquid,ABvAUm,CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium octanoate,,,,,,
+Kjxus,373,101.325,809,Khan et al. (2019),Density,Liquid,ABvAUm,CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium octanoate,,,,,,

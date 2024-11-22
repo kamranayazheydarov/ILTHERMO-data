@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eUnQH,283.15,101.325,1315,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+eUnQH,288.15,101.325,1310.7,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+eUnQH,293.15,101.325,1306.4,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+eUnQH,298.15,101.325,1302.2,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+eUnQH,303.15,101.325,1297.9,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+eUnQH,313.15,101.325,1289.5,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+eUnQH,323.15,101.325,1281.1,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+eUnQH,333.15,101.325,1272.8,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+eUnQH,343.15,101.325,1264.5,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+eUnQH,353.15,101.325,1256.3,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+eUnQH,363.15,101.325,1248.2,Kodama et al. (2023),Density,Metastable liquid,ABmOjS,CCCCC[P+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethyl(pentyl)phosphonium bis((trifluoromethyl)sulfonyl)amide,,,,,,

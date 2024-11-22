@@ -1,0 +1,16 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+smLKI,313.3,100,0.000159,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,313.3,1650,0.000121,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,313.3,2920,0.000103,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,313.3,4180,8.4e-05,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,313.3,5820,7.1e-05,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,313.3,7010,6.1e-05,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,313.3,8290,5.1e-05,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,332.8,7610,8.3e-05,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,332.8,8290,7.6e-05,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,332.8,9700,6.6e-05,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,333.6,98,0.000161,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,333.6,1440,0.000128,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,333.6,2870,0.000113,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,333.6,4200,0.000101,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate
+smLKI,333.6,5590,9.3e-05,Mejia et al. (2013),Density,Liquid,Gas,,15,AAIYzl,O=C=O,carbon dioxide,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate

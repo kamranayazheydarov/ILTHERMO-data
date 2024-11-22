@@ -1,0 +1,12 @@
+setid,Mole fraction of water,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DHxjv,0,298.15,101,1040.4,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,
+DHxjv,0.1032,298.15,101,1041.1,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,
+DHxjv,0.2001,298.15,101,1042,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,
+DHxjv,0.3013,298.15,101,1042.2,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,
+DHxjv,0.389,298.15,101,1042.3,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,
+DHxjv,0.5125,298.15,101,1042.2,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,
+DHxjv,0.5926,298.15,101,1041.2,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,
+DHxjv,0.6972,298.15,101,1038.7,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,
+DHxjv,0.8007,298.15,101,1034.2,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,
+DHxjv,0.9088,298.15,101,1023.6,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,
+DHxjv,1,298.15,101,997.2,Gomez et al. (2006a),Density,Liquid,AADYJk,O,water,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,

@@ -1,0 +1,10 @@
+setid,Mole fraction of ethylammonium nitrate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qRoeY,0.0941,101,298.15,851.7,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+qRoeY,0.161,101,298.15,892.9,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+qRoeY,0.2121,101,298.15,921.6,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+qRoeY,0.245,101,298.15,939,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+qRoeY,0.3318,101,298.15,982.7,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+qRoeY,0.4281,101,298.15,1025.5,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+qRoeY,0.5603,101,298.15,1077.4,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+qRoeY,0.6702,101,298.15,1115.2,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+qRoeY,0.8009,101,298.15,1154.9,Segade et al. (2016),Density,Liquid,AAIsrh,CCO,ethanol,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,

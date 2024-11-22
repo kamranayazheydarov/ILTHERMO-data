@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vWhcy,298.15,101.325,1191.5,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,303.15,101.325,1188.7,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,308.15,101.325,1185.8,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,313.15,101.325,1182.9,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,318.15,101.325,1179.9,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,323.15,101.325,1176.9,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,328.15,101.325,1174,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,333.15,101.325,1171.2,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,338.15,101.325,1168.4,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,343.15,101.325,1165.5,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,348.15,101.325,1162.5,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,
+vWhcy,353.15,101.325,1159.4,Tao et al. (2013),Density,Liquid,AAoCFs,C[N+](C)(C)CCO.N[C@@H](CO)C(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium L-serinate",,,,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HbwPl,283,101.325,1091.3,Song et al. (2020a),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+HbwPl,293,101.325,1084.6,Song et al. (2020a),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+HbwPl,295,101.325,1083.3,Song et al. (2020a),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+HbwPl,303,101.325,1077.8,Song et al. (2020a),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+HbwPl,313,101.325,1071.1,Song et al. (2020a),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+HbwPl,323,101.325,1064.3,Song et al. (2020a),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+HbwPl,333,101.325,1057.5,Song et al. (2020a),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,

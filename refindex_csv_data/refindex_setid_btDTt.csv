@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+btDTt,293.15,101,1.51481,Kermanpour et al. (2017),Refractive index,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,,
+btDTt,303.15,101,1.51235,Kermanpour et al. (2017),Refractive index,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,,
+btDTt,313.15,101,1.5097,Kermanpour et al. (2017),Refractive index,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,,
+btDTt,323.15,101,1.5073,Kermanpour et al. (2017),Refractive index,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,,
+btDTt,333.15,101,1.50492,Kermanpour et al. (2017),Refractive index,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,,

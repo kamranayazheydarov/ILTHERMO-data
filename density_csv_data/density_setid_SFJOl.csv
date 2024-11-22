@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SFJOl,293.15,100,959,Wei et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+SFJOl,298.15,100,956,Wei et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+SFJOl,303.15,100,952.9,Wei et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+SFJOl,308.15,100,949.9,Wei et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+SFJOl,313.15,100,946.8,Wei et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+SFJOl,318.15,100,943.7,Wei et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+SFJOl,323.15,100,940.8,Wei et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+SFJOl,328.15,100,937.8,Wei et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,
+SFJOl,333.15,100,934.7,Wei et al. (2018),Density,Liquid,AAZfnG,CC(=O)[O-].CCCC[NH3+],butylammonium acetate,,,,,,

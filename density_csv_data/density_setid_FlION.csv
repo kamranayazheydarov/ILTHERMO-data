@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FlION,293.15,101,1056.1,Haghtalab and Shojaeian (2014),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+FlION,303.15,101,1049.6,Haghtalab and Shojaeian (2014),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+FlION,313.15,101,1043.5,Haghtalab and Shojaeian (2014),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+FlION,323.15,101,1037.4,Haghtalab and Shojaeian (2014),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+FlION,333.15,101,1031.3,Haghtalab and Shojaeian (2014),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,
+FlION,343.15,101,1025.4,Haghtalab and Shojaeian (2014),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,,,,

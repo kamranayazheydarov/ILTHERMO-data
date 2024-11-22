@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oSHwR,293.15,101.325,967.69,Nann et al. (2013a),Density,Liquid,ABNCwG,CCCCCCCCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-decyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,
+oSHwR,303.15,101.325,960.72,Nann et al. (2013a),Density,Liquid,ABNCwG,CCCCCCCCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-decyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,
+oSHwR,313.15,101.325,953.75,Nann et al. (2013a),Density,Liquid,ABNCwG,CCCCCCCCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-decyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,
+oSHwR,323.15,101.325,947.14,Nann et al. (2013a),Density,Liquid,ABNCwG,CCCCCCCCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-decyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,
+oSHwR,333.15,101.325,940.48,Nann et al. (2013a),Density,Liquid,ABNCwG,CCCCCCCCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-decyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,
+oSHwR,343.15,101.325,933.44,Nann et al. (2013a),Density,Liquid,ABNCwG,CCCCCCCCCC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-decyl-3-methyl-1H-imidazolium tetracyanoborate,,,,,,

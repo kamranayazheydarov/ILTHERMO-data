@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+sPylP,293.15,101.325,1066.06,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,
+sPylP,298.15,101.325,1063.08,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,
+sPylP,303.15,101.325,1060.33,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,
+sPylP,308.15,101.325,1057.52,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,
+sPylP,313.15,101.325,1054.55,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,
+sPylP,318.15,101.325,1051.78,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,
+sPylP,323.15,101.325,1048.95,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,
+sPylP,328.15,101.325,1046.05,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,
+sPylP,333.15,101.325,1043.2,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,
+sPylP,338.15,101.325,1040.35,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,
+sPylP,343.15,101.325,1037.53,Zhang et al. (2014h),Density,Liquid,AAohzu,CCCCC[n+]1ccn(C)c1.N#C[S-],1-pentyl-3-methylimidazolium thiocyanate,,,,,,

@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NmsMH,328.15,101.325,1238.3,Er and Wang (2016),Density,Liquid,ABEfqP,CCCCCC[NH2+]CCN.O=S(=O)([O-])C(F)(F)F,N-hexylethylenediammonium trifluoromethanesulfonate,,,,,,
+NmsMH,333.15,101.325,1234.4,Er and Wang (2016),Density,Liquid,ABEfqP,CCCCCC[NH2+]CCN.O=S(=O)([O-])C(F)(F)F,N-hexylethylenediammonium trifluoromethanesulfonate,,,,,,
+NmsMH,338.15,101.325,1230.5,Er and Wang (2016),Density,Liquid,ABEfqP,CCCCCC[NH2+]CCN.O=S(=O)([O-])C(F)(F)F,N-hexylethylenediammonium trifluoromethanesulfonate,,,,,,
+NmsMH,343.15,101.325,1226.8,Er and Wang (2016),Density,Liquid,ABEfqP,CCCCCC[NH2+]CCN.O=S(=O)([O-])C(F)(F)F,N-hexylethylenediammonium trifluoromethanesulfonate,,,,,,
+NmsMH,348.15,101.325,1222.3,Er and Wang (2016),Density,Liquid,ABEfqP,CCCCCC[NH2+]CCN.O=S(=O)([O-])C(F)(F)F,N-hexylethylenediammonium trifluoromethanesulfonate,,,,,,
+NmsMH,353.15,101.325,1218.2,Er and Wang (2016),Density,Liquid,ABEfqP,CCCCCC[NH2+]CCN.O=S(=O)([O-])C(F)(F)F,N-hexylethylenediammonium trifluoromethanesulfonate,,,,,,

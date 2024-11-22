@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rRDSq,293.15,101.325,1157,Seddon et al. (2002),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+rRDSq,303.15,101.325,1150,Seddon et al. (2002),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+rRDSq,313.15,101.325,1144,Seddon et al. (2002),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+rRDSq,323.15,101.325,1137,Seddon et al. (2002),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+rRDSq,333.15,101.325,1131,Seddon et al. (2002),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+rRDSq,343.15,101.325,1124,Seddon et al. (2002),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+rRDSq,353.15,101.325,1117,Seddon et al. (2002),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+rRDSq,363.15,101.325,1112,Seddon et al. (2002),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,

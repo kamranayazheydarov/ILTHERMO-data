@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GIBqg,278.15,101.325,1228.6,Cabeza et al. (2019),Density,Liquid,ACGpYk,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.N#CS[Zn-2](SC#N)(SC#N)SC#N,1-butyl-3-methylimidazolium tetrathiocyanatozincate(II),,,,,,
+GIBqg,288.15,101.325,1221.8,Cabeza et al. (2019),Density,Liquid,ACGpYk,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.N#CS[Zn-2](SC#N)(SC#N)SC#N,1-butyl-3-methylimidazolium tetrathiocyanatozincate(II),,,,,,
+GIBqg,298.15,101.325,1214.9,Cabeza et al. (2019),Density,Liquid,ACGpYk,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.N#CS[Zn-2](SC#N)(SC#N)SC#N,1-butyl-3-methylimidazolium tetrathiocyanatozincate(II),,,,,,
+GIBqg,308.15,101.325,1208,Cabeza et al. (2019),Density,Liquid,ACGpYk,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.N#CS[Zn-2](SC#N)(SC#N)SC#N,1-butyl-3-methylimidazolium tetrathiocyanatozincate(II),,,,,,
+GIBqg,318.15,101.325,1201.2,Cabeza et al. (2019),Density,Liquid,ACGpYk,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.N#CS[Zn-2](SC#N)(SC#N)SC#N,1-butyl-3-methylimidazolium tetrathiocyanatozincate(II),,,,,,
+GIBqg,328.15,101.325,1194.3,Cabeza et al. (2019),Density,Liquid,ACGpYk,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.N#CS[Zn-2](SC#N)(SC#N)SC#N,1-butyl-3-methylimidazolium tetrathiocyanatozincate(II),,,,,,
+GIBqg,338.15,101.325,1187.4,Cabeza et al. (2019),Density,Liquid,ACGpYk,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.N#CS[Zn-2](SC#N)(SC#N)SC#N,1-butyl-3-methylimidazolium tetrathiocyanatozincate(II),,,,,,
+GIBqg,348.15,101.325,1180.5,Cabeza et al. (2019),Density,Liquid,ACGpYk,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.N#CS[Zn-2](SC#N)(SC#N)SC#N,1-butyl-3-methylimidazolium tetrathiocyanatozincate(II),,,,,,
+GIBqg,358.15,101.325,1173.7,Cabeza et al. (2019),Density,Liquid,ACGpYk,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.N#CS[Zn-2](SC#N)(SC#N)SC#N,1-butyl-3-methylimidazolium tetrathiocyanatozincate(II),,,,,,
+GIBqg,368.15,101.325,1166.8,Cabeza et al. (2019),Density,Liquid,ACGpYk,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.N#CS[Zn-2](SC#N)(SC#N)SC#N,1-butyl-3-methylimidazolium tetrathiocyanatozincate(II),,,,,,

@@ -1,0 +1,12 @@
+setid,Mole fraction of propan-1-ol,"Pressure, kPa","Temperature, K",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+Qipsw,0,101,298.15,1.4794,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,
+Qipsw,0.1619,101,298.15,1.47317,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,
+Qipsw,0.2104,101,298.15,1.47102,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,
+Qipsw,0.336,101,298.15,1.46449,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,
+Qipsw,0.5159,101,298.15,1.4524,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,
+Qipsw,0.7298,101,298.15,1.43139,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,
+Qipsw,0.8046,101,298.15,1.42139,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,
+Qipsw,0.8894,101,298.15,1.40743,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,
+Qipsw,0.9401,101,298.15,1.39739,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,
+Qipsw,0.9727,101,298.15,1.39003,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,
+Qipsw,1,101,298.15,1.3831,Gonzalez et al. (2007),Refractive index,Liquid,AALcLI,CCCO,propan-1-ol,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,,

@@ -1,0 +1,13 @@
+setid,"MolaLity of glycylglycine, mol/kg","Pressure, kPa","Temperature, K","Solvent: MolaLity of triethylammonium acetate, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mTvnn,0,100,298.15,0.2,999.02,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.0214,100,298.15,0.2,1000.22,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.0415,100,298.15,0.2,1001.33,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.0603,100,298.15,0.2,1002.36,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.0798,100,298.15,0.2,1003.43,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.0972,100,298.15,0.2,1004.38,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.1468,100,298.15,0.2,1007.05,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.1937,100,298.15,0.2,1009.57,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.2447,100,298.15,0.2,1012.27,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.2962,100,298.15,0.2,1014.98,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.3438,100,298.15,0.2,1017.46,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+mTvnn,0.3974,100,298.15,0.2,1020.25,Patil et al. (2020),Density,Liquid,AAZVtd,NCC(=O)NCC(=O)O,glycylglycine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water

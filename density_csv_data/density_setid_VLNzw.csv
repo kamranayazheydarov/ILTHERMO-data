@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VLNzw,293.15,101.325,1110,Seddon et al. (2002),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,,,,
+VLNzw,303.15,101.325,1100,Seddon et al. (2002),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,,,,
+VLNzw,313.15,101.325,1093,Seddon et al. (2002),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,,,,
+VLNzw,323.15,101.325,1087,Seddon et al. (2002),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,,,,
+VLNzw,333.15,101.325,1080,Seddon et al. (2002),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,,,,
+VLNzw,343.15,101.325,1073,Seddon et al. (2002),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,,,,
+VLNzw,353.15,101.325,1066,Seddon et al. (2002),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,,,,
+VLNzw,363.15,101.325,1057,Seddon et al. (2002),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,,,,,,

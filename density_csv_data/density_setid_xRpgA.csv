@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xRpgA,293.2,101.325,948.3,Ramjhan et al. (2021),Density,Liquid,ABsGoB,C(=O)(O)CCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 5-carboxypentanoate,,,,,,
+xRpgA,298.2,101.325,945,Ramjhan et al. (2021),Density,Liquid,ABsGoB,C(=O)(O)CCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 5-carboxypentanoate,,,,,,
+xRpgA,303.2,101.325,941.4,Ramjhan et al. (2021),Density,Liquid,ABsGoB,C(=O)(O)CCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 5-carboxypentanoate,,,,,,
+xRpgA,308.2,101.325,937.9,Ramjhan et al. (2021),Density,Liquid,ABsGoB,C(=O)(O)CCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 5-carboxypentanoate,,,,,,
+xRpgA,313.2,101.325,934.3,Ramjhan et al. (2021),Density,Liquid,ABsGoB,C(=O)(O)CCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 5-carboxypentanoate,,,,,,
+xRpgA,318.1,101.325,930.7,Ramjhan et al. (2021),Density,Liquid,ABsGoB,C(=O)(O)CCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 5-carboxypentanoate,,,,,,
+xRpgA,323.1,101.325,927.4,Ramjhan et al. (2021),Density,Liquid,ABsGoB,C(=O)(O)CCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 5-carboxypentanoate,,,,,,
+xRpgA,328.2,101.325,924,Ramjhan et al. (2021),Density,Liquid,ABsGoB,C(=O)(O)CCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 5-carboxypentanoate,,,,,,
+xRpgA,333.2,101.325,920.5,Ramjhan et al. (2021),Density,Liquid,ABsGoB,C(=O)(O)CCCCC(=O)[O-].C(CCCCCCC)[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium 5-carboxypentanoate,,,,,,

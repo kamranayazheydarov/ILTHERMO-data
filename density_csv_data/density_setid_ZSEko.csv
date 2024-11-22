@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZSEko,293,101.325,1032,Curnow et al. (2018),Density,Liquid,ABBHQC,[N-](C#N)C#N.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)C,bis(dimethylamino)(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+ZSEko,303,101.325,1026,Curnow et al. (2018),Density,Liquid,ABBHQC,[N-](C#N)C#N.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)C,bis(dimethylamino)(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+ZSEko,313,101.325,1020,Curnow et al. (2018),Density,Liquid,ABBHQC,[N-](C#N)C#N.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)C,bis(dimethylamino)(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+ZSEko,323,101.325,1014,Curnow et al. (2018),Density,Liquid,ABBHQC,[N-](C#N)C#N.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)C,bis(dimethylamino)(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+ZSEko,333,101.325,1007,Curnow et al. (2018),Density,Liquid,ABBHQC,[N-](C#N)C#N.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)C,bis(dimethylamino)(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+ZSEko,343,101.325,1002,Curnow et al. (2018),Density,Liquid,ABBHQC,[N-](C#N)C#N.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)C,bis(dimethylamino)(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+ZSEko,353,101.325,995,Curnow et al. (2018),Density,Liquid,ABBHQC,[N-](C#N)C#N.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)C,bis(dimethylamino)(butylmethylamino)cyclopropenium dicyanamide,,,,,,
+ZSEko,363,101.325,989,Curnow et al. (2018),Density,Liquid,ABBHQC,[N-](C#N)C#N.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)C,bis(dimethylamino)(butylmethylamino)cyclopropenium dicyanamide,,,,,,

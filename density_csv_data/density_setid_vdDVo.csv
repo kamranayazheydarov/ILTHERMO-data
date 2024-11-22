@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vdDVo,288.15,101.325,1264.1,Pal et al. (2013),Density,Liquid,AAsrIo,CCCCC[n+]1ccn(C)c1.[Br-],1-pentyl-3-methylimidazolium bromide,,,,,,
+vdDVo,293.15,101.325,1260.5,Pal et al. (2013),Density,Liquid,AAsrIo,CCCCC[n+]1ccn(C)c1.[Br-],1-pentyl-3-methylimidazolium bromide,,,,,,
+vdDVo,298.15,101.325,1256.9,Pal et al. (2013),Density,Liquid,AAsrIo,CCCCC[n+]1ccn(C)c1.[Br-],1-pentyl-3-methylimidazolium bromide,,,,,,
+vdDVo,303.15,101.325,1253,Pal et al. (2013),Density,Liquid,AAsrIo,CCCCC[n+]1ccn(C)c1.[Br-],1-pentyl-3-methylimidazolium bromide,,,,,,
+vdDVo,308.15,101.325,1249.6,Pal et al. (2013),Density,Liquid,AAsrIo,CCCCC[n+]1ccn(C)c1.[Br-],1-pentyl-3-methylimidazolium bromide,,,,,,
+vdDVo,313.15,101.325,1246.2,Pal et al. (2013),Density,Liquid,AAsrIo,CCCCC[n+]1ccn(C)c1.[Br-],1-pentyl-3-methylimidazolium bromide,,,,,,
+vdDVo,318.15,101.325,1242.8,Pal et al. (2013),Density,Liquid,AAsrIo,CCCCC[n+]1ccn(C)c1.[Br-],1-pentyl-3-methylimidazolium bromide,,,,,,

@@ -1,0 +1,5 @@
+setid,"Temperature, K","MolaRity of dodecyltrimethylammonium bromide, mol/dm3","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KoZvt,298.15,0.0002,101,1095.4,Gulia et al. (2018),Density,Liquid,AAPByN,CS(C)=O,dimethyl sulfoxide,ABHPBX,CCCCCCCCCCCC[N+](C)(C)C.[Br-],dodecyltrimethylammonium bromide,,,
+KoZvt,298.15,0.0004,101,1095.6,Gulia et al. (2018),Density,Liquid,AAPByN,CS(C)=O,dimethyl sulfoxide,ABHPBX,CCCCCCCCCCCC[N+](C)(C)C.[Br-],dodecyltrimethylammonium bromide,,,
+KoZvt,298.15,0.0006,101,1095.7,Gulia et al. (2018),Density,Liquid,AAPByN,CS(C)=O,dimethyl sulfoxide,ABHPBX,CCCCCCCCCCCC[N+](C)(C)C.[Br-],dodecyltrimethylammonium bromide,,,
+KoZvt,298.15,0.0008,101,1095.8,Gulia et al. (2018),Density,Liquid,AAPByN,CS(C)=O,dimethyl sulfoxide,ABHPBX,CCCCCCCCCCCC[N+](C)(C)C.[Br-],dodecyltrimethylammonium bromide,,,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yWRpG,293.15,101.325,1378.7,Raj et al. (2017),Density,Liquid,ABHEBX,CCOCC[n+]1ccn(CCC#N)c1.O=C([O-])C(F)(F)F,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium trifluoroacetate,,,,,,
+yWRpG,303.15,101.325,1370,Raj et al. (2017),Density,Liquid,ABHEBX,CCOCC[n+]1ccn(CCC#N)c1.O=C([O-])C(F)(F)F,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium trifluoroacetate,,,,,,
+yWRpG,313.15,101.325,1361.3,Raj et al. (2017),Density,Liquid,ABHEBX,CCOCC[n+]1ccn(CCC#N)c1.O=C([O-])C(F)(F)F,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium trifluoroacetate,,,,,,
+yWRpG,323.15,101.325,1352.8,Raj et al. (2017),Density,Liquid,ABHEBX,CCOCC[n+]1ccn(CCC#N)c1.O=C([O-])C(F)(F)F,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium trifluoroacetate,,,,,,
+yWRpG,333.15,101.325,1344.3,Raj et al. (2017),Density,Liquid,ABHEBX,CCOCC[n+]1ccn(CCC#N)c1.O=C([O-])C(F)(F)F,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium trifluoroacetate,,,,,,
+yWRpG,343.15,101.325,1336,Raj et al. (2017),Density,Liquid,ABHEBX,CCOCC[n+]1ccn(CCC#N)c1.O=C([O-])C(F)(F)F,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium trifluoroacetate,,,,,,
+yWRpG,353.15,101.325,1327.5,Raj et al. (2017),Density,Liquid,ABHEBX,CCOCC[n+]1ccn(CCC#N)c1.O=C([O-])C(F)(F)F,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium trifluoroacetate,,,,,,
+yWRpG,363.15,101.325,1319.4,Raj et al. (2017),Density,Liquid,ABHEBX,CCOCC[n+]1ccn(CCC#N)c1.O=C([O-])C(F)(F)F,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium trifluoroacetate,,,,,,

@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+Gkukl,293.15,101.325,1.44719,Garcia-Mardones et al. (2013b),Refractive index,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,,
+Gkukl,303.15,101.325,1.44454,Garcia-Mardones et al. (2013b),Refractive index,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,,
+Gkukl,313.15,101.325,1.4419,Garcia-Mardones et al. (2013b),Refractive index,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,,
+Gkukl,323.15,101.325,1.43924,Garcia-Mardones et al. (2013b),Refractive index,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,,

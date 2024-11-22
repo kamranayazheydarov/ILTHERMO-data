@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xdByN,298.15,101.325,933.4,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,
+xdByN,303.15,101.325,929.8,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,
+xdByN,308.15,101.325,925.7,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,
+xdByN,313.15,101.325,922.5,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,
+xdByN,318.15,101.325,917.9,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,
+xdByN,323.15,101.325,913.5,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,
+xdByN,328.15,101.325,909.1,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,
+xdByN,333.15,101.325,905.2,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,
+xdByN,338.15,101.325,901,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,
+xdByN,343.15,101.325,896.2,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,
+xdByN,348.15,101.325,891.8,Ghatee and Ghaed-sharaf (2017),Density,Liquid,AAsZuF,CCCCCC(=O)[O-].CC[NH+]1CCOCC1,N-ethylmorpholinium hexanoate,,,,,,

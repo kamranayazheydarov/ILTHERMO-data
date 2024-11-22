@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+Dnenv,293,101.325,1.485,Carreira et al. (2021),Refractive index,Liquid,ABQdUO,CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylammonium L-prolinate,,,,,,,
+Dnenv,303,101.325,1.4817,Carreira et al. (2021),Refractive index,Liquid,ABQdUO,CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylammonium L-prolinate,,,,,,,
+Dnenv,313,101.325,1.4787,Carreira et al. (2021),Refractive index,Liquid,ABQdUO,CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylammonium L-prolinate,,,,,,,
+Dnenv,323,101.325,1.4756,Carreira et al. (2021),Refractive index,Liquid,ABQdUO,CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylammonium L-prolinate,,,,,,,
+Dnenv,333,101.325,1.4725,Carreira et al. (2021),Refractive index,Liquid,ABQdUO,CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylammonium L-prolinate,,,,,,,
+Dnenv,343,101.325,1.4694,Carreira et al. (2021),Refractive index,Liquid,ABQdUO,CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylammonium L-prolinate,,,,,,,
+Dnenv,353,101.325,1.467,Carreira et al. (2021),Refractive index,Liquid,ABQdUO,CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylammonium L-prolinate,,,,,,,

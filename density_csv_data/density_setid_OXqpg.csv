@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OXqpg,288.15,101.325,1153.1,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,293.15,101.325,1150,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,298.15,101.325,1146.9,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,303.15,101.325,1143.8,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,308.15,101.325,1140.7,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,313.15,101.325,1137.6,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,318.15,101.325,1134.5,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,323.15,101.325,1131.4,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,328.15,101.325,1128.3,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,333.15,101.325,1125.2,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,338.15,101.325,1122.1,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,
+OXqpg,343.15,101.325,1119,Bai et al. (2020),Density,Liquid,AAmQCN,NCCC(=O)[O-].C(C)N1C=[N+](C=C1)C,1-ethyl-3-methylimidazolium 3-aminopropanoate,,,,,,

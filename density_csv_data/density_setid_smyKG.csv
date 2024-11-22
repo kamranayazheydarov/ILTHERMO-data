@@ -1,0 +1,4 @@
+setid,Solvent: Volume ratio of trimethylammonium acetate to other component of binary solvent,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+smyKG,0.3,101,298.15,1005.16,Vasantha et al. (2012),Density,Liquid,Crystal of pure component 1,,3,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate
+smyKG,0.5,101,298.15,1013.77,Vasantha et al. (2012),Density,Liquid,Crystal of pure component 1,,3,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate
+smyKG,0.7,101,298.15,1127.5,Vasantha et al. (2012),Density,Liquid,Crystal of pure component 1,,3,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate

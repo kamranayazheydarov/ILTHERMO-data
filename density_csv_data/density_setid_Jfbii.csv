@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Jfbii,298.15,101,1008.4,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+Jfbii,303.15,101,1005.1,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+Jfbii,308.15,101,1001.9,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+Jfbii,313.15,101,998.6,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+Jfbii,318.15,101,995.3,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+Jfbii,323.15,101,992,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+Jfbii,328.15,101,988.7,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+Jfbii,333.15,101,985.4,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+Jfbii,338.15,101,982.1,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+Jfbii,343.15,101,978.8,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,
+Jfbii,348.15,101,975.5,Krolikowska and Zawadzki (2018),Density,Liquid,ABVwPg,CCCC[P+](CC)(CCCC)CCCC.CCOP(=O)([O-])OCC,tributylethylphosphonium diethylphosphate,,,,,,

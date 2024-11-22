@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rFqOQ,283.15,101.325,1422,Shiflett et al. (2006a),Density,Liquid,ABTLdD,FC(C(C(F)(F)F)F)(S(=O)(=O)[O-])F.C(CCC)[N+]1=CN(C=C1)C,"3-butyl-1-methyl-1H-imidazol-3-ium 1,1,2,3,3,3-hexafluoropropane-1-sulfonate",,,,,,
+rFqOQ,298.15,101.325,1409,Shiflett et al. (2006a),Density,Liquid,ABTLdD,FC(C(C(F)(F)F)F)(S(=O)(=O)[O-])F.C(CCC)[N+]1=CN(C=C1)C,"3-butyl-1-methyl-1H-imidazol-3-ium 1,1,2,3,3,3-hexafluoropropane-1-sulfonate",,,,,,
+rFqOQ,323.15,101.325,1385,Shiflett et al. (2006a),Density,Liquid,ABTLdD,FC(C(C(F)(F)F)F)(S(=O)(=O)[O-])F.C(CCC)[N+]1=CN(C=C1)C,"3-butyl-1-methyl-1H-imidazol-3-ium 1,1,2,3,3,3-hexafluoropropane-1-sulfonate",,,,,,
+rFqOQ,348.15,101.325,1364,Shiflett et al. (2006a),Density,Liquid,ABTLdD,FC(C(C(F)(F)F)F)(S(=O)(=O)[O-])F.C(CCC)[N+]1=CN(C=C1)C,"3-butyl-1-methyl-1H-imidazol-3-ium 1,1,2,3,3,3-hexafluoropropane-1-sulfonate",,,,,,

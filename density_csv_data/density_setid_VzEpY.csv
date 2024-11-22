@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VzEpY,293.15,101.325,1002.6,Gardas et al. (2010b),Density,Liquid,ABJNqC,CCCC[N+](C)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-threoninate",,,,,,
+VzEpY,298.15,101.325,999.5,Gardas et al. (2010b),Density,Liquid,ABJNqC,CCCC[N+](C)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-threoninate",,,,,,
+VzEpY,303.15,101.325,996.4,Gardas et al. (2010b),Density,Liquid,ABJNqC,CCCC[N+](C)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-threoninate",,,,,,
+VzEpY,313.15,101.325,990,Gardas et al. (2010b),Density,Liquid,ABJNqC,CCCC[N+](C)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-threoninate",,,,,,
+VzEpY,323.15,101.325,983.7,Gardas et al. (2010b),Density,Liquid,ABJNqC,CCCC[N+](C)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-threoninate",,,,,,
+VzEpY,333.15,101.325,977.7,Gardas et al. (2010b),Density,Liquid,ABJNqC,CCCC[N+](C)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-threoninate",,,,,,
+VzEpY,343.15,101.325,971.7,Gardas et al. (2010b),Density,Liquid,ABJNqC,CCCC[N+](C)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-threoninate",,,,,,
+VzEpY,353.15,101.325,965.7,Gardas et al. (2010b),Density,Liquid,ABJNqC,CCCC[N+](C)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-threoninate",,,,,,
+VzEpY,363.15,101.325,959.8,Gardas et al. (2010b),Density,Liquid,ABJNqC,CCCC[N+](C)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-threoninate",,,,,,

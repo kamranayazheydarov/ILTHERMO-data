@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WdVAb,313.15,101.325,1296.1,Chen et al. (2018a),Density,Liquid,ABqGbK,CCCCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"2,3-dimethyl-1-octyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide",,,,,,
+WdVAb,323.15,101.325,1287.4,Chen et al. (2018a),Density,Liquid,ABqGbK,CCCCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"2,3-dimethyl-1-octyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide",,,,,,
+WdVAb,333.15,101.325,1278.6,Chen et al. (2018a),Density,Liquid,ABqGbK,CCCCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"2,3-dimethyl-1-octyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide",,,,,,
+WdVAb,343.15,101.325,1269.1,Chen et al. (2018a),Density,Liquid,ABqGbK,CCCCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"2,3-dimethyl-1-octyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide",,,,,,
+WdVAb,353.15,101.325,1258.2,Chen et al. (2018a),Density,Liquid,ABqGbK,CCCCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"2,3-dimethyl-1-octyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide",,,,,,

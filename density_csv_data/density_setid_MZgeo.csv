@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MZgeo,278.15,101,1401,Rodriguez and Brennecke (2006),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MZgeo,288.15,101,1392,Rodriguez and Brennecke (2006),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MZgeo,298.15,101,1384,Rodriguez and Brennecke (2006),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MZgeo,308.15,101,1375,Rodriguez and Brennecke (2006),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MZgeo,318.15,101,1367,Rodriguez and Brennecke (2006),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MZgeo,328.15,101,1359,Rodriguez and Brennecke (2006),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MZgeo,338.15,101,1350,Rodriguez and Brennecke (2006),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+MZgeo,348.15,101,1342,Rodriguez and Brennecke (2006),Density,Liquid,AAyCVz,CC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

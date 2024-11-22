@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iZSVb,313,101.325,1253,Walst et al. (2015),Density,Liquid,AByVDl,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)CCCC,bis(dimethylamino)dibutylaminocyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+iZSVb,323,101.325,1244,Walst et al. (2015),Density,Liquid,AByVDl,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)CCCC,bis(dimethylamino)dibutylaminocyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+iZSVb,333,101.325,1236,Walst et al. (2015),Density,Liquid,AByVDl,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)CCCC,bis(dimethylamino)dibutylaminocyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+iZSVb,343,101.325,1228,Walst et al. (2015),Density,Liquid,AByVDl,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)CCCC,bis(dimethylamino)dibutylaminocyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+iZSVb,353,101.325,1219,Walst et al. (2015),Density,Liquid,AByVDl,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)CCCC,bis(dimethylamino)dibutylaminocyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+iZSVb,363,101.325,1210,Walst et al. (2015),Density,Liquid,AByVDl,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1N(CCCC)CCCC,bis(dimethylamino)dibutylaminocyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,

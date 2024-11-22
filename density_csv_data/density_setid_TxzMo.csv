@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+TxzMo,298.15,101.325,1034,Seddon et al. (2002),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+TxzMo,313.15,101.325,1024,Seddon et al. (2002),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+TxzMo,333.15,101.325,1014,Seddon et al. (2002),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,

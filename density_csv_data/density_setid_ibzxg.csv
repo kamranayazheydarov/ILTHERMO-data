@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ibzxg,293.15,100,1299.3,Zheng et al. (2017a),Density,Liquid,ABBrFv,CC[n+]1ccn(C)c1.Cl[Al-](Cl)(Cl)Cl,1-ethyl-3-methyl-1H-imidazolium tetrachloroaluminate,,,,,,
+ibzxg,303.15,100,1291.1,Zheng et al. (2017a),Density,Liquid,ABBrFv,CC[n+]1ccn(C)c1.Cl[Al-](Cl)(Cl)Cl,1-ethyl-3-methyl-1H-imidazolium tetrachloroaluminate,,,,,,
+ibzxg,313.15,100,1283,Zheng et al. (2017a),Density,Liquid,ABBrFv,CC[n+]1ccn(C)c1.Cl[Al-](Cl)(Cl)Cl,1-ethyl-3-methyl-1H-imidazolium tetrachloroaluminate,,,,,,
+ibzxg,323.15,100,1275,Zheng et al. (2017a),Density,Liquid,ABBrFv,CC[n+]1ccn(C)c1.Cl[Al-](Cl)(Cl)Cl,1-ethyl-3-methyl-1H-imidazolium tetrachloroaluminate,,,,,,
+ibzxg,333.15,100,1267.1,Zheng et al. (2017a),Density,Liquid,ABBrFv,CC[n+]1ccn(C)c1.Cl[Al-](Cl)(Cl)Cl,1-ethyl-3-methyl-1H-imidazolium tetrachloroaluminate,,,,,,
+ibzxg,343.15,100,1259.2,Zheng et al. (2017a),Density,Liquid,ABBrFv,CC[n+]1ccn(C)c1.Cl[Al-](Cl)(Cl)Cl,1-ethyl-3-methyl-1H-imidazolium tetrachloroaluminate,,,,,,
+ibzxg,353.15,100,1251.4,Zheng et al. (2017a),Density,Liquid,ABBrFv,CC[n+]1ccn(C)c1.Cl[Al-](Cl)(Cl)Cl,1-ethyl-3-methyl-1H-imidazolium tetrachloroaluminate,,,,,,

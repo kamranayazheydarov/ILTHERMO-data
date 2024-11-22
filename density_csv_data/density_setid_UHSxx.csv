@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+UHSxx,298.15,101,1467.58,Kavitha et al. (2012b),Density,Liquid,AAeLPm,C[NH+](C)C.O=S(=O)([O-])O,trimethylammonium hydrogen sulfate,,,,,,
+UHSxx,303.15,101,1463.56,Kavitha et al. (2012b),Density,Liquid,AAeLPm,C[NH+](C)C.O=S(=O)([O-])O,trimethylammonium hydrogen sulfate,,,,,,
+UHSxx,308.15,101,1463.5,Kavitha et al. (2012b),Density,Liquid,AAeLPm,C[NH+](C)C.O=S(=O)([O-])O,trimethylammonium hydrogen sulfate,,,,,,
+UHSxx,313.15,101,1455.63,Kavitha et al. (2012b),Density,Liquid,AAeLPm,C[NH+](C)C.O=S(=O)([O-])O,trimethylammonium hydrogen sulfate,,,,,,

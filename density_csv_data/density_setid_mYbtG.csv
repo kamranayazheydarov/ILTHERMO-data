@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mYbtG,308.15,101.325,1115.6,Er and Wang (2016),Density,Liquid,ABDDEK,CCCCCCCC[NH2+]CCN.O=C([O-])C(F)(F)F,N-octylethylenediammonium trifluoroacetate,,,,,,
+mYbtG,313.15,101.325,1111.4,Er and Wang (2016),Density,Liquid,ABDDEK,CCCCCCCC[NH2+]CCN.O=C([O-])C(F)(F)F,N-octylethylenediammonium trifluoroacetate,,,,,,
+mYbtG,318.15,101.325,1107.8,Er and Wang (2016),Density,Liquid,ABDDEK,CCCCCCCC[NH2+]CCN.O=C([O-])C(F)(F)F,N-octylethylenediammonium trifluoroacetate,,,,,,
+mYbtG,323.15,101.325,1104,Er and Wang (2016),Density,Liquid,ABDDEK,CCCCCCCC[NH2+]CCN.O=C([O-])C(F)(F)F,N-octylethylenediammonium trifluoroacetate,,,,,,
+mYbtG,328.15,101.325,1099.2,Er and Wang (2016),Density,Liquid,ABDDEK,CCCCCCCC[NH2+]CCN.O=C([O-])C(F)(F)F,N-octylethylenediammonium trifluoroacetate,,,,,,
+mYbtG,333.15,101.325,1095.6,Er and Wang (2016),Density,Liquid,ABDDEK,CCCCCCCC[NH2+]CCN.O=C([O-])C(F)(F)F,N-octylethylenediammonium trifluoroacetate,,,,,,
+mYbtG,338.15,101.325,1091.5,Er and Wang (2016),Density,Liquid,ABDDEK,CCCCCCCC[NH2+]CCN.O=C([O-])C(F)(F)F,N-octylethylenediammonium trifluoroacetate,,,,,,
+mYbtG,343.15,101.325,1087.4,Er and Wang (2016),Density,Liquid,ABDDEK,CCCCCCCC[NH2+]CCN.O=C([O-])C(F)(F)F,N-octylethylenediammonium trifluoroacetate,,,,,,
+mYbtG,348.15,101.325,1083.5,Er and Wang (2016),Density,Liquid,ABDDEK,CCCCCCCC[NH2+]CCN.O=C([O-])C(F)(F)F,N-octylethylenediammonium trifluoroacetate,,,,,,
+mYbtG,353.15,101.325,1079.4,Er and Wang (2016),Density,Liquid,ABDDEK,CCCCCCCC[NH2+]CCN.O=C([O-])C(F)(F)F,N-octylethylenediammonium trifluoroacetate,,,,,,

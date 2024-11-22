@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Yebuv,288.15,101.325,1183.9,Pal et al. (2013),Density,Liquid,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate,,,,,,
+Yebuv,293.15,101.325,1180.3,Pal et al. (2013),Density,Liquid,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate,,,,,,
+Yebuv,298.15,101.325,1176.8,Pal et al. (2013),Density,Liquid,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate,,,,,,
+Yebuv,303.15,101.325,1173.3,Pal et al. (2013),Density,Liquid,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate,,,,,,
+Yebuv,308.15,101.325,1169.8,Pal et al. (2013),Density,Liquid,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate,,,,,,
+Yebuv,313.15,101.325,1166.4,Pal et al. (2013),Density,Liquid,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate,,,,,,
+Yebuv,318.15,101.325,1162.9,Pal et al. (2013),Density,Liquid,AAuISn,CCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-pentyl-imidazolium tetrafluoroborate,,,,,,

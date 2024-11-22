@@ -1,0 +1,13 @@
+setid,"Temperature, K","MolaLity of 2-hydroxy-N,N,N-trimethylethanaminium L-alaninate, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GDcYV,298.15,0.051,87.1,998.2,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,298.15,0.101,87.1,999.2,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,298.15,0.152,87.1,1000.2,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,303.15,0.051,87.1,996.8,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,303.15,0.101,87.1,997.8,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,303.15,0.152,87.1,998.7,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,308.15,0.051,87.1,995.2,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,308.15,0.101,87.1,996.2,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,308.15,0.152,87.1,997.1,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,313.15,0.051,87.1,993.4,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,313.15,0.101,87.1,994.3,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,
+GDcYV,313.15,0.152,87.1,995.2,Shekaari et al. (2021a),Density,Liquid,AAkyNk,C[C@H](N)C(=O)[O-].C[N+](C)(C)CCO,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate",AADYJk,O,water,,,

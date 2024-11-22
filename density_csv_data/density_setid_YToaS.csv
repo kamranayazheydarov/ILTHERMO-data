@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+YToaS,298,101.325,1192,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,303,101.325,1189,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,308,101.325,1185,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,313,101.325,1182,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,318,101.325,1179,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,323,101.325,1175,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,328,101.325,1172,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,333,101.325,1169,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,338,101.325,1165,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,343,101.325,1162,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,348,101.325,1158,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+YToaS,353,101.325,1155,Iwasaki et al. (2017),Density,Liquid,AAxMCQ,CC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-ethyl-3-methylimidazolium phenyltrifluoroborate,,,,,,

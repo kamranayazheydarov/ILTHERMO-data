@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+lEgYi,288.15,101.325,1136.5,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,293.15,101.325,1133.3,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,298.15,101.325,1130.2,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,303.15,101.325,1127,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,308.15,101.325,1123.8,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,313.15,101.325,1120.7,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,318.15,101.325,1117.5,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,323.15,101.325,1114.4,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,328.15,101.325,1111.2,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,333.15,101.325,1108,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,338.15,101.325,1104.9,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,
+lEgYi,343.15,101.325,1101.7,Bai et al. (2020),Density,Liquid,AAmQJQ,CC[n+]1ccn(C)c1.C[C@H](N)C(=O)[O-],1-ethyl-3-methylimidazolium L-alaninate,,,,,,

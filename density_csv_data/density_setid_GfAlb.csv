@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GfAlb,293.15,101.325,1480,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+GfAlb,298.15,101.325,1475,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+GfAlb,303.15,101.325,1470,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+GfAlb,308.15,101.325,1465,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+GfAlb,313.15,101.325,1460,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+GfAlb,318.15,101.325,1455,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+GfAlb,323.15,101.325,1450,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+GfAlb,328.15,101.325,1445,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+GfAlb,333.15,101.325,1440,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+GfAlb,338.15,101.325,1436,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+GfAlb,343.15,101.325,1431,Henni et al. (2023),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

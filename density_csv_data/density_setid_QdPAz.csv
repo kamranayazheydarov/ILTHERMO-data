@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa",Weight fraction of water,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QdPAz,298.15,101,0.1415,899.1,Oster et al. (2018),Density,Liquid,ACVzmt,CCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyltetradecylphosphonium decanoate,AADYJk,O,water,,,
+QdPAz,303.15,101,0.1415,895.8,Oster et al. (2018),Density,Liquid,ACVzmt,CCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyltetradecylphosphonium decanoate,AADYJk,O,water,,,
+QdPAz,313.15,101,0.1415,889,Oster et al. (2018),Density,Liquid,ACVzmt,CCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyltetradecylphosphonium decanoate,AADYJk,O,water,,,
+QdPAz,323.15,101,0.1415,882.3,Oster et al. (2018),Density,Liquid,ACVzmt,CCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyltetradecylphosphonium decanoate,AADYJk,O,water,,,
+QdPAz,333.15,101,0.1415,875.4,Oster et al. (2018),Density,Liquid,ACVzmt,CCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyltetradecylphosphonium decanoate,AADYJk,O,water,,,
+QdPAz,343.15,101,0.1415,868.2,Oster et al. (2018),Density,Liquid,ACVzmt,CCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyltetradecylphosphonium decanoate,AADYJk,O,water,,,
+QdPAz,353.15,101,0.1415,860.8,Oster et al. (2018),Density,Liquid,ACVzmt,CCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyltetradecylphosphonium decanoate,AADYJk,O,water,,,
+QdPAz,363.15,101,0.1415,853.7,Oster et al. (2018),Density,Liquid,ACVzmt,CCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyltetradecylphosphonium decanoate,AADYJk,O,water,,,

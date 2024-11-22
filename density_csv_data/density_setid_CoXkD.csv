@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CoXkD,286.7,101,7.52e-05,Shiflett and Yokozeki (2007e),Density,Liquid mixture 2,Liquid mixture 1,,4,AAOgLD,OCCCO,"propan-1,3-diol",AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+CoXkD,287.9,101,7.57e-05,Shiflett and Yokozeki (2007e),Density,Liquid mixture 2,Liquid mixture 1,,4,AAOgLD,OCCCO,"propan-1,3-diol",AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+CoXkD,289.1,101,7.6e-05,Shiflett and Yokozeki (2007e),Density,Liquid mixture 2,Liquid mixture 1,,4,AAOgLD,OCCCO,"propan-1,3-diol",AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+CoXkD,291.9,101,7.89e-05,Shiflett and Yokozeki (2007e),Density,Liquid mixture 2,Liquid mixture 1,,4,AAOgLD,OCCCO,"propan-1,3-diol",AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qWBhX,283.15,101.325,1438.1,Chen et al. (2016c),Density,Liquid,ABgQks,COCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methoxypropyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+qWBhX,293.15,101.325,1428.9,Chen et al. (2016c),Density,Liquid,ABgQks,COCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methoxypropyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+qWBhX,298.15,101.325,1424.4,Chen et al. (2016c),Density,Liquid,ABgQks,COCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methoxypropyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+qWBhX,303.15,101.325,1419.9,Chen et al. (2016c),Density,Liquid,ABgQks,COCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methoxypropyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+qWBhX,313.15,101.325,1411,Chen et al. (2016c),Density,Liquid,ABgQks,COCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methoxypropyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+qWBhX,323.15,101.325,1402,Chen et al. (2016c),Density,Liquid,ABgQks,COCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methoxypropyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+qWBhX,333.15,101.325,1393.2,Chen et al. (2016c),Density,Liquid,ABgQks,COCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methoxypropyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+qWBhX,343.15,101.325,1384.5,Chen et al. (2016c),Density,Liquid,ABgQks,COCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methoxypropyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+qWBhX,353.15,101.325,1375.8,Chen et al. (2016c),Density,Liquid,ABgQks,COCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methoxypropyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide,,,,,,

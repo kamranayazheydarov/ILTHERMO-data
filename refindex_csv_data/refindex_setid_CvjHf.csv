@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+CvjHf,298.15,101.325,1.4866,Marcinkowski et al. (2019a),Refractive index,Liquid,ABDXNQ,CC(=O)N[C@@H](C)C(=O)[O-].CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-alaninate,,,,,,,
+CvjHf,303.15,101.325,1.4848,Marcinkowski et al. (2019a),Refractive index,Liquid,ABDXNQ,CC(=O)N[C@@H](C)C(=O)[O-].CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-alaninate,,,,,,,
+CvjHf,308.15,101.325,1.4829,Marcinkowski et al. (2019a),Refractive index,Liquid,ABDXNQ,CC(=O)N[C@@H](C)C(=O)[O-].CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-alaninate,,,,,,,
+CvjHf,313.15,101.325,1.4812,Marcinkowski et al. (2019a),Refractive index,Liquid,ABDXNQ,CC(=O)N[C@@H](C)C(=O)[O-].CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-alaninate,,,,,,,
+CvjHf,318.15,101.325,1.4793,Marcinkowski et al. (2019a),Refractive index,Liquid,ABDXNQ,CC(=O)N[C@@H](C)C(=O)[O-].CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-alaninate,,,,,,,

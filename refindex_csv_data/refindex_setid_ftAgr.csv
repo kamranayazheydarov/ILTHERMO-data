@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+ftAgr,288.15,101.325,1.49533,Sardar et al. (2017),Refractive index,Liquid,ABPBaL,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[N+]1(C)CCCC1,1-butyl-1-methylpyrrolidinium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ftAgr,293.15,101.325,1.49382,Sardar et al. (2017),Refractive index,Liquid,ABPBaL,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[N+]1(C)CCCC1,1-butyl-1-methylpyrrolidinium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ftAgr,298.15,101.325,1.49222,Sardar et al. (2017),Refractive index,Liquid,ABPBaL,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[N+]1(C)CCCC1,1-butyl-1-methylpyrrolidinium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ftAgr,303.15,101.325,1.49061,Sardar et al. (2017),Refractive index,Liquid,ABPBaL,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[N+]1(C)CCCC1,1-butyl-1-methylpyrrolidinium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ftAgr,308.15,101.325,1.48901,Sardar et al. (2017),Refractive index,Liquid,ABPBaL,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[N+]1(C)CCCC1,1-butyl-1-methylpyrrolidinium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ftAgr,313.15,101.325,1.48738,Sardar et al. (2017),Refractive index,Liquid,ABPBaL,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[N+]1(C)CCCC1,1-butyl-1-methylpyrrolidinium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ftAgr,318.15,101.325,1.48579,Sardar et al. (2017),Refractive index,Liquid,ABPBaL,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[N+]1(C)CCCC1,1-butyl-1-methylpyrrolidinium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ftAgr,323.15,101.325,1.48419,Sardar et al. (2017),Refractive index,Liquid,ABPBaL,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[N+]1(C)CCCC1,1-butyl-1-methylpyrrolidinium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ftAgr,328.15,101.325,1.48261,Sardar et al. (2017),Refractive index,Liquid,ABPBaL,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[N+]1(C)CCCC1,1-butyl-1-methylpyrrolidinium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ftAgr,333.15,101.325,1.48101,Sardar et al. (2017),Refractive index,Liquid,ABPBaL,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[N+]1(C)CCCC1,1-butyl-1-methylpyrrolidinium 2-acrylamido-2-methylpropanesulfonate,,,,,,,

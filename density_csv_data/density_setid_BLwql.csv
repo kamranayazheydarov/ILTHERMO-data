@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BLwql,298.15,101.325,1106.9,Deenadayalu et al. (2010b),Density,Liquid,ACUobF,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"methyltrioctylammonium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",,,,,,
+BLwql,303.15,101.325,1103.2,Deenadayalu et al. (2010b),Density,Liquid,ACUobF,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"methyltrioctylammonium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",,,,,,
+BLwql,313.1,101.325,1095.7,Deenadayalu et al. (2010b),Density,Liquid,ACUobF,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"methyltrioctylammonium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",,,,,,

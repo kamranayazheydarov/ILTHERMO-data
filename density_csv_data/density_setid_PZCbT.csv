@@ -1,0 +1,10 @@
+setid,"MolaLity of glycyl-L-valine, mol/kg","Pressure, kPa","Temperature, K","Solvent: MolaLity of triethylammonium acetate, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PZCbT,0,100,298.15,0.2,999,Patil et al. (2020),Density,Liquid,AAhacB,CC(C)[C@H](NC(=O)CN)C(=O)O,glycyl-L-valine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+PZCbT,0.0203,100,298.15,0.2,1000.06,Patil et al. (2020),Density,Liquid,AAhacB,CC(C)[C@H](NC(=O)CN)C(=O)O,glycyl-L-valine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+PZCbT,0.0399,100,298.15,0.2,1001.07,Patil et al. (2020),Density,Liquid,AAhacB,CC(C)[C@H](NC(=O)CN)C(=O)O,glycyl-L-valine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+PZCbT,0.0605,100,298.15,0.2,1002.12,Patil et al. (2020),Density,Liquid,AAhacB,CC(C)[C@H](NC(=O)CN)C(=O)O,glycyl-L-valine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+PZCbT,0.0794,100,298.15,0.2,1003.08,Patil et al. (2020),Density,Liquid,AAhacB,CC(C)[C@H](NC(=O)CN)C(=O)O,glycyl-L-valine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+PZCbT,0.0987,100,298.15,0.2,1004.04,Patil et al. (2020),Density,Liquid,AAhacB,CC(C)[C@H](NC(=O)CN)C(=O)O,glycyl-L-valine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+PZCbT,0.1449,100,298.15,0.2,1006.33,Patil et al. (2020),Density,Liquid,AAhacB,CC(C)[C@H](NC(=O)CN)C(=O)O,glycyl-L-valine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+PZCbT,0.1689,100,298.15,0.2,1007.5,Patil et al. (2020),Density,Liquid,AAhacB,CC(C)[C@H](NC(=O)CN)C(=O)O,glycyl-L-valine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water
+PZCbT,0.2006,100,298.15,0.2,1009.03,Patil et al. (2020),Density,Liquid,AAhacB,CC(C)[C@H](NC(=O)CN)C(=O)O,glycyl-L-valine,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water

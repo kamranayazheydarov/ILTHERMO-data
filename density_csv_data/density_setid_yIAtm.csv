@@ -1,0 +1,10 @@
+setid,"Temperature, K","Mole fraction of 1,3-dimethylimidazolium dimethyl phosphate","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yIAtm,298.15,0.1815,101,1340.9,Sanchez et al. (2018),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",AATMSw,OCC(F)(F)F,"2,2,2-trifluoroethanol",,,
+yIAtm,298.15,0.4904,101,1293.5,Sanchez et al. (2018),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",AATMSw,OCC(F)(F)F,"2,2,2-trifluoroethanol",,,
+yIAtm,298.15,0.803,101,1268.6,Sanchez et al. (2018),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",AATMSw,OCC(F)(F)F,"2,2,2-trifluoroethanol",,,
+yIAtm,313.15,0.1815,101,1323.7,Sanchez et al. (2018),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",AATMSw,OCC(F)(F)F,"2,2,2-trifluoroethanol",,,
+yIAtm,313.15,0.4904,101,1280.5,Sanchez et al. (2018),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",AATMSw,OCC(F)(F)F,"2,2,2-trifluoroethanol",,,
+yIAtm,313.15,0.803,101,1257.5,Sanchez et al. (2018),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",AATMSw,OCC(F)(F)F,"2,2,2-trifluoroethanol",,,
+yIAtm,333.15,0.1815,101,1301,Sanchez et al. (2018),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",AATMSw,OCC(F)(F)F,"2,2,2-trifluoroethanol",,,
+yIAtm,333.15,0.4904,101,1263.5,Sanchez et al. (2018),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",AATMSw,OCC(F)(F)F,"2,2,2-trifluoroethanol",,,
+yIAtm,333.15,0.803,101,1242.9,Sanchez et al. (2018),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",AATMSw,OCC(F)(F)F,"2,2,2-trifluoroethanol",,,

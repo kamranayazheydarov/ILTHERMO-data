@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jCYvw,283.1,101.325,1114,Capelo et al. (2012),Density,Liquid,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,,,,
+jCYvw,288.1,101.325,1110,Capelo et al. (2012),Density,Liquid,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,,,,
+jCYvw,293.1,101.325,1107,Capelo et al. (2012),Density,Liquid,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,,,,
+jCYvw,298.1,101.325,1104,Capelo et al. (2012),Density,Liquid,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,,,,
+jCYvw,303.1,101.325,1101,Capelo et al. (2012),Density,Liquid,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,,,,
+jCYvw,308.1,101.325,1098,Capelo et al. (2012),Density,Liquid,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,,,,
+jCYvw,313.1,101.325,1094,Capelo et al. (2012),Density,Liquid,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,,,,

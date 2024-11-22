@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+amxjx,298.3,101.325,1379.6,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,303.2,101.325,1372.8,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,308.2,101.325,1369.4,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,312.9,101.325,1366,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,318.2,101.325,1360.9,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,323.1,101.325,1357.5,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,328.2,101.325,1354.1,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,333,101.325,1349,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,338.1,101.325,1345.6,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,343.2,101.325,1342.2,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,348.3,101.325,1337.1,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,
+amxjx,353.2,101.325,1335.4,Brauer et al. (2015),Density,Liquid,ABAwOR,CCC[n+]1cn(C)cn1.O=S(=O)([O-])C(F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium trifluoromethanesulfonate",,,,,,

@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of tetraethylammonium chloride,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+wufbe,293.15,101,0.3333,1052.3,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+wufbe,298.15,101,0.3333,1049.4,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+wufbe,303.15,101,0.3333,1046.6,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+wufbe,308.15,101,0.3333,1043.7,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+wufbe,313.15,101,0.3333,1040.9,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+wufbe,318.15,101,0.3333,1038.1,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+wufbe,323.15,101,0.3333,1035.3,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+wufbe,328.15,101,0.3333,1032.5,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+wufbe,333.15,101,0.3333,1029.7,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+wufbe,338.15,101,0.3333,1026.9,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+wufbe,343.15,101,0.3333,1024.1,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,

@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of tetraethylammonium chloride,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MBGzB,293.15,101,0.3333,1124,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MBGzB,298.15,101,0.3333,1121,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MBGzB,303.15,101,0.3333,1118.1,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MBGzB,308.15,101,0.3333,1115.1,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MBGzB,313.15,101,0.3333,1112.3,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MBGzB,318.15,101,0.3333,1109.4,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MBGzB,323.15,101,0.3333,1106.6,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MBGzB,328.15,101,0.3333,1103.8,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MBGzB,333.15,101,0.3333,1101,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MBGzB,338.15,101,0.3333,1098.2,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,
+MBGzB,343.15,101,0.3333,1095.4,Warrag et al. (2018a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AARkmK,OCC(O)CO,glycerol,,,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa",Weight fraction of water,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+gnJEv,298.15,101,0.1668,907.8,Oster et al. (2018),Density,Liquid,ACFpVw,CCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium butyrate,AADYJk,O,water,,,
+gnJEv,303.15,101,0.1668,904.6,Oster et al. (2018),Density,Liquid,ACFpVw,CCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium butyrate,AADYJk,O,water,,,
+gnJEv,313.15,101,0.1668,898.3,Oster et al. (2018),Density,Liquid,ACFpVw,CCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium butyrate,AADYJk,O,water,,,
+gnJEv,323.15,101,0.1668,891.9,Oster et al. (2018),Density,Liquid,ACFpVw,CCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium butyrate,AADYJk,O,water,,,
+gnJEv,333.15,101,0.1668,885,Oster et al. (2018),Density,Liquid,ACFpVw,CCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium butyrate,AADYJk,O,water,,,
+gnJEv,343.15,101,0.1668,877.8,Oster et al. (2018),Density,Liquid,ACFpVw,CCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium butyrate,AADYJk,O,water,,,
+gnJEv,353.15,101,0.1668,870.5,Oster et al. (2018),Density,Liquid,ACFpVw,CCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium butyrate,AADYJk,O,water,,,
+gnJEv,363.15,101,0.1668,863.9,Oster et al. (2018),Density,Liquid,ACFpVw,CCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium butyrate,AADYJk,O,water,,,

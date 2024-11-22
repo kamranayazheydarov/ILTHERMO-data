@@ -1,0 +1,11 @@
+setid,"Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SNadH,293.15,1244,Wang et al. (2011e),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+SNadH,298.15,1242,Wang et al. (2011e),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+SNadH,303.15,1238.7,Wang et al. (2011e),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+SNadH,308.15,1234.9,Wang et al. (2011e),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+SNadH,313.15,1229.7,Wang et al. (2011e),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+SNadH,318.15,1226.8,Wang et al. (2011e),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+SNadH,323.15,1223.9,Wang et al. (2011e),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+SNadH,328.15,1218.5,Wang et al. (2011e),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+SNadH,333.15,1214.8,Wang et al. (2011e),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+SNadH,338.15,1210.4,Wang et al. (2011e),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,

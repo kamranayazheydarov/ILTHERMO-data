@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PRPWJ,308.15,101.325,1040.7,Krolikowski and Krolikowski (2014),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+PRPWJ,318.15,101.325,1034.6,Krolikowski and Krolikowski (2014),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+PRPWJ,328.15,101.325,1028.7,Krolikowski and Krolikowski (2014),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+PRPWJ,338.15,101.325,1022.8,Krolikowski and Krolikowski (2014),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+PRPWJ,348.15,101.325,1016.8,Krolikowski and Krolikowski (2014),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+PRPWJ,358.15,101.325,1010.8,Krolikowski and Krolikowski (2014),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,

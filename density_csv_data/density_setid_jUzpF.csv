@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jUzpF,293.15,101.325,1076.6,Khan et al. (2018),Density,Liquid,AAoMRk,CCCC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium butanoate,,,,,,
+jUzpF,303.15,101.325,1068.6,Khan et al. (2018),Density,Liquid,AAoMRk,CCCC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium butanoate,,,,,,
+jUzpF,313.15,101.325,1060.7,Khan et al. (2018),Density,Liquid,AAoMRk,CCCC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium butanoate,,,,,,
+jUzpF,323.15,101.325,1052.8,Khan et al. (2018),Density,Liquid,AAoMRk,CCCC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium butanoate,,,,,,
+jUzpF,333.15,101.325,1044.7,Khan et al. (2018),Density,Liquid,AAoMRk,CCCC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium butanoate,,,,,,
+jUzpF,343.15,101.325,1036.2,Khan et al. (2018),Density,Liquid,AAoMRk,CCCC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium butanoate,,,,,,
+jUzpF,353.15,101.325,1029,Khan et al. (2018),Density,Liquid,AAoMRk,CCCC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium butanoate,,,,,,
+jUzpF,363.15,101.325,1021.9,Khan et al. (2018),Density,Liquid,AAoMRk,CCCC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium butanoate,,,,,,

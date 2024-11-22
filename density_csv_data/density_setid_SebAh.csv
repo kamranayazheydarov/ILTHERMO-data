@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SebAh,298.15,101.325,1329,AlTuwaim et al. (2014),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,
+SebAh,303.15,101.325,1323,AlTuwaim et al. (2014),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,
+SebAh,308.15,101.325,1319,AlTuwaim et al. (2014),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,
+SebAh,313.15,101.325,1316,AlTuwaim et al. (2014),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,
+SebAh,318.15,101.325,1312,AlTuwaim et al. (2014),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,
+SebAh,323.15,101.325,1308,AlTuwaim et al. (2014),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,
+SebAh,328.15,101.325,1305,AlTuwaim et al. (2014),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,
+SebAh,333.15,101.325,1302,AlTuwaim et al. (2014),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,

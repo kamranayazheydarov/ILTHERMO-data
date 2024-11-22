@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ifQAe,278.15,101.325,1260.82,Kolbeck et al. (2010),Density,Liquid,AByLzK,CCCCCCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-dodecyl-3-methyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+ifQAe,283.15,101.325,1256.47,Kolbeck et al. (2010),Density,Liquid,AByLzK,CCCCCCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-dodecyl-3-methyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+ifQAe,288.15,101.325,1252.11,Kolbeck et al. (2010),Density,Liquid,AByLzK,CCCCCCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-dodecyl-3-methyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+ifQAe,293.15,101.325,1247.77,Kolbeck et al. (2010),Density,Liquid,AByLzK,CCCCCCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-dodecyl-3-methyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+ifQAe,298.15,101.325,1243.55,Kolbeck et al. (2010),Density,Liquid,AByLzK,CCCCCCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-dodecyl-3-methyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+ifQAe,303.15,101.325,1239.36,Kolbeck et al. (2010),Density,Liquid,AByLzK,CCCCCCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-dodecyl-3-methyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+ifQAe,308.15,101.325,1235.17,Kolbeck et al. (2010),Density,Liquid,AByLzK,CCCCCCCCCCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-dodecyl-3-methyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide,,,,,,

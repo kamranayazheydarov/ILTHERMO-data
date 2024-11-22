@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zhJdb,293.15,101.325,1127.7,Khan et al. (2018),Density,Liquid,AAirsR,CC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium acetate,,,,,,
+zhJdb,303.15,101.325,1120.5,Khan et al. (2018),Density,Liquid,AAirsR,CC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium acetate,,,,,,
+zhJdb,313.15,101.325,1113,Khan et al. (2018),Density,Liquid,AAirsR,CC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium acetate,,,,,,
+zhJdb,323.15,101.325,1105.2,Khan et al. (2018),Density,Liquid,AAirsR,CC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium acetate,,,,,,
+zhJdb,333.15,101.325,1097.7,Khan et al. (2018),Density,Liquid,AAirsR,CC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium acetate,,,,,,
+zhJdb,343.15,101.325,1089.8,Khan et al. (2018),Density,Liquid,AAirsR,CC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium acetate,,,,,,
+zhJdb,353.15,101.325,1082,Khan et al. (2018),Density,Liquid,AAirsR,CC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium acetate,,,,,,
+zhJdb,363.15,101.325,1073.2,Khan et al. (2018),Density,Liquid,AAirsR,CC(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium acetate,,,,,,

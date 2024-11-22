@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+RWpfd,288.15,101.325,1.44894,Rodrigues et al. (2016),Refractive index,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,,
+RWpfd,293.15,101.325,1.44737,Rodrigues et al. (2016),Refractive index,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,,
+RWpfd,298.15,101.325,1.4458,Rodrigues et al. (2016),Refractive index,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,,
+RWpfd,303.15,101.325,1.44423,Rodrigues et al. (2016),Refractive index,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,,
+RWpfd,308.15,101.325,1.44266,Rodrigues et al. (2016),Refractive index,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,,
+RWpfd,313.15,101.325,1.44109,Rodrigues et al. (2016),Refractive index,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,,
+RWpfd,318.15,101.325,1.43952,Rodrigues et al. (2016),Refractive index,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa",Weight fraction of water,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SdJgy,298.15,101,0.1583,905,Oster et al. (2018),Density,Liquid,ACLKaU,CCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium hexanoate,AADYJk,O,water,,,
+SdJgy,303.15,101,0.1583,901.7,Oster et al. (2018),Density,Liquid,ACLKaU,CCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium hexanoate,AADYJk,O,water,,,
+SdJgy,313.15,101,0.1583,894.6,Oster et al. (2018),Density,Liquid,ACLKaU,CCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium hexanoate,AADYJk,O,water,,,
+SdJgy,323.15,101,0.1583,888,Oster et al. (2018),Density,Liquid,ACLKaU,CCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium hexanoate,AADYJk,O,water,,,
+SdJgy,333.15,101,0.1583,880.5,Oster et al. (2018),Density,Liquid,ACLKaU,CCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium hexanoate,AADYJk,O,water,,,
+SdJgy,343.15,101,0.1583,874.2,Oster et al. (2018),Density,Liquid,ACLKaU,CCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium hexanoate,AADYJk,O,water,,,
+SdJgy,353.15,101,0.1583,867.8,Oster et al. (2018),Density,Liquid,ACLKaU,CCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium hexanoate,AADYJk,O,water,,,
+SdJgy,363.15,101,0.1583,861,Oster et al. (2018),Density,Liquid,ACLKaU,CCCCCC(=O)[O-].CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,trihexyl(tetradecyl)phosphonium hexanoate,AADYJk,O,water,,,

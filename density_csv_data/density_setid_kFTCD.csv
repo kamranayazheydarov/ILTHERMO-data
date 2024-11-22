@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kFTCD,298.15,100,1279.84,Govinda et al. (2013c),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,
+kFTCD,303.15,100,1276.27,Govinda et al. (2013c),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,
+kFTCD,308.15,100,1272.83,Govinda et al. (2013c),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,
+kFTCD,313.15,100,1269.14,Govinda et al. (2013c),Density,Liquid,AAqmVN,CC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methyl sulfate,,,,,,

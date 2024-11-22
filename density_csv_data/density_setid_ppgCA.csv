@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ppgCA,298.15,101.325,1229.8,Paduszynski and Krolikowska (2016),Density,Liquid,AAxEby,COP(=O)([O-])OC.C[N+]1(CCO)CCCC1,1-(2-hydroxyethyl)-1-methylpyrrolidinium dimethyl phosphate,,,,,,
+ppgCA,308.15,101.325,1223.5,Paduszynski and Krolikowska (2016),Density,Liquid,AAxEby,COP(=O)([O-])OC.C[N+]1(CCO)CCCC1,1-(2-hydroxyethyl)-1-methylpyrrolidinium dimethyl phosphate,,,,,,
+ppgCA,318.15,101.325,1217.4,Paduszynski and Krolikowska (2016),Density,Liquid,AAxEby,COP(=O)([O-])OC.C[N+]1(CCO)CCCC1,1-(2-hydroxyethyl)-1-methylpyrrolidinium dimethyl phosphate,,,,,,
+ppgCA,328.15,101.325,1211.3,Paduszynski and Krolikowska (2016),Density,Liquid,AAxEby,COP(=O)([O-])OC.C[N+]1(CCO)CCCC1,1-(2-hydroxyethyl)-1-methylpyrrolidinium dimethyl phosphate,,,,,,
+ppgCA,338.15,101.325,1205.2,Paduszynski and Krolikowska (2016),Density,Liquid,AAxEby,COP(=O)([O-])OC.C[N+]1(CCO)CCCC1,1-(2-hydroxyethyl)-1-methylpyrrolidinium dimethyl phosphate,,,,,,
+ppgCA,348.15,101.325,1199,Paduszynski and Krolikowska (2016),Density,Liquid,AAxEby,COP(=O)([O-])OC.C[N+]1(CCO)CCCC1,1-(2-hydroxyethyl)-1-methylpyrrolidinium dimethyl phosphate,,,,,,
+ppgCA,358.15,101.325,1192.9,Paduszynski and Krolikowska (2016),Density,Liquid,AAxEby,COP(=O)([O-])OC.C[N+]1(CCO)CCCC1,1-(2-hydroxyethyl)-1-methylpyrrolidinium dimethyl phosphate,,,,,,
+ppgCA,368.15,101.325,1186.7,Paduszynski and Krolikowska (2016),Density,Liquid,AAxEby,COP(=O)([O-])OC.C[N+]1(CCO)CCCC1,1-(2-hydroxyethyl)-1-methylpyrrolidinium dimethyl phosphate,,,,,,

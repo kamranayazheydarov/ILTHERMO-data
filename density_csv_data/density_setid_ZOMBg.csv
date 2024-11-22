@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZOMBg,298.15,101,887.5,Awwad et al. (2014),Density,Liquid,ACskOY,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C.CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",,,,,,
+ZOMBg,303.15,101,884.4,Awwad et al. (2014),Density,Liquid,ACskOY,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C.CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",,,,,,
+ZOMBg,313.15,101,878.3,Awwad et al. (2014),Density,Liquid,ACskOY,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C.CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",,,,,,
+ZOMBg,323.15,101,872.3,Awwad et al. (2014),Density,Liquid,ACskOY,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C.CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",,,,,,
+ZOMBg,333.15,101,866.4,Awwad et al. (2014),Density,Liquid,ACskOY,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C.CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",,,,,,
+ZOMBg,343.15,101,860.4,Awwad et al. (2014),Density,Liquid,ACskOY,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C.CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",,,,,,
+ZOMBg,353.15,101,854.5,Awwad et al. (2014),Density,Liquid,ACskOY,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C.CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",,,,,,

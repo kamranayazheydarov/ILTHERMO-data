@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+pjpXs,298.15,101.325,1426,Yousefi et al. (2017),Density,Liquid,ABTebk,CCCCCCCC[n+]1ccn(C)c1.O=P([O-])(O)OP(=O)(O)O,3-methyl-1-octylimidazolium trihydrogen diphosphate,,,,,,
+pjpXs,303.15,101.325,1422,Yousefi et al. (2017),Density,Liquid,ABTebk,CCCCCCCC[n+]1ccn(C)c1.O=P([O-])(O)OP(=O)(O)O,3-methyl-1-octylimidazolium trihydrogen diphosphate,,,,,,
+pjpXs,313.15,101.325,1416,Yousefi et al. (2017),Density,Liquid,ABTebk,CCCCCCCC[n+]1ccn(C)c1.O=P([O-])(O)OP(=O)(O)O,3-methyl-1-octylimidazolium trihydrogen diphosphate,,,,,,
+pjpXs,323.15,101.325,1409,Yousefi et al. (2017),Density,Liquid,ABTebk,CCCCCCCC[n+]1ccn(C)c1.O=P([O-])(O)OP(=O)(O)O,3-methyl-1-octylimidazolium trihydrogen diphosphate,,,,,,
+pjpXs,333.15,101.325,1403,Yousefi et al. (2017),Density,Liquid,ABTebk,CCCCCCCC[n+]1ccn(C)c1.O=P([O-])(O)OP(=O)(O)O,3-methyl-1-octylimidazolium trihydrogen diphosphate,,,,,,
+pjpXs,343.15,101.325,1395,Yousefi et al. (2017),Density,Liquid,ABTebk,CCCCCCCC[n+]1ccn(C)c1.O=P([O-])(O)OP(=O)(O)O,3-methyl-1-octylimidazolium trihydrogen diphosphate,,,,,,
+pjpXs,353.15,101.325,1390,Yousefi et al. (2017),Density,Liquid,ABTebk,CCCCCCCC[n+]1ccn(C)c1.O=P([O-])(O)OP(=O)(O)O,3-methyl-1-octylimidazolium trihydrogen diphosphate,,,,,,
+pjpXs,363.15,101.325,1381,Yousefi et al. (2017),Density,Liquid,ABTebk,CCCCCCCC[n+]1ccn(C)c1.O=P([O-])(O)OP(=O)(O)O,3-methyl-1-octylimidazolium trihydrogen diphosphate,,,,,,

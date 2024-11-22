@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Ghuyj,298,101.325,1009.8,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,303,101.325,1006.8,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,308,101.325,1003.8,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,313,101.325,1000.9,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,318,101.325,998,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,323,101.325,995.1,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,328,101.325,992.2,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,333,101.325,989.4,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,338,101.325,986.5,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,343,101.325,983.7,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,348,101.325,980.9,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,
+Ghuyj,353,101.325,978.1,Hachicha et al. (2019),Density,Liquid,AAiinz,C=CC[N+](C)(C)CC.N#C[N-]C#N,"N-ethyl-N,N-dimethylprop-2-en-1-aminium dicyanamide",,,,,,

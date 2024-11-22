@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zwJCr,293.15,101.325,1072.82,Sanchez (2008),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+zwJCr,303.15,101.325,1066.91,Sanchez (2008),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+zwJCr,313.15,101.325,1061.03,Sanchez (2008),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+zwJCr,323.15,101.325,1055.18,Sanchez (2008),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+zwJCr,333.15,101.325,1049.39,Sanchez (2008),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+zwJCr,343.15,101.325,1043.63,Sanchez (2008),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+zwJCr,353.15,101.325,1037.92,Sanchez (2008),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+zwJCr,363.15,101.325,1032.26,Sanchez (2008),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,

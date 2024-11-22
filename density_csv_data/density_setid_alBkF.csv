@@ -1,0 +1,12 @@
+setid,Mole fraction of ethylammonium propionate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+alBkF,0,298.15,100,997,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,
+alBkF,0.093,298.15,100,1027.3,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,
+alBkF,0.2,298.15,100,1025.9,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,
+alBkF,0.325,298.15,100,1017,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,
+alBkF,0.398,298.15,100,1012,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,
+alBkF,0.5,298.15,100,1005.9,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,
+alBkF,0.624,298.15,100,1000,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,
+alBkF,0.716,298.15,100,996,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,
+alBkF,0.821,298.15,100,992.5,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,
+alBkF,0.895,298.15,100,990.1,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,
+alBkF,1,298.15,100,987.4,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AAWvrw,CCC(=O)[O-].CC[NH3+],ethylammonium propionate,,,

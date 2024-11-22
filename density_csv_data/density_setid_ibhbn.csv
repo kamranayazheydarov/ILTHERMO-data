@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ibhbn,293.15,101.3,1278.3,Fan et al. (2022),Density,Liquid,ABGlWy,N[C@@H](CC1=CNC=N1)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-histidinate,,,,,,
+ibhbn,303.15,101.3,1271.4,Fan et al. (2022),Density,Liquid,ABGlWy,N[C@@H](CC1=CNC=N1)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-histidinate,,,,,,
+ibhbn,313.15,101.3,1264.6,Fan et al. (2022),Density,Liquid,ABGlWy,N[C@@H](CC1=CNC=N1)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-histidinate,,,,,,
+ibhbn,323.15,101.3,1257.7,Fan et al. (2022),Density,Liquid,ABGlWy,N[C@@H](CC1=CNC=N1)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-histidinate,,,,,,
+ibhbn,333.15,101.3,1250.9,Fan et al. (2022),Density,Liquid,ABGlWy,N[C@@H](CC1=CNC=N1)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-histidinate,,,,,,
+ibhbn,343.15,101.3,1243.8,Fan et al. (2022),Density,Liquid,ABGlWy,N[C@@H](CC1=CNC=N1)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-histidinate,,,,,,
+ibhbn,353.15,101.3,1235.1,Fan et al. (2022),Density,Liquid,ABGlWy,N[C@@H](CC1=CNC=N1)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-histidinate,,,,,,

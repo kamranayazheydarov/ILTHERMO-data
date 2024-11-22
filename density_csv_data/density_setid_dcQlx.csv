@@ -1,0 +1,11 @@
+setid,Mole fraction of diethylammonium acetate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+dcQlx,0,101,298.15,998,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AADYJk,O,water,,,
+dcQlx,0.102,101,298.15,1022,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AADYJk,O,water,,,
+dcQlx,0.202,101,298.15,1018,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AADYJk,O,water,,,
+dcQlx,0.305,101,298.15,1007,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AADYJk,O,water,,,
+dcQlx,0.405,101,298.15,997,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AADYJk,O,water,,,
+dcQlx,0.503,101,298.15,990,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AADYJk,O,water,,,
+dcQlx,0.598,101,298.15,984,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AADYJk,O,water,,,
+dcQlx,0.662,101,298.15,980,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AADYJk,O,water,,,
+dcQlx,0.803,101,298.15,971,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AADYJk,O,water,,,
+dcQlx,0.875,101,298.15,969,Zhu et al. (2016d),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,AADYJk,O,water,,,

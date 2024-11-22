@@ -1,0 +1,5 @@
+setid,Solvent: Volume fraction of diethylammonium acetate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+dweEg,0,101,298.15,1130.2,Vasantha et al. (2015),Density,Liquid,Crystal of pure component 1,,4,AAUKxI,N[C@@H](CO)C(=O)O,L-serine,AADYJk,O,water
+dweEg,0.3,101,298.15,1058.2,Vasantha et al. (2015),Density,Liquid,Crystal of pure component 1,,4,AAUKxI,N[C@@H](CO)C(=O)O,L-serine,AADYJk,O,water
+dweEg,0.5,101,298.15,1042,Vasantha et al. (2015),Density,Liquid,Crystal of pure component 1,,4,AAUKxI,N[C@@H](CO)C(=O)O,L-serine,AADYJk,O,water
+dweEg,0.7,101,298.15,1027.1,Vasantha et al. (2015),Density,Liquid,Crystal of pure component 1,,4,AAUKxI,N[C@@H](CO)C(=O)O,L-serine,AADYJk,O,water

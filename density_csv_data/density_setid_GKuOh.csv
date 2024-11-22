@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GKuOh,323.15,101.325,1014.5,Trivedi et al. (2012),Density,Liquid,ABxFec,CC(C)COC(=O)CC[C@H]([NH3+])C(=O)OCC(C)C.CCCCCCCCCCCCOS(=O)(=O)[O-],"(S)-1,5-diisobutoxy-1,5-dioxopentan-2-aminium dodecyl sulfate",,,,,,
+GKuOh,328.15,101.325,1010.8,Trivedi et al. (2012),Density,Liquid,ABxFec,CC(C)COC(=O)CC[C@H]([NH3+])C(=O)OCC(C)C.CCCCCCCCCCCCOS(=O)(=O)[O-],"(S)-1,5-diisobutoxy-1,5-dioxopentan-2-aminium dodecyl sulfate",,,,,,
+GKuOh,333.15,101.325,1007.1,Trivedi et al. (2012),Density,Liquid,ABxFec,CC(C)COC(=O)CC[C@H]([NH3+])C(=O)OCC(C)C.CCCCCCCCCCCCOS(=O)(=O)[O-],"(S)-1,5-diisobutoxy-1,5-dioxopentan-2-aminium dodecyl sulfate",,,,,,
+GKuOh,338.15,101.325,1003.5,Trivedi et al. (2012),Density,Liquid,ABxFec,CC(C)COC(=O)CC[C@H]([NH3+])C(=O)OCC(C)C.CCCCCCCCCCCCOS(=O)(=O)[O-],"(S)-1,5-diisobutoxy-1,5-dioxopentan-2-aminium dodecyl sulfate",,,,,,
+GKuOh,343.15,101.325,1000,Trivedi et al. (2012),Density,Liquid,ABxFec,CC(C)COC(=O)CC[C@H]([NH3+])C(=O)OCC(C)C.CCCCCCCCCCCCOS(=O)(=O)[O-],"(S)-1,5-diisobutoxy-1,5-dioxopentan-2-aminium dodecyl sulfate",,,,,,

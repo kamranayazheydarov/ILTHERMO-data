@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+renIt,293.15,101.325,1410.4,Ullah et al. (2016),Density,Liquid,ABVbVM,Cn1c[n+](CCCCS(=O)(=O)O)c2ccccc21.O=C([O-])C(F)(F)F,3-methyl-1-(4-sulfobutyl)benzimidazolium trifluoroacetate,,,,,,
+renIt,303.15,101.325,1403.2,Ullah et al. (2016),Density,Liquid,ABVbVM,Cn1c[n+](CCCCS(=O)(=O)O)c2ccccc21.O=C([O-])C(F)(F)F,3-methyl-1-(4-sulfobutyl)benzimidazolium trifluoroacetate,,,,,,
+renIt,313.15,101.325,1396.1,Ullah et al. (2016),Density,Liquid,ABVbVM,Cn1c[n+](CCCCS(=O)(=O)O)c2ccccc21.O=C([O-])C(F)(F)F,3-methyl-1-(4-sulfobutyl)benzimidazolium trifluoroacetate,,,,,,
+renIt,323.15,101.325,1389.1,Ullah et al. (2016),Density,Liquid,ABVbVM,Cn1c[n+](CCCCS(=O)(=O)O)c2ccccc21.O=C([O-])C(F)(F)F,3-methyl-1-(4-sulfobutyl)benzimidazolium trifluoroacetate,,,,,,
+renIt,333.15,101.325,1382.2,Ullah et al. (2016),Density,Liquid,ABVbVM,Cn1c[n+](CCCCS(=O)(=O)O)c2ccccc21.O=C([O-])C(F)(F)F,3-methyl-1-(4-sulfobutyl)benzimidazolium trifluoroacetate,,,,,,
+renIt,343.15,101.325,1375.3,Ullah et al. (2016),Density,Liquid,ABVbVM,Cn1c[n+](CCCCS(=O)(=O)O)c2ccccc21.O=C([O-])C(F)(F)F,3-methyl-1-(4-sulfobutyl)benzimidazolium trifluoroacetate,,,,,,
+renIt,353.15,101.325,1368.3,Ullah et al. (2016),Density,Liquid,ABVbVM,Cn1c[n+](CCCCS(=O)(=O)O)c2ccccc21.O=C([O-])C(F)(F)F,3-methyl-1-(4-sulfobutyl)benzimidazolium trifluoroacetate,,,,,,
+renIt,363.15,101.325,1359.1,Ullah et al. (2016),Density,Liquid,ABVbVM,Cn1c[n+](CCCCS(=O)(=O)O)c2ccccc21.O=C([O-])C(F)(F)F,3-methyl-1-(4-sulfobutyl)benzimidazolium trifluoroacetate,,,,,,
+renIt,373.15,101.325,1352.7,Ullah et al. (2016),Density,Liquid,ABVbVM,Cn1c[n+](CCCCS(=O)(=O)O)c2ccccc21.O=C([O-])C(F)(F)F,3-methyl-1-(4-sulfobutyl)benzimidazolium trifluoroacetate,,,,,,

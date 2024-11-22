@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uhVKJ,293.15,101.325,1054.1,Gardas et al. (2010b),Density,Liquid,ABKVjl,CCCC[N+](C)(CCCC)CCCC.NCCS(=O)(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium 2-aminoethanesulfonate",,,,,,
+uhVKJ,298.15,101.325,1051.1,Gardas et al. (2010b),Density,Liquid,ABKVjl,CCCC[N+](C)(CCCC)CCCC.NCCS(=O)(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium 2-aminoethanesulfonate",,,,,,
+uhVKJ,303.15,101.325,1048.1,Gardas et al. (2010b),Density,Liquid,ABKVjl,CCCC[N+](C)(CCCC)CCCC.NCCS(=O)(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium 2-aminoethanesulfonate",,,,,,
+uhVKJ,313.15,101.325,1041.6,Gardas et al. (2010b),Density,Liquid,ABKVjl,CCCC[N+](C)(CCCC)CCCC.NCCS(=O)(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium 2-aminoethanesulfonate",,,,,,
+uhVKJ,323.15,101.325,1035.7,Gardas et al. (2010b),Density,Liquid,ABKVjl,CCCC[N+](C)(CCCC)CCCC.NCCS(=O)(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium 2-aminoethanesulfonate",,,,,,
+uhVKJ,333.15,101.325,1029.8,Gardas et al. (2010b),Density,Liquid,ABKVjl,CCCC[N+](C)(CCCC)CCCC.NCCS(=O)(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium 2-aminoethanesulfonate",,,,,,
+uhVKJ,343.15,101.325,1023.9,Gardas et al. (2010b),Density,Liquid,ABKVjl,CCCC[N+](C)(CCCC)CCCC.NCCS(=O)(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium 2-aminoethanesulfonate",,,,,,
+uhVKJ,353.15,101.325,1018,Gardas et al. (2010b),Density,Liquid,ABKVjl,CCCC[N+](C)(CCCC)CCCC.NCCS(=O)(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium 2-aminoethanesulfonate",,,,,,
+uhVKJ,363.15,101.325,1012.1,Gardas et al. (2010b),Density,Liquid,ABKVjl,CCCC[N+](C)(CCCC)CCCC.NCCS(=O)(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium 2-aminoethanesulfonate",,,,,,

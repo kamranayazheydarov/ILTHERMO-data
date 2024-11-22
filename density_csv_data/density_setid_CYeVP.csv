@@ -1,0 +1,12 @@
+setid,Mole fraction of acetone,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CYeVP,0,101,298.15,1050.8,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,
+CYeVP,0.109,101,298.15,1041.4,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,
+CYeVP,0.2024,101,298.15,1031.8,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,
+CYeVP,0.3155,101,298.15,1018.3,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,
+CYeVP,0.3988,101,298.15,1006.2,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,
+CYeVP,0.49,101,298.15,989.9,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,
+CYeVP,0.5915,101,298.15,968.5,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,
+CYeVP,0.689,101,298.15,942.1,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,
+CYeVP,0.8036,101,298.15,901,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,
+CYeVP,0.8357,101,298.15,886.8,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,
+CYeVP,1,101,298.15,784.8,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,,,

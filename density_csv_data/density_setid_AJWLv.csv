@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+AJWLv,356.14,101.325,1107.2,Baird et al. (2020),Density,Liquid,AApASb,CC(=O)[O-].CN1CCCN2CCC[NH+]=C12,"1-methyl-1,2,3,4,5,6,7,8-octahydropyrimido[1,2-a]pyrimidin-5-ium acetate",,,,,,
+AJWLv,363.14,101.325,1101.7,Baird et al. (2020),Density,Liquid,AApASb,CC(=O)[O-].CN1CCCN2CCC[NH+]=C12,"1-methyl-1,2,3,4,5,6,7,8-octahydropyrimido[1,2-a]pyrimidin-5-ium acetate",,,,,,
+AJWLv,363.14,101.325,1101.9,Baird et al. (2020),Density,Liquid,AApASb,CC(=O)[O-].CN1CCCN2CCC[NH+]=C12,"1-methyl-1,2,3,4,5,6,7,8-octahydropyrimido[1,2-a]pyrimidin-5-ium acetate",,,,,,
+AJWLv,363.16,101.325,1101.9,Baird et al. (2020),Density,Liquid,AApASb,CC(=O)[O-].CN1CCCN2CCC[NH+]=C12,"1-methyl-1,2,3,4,5,6,7,8-octahydropyrimido[1,2-a]pyrimidin-5-ium acetate",,,,,,
+AJWLv,373.16,101.325,1094.5,Baird et al. (2020),Density,Liquid,AApASb,CC(=O)[O-].CN1CCCN2CCC[NH+]=C12,"1-methyl-1,2,3,4,5,6,7,8-octahydropyrimido[1,2-a]pyrimidin-5-ium acetate",,,,,,
+AJWLv,383.16,101.325,1087.1,Baird et al. (2020),Density,Liquid,AApASb,CC(=O)[O-].CN1CCCN2CCC[NH+]=C12,"1-methyl-1,2,3,4,5,6,7,8-octahydropyrimido[1,2-a]pyrimidin-5-ium acetate",,,,,,
+AJWLv,393.16,101.325,1079.8,Baird et al. (2020),Density,Liquid,AApASb,CC(=O)[O-].CN1CCCN2CCC[NH+]=C12,"1-methyl-1,2,3,4,5,6,7,8-octahydropyrimido[1,2-a]pyrimidin-5-ium acetate",,,,,,
+AJWLv,403.16,101.325,1072.4,Baird et al. (2020),Density,Liquid,AApASb,CC(=O)[O-].CN1CCCN2CCC[NH+]=C12,"1-methyl-1,2,3,4,5,6,7,8-octahydropyrimido[1,2-a]pyrimidin-5-ium acetate",,,,,,
+AJWLv,413.15,101.325,1065,Baird et al. (2020),Density,Liquid,AApASb,CC(=O)[O-].CN1CCCN2CCC[NH+]=C12,"1-methyl-1,2,3,4,5,6,7,8-octahydropyrimido[1,2-a]pyrimidin-5-ium acetate",,,,,,
+AJWLv,423.15,101.325,1057.6,Baird et al. (2020),Density,Liquid,AApASb,CC(=O)[O-].CN1CCCN2CCC[NH+]=C12,"1-methyl-1,2,3,4,5,6,7,8-octahydropyrimido[1,2-a]pyrimidin-5-ium acetate",,,,,,

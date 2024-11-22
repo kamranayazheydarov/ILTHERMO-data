@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa",Solvent: Mole fraction of methyl(di(2-hydroxyethyl))(2-(2-hydroxyethoxy)ethyl)ammonium chloride,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+pgTyh,283.15,810,0.5,1235.6,Kazarina et al. (2023a),Density,Liquid,Gas,,8,AAutYg,[Cl-].C[N+](CCOCCO)(CCO)CCO,methyl(di(2-hydroxyethyl))(2-(2-hydroxyethoxy)ethyl)ammonium chloride,AALcjF,NC(N)=O,urea
+pgTyh,288.15,810,0.5,1233.1,Kazarina et al. (2023a),Density,Liquid,Gas,,8,AAutYg,[Cl-].C[N+](CCOCCO)(CCO)CCO,methyl(di(2-hydroxyethyl))(2-(2-hydroxyethoxy)ethyl)ammonium chloride,AALcjF,NC(N)=O,urea
+pgTyh,293.15,810,0.5,1230.2,Kazarina et al. (2023a),Density,Liquid,Gas,,8,AAutYg,[Cl-].C[N+](CCOCCO)(CCO)CCO,methyl(di(2-hydroxyethyl))(2-(2-hydroxyethoxy)ethyl)ammonium chloride,AALcjF,NC(N)=O,urea
+pgTyh,298.15,810,0.5,1227.8,Kazarina et al. (2023a),Density,Liquid,Gas,,8,AAutYg,[Cl-].C[N+](CCOCCO)(CCO)CCO,methyl(di(2-hydroxyethyl))(2-(2-hydroxyethoxy)ethyl)ammonium chloride,AALcjF,NC(N)=O,urea
+pgTyh,303.15,810,0.5,1225.1,Kazarina et al. (2023a),Density,Liquid,Gas,,8,AAutYg,[Cl-].C[N+](CCOCCO)(CCO)CCO,methyl(di(2-hydroxyethyl))(2-(2-hydroxyethoxy)ethyl)ammonium chloride,AALcjF,NC(N)=O,urea
+pgTyh,308.15,810,0.5,1222.5,Kazarina et al. (2023a),Density,Liquid,Gas,,8,AAutYg,[Cl-].C[N+](CCOCCO)(CCO)CCO,methyl(di(2-hydroxyethyl))(2-(2-hydroxyethoxy)ethyl)ammonium chloride,AALcjF,NC(N)=O,urea
+pgTyh,313.15,810,0.5,1219.8,Kazarina et al. (2023a),Density,Liquid,Gas,,8,AAutYg,[Cl-].C[N+](CCOCCO)(CCO)CCO,methyl(di(2-hydroxyethyl))(2-(2-hydroxyethoxy)ethyl)ammonium chloride,AALcjF,NC(N)=O,urea
+pgTyh,318.15,810,0.5,1217.3,Kazarina et al. (2023a),Density,Liquid,Gas,,8,AAutYg,[Cl-].C[N+](CCOCCO)(CCO)CCO,methyl(di(2-hydroxyethyl))(2-(2-hydroxyethoxy)ethyl)ammonium chloride,AALcjF,NC(N)=O,urea

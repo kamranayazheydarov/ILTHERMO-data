@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VbMFv,293.15,100,1069,Bentley et al. (2023),Density,Liquid,ACqwtJ,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,trihexyl(tetradecyl)phosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+VbMFv,303.15,100,1062,Bentley et al. (2023),Density,Liquid,ACqwtJ,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,trihexyl(tetradecyl)phosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+VbMFv,313.15,100,1054,Bentley et al. (2023),Density,Liquid,ACqwtJ,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,trihexyl(tetradecyl)phosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+VbMFv,323.15,100,1047,Bentley et al. (2023),Density,Liquid,ACqwtJ,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,trihexyl(tetradecyl)phosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+VbMFv,333.15,100,1040,Bentley et al. (2023),Density,Liquid,ACqwtJ,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,trihexyl(tetradecyl)phosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

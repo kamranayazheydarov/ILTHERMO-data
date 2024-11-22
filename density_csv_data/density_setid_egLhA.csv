@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+egLhA,293.2,101.325,1018.3,Franca et al. (2014),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+egLhA,303.2,101.325,1011.8,Franca et al. (2014),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+egLhA,313.2,101.325,1006.1,Franca et al. (2014),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+egLhA,323.2,101.325,1000.6,Franca et al. (2014),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+egLhA,333.2,101.325,995.6,Franca et al. (2014),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+egLhA,343.2,101.325,991.3,Franca et al. (2014),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,

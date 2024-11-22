@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+POBIe,293.15,101,1149.24,Kermanpour (2012),Density,Liquid,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate,,,,,,
+POBIe,303.15,101,1142.48,Kermanpour (2012),Density,Liquid,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate,,,,,,
+POBIe,313.15,101,1135.79,Kermanpour (2012),Density,Liquid,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate,,,,,,
+POBIe,323.15,101,1129.08,Kermanpour (2012),Density,Liquid,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate,,,,,,
+POBIe,333.15,101,1122.37,Kermanpour (2012),Density,Liquid,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate,,,,,,

@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kKngV,283.15,101.325,1174.6,Peng et al. (2021),Density,Liquid,ABZLDD,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])N,N-butyltropinium L-tryptophanate,,,,,,
+kKngV,288.15,101.325,1163.4,Peng et al. (2021),Density,Liquid,ABZLDD,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])N,N-butyltropinium L-tryptophanate,,,,,,
+kKngV,293.15,101.325,1151.5,Peng et al. (2021),Density,Liquid,ABZLDD,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])N,N-butyltropinium L-tryptophanate,,,,,,
+kKngV,298.15,101.325,1140.7,Peng et al. (2021),Density,Liquid,ABZLDD,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])N,N-butyltropinium L-tryptophanate,,,,,,
+kKngV,303.15,101.325,1128.9,Peng et al. (2021),Density,Liquid,ABZLDD,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])N,N-butyltropinium L-tryptophanate,,,,,,
+kKngV,308.15,101.325,1115.6,Peng et al. (2021),Density,Liquid,ABZLDD,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])N,N-butyltropinium L-tryptophanate,,,,,,
+kKngV,313.15,101.325,1103,Peng et al. (2021),Density,Liquid,ABZLDD,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])N,N-butyltropinium L-tryptophanate,,,,,,
+kKngV,318.15,101.325,1088.5,Peng et al. (2021),Density,Liquid,ABZLDD,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])N,N-butyltropinium L-tryptophanate,,,,,,
+kKngV,323.15,101.325,1076.1,Peng et al. (2021),Density,Liquid,ABZLDD,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])N,N-butyltropinium L-tryptophanate,,,,,,
+kKngV,328.15,101.325,1064.2,Peng et al. (2021),Density,Liquid,ABZLDD,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)[O-])N,N-butyltropinium L-tryptophanate,,,,,,

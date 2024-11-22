@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CFYDB,313,101.325,1010,Curnow et al. (2018),Density,Liquid,ABDsRl,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(C)C,bis(diethylamino)(dimethylamino)cyclopropenium dicyanamide,,,,,,
+CFYDB,323,101.325,1004,Curnow et al. (2018),Density,Liquid,ABDsRl,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(C)C,bis(diethylamino)(dimethylamino)cyclopropenium dicyanamide,,,,,,
+CFYDB,333,101.325,998,Curnow et al. (2018),Density,Liquid,ABDsRl,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(C)C,bis(diethylamino)(dimethylamino)cyclopropenium dicyanamide,,,,,,
+CFYDB,343,101.325,992,Curnow et al. (2018),Density,Liquid,ABDsRl,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(C)C,bis(diethylamino)(dimethylamino)cyclopropenium dicyanamide,,,,,,
+CFYDB,353,101.325,986,Curnow et al. (2018),Density,Liquid,ABDsRl,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(C)C,bis(diethylamino)(dimethylamino)cyclopropenium dicyanamide,,,,,,
+CFYDB,363,101.325,980,Curnow et al. (2018),Density,Liquid,ABDsRl,[N-](C#N)C#N.c(N(CC)CC)1c(N(CC)CC)[c+]1N(C)C,bis(diethylamino)(dimethylamino)cyclopropenium dicyanamide,,,,,,

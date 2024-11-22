@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IuKRO,288.15,101.325,1112.6,Hong et al. (2013a),Density,Liquid,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,,,,
+IuKRO,293.15,101.325,1109,Hong et al. (2013a),Density,Liquid,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,,,,
+IuKRO,303.15,101.325,1102.7,Hong et al. (2013a),Density,Liquid,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,,,,
+IuKRO,308.15,101.325,1099.4,Hong et al. (2013a),Density,Liquid,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,,,,
+IuKRO,313.15,101.325,1095.3,Hong et al. (2013a),Density,Liquid,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,,,,
+IuKRO,318.15,101.325,1092.9,Hong et al. (2013a),Density,Liquid,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,,,,
+IuKRO,323.15,101.325,1089.9,Hong et al. (2013a),Density,Liquid,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,,,,
+IuKRO,328.15,101.325,1086.4,Hong et al. (2013a),Density,Liquid,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,,,,
+IuKRO,333.15,101.325,1083.3,Hong et al. (2013a),Density,Liquid,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,,,,

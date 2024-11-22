@@ -1,0 +1,9 @@
+setid,Mole fraction of benzyltriphenylphosphonium chloride,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Srjzc,0.0588,298.186,101,1242.41,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,,,
+Srjzc,0.0588,303.209,101,1238.07,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,,,
+Srjzc,0.0588,313.256,101,1230.12,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,,,
+Srjzc,0.0588,323.302,101,1224.34,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,,,
+Srjzc,0.0588,333.07,101,1219.28,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,,,
+Srjzc,0.0588,343.256,101,1211.33,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,,,
+Srjzc,0.0588,353.163,101,1205.54,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,,,
+Srjzc,0.0588,363.349,101,1196.87,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABWotl,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,benzyltriphenylphosphonium chloride,,,

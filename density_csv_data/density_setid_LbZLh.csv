@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LbZLh,298,101.325,1247,Ozdemir and Ozgun (2014),Density,Liquid,ABCPac,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccccc2)n1C,"1-phenyl-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,
+LbZLh,308,101.325,1245,Ozdemir and Ozgun (2014),Density,Liquid,ABCPac,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccccc2)n1C,"1-phenyl-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,
+LbZLh,313,101.325,1226,Ozdemir and Ozgun (2014),Density,Liquid,ABCPac,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccccc2)n1C,"1-phenyl-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,
+LbZLh,333,101.325,1211,Ozdemir and Ozgun (2014),Density,Liquid,ABCPac,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccccc2)n1C,"1-phenyl-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,

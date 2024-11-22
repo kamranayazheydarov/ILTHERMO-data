@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JrSrz,293,101.325,1015.9,Cui et al. (2020b),Density,Liquid,ABPyix,N1=C(C=CC=C1)C(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium picolinate,,,,,,
+JrSrz,303,101.325,1009.7,Cui et al. (2020b),Density,Liquid,ABPyix,N1=C(C=CC=C1)C(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium picolinate,,,,,,
+JrSrz,313,101.325,1003.5,Cui et al. (2020b),Density,Liquid,ABPyix,N1=C(C=CC=C1)C(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium picolinate,,,,,,
+JrSrz,323,101.325,997.3,Cui et al. (2020b),Density,Liquid,ABPyix,N1=C(C=CC=C1)C(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium picolinate,,,,,,
+JrSrz,333,101.325,991.2,Cui et al. (2020b),Density,Liquid,ABPyix,N1=C(C=CC=C1)C(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium picolinate,,,,,,
+JrSrz,343,101.325,985.1,Cui et al. (2020b),Density,Liquid,ABPyix,N1=C(C=CC=C1)C(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium picolinate,,,,,,
+JrSrz,353,101.325,979,Cui et al. (2020b),Density,Liquid,ABPyix,N1=C(C=CC=C1)C(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium picolinate,,,,,,

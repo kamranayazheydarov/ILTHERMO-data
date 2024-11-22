@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of N-butylurea,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jbVUW,303.3,101.3,0.6576,1213.4,Castellani et al. (1992),Density,Liquid,AAWRuR,CCCCNC(N)=O,N-butylurea,AAaICh,O=C([O-])C(F)(F)F.[Na+],sodium trifluoroacetate,,,
+jbVUW,305.4,101.3,0.6576,1211.4,Castellani et al. (1992),Density,Liquid,AAWRuR,CCCCNC(N)=O,N-butylurea,AAaICh,O=C([O-])C(F)(F)F.[Na+],sodium trifluoroacetate,,,
+jbVUW,306.4,101.3,0.6576,1210.4,Castellani et al. (1992),Density,Liquid,AAWRuR,CCCCNC(N)=O,N-butylurea,AAaICh,O=C([O-])C(F)(F)F.[Na+],sodium trifluoroacetate,,,
+jbVUW,307.4,101.3,0.6576,1209.5,Castellani et al. (1992),Density,Liquid,AAWRuR,CCCCNC(N)=O,N-butylurea,AAaICh,O=C([O-])C(F)(F)F.[Na+],sodium trifluoroacetate,,,
+jbVUW,308.5,101.3,0.6576,1208.4,Castellani et al. (1992),Density,Liquid,AAWRuR,CCCCNC(N)=O,N-butylurea,AAaICh,O=C([O-])C(F)(F)F.[Na+],sodium trifluoroacetate,,,
+jbVUW,311.5,101.3,0.6576,1205.6,Castellani et al. (1992),Density,Liquid,AAWRuR,CCCCNC(N)=O,N-butylurea,AAaICh,O=C([O-])C(F)(F)F.[Na+],sodium trifluoroacetate,,,
+jbVUW,314.3,101.3,0.6576,1203.1,Castellani et al. (1992),Density,Liquid,AAWRuR,CCCCNC(N)=O,N-butylurea,AAaICh,O=C([O-])C(F)(F)F.[Na+],sodium trifluoroacetate,,,
+jbVUW,319.4,101.3,0.6576,1198.7,Castellani et al. (1992),Density,Liquid,AAWRuR,CCCCNC(N)=O,N-butylurea,AAaICh,O=C([O-])C(F)(F)F.[Na+],sodium trifluoroacetate,,,
+jbVUW,321.5,101.3,0.6576,1197.1,Castellani et al. (1992),Density,Liquid,AAWRuR,CCCCNC(N)=O,N-butylurea,AAaICh,O=C([O-])C(F)(F)F.[Na+],sodium trifluoroacetate,,,
+jbVUW,322.5,101.3,0.6576,1196.2,Castellani et al. (1992),Density,Liquid,AAWRuR,CCCCNC(N)=O,N-butylurea,AAaICh,O=C([O-])C(F)(F)F.[Na+],sodium trifluoroacetate,,,

@@ -1,0 +1,10 @@
+setid,"Mole fraction of 1,3-dimethylbenzene","Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GoCRG,0,101,283.15,1034.3,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+GoCRG,0.1037,101,283.15,1031.4,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+GoCRG,0.2099,101,283.15,1022.9,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+GoCRG,0.308,101,283.15,1013.8,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+GoCRG,0.4055,101,283.15,1003.7,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+GoCRG,0.4862,101,283.15,994.26,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+GoCRG,0.4931,101,283.15,993.04,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+GoCRG,0.5004,101,283.15,992.41,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+GoCRG,1,101,283.15,872.69,Gonzalez et al. (2015c),Density,Liquid,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,

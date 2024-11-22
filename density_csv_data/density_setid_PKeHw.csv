@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PKeHw,288.15,100,1019.08,Havlov and Dohnal (2018),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+PKeHw,293.15,100,1016.25,Havlov and Dohnal (2018),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+PKeHw,298.15,100,1013.43,Havlov and Dohnal (2018),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+PKeHw,303.15,100,1010.62,Havlov and Dohnal (2018),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+PKeHw,308.15,100,1007.83,Havlov and Dohnal (2018),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+PKeHw,313.15,100,1005.05,Havlov and Dohnal (2018),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+PKeHw,318.15,100,1002.29,Havlov and Dohnal (2018),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,

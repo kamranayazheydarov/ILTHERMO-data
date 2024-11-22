@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","MolaLity of N-methyl-N,N-dioctyl-1-octanaminium chloride, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ohRZM,293.15,101,0.002,998.54,Chandra et al. (2013),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",AADYJk,O,water,,,
+ohRZM,298.15,101,0.002,997.375,Chandra et al. (2013),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",AADYJk,O,water,,,
+ohRZM,303.15,101,0.002,995.978,Chandra et al. (2013),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",AADYJk,O,water,,,
+ohRZM,308.15,101,0.002,994.348,Chandra et al. (2013),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",AADYJk,O,water,,,

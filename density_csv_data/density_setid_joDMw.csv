@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+joDMw,293.15,101.325,1534,Bittner et al. (2012),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+joDMw,298.15,101.325,1532,Bittner et al. (2012),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+joDMw,303.15,101.325,1530,Bittner et al. (2012),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+joDMw,308.15,101.325,1528,Bittner et al. (2012),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+joDMw,313.15,101.325,1520,Bittner et al. (2012),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+joDMw,318.15,101.325,1519,Bittner et al. (2012),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+joDMw,323.15,101.325,1515,Bittner et al. (2012),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

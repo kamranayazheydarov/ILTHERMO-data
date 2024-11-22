@@ -1,0 +1,12 @@
+setid,Mole fraction of methanol,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+lhJTU,0,298.15,100,1115.1,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+lhJTU,0.1297,298.15,100,1105.2,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+lhJTU,0.2018,298.15,100,1098.5,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+lhJTU,0.3185,298.15,100,1086.2,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+lhJTU,0.4076,298.15,100,1073.5,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+lhJTU,0.5037,298.15,100,1057,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+lhJTU,0.5936,298.15,100,1037.4,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+lhJTU,0.6923,298.15,100,1009.1,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+lhJTU,0.805,298.15,100,962.6,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+lhJTU,0.9014,298.15,100,899.3,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+lhJTU,1,298.15,100,786.8,Wojtczuk et al. (2020),Density,Liquid,AAGIBL,CO,methanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,

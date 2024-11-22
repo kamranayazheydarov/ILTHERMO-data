@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xVNFR,288.15,100,1224.7,Wang et al. (2022c),Density,Liquid,ABFxMP,COCCCC[n+]1ccn(C)c1.N[C@@H](CC(=O)O)C(=O)[O-],1-(4-methoxybutyl)-3-methylimidazolium aspartate,,,,,,
+xVNFR,293.15,100,1221.8,Wang et al. (2022c),Density,Liquid,ABFxMP,COCCCC[n+]1ccn(C)c1.N[C@@H](CC(=O)O)C(=O)[O-],1-(4-methoxybutyl)-3-methylimidazolium aspartate,,,,,,
+xVNFR,298.15,100,1218.7,Wang et al. (2022c),Density,Liquid,ABFxMP,COCCCC[n+]1ccn(C)c1.N[C@@H](CC(=O)O)C(=O)[O-],1-(4-methoxybutyl)-3-methylimidazolium aspartate,,,,,,
+xVNFR,303.15,100,1215.6,Wang et al. (2022c),Density,Liquid,ABFxMP,COCCCC[n+]1ccn(C)c1.N[C@@H](CC(=O)O)C(=O)[O-],1-(4-methoxybutyl)-3-methylimidazolium aspartate,,,,,,
+xVNFR,308.15,100,1212.5,Wang et al. (2022c),Density,Liquid,ABFxMP,COCCCC[n+]1ccn(C)c1.N[C@@H](CC(=O)O)C(=O)[O-],1-(4-methoxybutyl)-3-methylimidazolium aspartate,,,,,,
+xVNFR,313.15,100,1209.3,Wang et al. (2022c),Density,Liquid,ABFxMP,COCCCC[n+]1ccn(C)c1.N[C@@H](CC(=O)O)C(=O)[O-],1-(4-methoxybutyl)-3-methylimidazolium aspartate,,,,,,
+xVNFR,318.15,100,1205.9,Wang et al. (2022c),Density,Liquid,ABFxMP,COCCCC[n+]1ccn(C)c1.N[C@@H](CC(=O)O)C(=O)[O-],1-(4-methoxybutyl)-3-methylimidazolium aspartate,,,,,,

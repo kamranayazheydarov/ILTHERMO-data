@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+brzRt,298,101.325,1.5359,Ozdemir and Ozgun (2017),Refractive index,Liquid,ABIDpp,COc1ccc(-[n+]2c(C)cc(C)n2C)cc1.CS(=O)(=O)[O-],"2,3,5-trimethyl-1-(4-methoxyphenyl)-pyrazolium methanesulfonate",,,,,,,
+brzRt,308,101.325,1.5333,Ozdemir and Ozgun (2017),Refractive index,Liquid,ABIDpp,COc1ccc(-[n+]2c(C)cc(C)n2C)cc1.CS(=O)(=O)[O-],"2,3,5-trimethyl-1-(4-methoxyphenyl)-pyrazolium methanesulfonate",,,,,,,
+brzRt,313,101.325,1.532,Ozdemir and Ozgun (2017),Refractive index,Liquid,ABIDpp,COc1ccc(-[n+]2c(C)cc(C)n2C)cc1.CS(=O)(=O)[O-],"2,3,5-trimethyl-1-(4-methoxyphenyl)-pyrazolium methanesulfonate",,,,,,,
+brzRt,333,101.325,1.5266,Ozdemir and Ozgun (2017),Refractive index,Liquid,ABIDpp,COc1ccc(-[n+]2c(C)cc(C)n2C)cc1.CS(=O)(=O)[O-],"2,3,5-trimethyl-1-(4-methoxyphenyl)-pyrazolium methanesulfonate",,,,,,,

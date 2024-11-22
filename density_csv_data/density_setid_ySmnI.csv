@@ -1,0 +1,12 @@
+setid,Mole fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ySmnI,0,101,298.15,1212.8,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+ySmnI,0.1093,101,298.15,1216,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+ySmnI,0.197,101,298.15,1215.5,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+ySmnI,0.2888,101,298.15,1211.8,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+ySmnI,0.396,101,298.15,1209.7,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+ySmnI,0.4921,101,298.15,1206.7,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+ySmnI,0.5897,101,298.15,1199,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+ySmnI,0.6918,101,298.15,1186.9,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+ySmnI,0.7927,101,298.15,1170.7,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+ySmnI,0.884,101,298.15,1138.2,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,
+ySmnI,0.9195,101,298.15,1107.1,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,

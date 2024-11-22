@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+UaEQQ,283.15,101.325,1535.7,Fei et al. (2021),Density,Liquid,ABdLlk,CCCC[n+]1ccsc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-butylthiazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+UaEQQ,293.15,101.325,1524.7,Fei et al. (2021),Density,Liquid,ABdLlk,CCCC[n+]1ccsc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-butylthiazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+UaEQQ,298.15,101.325,1520,Fei et al. (2021),Density,Liquid,ABdLlk,CCCC[n+]1ccsc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-butylthiazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+UaEQQ,303.15,101.325,1515.2,Fei et al. (2021),Density,Liquid,ABdLlk,CCCC[n+]1ccsc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-butylthiazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+UaEQQ,313.15,101.325,1505.7,Fei et al. (2021),Density,Liquid,ABdLlk,CCCC[n+]1ccsc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-butylthiazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+UaEQQ,323.15,101.325,1496.1,Fei et al. (2021),Density,Liquid,ABdLlk,CCCC[n+]1ccsc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-butylthiazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+UaEQQ,333.15,101.325,1486.5,Fei et al. (2021),Density,Liquid,ABdLlk,CCCC[n+]1ccsc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-butylthiazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+UaEQQ,343.15,101.325,1477.8,Fei et al. (2021),Density,Liquid,ABdLlk,CCCC[n+]1ccsc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-butylthiazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+UaEQQ,353.15,101.325,1467.1,Fei et al. (2021),Density,Liquid,ABdLlk,CCCC[n+]1ccsc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-butylthiazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,

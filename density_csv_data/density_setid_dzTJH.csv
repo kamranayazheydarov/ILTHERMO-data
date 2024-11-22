@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+dzTJH,293.15,101.325,1284,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,298.15,101.325,1281,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,303.15,101.325,1277,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,308.15,101.325,1273,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,313.15,101.325,1270,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,318.15,101.325,1266,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,323.15,101.325,1262,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,328.15,101.325,1259,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,333.15,101.325,1255,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,338.15,101.325,1251,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,343.15,101.325,1248,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,
+dzTJH,348.15,101.325,1244,Kato and Gmehling (2004),Density,Liquid,AAvwIB,CCOCCOS(=O)(=O)[O-].c1cc[nH+]cc1,pyridinium ethoxyethylsulfate,,,,,,

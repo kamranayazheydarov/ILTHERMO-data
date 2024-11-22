@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+STJIR,293.15,101.325,1120.3,Rameshi et al. (2020),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+STJIR,298.15,101.325,1117.5,Rameshi et al. (2020),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+STJIR,303.15,101.325,1114.3,Rameshi et al. (2020),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+STJIR,308.15,101.325,1111.1,Rameshi et al. (2020),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+STJIR,313.15,101.325,1107.8,Rameshi et al. (2020),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+STJIR,318.15,101.325,1104.7,Rameshi et al. (2020),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+STJIR,323.15,101.325,1101.6,Rameshi et al. (2020),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,

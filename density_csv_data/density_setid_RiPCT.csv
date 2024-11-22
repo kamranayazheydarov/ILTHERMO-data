@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RiPCT,293.15,100,1111,Skonieczny and Krolikowska (2022),Density,Liquid,AAzVSZ,CCOP(=O)([O-])OCC.CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium diethyl phosphate,,,,,,
+RiPCT,298.15,100,1108,Skonieczny and Krolikowska (2022),Density,Liquid,AAzVSZ,CCOP(=O)([O-])OCC.CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium diethyl phosphate,,,,,,
+RiPCT,303.15,100,1105,Skonieczny and Krolikowska (2022),Density,Liquid,AAzVSZ,CCOP(=O)([O-])OCC.CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium diethyl phosphate,,,,,,
+RiPCT,308.15,100,1101,Skonieczny and Krolikowska (2022),Density,Liquid,AAzVSZ,CCOP(=O)([O-])OCC.CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium diethyl phosphate,,,,,,
+RiPCT,313.15,100,1098,Skonieczny and Krolikowska (2022),Density,Liquid,AAzVSZ,CCOP(=O)([O-])OCC.CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium diethyl phosphate,,,,,,
+RiPCT,318.15,100,1095,Skonieczny and Krolikowska (2022),Density,Liquid,AAzVSZ,CCOP(=O)([O-])OCC.CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium diethyl phosphate,,,,,,
+RiPCT,323.15,100,1092,Skonieczny and Krolikowska (2022),Density,Liquid,AAzVSZ,CCOP(=O)([O-])OCC.CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium diethyl phosphate,,,,,,
+RiPCT,328.15,100,1089,Skonieczny and Krolikowska (2022),Density,Liquid,AAzVSZ,CCOP(=O)([O-])OCC.CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium diethyl phosphate,,,,,,
+RiPCT,333.15,100,1086,Skonieczny and Krolikowska (2022),Density,Liquid,AAzVSZ,CCOP(=O)([O-])OCC.CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium diethyl phosphate,,,,,,
+RiPCT,338.15,100,1082,Skonieczny and Krolikowska (2022),Density,Liquid,AAzVSZ,CCOP(=O)([O-])OCC.CC[N+]1(C)CCCC1,1-ethyl-1-methylpyrrolidinium diethyl phosphate,,,,,,

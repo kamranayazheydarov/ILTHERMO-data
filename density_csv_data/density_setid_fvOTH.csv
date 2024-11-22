@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of trimethylbenzylammonium chloride,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fvOTH,293,101.13,0.5,1124,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+fvOTH,298,101.13,0.5,1118,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+fvOTH,303,101.13,0.5,1111,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+fvOTH,308,101.13,0.5,1105,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+fvOTH,313,101.13,0.5,1098,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+fvOTH,318,101.13,0.5,1091,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,
+fvOTH,323,101.13,0.5,1085,Balaraman and Rathnasamy (2019),Density,Liquid,AAjkLa,C[N+](C)(C)Cc1ccccc1.[Cl-],trimethylbenzylammonium chloride,AALwIY,OCCO,"1,2-ethanediol",,,

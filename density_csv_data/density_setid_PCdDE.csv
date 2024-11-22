@@ -1,0 +1,10 @@
+setid,Mole fraction of toluene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PCdDE,0,101,283.15,1230.73,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+PCdDE,0.0517,101,283.15,1222.55,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+PCdDE,0.1036,101,283.15,1214.71,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+PCdDE,0.2023,101,283.15,1195.28,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+PCdDE,0.2751,101,283.15,1180.33,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+PCdDE,0.3222,101,283.15,1170.41,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+PCdDE,0.3501,101,283.15,1163.88,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+PCdDE,0.3661,101,283.15,1160.27,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+PCdDE,1,101,283.15,876.1,Gonzalez et al. (2015c),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,

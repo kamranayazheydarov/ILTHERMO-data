@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+aVKTH,283.15,101.325,1019,Yousefi et al. (2017),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+aVKTH,293.15,101.325,1014,Yousefi et al. (2017),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+aVKTH,298.15,101.325,1012,Yousefi et al. (2017),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+aVKTH,303.15,101.325,1008,Yousefi et al. (2017),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+aVKTH,313.15,101.325,1002,Yousefi et al. (2017),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+aVKTH,323.15,101.325,997,Yousefi et al. (2017),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+aVKTH,333.15,101.325,990,Yousefi et al. (2017),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+aVKTH,343.15,101.325,985,Yousefi et al. (2017),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+aVKTH,353.15,101.325,979,Yousefi et al. (2017),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+aVKTH,363.15,101.325,974,Yousefi et al. (2017),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,

@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JkgGA,313.15,98,1149,Blanchard et al. (2001),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+JkgGA,323.15,98,1143,Blanchard et al. (2001),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+JkgGA,333.15,98,1136,Blanchard et al. (2001),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,

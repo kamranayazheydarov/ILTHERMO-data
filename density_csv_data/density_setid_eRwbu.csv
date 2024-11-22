@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eRwbu,288.15,101,1323.5,Sadeghi et al. (2009a),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+eRwbu,293.15,101,1319.8,Sadeghi et al. (2009a),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+eRwbu,298.15,101,1316.2,Sadeghi et al. (2009a),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+eRwbu,303.15,101,1312.6,Sadeghi et al. (2009a),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+eRwbu,308.15,101,1309,Sadeghi et al. (2009a),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,

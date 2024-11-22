@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kbNKl,298.15,101,1053.8,Govinda et al. (2013a),Density,Liquid,AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate,,,,,,
+kbNKl,303.15,101,1049.9,Govinda et al. (2013a),Density,Liquid,AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate,,,,,,
+kbNKl,308.15,101,1045.8,Govinda et al. (2013a),Density,Liquid,AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate,,,,,,
+kbNKl,313.15,101,1041.7,Govinda et al. (2013a),Density,Liquid,AAWvYN,CC(=O)[O-].C[NH+](C)C,trimethylammonium acetate,,,,,,

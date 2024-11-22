@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eHXkT,298.15,101.325,1337,Yokozeki et al. (2008),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+eHXkT,323.15,101.325,1320,Yokozeki et al. (2008),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+eHXkT,348.15,101.325,1301,Yokozeki et al. (2008),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+eHXkT,373.15,101.325,1284,Yokozeki et al. (2008),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,

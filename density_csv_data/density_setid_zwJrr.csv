@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zwJrr,293.15,101.325,1192.7,Wang et al. (2012a),Density,Liquid,AAmGAe,CCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-butylpyridinium nitrate,,,,,,
+zwJrr,298.15,101.325,1188.5,Wang et al. (2012a),Density,Liquid,AAmGAe,CCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-butylpyridinium nitrate,,,,,,
+zwJrr,303.15,101.325,1185.4,Wang et al. (2012a),Density,Liquid,AAmGAe,CCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-butylpyridinium nitrate,,,,,,
+zwJrr,308.15,101.325,1181.2,Wang et al. (2012a),Density,Liquid,AAmGAe,CCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-butylpyridinium nitrate,,,,,,
+zwJrr,313.15,101.325,1176.5,Wang et al. (2012a),Density,Liquid,AAmGAe,CCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-butylpyridinium nitrate,,,,,,
+zwJrr,318.15,101.325,1173.5,Wang et al. (2012a),Density,Liquid,AAmGAe,CCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-butylpyridinium nitrate,,,,,,
+zwJrr,323.15,101.325,1169.2,Wang et al. (2012a),Density,Liquid,AAmGAe,CCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-butylpyridinium nitrate,,,,,,
+zwJrr,328.15,101.325,1165.6,Wang et al. (2012a),Density,Liquid,AAmGAe,CCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-butylpyridinium nitrate,,,,,,
+zwJrr,333.15,101.325,1163.2,Wang et al. (2012a),Density,Liquid,AAmGAe,CCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-butylpyridinium nitrate,,,,,,
+zwJrr,338.15,101.325,1159.4,Wang et al. (2012a),Density,Liquid,AAmGAe,CCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-butylpyridinium nitrate,,,,,,

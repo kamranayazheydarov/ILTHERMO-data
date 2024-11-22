@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EDwTL,313.15,101.325,1549.8,Watanabe et al. (2016b),Density,Liquid,ABSqAF,CC(O)=[N+](C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N-dimethylacetamidium bis(trifluoromethanesulfonyl)amide",,,,,,
+EDwTL,323.15,101.325,1539.4,Watanabe et al. (2016b),Density,Liquid,ABSqAF,CC(O)=[N+](C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N-dimethylacetamidium bis(trifluoromethanesulfonyl)amide",,,,,,
+EDwTL,333.15,101.325,1529.1,Watanabe et al. (2016b),Density,Liquid,ABSqAF,CC(O)=[N+](C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N-dimethylacetamidium bis(trifluoromethanesulfonyl)amide",,,,,,
+EDwTL,343.15,101.325,1518.6,Watanabe et al. (2016b),Density,Liquid,ABSqAF,CC(O)=[N+](C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N-dimethylacetamidium bis(trifluoromethanesulfonyl)amide",,,,,,
+EDwTL,353.15,101.325,1508.1,Watanabe et al. (2016b),Density,Liquid,ABSqAF,CC(O)=[N+](C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N-dimethylacetamidium bis(trifluoromethanesulfonyl)amide",,,,,,
+EDwTL,363.15,101.325,1497.8,Watanabe et al. (2016b),Density,Liquid,ABSqAF,CC(O)=[N+](C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N-dimethylacetamidium bis(trifluoromethanesulfonyl)amide",,,,,,

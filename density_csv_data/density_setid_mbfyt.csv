@@ -1,0 +1,9 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mbfyt,100,293.15,1051.7,Sanchez et al. (2009),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+mbfyt,100,303.15,1045.6,Sanchez et al. (2009),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+mbfyt,100,313.15,1039.6,Sanchez et al. (2009),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+mbfyt,100,323.15,1033.7,Sanchez et al. (2009),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+mbfyt,100,333.15,1027.7,Sanchez et al. (2009),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+mbfyt,100,343.15,1021.9,Sanchez et al. (2009),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+mbfyt,100,353.15,1016,Sanchez et al. (2009),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,
+mbfyt,100,363.15,1010.3,Sanchez et al. (2009),Density,Liquid,AApefh,CCCC[n+]1cccc(C)c1.N#C[N-]C#N,1-butyl-3-methylpyridinium dicyanamide,,,,,,

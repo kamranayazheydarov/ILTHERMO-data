@@ -1,0 +1,25 @@
+setid,Mole fraction of 1-ethyl-3-methylimidazolium tetrafluoroborate,Mole fraction of ethanol,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jJBdo,0.002,0.056,298.15,101,819,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.006,0.111,298.15,101,828,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.013,0.165,298.15,101,864,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.017,0.208,298.15,101,870,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.028,0.23,298.15,101,882,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.039,0.241,298.15,101,885,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.047,0.265,298.15,101,886,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.064,0.301,298.15,101,888,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.077,0.315,298.15,101,890,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.091,0.324,298.15,101,892,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.11,0.331,298.15,101,894,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.127,0.337,298.15,101,896,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.155,0.337,298.15,101,932,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.182,0.336,298.15,101,954,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.209,0.327,298.15,101,968,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.239,0.314,298.15,101,984,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.255,0.307,298.15,101,997,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.267,0.3,298.15,101,999,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.312,0.276,298.15,101,1006,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.351,0.249,298.15,101,1021,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.401,0.219,298.15,101,1058,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.465,0.155,298.15,101,1071,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.536,0.102,298.15,101,1080,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate
+jJBdo,0.655,0,298.15,101,1112,Hu et al. (2008),Density,Liquid,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate

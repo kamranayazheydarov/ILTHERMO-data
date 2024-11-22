@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nOGFM,293.15,101.325,1419,Bittner et al. (2012),Density,Liquid,ABenmT,CCCC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+nOGFM,298.15,101.325,1413,Bittner et al. (2012),Density,Liquid,ABenmT,CCCC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+nOGFM,303.15,101.325,1412,Bittner et al. (2012),Density,Liquid,ABenmT,CCCC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+nOGFM,308.15,101.325,1411,Bittner et al. (2012),Density,Liquid,ABenmT,CCCC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+nOGFM,313.15,101.325,1410,Bittner et al. (2012),Density,Liquid,ABenmT,CCCC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+nOGFM,318.15,101.325,1409,Bittner et al. (2012),Density,Liquid,ABenmT,CCCC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+nOGFM,323.15,101.325,1405,Bittner et al. (2012),Density,Liquid,ABenmT,CCCC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,

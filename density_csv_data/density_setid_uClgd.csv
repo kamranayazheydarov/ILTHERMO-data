@@ -1,0 +1,10 @@
+setid,Weight fraction of 1-methyl-3-octylimidazolium L-glutamate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uClgd,0.033,100,298.15,1002.3,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABNiAo,CCCCCCCCn1cc[n+](C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-methyl-3-octylimidazolium L-glutamate,,,
+uClgd,0.09,100,298.15,1009,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABNiAo,CCCCCCCCn1cc[n+](C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-methyl-3-octylimidazolium L-glutamate,,,
+uClgd,0.165,100,298.15,1019,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABNiAo,CCCCCCCCn1cc[n+](C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-methyl-3-octylimidazolium L-glutamate,,,
+uClgd,0.215,100,298.15,1024.9,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABNiAo,CCCCCCCCn1cc[n+](C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-methyl-3-octylimidazolium L-glutamate,,,
+uClgd,0.294,100,298.15,1035.6,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABNiAo,CCCCCCCCn1cc[n+](C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-methyl-3-octylimidazolium L-glutamate,,,
+uClgd,0.396,100,298.15,1050.1,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABNiAo,CCCCCCCCn1cc[n+](C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-methyl-3-octylimidazolium L-glutamate,,,
+uClgd,0.525,100,298.15,1066.6,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABNiAo,CCCCCCCCn1cc[n+](C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-methyl-3-octylimidazolium L-glutamate,,,
+uClgd,0.658,100,298.15,1083.8,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABNiAo,CCCCCCCCn1cc[n+](C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-methyl-3-octylimidazolium L-glutamate,,,
+uClgd,0.694,100,298.15,1089.2,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABNiAo,CCCCCCCCn1cc[n+](C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-methyl-3-octylimidazolium L-glutamate,,,

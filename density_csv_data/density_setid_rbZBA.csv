@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rbZBA,283.15,101.325,1342,Fei et al. (2021),Density,Liquid,ABESvp,F[B-]1(F)OC(=O)C(=O)O1.C(CCC)[N+]1=CSC=C1C,3-butyl-4-methylthiazolium difluoro(oxalato)borate,,,,,,
+rbZBA,293.15,101.325,1331.9,Fei et al. (2021),Density,Liquid,ABESvp,F[B-]1(F)OC(=O)C(=O)O1.C(CCC)[N+]1=CSC=C1C,3-butyl-4-methylthiazolium difluoro(oxalato)borate,,,,,,
+rbZBA,298.15,101.325,1328.4,Fei et al. (2021),Density,Liquid,ABESvp,F[B-]1(F)OC(=O)C(=O)O1.C(CCC)[N+]1=CSC=C1C,3-butyl-4-methylthiazolium difluoro(oxalato)borate,,,,,,
+rbZBA,303.15,101.325,1323.7,Fei et al. (2021),Density,Liquid,ABESvp,F[B-]1(F)OC(=O)C(=O)O1.C(CCC)[N+]1=CSC=C1C,3-butyl-4-methylthiazolium difluoro(oxalato)borate,,,,,,
+rbZBA,313.15,101.325,1315.5,Fei et al. (2021),Density,Liquid,ABESvp,F[B-]1(F)OC(=O)C(=O)O1.C(CCC)[N+]1=CSC=C1C,3-butyl-4-methylthiazolium difluoro(oxalato)borate,,,,,,
+rbZBA,323.15,101.325,1306.2,Fei et al. (2021),Density,Liquid,ABESvp,F[B-]1(F)OC(=O)C(=O)O1.C(CCC)[N+]1=CSC=C1C,3-butyl-4-methylthiazolium difluoro(oxalato)borate,,,,,,
+rbZBA,333.15,101.325,1298.9,Fei et al. (2021),Density,Liquid,ABESvp,F[B-]1(F)OC(=O)C(=O)O1.C(CCC)[N+]1=CSC=C1C,3-butyl-4-methylthiazolium difluoro(oxalato)borate,,,,,,
+rbZBA,343.15,101.325,1291.2,Fei et al. (2021),Density,Liquid,ABESvp,F[B-]1(F)OC(=O)C(=O)O1.C(CCC)[N+]1=CSC=C1C,3-butyl-4-methylthiazolium difluoro(oxalato)borate,,,,,,
+rbZBA,353.15,101.325,1282.1,Fei et al. (2021),Density,Liquid,ABESvp,F[B-]1(F)OC(=O)C(=O)O1.C(CCC)[N+]1=CSC=C1C,3-butyl-4-methylthiazolium difluoro(oxalato)borate,,,,,,

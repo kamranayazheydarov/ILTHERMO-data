@@ -1,0 +1,9 @@
+setid,Mole fraction of toluene,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FwTxh,0,283.15,100,1023,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+FwTxh,0.054,283.15,100,1020,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+FwTxh,0.103,283.15,100,1018,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+FwTxh,0.205,283.15,100,1012,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+FwTxh,0.304,283.15,100,1006,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+FwTxh,0.387,283.15,100,1001,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+FwTxh,0.454,283.15,100,994,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,
+FwTxh,0.528,283.15,100,987,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,

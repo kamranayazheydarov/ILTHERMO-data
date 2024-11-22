@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DHHVL,293.15,101.325,1098.7,Jacquemin et al. (2013),Density,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,
+DHHVL,298.15,101.325,1095.3,Jacquemin et al. (2013),Density,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,
+DHHVL,303.15,101.325,1092,Jacquemin et al. (2013),Density,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,
+DHHVL,313.15,101.325,1085.4,Jacquemin et al. (2013),Density,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,
+DHHVL,323.15,101.325,1078.9,Jacquemin et al. (2013),Density,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,
+DHHVL,333.15,101.325,1072.4,Jacquemin et al. (2013),Density,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,
+DHHVL,343.15,101.325,1065.9,Jacquemin et al. (2013),Density,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,
+DHHVL,353.15,101.325,1059.5,Jacquemin et al. (2013),Density,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,
+DHHVL,363.15,101.325,1053.2,Jacquemin et al. (2013),Density,Liquid,ABJgup,CCCCCCCCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium octyl sulfate,,,,,,

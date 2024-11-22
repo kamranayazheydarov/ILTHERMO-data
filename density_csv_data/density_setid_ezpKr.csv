@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ezpKr,298.15,101.325,1036.27,Domanska et al. (2011a),Density,Liquid,AArYZH,CC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-ethyl-3-methylimidazolium tetracyanoborate,,,,,,
+ezpKr,308.15,101.325,1028.4,Domanska et al. (2011a),Density,Liquid,AArYZH,CC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-ethyl-3-methylimidazolium tetracyanoborate,,,,,,
+ezpKr,318.15,101.325,1020.64,Domanska et al. (2011a),Density,Liquid,AArYZH,CC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-ethyl-3-methylimidazolium tetracyanoborate,,,,,,
+ezpKr,328.15,101.325,1012.97,Domanska et al. (2011a),Density,Liquid,AArYZH,CC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-ethyl-3-methylimidazolium tetracyanoborate,,,,,,
+ezpKr,338.15,101.325,1005.4,Domanska et al. (2011a),Density,Liquid,AArYZH,CC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-ethyl-3-methylimidazolium tetracyanoborate,,,,,,
+ezpKr,348.15,101.325,997.91,Domanska et al. (2011a),Density,Liquid,AArYZH,CC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-ethyl-3-methylimidazolium tetracyanoborate,,,,,,
+ezpKr,358.15,101.325,990.51,Domanska et al. (2011a),Density,Liquid,AArYZH,CC[n+]1ccn(C)c1.N#C[B-](C#N)(C#N)C#N,1-ethyl-3-methylimidazolium tetracyanoborate,,,,,,

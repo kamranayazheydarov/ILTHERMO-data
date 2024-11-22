@@ -1,0 +1,12 @@
+setid,Mole fraction of ethanol,"Pressure, kPa","Temperature, K",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+pOQiV,0.0609,101,298.15,1.50392,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,
+pOQiV,0.1108,101,298.15,1.50181,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,
+pOQiV,0.2066,101,298.15,1.4973,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,
+pOQiV,0.3083,101,298.15,1.49126,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,
+pOQiV,0.4004,101,298.15,1.48469,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,
+pOQiV,0.4998,101,298.15,1.476,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,
+pOQiV,0.6034,101,298.15,1.46448,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,
+pOQiV,0.7034,101,298.15,1.45003,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,
+pOQiV,0.8452,101,298.15,1.41977,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,
+pOQiV,0.9389,101,298.15,1.38864,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,
+pOQiV,1,101,298.15,1.36023,Gonzalez et al. (2008d),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,,

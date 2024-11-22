@@ -1,0 +1,12 @@
+setid,Mole fraction of acetone,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mViHK,0,101,298.15,1115.1,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+mViHK,0.1125,101,298.15,1102,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+mViHK,0.1889,101,298.15,1089.9,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+mViHK,0.3058,101,298.15,1072.2,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+mViHK,0.3917,101,298.15,1055.8,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+mViHK,0.5127,101,298.15,1028,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+mViHK,0.6,101,298.15,1003.1,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+mViHK,0.6892,101,298.15,972.5,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+mViHK,0.7842,101,298.15,930.7,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+mViHK,0.9008,101,298.15,864.2,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+mViHK,1,101,298.15,784.8,Caeiro et al. (2022),Density,Liquid,AALIPU,CC(C)=O,acetone,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,

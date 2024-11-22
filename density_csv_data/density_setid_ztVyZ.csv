@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ztVyZ,293.2,101.325,1260,Krannich et al. (2016),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+ztVyZ,303.2,101.325,1253,Krannich et al. (2016),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+ztVyZ,313.2,101.325,1246,Krannich et al. (2016),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+ztVyZ,323.2,101.325,1239,Krannich et al. (2016),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+ztVyZ,333.2,101.325,1232,Krannich et al. (2016),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+ztVyZ,343.2,101.325,1225,Krannich et al. (2016),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+ztVyZ,353.2,101.325,1218,Krannich et al. (2016),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+ztVyZ,363.2,101.325,1211,Krannich et al. (2016),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,

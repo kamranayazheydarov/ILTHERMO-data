@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KoHOf,283.15,101,1120.6,Tong et al. (2012b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+KoHOf,288.15,101,1117.4,Tong et al. (2012b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+KoHOf,293.15,101,1114.2,Tong et al. (2012b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+KoHOf,298.15,101,1110.9,Tong et al. (2012b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+KoHOf,303.15,101,1107.8,Tong et al. (2012b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+KoHOf,308.15,101,1104.7,Tong et al. (2012b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+KoHOf,313.15,101,1101.6,Tong et al. (2012b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+KoHOf,318.15,101,1098.6,Tong et al. (2012b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+KoHOf,323.15,101,1095.5,Tong et al. (2012b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+KoHOf,328.15,101,1092.3,Tong et al. (2012b),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,

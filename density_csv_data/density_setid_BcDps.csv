@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BcDps,293.15,100,1284.4,Yambou et al. (2020),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+BcDps,298.15,100,1280.6,Yambou et al. (2020),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+BcDps,303.15,100,1276.9,Yambou et al. (2020),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+BcDps,308.15,100,1273.1,Yambou et al. (2020),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+BcDps,313.15,100,1269.3,Yambou et al. (2020),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+BcDps,318.15,100,1265.6,Yambou et al. (2020),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+BcDps,323.15,100,1261.8,Yambou et al. (2020),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+BcDps,328.15,100,1258,Yambou et al. (2020),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+BcDps,333.15,100,1254.3,Yambou et al. (2020),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,

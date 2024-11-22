@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FhpuA,293,101.325,1225.4,Yuan et al. (2021),Density,Liquid,AAjCpn,N#C[S-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium thiocyanate,,,,,,
+FhpuA,303,101.325,1219.4,Yuan et al. (2021),Density,Liquid,AAjCpn,N#C[S-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium thiocyanate,,,,,,
+FhpuA,313,101.325,1213.5,Yuan et al. (2021),Density,Liquid,AAjCpn,N#C[S-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium thiocyanate,,,,,,
+FhpuA,323,101.325,1207.5,Yuan et al. (2021),Density,Liquid,AAjCpn,N#C[S-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium thiocyanate,,,,,,
+FhpuA,333,101.325,1201.5,Yuan et al. (2021),Density,Liquid,AAjCpn,N#C[S-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium thiocyanate,,,,,,
+FhpuA,343,101.325,1195.6,Yuan et al. (2021),Density,Liquid,AAjCpn,N#C[S-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium thiocyanate,,,,,,

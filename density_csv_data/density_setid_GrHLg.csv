@@ -1,0 +1,12 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GrHLg,100,298.15,1127.5,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,
+GrHLg,100,303.15,1123.8,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,
+GrHLg,100,308.15,1120.1,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,
+GrHLg,100,313.15,1116.4,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,
+GrHLg,100,318.15,1112.8,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,
+GrHLg,100,323.15,1109.2,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,
+GrHLg,100,328.15,1105.6,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,
+GrHLg,100,333.15,1102.1,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,
+GrHLg,100,338.15,1098.6,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,
+GrHLg,100,343.15,1095.2,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,
+GrHLg,100,348.15,1091.8,Alopina et al. (2023),Density,Liquid,ABGQHG,CCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-decyl-3-methylimidazolium bromide,,,,,,

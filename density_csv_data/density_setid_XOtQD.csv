@@ -1,0 +1,10 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XOtQD,89.3,283.15,1086.6,Chen et al. (2019b),Density,Liquid,AAjWoe,CCCCn1cc[n+](C)c1.O=C[O-],3-butyl-1-methyl-1H-imidazolium formate,,,,,,
+XOtQD,89.3,293.15,1080.1,Chen et al. (2019b),Density,Liquid,AAjWoe,CCCCn1cc[n+](C)c1.O=C[O-],3-butyl-1-methyl-1H-imidazolium formate,,,,,,
+XOtQD,89.3,298.15,1077,Chen et al. (2019b),Density,Liquid,AAjWoe,CCCCn1cc[n+](C)c1.O=C[O-],3-butyl-1-methyl-1H-imidazolium formate,,,,,,
+XOtQD,89.3,303.15,1073.8,Chen et al. (2019b),Density,Liquid,AAjWoe,CCCCn1cc[n+](C)c1.O=C[O-],3-butyl-1-methyl-1H-imidazolium formate,,,,,,
+XOtQD,89.3,313.15,1067.3,Chen et al. (2019b),Density,Liquid,AAjWoe,CCCCn1cc[n+](C)c1.O=C[O-],3-butyl-1-methyl-1H-imidazolium formate,,,,,,
+XOtQD,89.3,323.15,1061.5,Chen et al. (2019b),Density,Liquid,AAjWoe,CCCCn1cc[n+](C)c1.O=C[O-],3-butyl-1-methyl-1H-imidazolium formate,,,,,,
+XOtQD,89.3,333.15,1055.2,Chen et al. (2019b),Density,Liquid,AAjWoe,CCCCn1cc[n+](C)c1.O=C[O-],3-butyl-1-methyl-1H-imidazolium formate,,,,,,
+XOtQD,89.3,343.15,1049.2,Chen et al. (2019b),Density,Liquid,AAjWoe,CCCCn1cc[n+](C)c1.O=C[O-],3-butyl-1-methyl-1H-imidazolium formate,,,,,,
+XOtQD,89.3,353.15,1044,Chen et al. (2019b),Density,Liquid,AAjWoe,CCCCn1cc[n+](C)c1.O=C[O-],3-butyl-1-methyl-1H-imidazolium formate,,,,,,

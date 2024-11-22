@@ -1,0 +1,9 @@
+setid,"Temperature, K",Weight fraction of 1-butyl-3-methylimidazolium chloride,Weight fraction of potassium carbonate,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+AYHDa,278,0.033,0.32,100,1447,Tanimura et al. (2019),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,AAaeDA,O=C([O-])[O-].[K+].[K+],potassium carbonate,AADYJk,O,water
+AYHDa,278,0.45,0.052,100,1069,Tanimura et al. (2019),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,AAaeDA,O=C([O-])[O-].[K+].[K+],potassium carbonate,AADYJk,O,water
+AYHDa,288.1,0.035,0.32,100,1429,Tanimura et al. (2019),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,AAaeDA,O=C([O-])[O-].[K+].[K+],potassium carbonate,AADYJk,O,water
+AYHDa,288.1,0.445,0.055,100,1077,Tanimura et al. (2019),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,AAaeDA,O=C([O-])[O-].[K+].[K+],potassium carbonate,AADYJk,O,water
+AYHDa,298.1,0.045,0.315,100,1482,Tanimura et al. (2019),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,AAaeDA,O=C([O-])[O-].[K+].[K+],potassium carbonate,AADYJk,O,water
+AYHDa,298.1,0.435,0.061,100,1079,Tanimura et al. (2019),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,AAaeDA,O=C([O-])[O-].[K+].[K+],potassium carbonate,AADYJk,O,water
+AYHDa,318.1,0.075,0.305,100,1559,Tanimura et al. (2019),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,AAaeDA,O=C([O-])[O-].[K+].[K+],potassium carbonate,AADYJk,O,water
+AYHDa,318.1,0.423,0.067,100,1069,Tanimura et al. (2019),Density,Liquid,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,AAaeDA,O=C([O-])[O-].[K+].[K+],potassium carbonate,AADYJk,O,water

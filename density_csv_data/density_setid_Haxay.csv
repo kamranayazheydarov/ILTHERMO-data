@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Haxay,283,101.325,1212,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+Haxay,293,101.325,1205,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+Haxay,298.1,101.325,1202,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+Haxay,303,101.325,1198,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+Haxay,313,101.325,1192,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+Haxay,323,101.325,1185,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+Haxay,333,101.325,1177,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+Haxay,343,101.325,1167,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+Haxay,353,101.325,1154,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+Haxay,363,101.325,1140,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,
+Haxay,368.1,101.325,1136,Beigi et al. (2013),Density,Liquid,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ksaDK,278.15,101,1445.5,Garca-Garabal et al. (2022),Density,Liquid,ABabds,CCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+ksaDK,288.15,101,1436.5,Garca-Garabal et al. (2022),Density,Liquid,ABabds,CCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+ksaDK,298.15,101,1427.5,Garca-Garabal et al. (2022),Density,Liquid,ABabds,CCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+ksaDK,308.15,101,1418.5,Garca-Garabal et al. (2022),Density,Liquid,ABabds,CCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+ksaDK,318.15,101,1409.6,Garca-Garabal et al. (2022),Density,Liquid,ABabds,CCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+ksaDK,328.15,101,1400.7,Garca-Garabal et al. (2022),Density,Liquid,ABabds,CCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+ksaDK,338.15,101,1391.9,Garca-Garabal et al. (2022),Density,Liquid,ABabds,CCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+ksaDK,348.15,101,1382.5,Garca-Garabal et al. (2022),Density,Liquid,ABabds,CCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+ksaDK,358.15,101,1374.5,Garca-Garabal et al. (2022),Density,Liquid,ABabds,CCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

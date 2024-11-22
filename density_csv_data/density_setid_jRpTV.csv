@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jRpTV,313.14,101.325,1058,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,
+jRpTV,313.28,101.325,1057.8,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,
+jRpTV,318.52,101.325,1054.5,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,
+jRpTV,323.1,101.325,1051.5,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,
+jRpTV,323.4,101.325,1051.4,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,
+jRpTV,328.18,101.325,1048.3,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,
+jRpTV,333.04,101.325,1045.3,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,
+jRpTV,333.15,101.325,1045,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,
+jRpTV,338.14,101.325,1042.1,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,
+jRpTV,343.05,101.325,1038.9,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,
+jRpTV,343.27,101.325,1038.6,Jacquemin et al. (2008a),Density,Liquid,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,,,,

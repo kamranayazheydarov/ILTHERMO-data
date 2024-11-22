@@ -1,0 +1,4 @@
+setid,Mass ratio to solvent: ethylammonium lactate,"MolaLity of calcium sulfate, mol/kg","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BeQFq,0.0526,0.055,303.15,100,1005,Shukla et al. (2018),Density,Liquid,AADYJk,O,water,AAaJfK,O=S(=O)([O-])[O-].[Ca+2],calcium sulfate,AAZzRX,CC(O)C(=O)[O-].CC[NH3+],ethylammonium lactate
+BeQFq,0.0811,0.076,303.15,100,1015.4,Shukla et al. (2018),Density,Liquid,AADYJk,O,water,AAaJfK,O=S(=O)([O-])[O-].[Ca+2],calcium sulfate,AAZzRX,CC(O)C(=O)[O-].CC[NH3+],ethylammonium lactate
+BeQFq,0.111,0.091,303.15,100,1026.7,Shukla et al. (2018),Density,Liquid,AADYJk,O,water,AAaJfK,O=S(=O)([O-])[O-].[Ca+2],calcium sulfate,AAZzRX,CC(O)C(=O)[O-].CC[NH3+],ethylammonium lactate

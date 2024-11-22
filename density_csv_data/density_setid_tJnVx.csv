@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+tJnVx,298.1,101.325,1056,Philippi et al. (2017),Density,Liquid,ABWkbC,FC(C(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoroacetate,,,,,,
+tJnVx,308.1,101.325,1049,Philippi et al. (2017),Density,Liquid,ABWkbC,FC(C(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoroacetate,,,,,,
+tJnVx,318.1,101.325,1042,Philippi et al. (2017),Density,Liquid,ABWkbC,FC(C(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoroacetate,,,,,,
+tJnVx,328.1,101.325,1035,Philippi et al. (2017),Density,Liquid,ABWkbC,FC(C(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoroacetate,,,,,,
+tJnVx,338.1,101.325,1027,Philippi et al. (2017),Density,Liquid,ABWkbC,FC(C(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoroacetate,,,,,,
+tJnVx,348.1,101.325,1020,Philippi et al. (2017),Density,Liquid,ABWkbC,FC(C(=O)[O-])(F)F.C(C)OCC[P+](CCCC)(CCCC)CCCC,(2-ethoxyethyl)tributylphosphonium trifluoroacetate,,,,,,

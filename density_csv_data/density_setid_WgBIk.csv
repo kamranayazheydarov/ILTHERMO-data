@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WgBIk,298,101.325,1028,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,303,101.325,1025,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,308,101.325,1022,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,313,101.325,1019,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,318,101.325,1016,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,323,101.325,1013,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,328,101.325,1010,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,333,101.325,1007,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,338,101.325,1004,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,343,101.325,1001,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,348,101.325,998,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,
+WgBIk,353,101.325,994,Iwasaki et al. (2017),Density,Liquid,ABOVgV,CCCC[N+](C)(CCCC)CCCC.F[B-](F)(F)c1ccccc1,tributylmethylammonium phenyltrifluoroborate,,,,,,

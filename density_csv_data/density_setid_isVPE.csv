@@ -1,0 +1,22 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+isVPE,298.17,99.5,0.000212,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,298.17,1330,0.000175,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,298.17,2240,0.000164,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,298.17,3200,0.000141,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,298.17,4290,0.000127,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,298.17,5260,0.000116,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,313.28,1240,0.000216,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,313.28,2340,0.000165,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,313.28,3530,0.000147,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,313.28,5020,0.000132,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,313.28,6350,0.00012,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,313.28,7740,0.000111,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,313.28,8770,0.000105,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,333.41,98.7,0.000216,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,333.41,1170,0.00026,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,333.41,2460,0.000184,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,333.41,3550,0.000172,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,333.41,5220,0.00015,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,333.41,6120,0.000138,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,333.41,7710,0.000123,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate
+isVPE,333.41,9260,0.000105,Muldoon et al. (2007),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate

@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RFpOX,293.15,101.325,1352,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,
+RFpOX,298.15,101.325,1347,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,
+RFpOX,303.15,101.325,1343,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,
+RFpOX,308.15,101.325,1339,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,
+RFpOX,313.15,101.325,1335,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,
+RFpOX,318.15,101.325,1330,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,
+RFpOX,323.15,101.325,1326,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,
+RFpOX,328.15,101.325,1322,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,
+RFpOX,333.15,101.325,1318,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,
+RFpOX,338.15,101.325,1314,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,
+RFpOX,343.15,101.325,1310,Gouveia et al. (2017b),Density,Liquid,ABCiXj,C(#N)[N-]S(=O)(=O)C(F)(F)F.C(C)N1C=[N+](C=C1)C,"1-ethyl-3-methylimidazolium N-cyano-1,1,1-trifluoromethanesulfonamide",,,,,,

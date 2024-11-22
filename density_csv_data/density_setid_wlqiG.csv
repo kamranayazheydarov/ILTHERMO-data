@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+wlqiG,293.15,101.325,1288.3,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,
+wlqiG,298.15,101.325,1284.7,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,
+wlqiG,303.15,101.325,1281.3,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,
+wlqiG,308.15,101.325,1277.9,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,
+wlqiG,313.15,101.325,1274.5,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,
+wlqiG,318.15,101.325,1271.2,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,
+wlqiG,323.15,101.325,1267.6,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,
+wlqiG,328.15,101.325,1264.5,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,
+wlqiG,333.15,101.325,1261.3,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,
+wlqiG,338.15,101.325,1258.1,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,
+wlqiG,343.15,101.325,1254,Gomez et al. (2010c),Density,Liquid,AAsslm,CCc1cccc[n+]1C.COS(=O)(=O)[O-],2-ethyl-1-methylpyridinium methyl sulfate,,,,,,

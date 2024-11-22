@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mNDGA,283.15,101,1124.5,Lladosa et al. (2021),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+mNDGA,293.15,101,1118.3,Lladosa et al. (2021),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+mNDGA,303.15,101,1112.2,Lladosa et al. (2021),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+mNDGA,313.15,101,1106.2,Lladosa et al. (2021),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,
+mNDGA,323.15,101,1100.2,Lladosa et al. (2021),Density,Liquid,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,,,,

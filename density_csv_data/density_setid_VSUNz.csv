@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VSUNz,293.15,101,1283.9,Sharma and Bhagour (2013),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+VSUNz,298.15,101,1279.9,Sharma and Bhagour (2013),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+VSUNz,303.15,101,1276.3,Sharma and Bhagour (2013),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,
+VSUNz,308.15,101,1272.1,Sharma and Bhagour (2013),Density,Liquid,AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,,,,

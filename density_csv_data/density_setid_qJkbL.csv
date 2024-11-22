@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qJkbL,303.15,101.325,1041,Wang et al. (2009c),Density,Liquid,ABPAgK,CCCCOP(=O)([O-])OCCCC.CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium dibutyl phosphate,,,,,,
+qJkbL,308.15,101.325,1037.5,Wang et al. (2009c),Density,Liquid,ABPAgK,CCCCOP(=O)([O-])OCCCC.CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium dibutyl phosphate,,,,,,
+qJkbL,313.15,101.325,1033.9,Wang et al. (2009c),Density,Liquid,ABPAgK,CCCCOP(=O)([O-])OCCCC.CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium dibutyl phosphate,,,,,,
+qJkbL,318.15,101.325,1030.6,Wang et al. (2009c),Density,Liquid,ABPAgK,CCCCOP(=O)([O-])OCCCC.CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium dibutyl phosphate,,,,,,
+qJkbL,323.15,101.325,1027.2,Wang et al. (2009c),Density,Liquid,ABPAgK,CCCCOP(=O)([O-])OCCCC.CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium dibutyl phosphate,,,,,,

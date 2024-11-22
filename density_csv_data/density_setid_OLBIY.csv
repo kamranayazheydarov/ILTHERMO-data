@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OLBIY,298.15,101.325,1337,Schreiner et al. (2010b),Density,Liquid,AAvjVr,CCn1cc[n+](C)c1.O=C1O[B-](F)(F)OC1=O,1-ethyl-3-methylimidazolium difluoromono(oxalato)borate,,,,,,
+OLBIY,303.15,101.325,1332,Schreiner et al. (2010b),Density,Liquid,AAvjVr,CCn1cc[n+](C)c1.O=C1O[B-](F)(F)OC1=O,1-ethyl-3-methylimidazolium difluoromono(oxalato)borate,,,,,,
+OLBIY,313.15,101.325,1322,Schreiner et al. (2010b),Density,Liquid,AAvjVr,CCn1cc[n+](C)c1.O=C1O[B-](F)(F)OC1=O,1-ethyl-3-methylimidazolium difluoromono(oxalato)borate,,,,,,
+OLBIY,323.15,101.325,1312,Schreiner et al. (2010b),Density,Liquid,AAvjVr,CCn1cc[n+](C)c1.O=C1O[B-](F)(F)OC1=O,1-ethyl-3-methylimidazolium difluoromono(oxalato)borate,,,,,,
+OLBIY,333.15,101.325,1303,Schreiner et al. (2010b),Density,Liquid,AAvjVr,CCn1cc[n+](C)c1.O=C1O[B-](F)(F)OC1=O,1-ethyl-3-methylimidazolium difluoromono(oxalato)borate,,,,,,

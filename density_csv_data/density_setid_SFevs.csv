@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SFevs,288.15,101,1184.2,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,293.15,101,1180.8,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,298.15,101,1177.3,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,303.15,101,1173.9,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,308.15,101,1170.6,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,313.15,101,1167.1,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,318.15,101,1164,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,323.15,101,1160.6,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,328.15,101,1157.2,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,333.15,101,1154,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,338.15,101,1150.7,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,
+SFevs,343.15,101,1147.4,Guan et al. (2022),Density,Liquid,AAmQcG,[S-]C#N.COCCN1C=[N+](C=C1)C,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,,,,,,

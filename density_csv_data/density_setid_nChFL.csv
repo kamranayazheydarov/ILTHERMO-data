@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nChFL,293.15,101.325,1030.1,Gardas et al. (2010b),Density,Liquid,ABVnng,CCCC[P+](CCCC)(CCCC)CCCC.NCCS(=O)(=O)[O-],tetrabutylphosphonium 2-aminoethanesulfonate,,,,,,
+nChFL,298.15,101.325,1026.8,Gardas et al. (2010b),Density,Liquid,ABVnng,CCCC[P+](CCCC)(CCCC)CCCC.NCCS(=O)(=O)[O-],tetrabutylphosphonium 2-aminoethanesulfonate,,,,,,
+nChFL,303.15,101.325,1023.7,Gardas et al. (2010b),Density,Liquid,ABVnng,CCCC[P+](CCCC)(CCCC)CCCC.NCCS(=O)(=O)[O-],tetrabutylphosphonium 2-aminoethanesulfonate,,,,,,
+nChFL,313.15,101.325,1017.6,Gardas et al. (2010b),Density,Liquid,ABVnng,CCCC[P+](CCCC)(CCCC)CCCC.NCCS(=O)(=O)[O-],tetrabutylphosphonium 2-aminoethanesulfonate,,,,,,
+nChFL,323.15,101.325,1011.5,Gardas et al. (2010b),Density,Liquid,ABVnng,CCCC[P+](CCCC)(CCCC)CCCC.NCCS(=O)(=O)[O-],tetrabutylphosphonium 2-aminoethanesulfonate,,,,,,
+nChFL,333.15,101.325,1005.3,Gardas et al. (2010b),Density,Liquid,ABVnng,CCCC[P+](CCCC)(CCCC)CCCC.NCCS(=O)(=O)[O-],tetrabutylphosphonium 2-aminoethanesulfonate,,,,,,
+nChFL,343.15,101.325,999.2,Gardas et al. (2010b),Density,Liquid,ABVnng,CCCC[P+](CCCC)(CCCC)CCCC.NCCS(=O)(=O)[O-],tetrabutylphosphonium 2-aminoethanesulfonate,,,,,,
+nChFL,353.15,101.325,993.3,Gardas et al. (2010b),Density,Liquid,ABVnng,CCCC[P+](CCCC)(CCCC)CCCC.NCCS(=O)(=O)[O-],tetrabutylphosphonium 2-aminoethanesulfonate,,,,,,
+nChFL,363.15,101.325,987.3,Gardas et al. (2010b),Density,Liquid,ABVnng,CCCC[P+](CCCC)(CCCC)CCCC.NCCS(=O)(=O)[O-],tetrabutylphosphonium 2-aminoethanesulfonate,,,,,,

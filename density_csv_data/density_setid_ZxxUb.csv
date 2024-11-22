@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZxxUb,293.15,101.325,1016.3,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,298.15,101.325,1013.4,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,298.15,101.325,1013.5,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,303.15,101.325,1010.7,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,308.15,101.325,1007.9,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,313.15,101.325,1005.1,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,318.15,101.325,1002.4,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,323.15,101.325,999.6,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,328.15,101.325,996.9,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,333.15,101.325,994.1,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,338.15,101.325,991.4,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,
+ZxxUb,343.15,101.325,988.7,Gonzalez et al. (2013b),Density,Liquid,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide,,,,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oejlP,283.15,101.325,1267.2,Rodil et al. (2018),Density,Liquid,ABriGF,CCCC[P+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,Tributylmethylphosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+oejlP,293.15,101.325,1258.7,Rodil et al. (2018),Density,Liquid,ABriGF,CCCC[P+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,Tributylmethylphosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+oejlP,303.15,101.325,1250.3,Rodil et al. (2018),Density,Liquid,ABriGF,CCCC[P+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,Tributylmethylphosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+oejlP,313.15,101.325,1242.1,Rodil et al. (2018),Density,Liquid,ABriGF,CCCC[P+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,Tributylmethylphosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+oejlP,323.15,101.325,1233.8,Rodil et al. (2018),Density,Liquid,ABriGF,CCCC[P+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,Tributylmethylphosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+oejlP,333.15,101.325,1225.6,Rodil et al. (2018),Density,Liquid,ABriGF,CCCC[P+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,Tributylmethylphosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+oejlP,343.15,101.325,1217.5,Rodil et al. (2018),Density,Liquid,ABriGF,CCCC[P+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,Tributylmethylphosphonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

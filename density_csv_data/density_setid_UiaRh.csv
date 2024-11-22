@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+UiaRh,293.15,101.325,1013.6,Lethesh et al. (2014),Density,Liquid,ABPftu,CCCCCCCCCC[N+]1=C2CCCCCN2CCC1.N#C[S-],"1-decyl-2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepinium thiocyanate",,,,,,
+UiaRh,303.15,101.325,1008.2,Lethesh et al. (2014),Density,Liquid,ABPftu,CCCCCCCCCC[N+]1=C2CCCCCN2CCC1.N#C[S-],"1-decyl-2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepinium thiocyanate",,,,,,
+UiaRh,313.15,101.325,1002.6,Lethesh et al. (2014),Density,Liquid,ABPftu,CCCCCCCCCC[N+]1=C2CCCCCN2CCC1.N#C[S-],"1-decyl-2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepinium thiocyanate",,,,,,
+UiaRh,323.15,101.325,997.3,Lethesh et al. (2014),Density,Liquid,ABPftu,CCCCCCCCCC[N+]1=C2CCCCCN2CCC1.N#C[S-],"1-decyl-2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepinium thiocyanate",,,,,,
+UiaRh,333.15,101.325,992.1,Lethesh et al. (2014),Density,Liquid,ABPftu,CCCCCCCCCC[N+]1=C2CCCCCN2CCC1.N#C[S-],"1-decyl-2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepinium thiocyanate",,,,,,
+UiaRh,343.15,101.325,986.9,Lethesh et al. (2014),Density,Liquid,ABPftu,CCCCCCCCCC[N+]1=C2CCCCCN2CCC1.N#C[S-],"1-decyl-2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepinium thiocyanate",,,,,,
+UiaRh,353.15,101.325,981.8,Lethesh et al. (2014),Density,Liquid,ABPftu,CCCCCCCCCC[N+]1=C2CCCCCN2CCC1.N#C[S-],"1-decyl-2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepinium thiocyanate",,,,,,
+UiaRh,363.15,101.325,976.5,Lethesh et al. (2014),Density,Liquid,ABPftu,CCCCCCCCCC[N+]1=C2CCCCCN2CCC1.N#C[S-],"1-decyl-2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepinium thiocyanate",,,,,,
+UiaRh,373.15,101.325,971.1,Lethesh et al. (2014),Density,Liquid,ABPftu,CCCCCCCCCC[N+]1=C2CCCCCN2CCC1.N#C[S-],"1-decyl-2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepinium thiocyanate",,,,,,

@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nfzCJ,298,101.3,1329,Alkhaldi et al. (2017a),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,
+nfzCJ,303,101.3,1322,Alkhaldi et al. (2017a),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,
+nfzCJ,308,101.3,1319,Alkhaldi et al. (2017a),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,
+nfzCJ,313,101.3,1315,Alkhaldi et al. (2017a),Density,Liquid,AAoCnc,COS(=O)(=O)[O-].Cn1cc[n+](C)c1,"1,3-dimethylimidazolium methylsulfate",,,,,,

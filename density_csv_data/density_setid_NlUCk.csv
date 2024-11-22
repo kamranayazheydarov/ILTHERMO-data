@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NlUCk,278.15,101.325,1080.4,Cabeza et al. (2019),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+NlUCk,288.15,101.325,1074.4,Cabeza et al. (2019),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+NlUCk,298.15,101.325,1068.3,Cabeza et al. (2019),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+NlUCk,308.15,101.325,1062.2,Cabeza et al. (2019),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+NlUCk,318.15,101.325,1056.2,Cabeza et al. (2019),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+NlUCk,328.15,101.325,1050.1,Cabeza et al. (2019),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+NlUCk,338.15,101.325,1044,Cabeza et al. (2019),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+NlUCk,348.15,101.325,1038,Cabeza et al. (2019),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+NlUCk,358.15,101.325,1031.9,Cabeza et al. (2019),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+NlUCk,368.15,101.325,1025.8,Cabeza et al. (2019),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,

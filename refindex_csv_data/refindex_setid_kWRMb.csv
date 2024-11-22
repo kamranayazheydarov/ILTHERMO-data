@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+kWRMb,288.15,101.325,1.49747,Sardar et al. (2017),Refractive index,Liquid,ABJCvB,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+kWRMb,293.15,101.325,1.49594,Sardar et al. (2017),Refractive index,Liquid,ABJCvB,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+kWRMb,298.15,101.325,1.49442,Sardar et al. (2017),Refractive index,Liquid,ABJCvB,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+kWRMb,303.15,101.325,1.49293,Sardar et al. (2017),Refractive index,Liquid,ABJCvB,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+kWRMb,308.15,101.325,1.49151,Sardar et al. (2017),Refractive index,Liquid,ABJCvB,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+kWRMb,313.15,101.325,1.49017,Sardar et al. (2017),Refractive index,Liquid,ABJCvB,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+kWRMb,318.15,101.325,1.48873,Sardar et al. (2017),Refractive index,Liquid,ABJCvB,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+kWRMb,323.15,101.325,1.48725,Sardar et al. (2017),Refractive index,Liquid,ABJCvB,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+kWRMb,328.15,101.325,1.48572,Sardar et al. (2017),Refractive index,Liquid,ABJCvB,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+kWRMb,333.15,101.325,1.48411,Sardar et al. (2017),Refractive index,Liquid,ABJCvB,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,

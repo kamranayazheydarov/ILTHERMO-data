@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qYAwc,288.15,100,1094.4,Wang et al. (2021a),Density,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,
+qYAwc,293.15,100,1091.5,Wang et al. (2021a),Density,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,
+qYAwc,298.15,100,1088.3,Wang et al. (2021a),Density,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,
+qYAwc,303.15,100,1085.2,Wang et al. (2021a),Density,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,
+qYAwc,308.15,100,1082.3,Wang et al. (2021a),Density,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,
+qYAwc,313.15,100,1079.4,Wang et al. (2021a),Density,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,
+qYAwc,318.15,100,1076.6,Wang et al. (2021a),Density,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,
+qYAwc,323.15,100,1073.8,Wang et al. (2021a),Density,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,
+qYAwc,328.15,100,1070.8,Wang et al. (2021a),Density,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,

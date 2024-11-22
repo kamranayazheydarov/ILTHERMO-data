@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Wavelength, A",Refractive index,reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+ovZEa,298,101.325,633,1.5192,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABCPac,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccccc2)n1C,"1-phenyl-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,,
+ovZEa,308,101.325,633,1.5167,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABCPac,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccccc2)n1C,"1-phenyl-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,,
+ovZEa,313,101.325,633,1.5153,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABCPac,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccccc2)n1C,"1-phenyl-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,,
+ovZEa,333,101.325,633,1.51,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABCPac,CS(=O)(=O)[O-].Cc1cc(C)[n+](-c2ccccc2)n1C,"1-phenyl-2,3,5-trimethylpyrazolium methanesulfonate",,,,,,,

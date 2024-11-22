@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+hodex,293.15,101.325,1179.7,Sardar et al. (2020a),Density,Liquid,ABMywn,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].Cn1cc[n+](C)c1Cl,"2-chloro-1,3-dimethylimidazolium 2-acrylamido-2-methylpropane-1-sulfonate",,,,,,
+hodex,303.15,101.325,1172.3,Sardar et al. (2020a),Density,Liquid,ABMywn,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].Cn1cc[n+](C)c1Cl,"2-chloro-1,3-dimethylimidazolium 2-acrylamido-2-methylpropane-1-sulfonate",,,,,,
+hodex,313.15,101.325,1165.3,Sardar et al. (2020a),Density,Liquid,ABMywn,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].Cn1cc[n+](C)c1Cl,"2-chloro-1,3-dimethylimidazolium 2-acrylamido-2-methylpropane-1-sulfonate",,,,,,
+hodex,323.15,101.325,1158.4,Sardar et al. (2020a),Density,Liquid,ABMywn,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].Cn1cc[n+](C)c1Cl,"2-chloro-1,3-dimethylimidazolium 2-acrylamido-2-methylpropane-1-sulfonate",,,,,,
+hodex,333.15,101.325,1151.2,Sardar et al. (2020a),Density,Liquid,ABMywn,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].Cn1cc[n+](C)c1Cl,"2-chloro-1,3-dimethylimidazolium 2-acrylamido-2-methylpropane-1-sulfonate",,,,,,
+hodex,343.15,101.325,1144.3,Sardar et al. (2020a),Density,Liquid,ABMywn,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].Cn1cc[n+](C)c1Cl,"2-chloro-1,3-dimethylimidazolium 2-acrylamido-2-methylpropane-1-sulfonate",,,,,,
+hodex,353.15,101.325,1137.4,Sardar et al. (2020a),Density,Liquid,ABMywn,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].Cn1cc[n+](C)c1Cl,"2-chloro-1,3-dimethylimidazolium 2-acrylamido-2-methylpropane-1-sulfonate",,,,,,
+hodex,363.15,101.325,1129.7,Sardar et al. (2020a),Density,Liquid,ABMywn,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].Cn1cc[n+](C)c1Cl,"2-chloro-1,3-dimethylimidazolium 2-acrylamido-2-methylpropane-1-sulfonate",,,,,,

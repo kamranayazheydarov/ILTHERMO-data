@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+koVsT,283.15,101.325,1483.1,Chen et al. (2016c),Density,Liquid,ABflPG,COCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(3-methoxypropyl)-1-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+koVsT,293.15,101.325,1473.4,Chen et al. (2016c),Density,Liquid,ABflPG,COCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(3-methoxypropyl)-1-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+koVsT,298.15,101.325,1468.4,Chen et al. (2016c),Density,Liquid,ABflPG,COCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(3-methoxypropyl)-1-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+koVsT,303.15,101.325,1463.6,Chen et al. (2016c),Density,Liquid,ABflPG,COCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(3-methoxypropyl)-1-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+koVsT,313.15,101.325,1453.8,Chen et al. (2016c),Density,Liquid,ABflPG,COCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(3-methoxypropyl)-1-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+koVsT,323.15,101.325,1444.1,Chen et al. (2016c),Density,Liquid,ABflPG,COCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(3-methoxypropyl)-1-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+koVsT,333.15,101.325,1434.6,Chen et al. (2016c),Density,Liquid,ABflPG,COCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(3-methoxypropyl)-1-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+koVsT,343.15,101.325,1425.2,Chen et al. (2016c),Density,Liquid,ABflPG,COCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(3-methoxypropyl)-1-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+koVsT,353.15,101.325,1415.8,Chen et al. (2016c),Density,Liquid,ABflPG,COCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(3-methoxypropyl)-1-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qZHnp,293.15,101.3,1242.6,Fan et al. (2022),Density,Liquid,AAxFrF,N[C@@H](CO)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-serinate,,,,,,
+qZHnp,303.15,101.3,1236.3,Fan et al. (2022),Density,Liquid,AAxFrF,N[C@@H](CO)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-serinate,,,,,,
+qZHnp,313.15,101.3,1230,Fan et al. (2022),Density,Liquid,AAxFrF,N[C@@H](CO)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-serinate,,,,,,
+qZHnp,323.15,101.3,1223.7,Fan et al. (2022),Density,Liquid,AAxFrF,N[C@@H](CO)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-serinate,,,,,,
+qZHnp,333.15,101.3,1217.4,Fan et al. (2022),Density,Liquid,AAxFrF,N[C@@H](CO)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-serinate,,,,,,
+qZHnp,343.15,101.3,1211.1,Fan et al. (2022),Density,Liquid,AAxFrF,N[C@@H](CO)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-serinate,,,,,,
+qZHnp,353.15,101.3,1204.8,Fan et al. (2022),Density,Liquid,AAxFrF,N[C@@H](CO)C(=O)[O-].C(CCC)N1C=[N+](C=C1)C=C,1-butyl-3-vinylimidazolium L-serinate,,,,,,

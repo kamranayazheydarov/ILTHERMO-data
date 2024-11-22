@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BSnus,298.15,101.325,1433.2,Ibrahim et al. (2016),Density,Liquid,ABgQHQ,COCC[N+]1(C)CCCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-methoxyethyl)-1-methylpiperidinium bis(trifluoromethylsulfonyl)imide,,,,,,
+BSnus,303.15,101.325,1429,Ibrahim et al. (2016),Density,Liquid,ABgQHQ,COCC[N+]1(C)CCCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-methoxyethyl)-1-methylpiperidinium bis(trifluoromethylsulfonyl)imide,,,,,,
+BSnus,313.15,101.325,1419.8,Ibrahim et al. (2016),Density,Liquid,ABgQHQ,COCC[N+]1(C)CCCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-methoxyethyl)-1-methylpiperidinium bis(trifluoromethylsulfonyl)imide,,,,,,
+BSnus,323.15,101.325,1410.7,Ibrahim et al. (2016),Density,Liquid,ABgQHQ,COCC[N+]1(C)CCCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-methoxyethyl)-1-methylpiperidinium bis(trifluoromethylsulfonyl)imide,,,,,,
+BSnus,333.15,101.325,1401.7,Ibrahim et al. (2016),Density,Liquid,ABgQHQ,COCC[N+]1(C)CCCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-methoxyethyl)-1-methylpiperidinium bis(trifluoromethylsulfonyl)imide,,,,,,
+BSnus,343.15,101.325,1392.5,Ibrahim et al. (2016),Density,Liquid,ABgQHQ,COCC[N+]1(C)CCCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-methoxyethyl)-1-methylpiperidinium bis(trifluoromethylsulfonyl)imide,,,,,,
+BSnus,353.15,101.325,1383.3,Ibrahim et al. (2016),Density,Liquid,ABgQHQ,COCC[N+]1(C)CCCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-methoxyethyl)-1-methylpiperidinium bis(trifluoromethylsulfonyl)imide,,,,,,

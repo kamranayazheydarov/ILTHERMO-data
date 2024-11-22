@@ -1,0 +1,10 @@
+setid,Mole fraction of acetic acid,Mole fraction of water,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kkKAz,0,0.0263,303.15,100,958,Berton et al. (2017),Density,Liquid,AALcAl,CC(=O)O,acetic acid,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+kkKAz,0.0971,0.0291,303.15,100,965,Berton et al. (2017),Density,Liquid,AALcAl,CC(=O)O,acetic acid,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+kkKAz,0.194,0.0301,303.15,100,978,Berton et al. (2017),Density,Liquid,AALcAl,CC(=O)O,acetic acid,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+kkKAz,0.3213,0.0263,303.15,100,993,Berton et al. (2017),Density,Liquid,AALcAl,CC(=O)O,acetic acid,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+kkKAz,0.4883,0.0234,303.15,100,1017,Berton et al. (2017),Density,Liquid,AALcAl,CC(=O)O,acetic acid,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+kkKAz,0.6588,0.0167,303.15,100,1035,Berton et al. (2017),Density,Liquid,AALcAl,CC(=O)O,acetic acid,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+kkKAz,0.7897,0.0128,303.15,100,1042,Berton et al. (2017),Density,Liquid,AALcAl,CC(=O)O,acetic acid,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+kkKAz,0.8911,0.0099,303.15,100,1041,Berton et al. (2017),Density,Liquid,AALcAl,CC(=O)O,acetic acid,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+kkKAz,0.996,0.004,303.15,100,1037,Berton et al. (2017),Density,Liquid,AALcAl,CC(=O)O,acetic acid,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate

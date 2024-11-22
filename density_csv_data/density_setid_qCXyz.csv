@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qCXyz,308.15,101.325,1126.4,Fang et al. (2014),Density,Liquid,ABINaR,CCCCCC[n+]1ccn(C)c1.NC(CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium DL-glutamate,,,,,,
+qCXyz,313.15,101.325,1123.9,Fang et al. (2014),Density,Liquid,ABINaR,CCCCCC[n+]1ccn(C)c1.NC(CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium DL-glutamate,,,,,,
+qCXyz,318.15,101.325,1120.8,Fang et al. (2014),Density,Liquid,ABINaR,CCCCCC[n+]1ccn(C)c1.NC(CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium DL-glutamate,,,,,,
+qCXyz,323.15,101.325,1118.7,Fang et al. (2014),Density,Liquid,ABINaR,CCCCCC[n+]1ccn(C)c1.NC(CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium DL-glutamate,,,,,,
+qCXyz,328.15,101.325,1116.2,Fang et al. (2014),Density,Liquid,ABINaR,CCCCCC[n+]1ccn(C)c1.NC(CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium DL-glutamate,,,,,,
+qCXyz,333.15,101.325,1113.2,Fang et al. (2014),Density,Liquid,ABINaR,CCCCCC[n+]1ccn(C)c1.NC(CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium DL-glutamate,,,,,,
+qCXyz,338.15,101.325,1110.9,Fang et al. (2014),Density,Liquid,ABINaR,CCCCCC[n+]1ccn(C)c1.NC(CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium DL-glutamate,,,,,,
+qCXyz,343.15,101.325,1109.2,Fang et al. (2014),Density,Liquid,ABINaR,CCCCCC[n+]1ccn(C)c1.NC(CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium DL-glutamate,,,,,,

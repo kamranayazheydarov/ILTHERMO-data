@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+AezAf,288.15,101.325,1148.6,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,293.15,101.325,1145.4,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,298.15,101.325,1142.3,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,303.15,101.325,1139.1,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,308.15,101.325,1135.8,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,313.15,101.325,1132.5,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,318.15,101.325,1129.4,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,323.15,101.325,1126.3,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,328.15,101.325,1122.9,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,333.15,101.325,1119.9,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,338.15,101.325,1116.6,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,
+AezAf,343.15,101.325,1113.5,Zhang et al. (2016a),Density,Liquid,AAwGsM,CCCCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-pentylimidazolium dihydrogen phosphate,,,,,,

@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iWhMm,298.15,100,1016.13,Krolikowska et al. (2014c),Density,Liquid,AAqnPn,CCCC[N+]1(C)CCCCC1.N#C[N-]C#N,1-butyl-1-methylpiperidinium dicyanamide,,,,,,
+iWhMm,303.15,100,1012.98,Krolikowska et al. (2014c),Density,Liquid,AAqnPn,CCCC[N+]1(C)CCCCC1.N#C[N-]C#N,1-butyl-1-methylpiperidinium dicyanamide,,,,,,
+iWhMm,308.15,100,1010.65,Krolikowska et al. (2014c),Density,Liquid,AAqnPn,CCCC[N+]1(C)CCCCC1.N#C[N-]C#N,1-butyl-1-methylpiperidinium dicyanamide,,,,,,
+iWhMm,313.15,100,1007.92,Krolikowska et al. (2014c),Density,Liquid,AAqnPn,CCCC[N+]1(C)CCCCC1.N#C[N-]C#N,1-butyl-1-methylpiperidinium dicyanamide,,,,,,
+iWhMm,318.15,100,1005.2,Krolikowska et al. (2014c),Density,Liquid,AAqnPn,CCCC[N+]1(C)CCCCC1.N#C[N-]C#N,1-butyl-1-methylpiperidinium dicyanamide,,,,,,
+iWhMm,323.15,100,1002.47,Krolikowska et al. (2014c),Density,Liquid,AAqnPn,CCCC[N+]1(C)CCCCC1.N#C[N-]C#N,1-butyl-1-methylpiperidinium dicyanamide,,,,,,
+iWhMm,328.15,100,999.77,Krolikowska et al. (2014c),Density,Liquid,AAqnPn,CCCC[N+]1(C)CCCCC1.N#C[N-]C#N,1-butyl-1-methylpiperidinium dicyanamide,,,,,,
+iWhMm,333.15,100,997.08,Krolikowska et al. (2014c),Density,Liquid,AAqnPn,CCCC[N+]1(C)CCCCC1.N#C[N-]C#N,1-butyl-1-methylpiperidinium dicyanamide,,,,,,
+iWhMm,338.15,100,994.39,Krolikowska et al. (2014c),Density,Liquid,AAqnPn,CCCC[N+]1(C)CCCCC1.N#C[N-]C#N,1-butyl-1-methylpiperidinium dicyanamide,,,,,,
+iWhMm,343.15,100,991.72,Krolikowska et al. (2014c),Density,Liquid,AAqnPn,CCCC[N+]1(C)CCCCC1.N#C[N-]C#N,1-butyl-1-methylpiperidinium dicyanamide,,,,,,

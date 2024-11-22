@@ -1,0 +1,15 @@
+setid,Mole fraction of methylcyclohexane,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LWKDA,0,298.15,101,1104.84,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.001,298.15,101,1155.11,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.002,298.15,101,1121.41,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.002,298.15,101,1125.99,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.003,298.15,101,1122.24,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.006,298.15,101,1140.2,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.007,298.15,101,1181.03,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.008,298.15,101,1196.78,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.01,298.15,101,1210.6,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.011,298.15,101,1160,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.014,298.15,101,1203,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.015,298.15,101,1188,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.016,298.15,101,1216.3,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane
+LWKDA,0.017,298.15,101,1171.8,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,14,AAPBFE,c1ccccc1,benzene,AAStyH,CC1CCCCC1,methylcyclohexane

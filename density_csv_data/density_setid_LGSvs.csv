@@ -1,0 +1,12 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LGSvs,100,283.15,1164,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,
+LGSvs,100,288.15,1161,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,
+LGSvs,100,293.15,1158,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,
+LGSvs,100,298.15,1155,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,
+LGSvs,100,303.15,1152.1,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,
+LGSvs,100,308.15,1149.2,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,
+LGSvs,100,313.15,1146.3,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,
+LGSvs,100,318.15,1143.5,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,
+LGSvs,100,323.15,1140.7,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,
+LGSvs,100,328.15,1137.9,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,
+LGSvs,100,333.15,1135.1,Yang and Fang (2018),Density,Liquid,ABIDkk,C[N+](C)(C)CCC[n+]1ccccc1.N#C[N-]C#N.N#C[N-]C#N,1-(3-(trimethylammonio)propyl)pyridinium dicyanamide,,,,,,

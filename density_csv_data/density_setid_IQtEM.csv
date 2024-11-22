@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IQtEM,288.15,101.325,1202.4,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,293.15,101.325,1199,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,298.15,101.325,1195.5,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,303.15,101.325,1192,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,308.15,101.325,1188.5,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,313.15,101.325,1185,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,318.15,101.325,1181.4,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,323.15,101.325,1177.9,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,328.15,101.325,1174.4,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,333.15,101.325,1170.8,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,338.15,101.325,1167.2,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,
+IQtEM,343.15,101.325,1163.7,Zhang et al. (2016a),Density,Liquid,AAqlOz,CCCn1cc[n+](C)c1.O=P([O-])(O)O,1-methyl-3-propylimidazolium dihydrogen phosphate,,,,,,

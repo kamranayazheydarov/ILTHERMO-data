@@ -1,0 +1,11 @@
+setid,Mole fraction of benzene,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CqoSa,0,298.15,101.325,1234.5,Gonzalez et al. (2010g),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAQdzy,CCCCCC,hexane
+CqoSa,0.044,298.15,101.325,1227.8,Gonzalez et al. (2010g),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAQdzy,CCCCCC,hexane
+CqoSa,0.093,298.15,101.325,1221,Gonzalez et al. (2010g),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAQdzy,CCCCCC,hexane
+CqoSa,0.138,298.15,101.325,1213.7,Gonzalez et al. (2010g),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAQdzy,CCCCCC,hexane
+CqoSa,0.19,298.15,101.325,1205.4,Gonzalez et al. (2010g),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAQdzy,CCCCCC,hexane
+CqoSa,0.236,298.15,101.325,1196.2,Gonzalez et al. (2010g),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAQdzy,CCCCCC,hexane
+CqoSa,0.284,298.15,101.325,1187.6,Gonzalez et al. (2010g),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAQdzy,CCCCCC,hexane
+CqoSa,0.338,298.15,101.325,1176.2,Gonzalez et al. (2010g),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAQdzy,CCCCCC,hexane
+CqoSa,0.393,298.15,101.325,1165.2,Gonzalez et al. (2010g),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAQdzy,CCCCCC,hexane
+CqoSa,0.461,298.15,101.325,1147.1,Gonzalez et al. (2010g),Density,Liquid mixture 1,Liquid mixture 2,,10,AAPBFE,c1ccccc1,benzene,AAQdzy,CCCCCC,hexane

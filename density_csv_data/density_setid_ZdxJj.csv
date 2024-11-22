@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZdxJj,293.15,101.325,889.5,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,
+ZdxJj,298.14,101.325,886.5,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,
+ZdxJj,303.14,101.325,883.4,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,
+ZdxJj,308.14,101.325,880.4,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,
+ZdxJj,313.14,101.325,877.4,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,
+ZdxJj,318.14,101.325,874.4,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,
+ZdxJj,323.14,101.325,871.4,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,
+ZdxJj,328.14,101.325,868.4,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,
+ZdxJj,333.14,101.325,865.4,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,
+ZdxJj,338.14,101.325,862.4,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,
+ZdxJj,343.14,101.325,859.4,Carneiro et al. (2012b),Density,Liquid,ABZlTO,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-],"N-methyl-N,N-dioctyl-1-octanaminium chloride",,,,,,

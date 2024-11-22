@@ -1,0 +1,4 @@
+setid,"MolaLity of calcium nitrate, mol/kg","MolaLity of water, mol/kg","Pressure, kPa","Temperature, K",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+nnCdv,0.1,0.41,100,298.15,1.4553,Vallet et al. (2022),Refractive index,Liquid,AAfcho,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ca+2],calcium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,
+nnCdv,0.5,2.01,100,298.15,1.4587,Vallet et al. (2022),Refractive index,Liquid,AAfcho,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ca+2],calcium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,
+nnCdv,1,4.02,100,298.15,1.4614,Vallet et al. (2022),Refractive index,Liquid,AAfcho,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ca+2],calcium nitrate,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,

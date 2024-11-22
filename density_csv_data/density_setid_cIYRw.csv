@@ -1,0 +1,22 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cIYRw,298.2,1271,0.000167,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,298.2,2486,0.000147,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,298.2,3484,0.000133,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,298.2,4429,0.000124,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,298.2,5943,0.000112,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,313.2,4286,0.000138,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,313.3,1416,0.000168,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,313.3,2829,0.000154,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,313.3,5632,0.00013,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,313.3,7017,0.000119,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,313.3,8368,0.000111,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,313.3,9534,0.000103,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,313.3,11529,0.000103,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,333.2,2888,0.000161,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,333.3,1830,0.000172,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,333.3,4217,0.000151,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,333.3,5645,0.000141,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,333.3,6996,0.000133,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,333.3,8390,0.000121,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,333.3,9745,0.000114,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+cIYRw,333.3,11484,0.000109,Aki et al. (2004),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide

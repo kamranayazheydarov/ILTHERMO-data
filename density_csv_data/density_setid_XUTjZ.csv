@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XUTjZ,293,101.325,1401,Curnow et al. (2020),Density,Liquid,ABiLfr,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1NCC,bis(dimethylamino)(ethylamino)cyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+XUTjZ,303,101.325,1391,Curnow et al. (2020),Density,Liquid,ABiLfr,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1NCC,bis(dimethylamino)(ethylamino)cyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+XUTjZ,313,101.325,1382,Curnow et al. (2020),Density,Liquid,ABiLfr,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1NCC,bis(dimethylamino)(ethylamino)cyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+XUTjZ,323,101.325,1373,Curnow et al. (2020),Density,Liquid,ABiLfr,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1NCC,bis(dimethylamino)(ethylamino)cyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+XUTjZ,333,101.325,1363,Curnow et al. (2020),Density,Liquid,ABiLfr,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1NCC,bis(dimethylamino)(ethylamino)cyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+XUTjZ,343,101.325,1354,Curnow et al. (2020),Density,Liquid,ABiLfr,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1NCC,bis(dimethylamino)(ethylamino)cyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+XUTjZ,353,101.325,1343,Curnow et al. (2020),Density,Liquid,ABiLfr,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1NCC,bis(dimethylamino)(ethylamino)cyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,
+XUTjZ,363,101.325,1335,Curnow et al. (2020),Density,Liquid,ABiLfr,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F.c(N(C)C)1c(N(C)C)[c+]1NCC,bis(dimethylamino)(ethylamino)cyclopropenium bis(trifluoromethanesulfonyl)amide,,,,,,

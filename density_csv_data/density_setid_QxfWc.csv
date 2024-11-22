@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QxfWc,298.15,101.325,1258,Schreiner et al. (2010b),Density,Liquid,ABDoBP,CCCCn1cc[n+](C)c1.O=C1CC(=O)O[B-](F)(F)O1,1-butyl-3-methylimidazolium difluoromono(malonato)borate,,,,,,
+QxfWc,303.15,101.325,1254,Schreiner et al. (2010b),Density,Liquid,ABDoBP,CCCCn1cc[n+](C)c1.O=C1CC(=O)O[B-](F)(F)O1,1-butyl-3-methylimidazolium difluoromono(malonato)borate,,,,,,
+QxfWc,313.15,101.325,1246,Schreiner et al. (2010b),Density,Liquid,ABDoBP,CCCCn1cc[n+](C)c1.O=C1CC(=O)O[B-](F)(F)O1,1-butyl-3-methylimidazolium difluoromono(malonato)borate,,,,,,
+QxfWc,323.15,101.325,1238,Schreiner et al. (2010b),Density,Liquid,ABDoBP,CCCCn1cc[n+](C)c1.O=C1CC(=O)O[B-](F)(F)O1,1-butyl-3-methylimidazolium difluoromono(malonato)borate,,,,,,
+QxfWc,333.15,101.325,1230,Schreiner et al. (2010b),Density,Liquid,ABDoBP,CCCCn1cc[n+](C)c1.O=C1CC(=O)O[B-](F)(F)O1,1-butyl-3-methylimidazolium difluoromono(malonato)borate,,,,,,

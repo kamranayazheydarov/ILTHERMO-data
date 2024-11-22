@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+slCyQ,288.15,100,1261.7,Wei et al. (2022a),Density,Liquid,AAkUkb,C=CC[n+]1ccn(C)c1.N#C[N-]C#N,1-allyl-3-methylimidazolium dicyanamide,,,,,,
+slCyQ,293.15,100,1258.2,Wei et al. (2022a),Density,Liquid,AAkUkb,C=CC[n+]1ccn(C)c1.N#C[N-]C#N,1-allyl-3-methylimidazolium dicyanamide,,,,,,
+slCyQ,298.15,100,1254.6,Wei et al. (2022a),Density,Liquid,AAkUkb,C=CC[n+]1ccn(C)c1.N#C[N-]C#N,1-allyl-3-methylimidazolium dicyanamide,,,,,,
+slCyQ,303.15,100,1251.1,Wei et al. (2022a),Density,Liquid,AAkUkb,C=CC[n+]1ccn(C)c1.N#C[N-]C#N,1-allyl-3-methylimidazolium dicyanamide,,,,,,
+slCyQ,308.15,100,1247.6,Wei et al. (2022a),Density,Liquid,AAkUkb,C=CC[n+]1ccn(C)c1.N#C[N-]C#N,1-allyl-3-methylimidazolium dicyanamide,,,,,,
+slCyQ,313.15,100,1244.1,Wei et al. (2022a),Density,Liquid,AAkUkb,C=CC[n+]1ccn(C)c1.N#C[N-]C#N,1-allyl-3-methylimidazolium dicyanamide,,,,,,
+slCyQ,318.15,100,1240.7,Wei et al. (2022a),Density,Liquid,AAkUkb,C=CC[n+]1ccn(C)c1.N#C[N-]C#N,1-allyl-3-methylimidazolium dicyanamide,,,,,,

@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of 1-ethylimidazolium chloride,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WWRrD,298.15,100,0.333,1150,Liu et al. (2022),Density,Liquid,AAZZyx,CCN1C=C[NH+]=C1.[Cl-],1-ethylimidazolium chloride,AARkmK,OCC(O)CO,glycerol,,,
+WWRrD,303.15,100,0.333,1146,Liu et al. (2022),Density,Liquid,AAZZyx,CCN1C=C[NH+]=C1.[Cl-],1-ethylimidazolium chloride,AARkmK,OCC(O)CO,glycerol,,,
+WWRrD,313.15,100,0.333,1142,Liu et al. (2022),Density,Liquid,AAZZyx,CCN1C=C[NH+]=C1.[Cl-],1-ethylimidazolium chloride,AARkmK,OCC(O)CO,glycerol,,,
+WWRrD,323.15,100,0.333,1136,Liu et al. (2022),Density,Liquid,AAZZyx,CCN1C=C[NH+]=C1.[Cl-],1-ethylimidazolium chloride,AARkmK,OCC(O)CO,glycerol,,,
+WWRrD,333.15,100,0.333,1130,Liu et al. (2022),Density,Liquid,AAZZyx,CCN1C=C[NH+]=C1.[Cl-],1-ethylimidazolium chloride,AARkmK,OCC(O)CO,glycerol,,,

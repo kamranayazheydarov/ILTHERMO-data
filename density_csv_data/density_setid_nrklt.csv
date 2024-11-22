@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nrklt,298.15,101.325,1104.2,Marcinkowski et al. (2019a),Density,Liquid,ABGIUH,CC(=O)N[C@@H](CC(C)C)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-leucinate,,,,,,
+nrklt,303.15,101.325,1100.9,Marcinkowski et al. (2019a),Density,Liquid,ABGIUH,CC(=O)N[C@@H](CC(C)C)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-leucinate,,,,,,
+nrklt,308.15,101.325,1097.6,Marcinkowski et al. (2019a),Density,Liquid,ABGIUH,CC(=O)N[C@@H](CC(C)C)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-leucinate,,,,,,
+nrklt,313.15,101.325,1094.3,Marcinkowski et al. (2019a),Density,Liquid,ABGIUH,CC(=O)N[C@@H](CC(C)C)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-leucinate,,,,,,
+nrklt,318.15,101.325,1090.9,Marcinkowski et al. (2019a),Density,Liquid,ABGIUH,CC(=O)N[C@@H](CC(C)C)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-leucinate,,,,,,

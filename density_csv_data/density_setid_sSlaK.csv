@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+sSlaK,293.15,101.325,1032.87,Sanchez (2008),Density,Liquid,AAmbYu,CCCC[N+]1(C)CCCC1.N#C[S-],1-butyl-1-methylpyrrolidinium thiocyanate,,,,,,
+sSlaK,303.15,101.325,1027.62,Sanchez (2008),Density,Liquid,AAmbYu,CCCC[N+]1(C)CCCC1.N#C[S-],1-butyl-1-methylpyrrolidinium thiocyanate,,,,,,
+sSlaK,313.15,101.325,1022.35,Sanchez (2008),Density,Liquid,AAmbYu,CCCC[N+]1(C)CCCC1.N#C[S-],1-butyl-1-methylpyrrolidinium thiocyanate,,,,,,
+sSlaK,323.15,101.325,1017.11,Sanchez (2008),Density,Liquid,AAmbYu,CCCC[N+]1(C)CCCC1.N#C[S-],1-butyl-1-methylpyrrolidinium thiocyanate,,,,,,
+sSlaK,333.15,101.325,1011.91,Sanchez (2008),Density,Liquid,AAmbYu,CCCC[N+]1(C)CCCC1.N#C[S-],1-butyl-1-methylpyrrolidinium thiocyanate,,,,,,
+sSlaK,343.15,101.325,1006.73,Sanchez (2008),Density,Liquid,AAmbYu,CCCC[N+]1(C)CCCC1.N#C[S-],1-butyl-1-methylpyrrolidinium thiocyanate,,,,,,
+sSlaK,353.15,101.325,1001.57,Sanchez (2008),Density,Liquid,AAmbYu,CCCC[N+]1(C)CCCC1.N#C[S-],1-butyl-1-methylpyrrolidinium thiocyanate,,,,,,
+sSlaK,363.15,101.325,996.43,Sanchez (2008),Density,Liquid,AAmbYu,CCCC[N+]1(C)CCCC1.N#C[S-],1-butyl-1-methylpyrrolidinium thiocyanate,,,,,,

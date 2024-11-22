@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DGTBP,278.15,101.325,1278,Vercher et al. (2012),Density,Liquid,ABGHfb,CCCCn1cc[n+](CC)c1.O=S(=O)([O-])C(F)(F)F,3-butyl-1-ethyl-1H-imidazolium trifluoromethanesulfonate (1:1),,,,,,
+DGTBP,288.15,101.325,1270,Vercher et al. (2012),Density,Liquid,ABGHfb,CCCCn1cc[n+](CC)c1.O=S(=O)([O-])C(F)(F)F,3-butyl-1-ethyl-1H-imidazolium trifluoromethanesulfonate (1:1),,,,,,
+DGTBP,298.15,101.325,1262.2,Vercher et al. (2012),Density,Liquid,ABGHfb,CCCCn1cc[n+](CC)c1.O=S(=O)([O-])C(F)(F)F,3-butyl-1-ethyl-1H-imidazolium trifluoromethanesulfonate (1:1),,,,,,
+DGTBP,308.15,101.325,1254.4,Vercher et al. (2012),Density,Liquid,ABGHfb,CCCCn1cc[n+](CC)c1.O=S(=O)([O-])C(F)(F)F,3-butyl-1-ethyl-1H-imidazolium trifluoromethanesulfonate (1:1),,,,,,
+DGTBP,318.15,101.325,1246.7,Vercher et al. (2012),Density,Liquid,ABGHfb,CCCCn1cc[n+](CC)c1.O=S(=O)([O-])C(F)(F)F,3-butyl-1-ethyl-1H-imidazolium trifluoromethanesulfonate (1:1),,,,,,
+DGTBP,328.15,101.325,1239,Vercher et al. (2012),Density,Liquid,ABGHfb,CCCCn1cc[n+](CC)c1.O=S(=O)([O-])C(F)(F)F,3-butyl-1-ethyl-1H-imidazolium trifluoromethanesulfonate (1:1),,,,,,
+DGTBP,338.15,101.325,1231.3,Vercher et al. (2012),Density,Liquid,ABGHfb,CCCCn1cc[n+](CC)c1.O=S(=O)([O-])C(F)(F)F,3-butyl-1-ethyl-1H-imidazolium trifluoromethanesulfonate (1:1),,,,,,

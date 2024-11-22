@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","MolaLity of cetylpyridinium chloride, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nmGWj,298.15,100,0.005,997,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AADYJk,O,water,,,
+nmGWj,303.15,100,0.005,995.4,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AADYJk,O,water,,,
+nmGWj,308.15,100,0.005,993.5,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AADYJk,O,water,,,
+nmGWj,313.15,100,0.005,990.7,Ali et al. (2018),Density,Liquid,ABNTke,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],cetylpyridinium chloride,AADYJk,O,water,,,

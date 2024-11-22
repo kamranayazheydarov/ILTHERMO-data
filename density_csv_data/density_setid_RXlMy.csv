@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RXlMy,298.15,101,1181.1,Heintz et al. (2002a),Density,Liquid,AAtevY,CCCC[n+]1ccc(C)cc1.F[B-](F)(F)F,1-butyl-4-methylpyridinium tetrafluoroborate,,,,,,
+RXlMy,298.15,101,1182.7,Heintz et al. (2002a),Density,Liquid,AAtevY,CCCC[n+]1ccc(C)cc1.F[B-](F)(F)F,1-butyl-4-methylpyridinium tetrafluoroborate,,,,,,
+RXlMy,313.15,101,1171.9,Heintz et al. (2002a),Density,Liquid,AAtevY,CCCC[n+]1ccc(C)cc1.F[B-](F)(F)F,1-butyl-4-methylpyridinium tetrafluoroborate,,,,,,
+RXlMy,323.15,101,1165.3,Heintz et al. (2002a),Density,Liquid,AAtevY,CCCC[n+]1ccc(C)cc1.F[B-](F)(F)F,1-butyl-4-methylpyridinium tetrafluoroborate,,,,,,
+RXlMy,323.15,101,1165.4,Heintz et al. (2002a),Density,Liquid,AAtevY,CCCC[n+]1ccc(C)cc1.F[B-](F)(F)F,1-butyl-4-methylpyridinium tetrafluoroborate,,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PlcYy,297.8,101.325,1120,Ullah et al. (2020),Density,Liquid,AAuzTV,CCCCn1cc[n+](CCC#N)c1.N#C[N-]C#N,1-propanenitrile-3-butylimidazolium dicyanamide,,,,,,
+PlcYy,302.9,101.325,1117,Ullah et al. (2020),Density,Liquid,AAuzTV,CCCCn1cc[n+](CCC#N)c1.N#C[N-]C#N,1-propanenitrile-3-butylimidazolium dicyanamide,,,,,,
+PlcYy,308,101.325,1113,Ullah et al. (2020),Density,Liquid,AAuzTV,CCCCn1cc[n+](CCC#N)c1.N#C[N-]C#N,1-propanenitrile-3-butylimidazolium dicyanamide,,,,,,
+PlcYy,312.8,101.325,1110,Ullah et al. (2020),Density,Liquid,AAuzTV,CCCCn1cc[n+](CCC#N)c1.N#C[N-]C#N,1-propanenitrile-3-butylimidazolium dicyanamide,,,,,,
+PlcYy,317.9,101.325,1107,Ullah et al. (2020),Density,Liquid,AAuzTV,CCCCn1cc[n+](CCC#N)c1.N#C[N-]C#N,1-propanenitrile-3-butylimidazolium dicyanamide,,,,,,
+PlcYy,322.9,101.325,1104,Ullah et al. (2020),Density,Liquid,AAuzTV,CCCCn1cc[n+](CCC#N)c1.N#C[N-]C#N,1-propanenitrile-3-butylimidazolium dicyanamide,,,,,,
+PlcYy,327.8,101.325,1101,Ullah et al. (2020),Density,Liquid,AAuzTV,CCCCn1cc[n+](CCC#N)c1.N#C[N-]C#N,1-propanenitrile-3-butylimidazolium dicyanamide,,,,,,
+PlcYy,332.9,101.325,1097,Ullah et al. (2020),Density,Liquid,AAuzTV,CCCCn1cc[n+](CCC#N)c1.N#C[N-]C#N,1-propanenitrile-3-butylimidazolium dicyanamide,,,,,,
+PlcYy,338,101.325,1094,Ullah et al. (2020),Density,Liquid,AAuzTV,CCCCn1cc[n+](CCC#N)c1.N#C[N-]C#N,1-propanenitrile-3-butylimidazolium dicyanamide,,,,,,

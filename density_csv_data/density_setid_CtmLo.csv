@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CtmLo,310,100,1136,Wagner et al. (2004a),Density,Liquid,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate,,,,,,
+CtmLo,315,100,1132.6,Wagner et al. (2004a),Density,Liquid,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate,,,,,,
+CtmLo,320,100,1129.2,Wagner et al. (2004a),Density,Liquid,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate,,,,,,
+CtmLo,325,100,1125.9,Wagner et al. (2004a),Density,Liquid,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate,,,,,,
+CtmLo,330,100,1122.5,Wagner et al. (2004a),Density,Liquid,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate,,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+AfNrq,293.15,101.325,1167.3,Hiraga et al. (2017a),Density,Liquid,AAyqGc,CCCC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-butyl-3-methyl-1H-imidazolium dimethylphosphate,,,,,,
+AfNrq,303.15,101.325,1160.2,Hiraga et al. (2017a),Density,Liquid,AAyqGc,CCCC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-butyl-3-methyl-1H-imidazolium dimethylphosphate,,,,,,
+AfNrq,313.15,101.325,1153.4,Hiraga et al. (2017a),Density,Liquid,AAyqGc,CCCC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-butyl-3-methyl-1H-imidazolium dimethylphosphate,,,,,,
+AfNrq,323.15,101.325,1146.8,Hiraga et al. (2017a),Density,Liquid,AAyqGc,CCCC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-butyl-3-methyl-1H-imidazolium dimethylphosphate,,,,,,
+AfNrq,333.15,101.325,1140.3,Hiraga et al. (2017a),Density,Liquid,AAyqGc,CCCC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-butyl-3-methyl-1H-imidazolium dimethylphosphate,,,,,,
+AfNrq,343.15,101.325,1133.7,Hiraga et al. (2017a),Density,Liquid,AAyqGc,CCCC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-butyl-3-methyl-1H-imidazolium dimethylphosphate,,,,,,
+AfNrq,353.15,101.325,1127.2,Hiraga et al. (2017a),Density,Liquid,AAyqGc,CCCC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-butyl-3-methyl-1H-imidazolium dimethylphosphate,,,,,,
+AfNrq,363.15,101.325,1120.7,Hiraga et al. (2017a),Density,Liquid,AAyqGc,CCCC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-butyl-3-methyl-1H-imidazolium dimethylphosphate,,,,,,
+AfNrq,373.15,101.325,1114.2,Hiraga et al. (2017a),Density,Liquid,AAyqGc,CCCC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-butyl-3-methyl-1H-imidazolium dimethylphosphate,,,,,,

@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","MolaLity of 1-butyl-2,3-dimethylimidazolium bromide, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SANWd,283.15,100,0.1,1004.75,Chen et al. (2017a),Density,Liquid,AADYJk,O,water,AAsrdg,CCCC[n+]1ccn(C)c1C.[Br-],"1-butyl-2,3-dimethylimidazolium bromide",,,
+SANWd,288.15,100,0.1,1004.08,Chen et al. (2017a),Density,Liquid,AADYJk,O,water,AAsrdg,CCCC[n+]1ccn(C)c1C.[Br-],"1-butyl-2,3-dimethylimidazolium bromide",,,
+SANWd,293.15,100,0.1,1003.12,Chen et al. (2017a),Density,Liquid,AADYJk,O,water,AAsrdg,CCCC[n+]1ccn(C)c1C.[Br-],"1-butyl-2,3-dimethylimidazolium bromide",,,
+SANWd,298.15,100,0.1,1001.89,Chen et al. (2017a),Density,Liquid,AADYJk,O,water,AAsrdg,CCCC[n+]1ccn(C)c1C.[Br-],"1-butyl-2,3-dimethylimidazolium bromide",,,
+SANWd,303.15,100,0.1,1000.44,Chen et al. (2017a),Density,Liquid,AADYJk,O,water,AAsrdg,CCCC[n+]1ccn(C)c1C.[Br-],"1-butyl-2,3-dimethylimidazolium bromide",,,

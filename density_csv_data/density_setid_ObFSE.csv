@@ -1,0 +1,12 @@
+setid,"MolaLity of sodium dodecyl sulfate, mol/kg","MolaLity of glycylglycylglycine, mol/kg","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ObFSE,1,0,298.15,101,1027.43,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water
+ObFSE,1,0.0507,298.15,101,1031.08,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water
+ObFSE,1,0.0674,298.15,101,1032.27,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water
+ObFSE,1,0.07987,298.15,101,1033.16,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water
+ObFSE,1,0.09403,298.15,101,1034.19,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water
+ObFSE,1,0.0963,298.15,101,1034.35,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water
+ObFSE,1,0.10203,298.15,101,1034.72,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water
+ObFSE,1,0.10334,298.15,101,1034.79,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water
+ObFSE,1,0.12577,298.15,101,1036.38,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water
+ObFSE,1,0.12681,298.15,101,1036.48,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water
+ObFSE,1,0.13742,298.15,101,1037.21,Singh et al. (2004),Density,Liquid,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AAkTok,NCC(=O)NCC(=O)NCC(=O)O,glycylglycylglycine,AADYJk,O,water

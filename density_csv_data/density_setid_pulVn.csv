@@ -1,0 +1,7 @@
+setid,"MolaLity of sodium trifluoromethanesulfonate, mol/kg","Temperature, K","Pressure, kPa","Specific density<SUP>*</SUP>, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+pulVn,0.01881,298,101,1.585,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,AAhEBB,O=S(=O)([O-])C(F)(F)F.[Na+],sodium trifluoromethanesulfonate,,,
+pulVn,0.02966,298,101,2.493,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,AAhEBB,O=S(=O)([O-])C(F)(F)F.[Na+],sodium trifluoromethanesulfonate,,,
+pulVn,0.04669,298,101,3.903,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,AAhEBB,O=S(=O)([O-])C(F)(F)F.[Na+],sodium trifluoromethanesulfonate,,,
+pulVn,0.06522,298,101,5.557,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,AAhEBB,O=S(=O)([O-])C(F)(F)F.[Na+],sodium trifluoromethanesulfonate,,,
+pulVn,0.09693,298,101,8.215,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,AAhEBB,O=S(=O)([O-])C(F)(F)F.[Na+],sodium trifluoromethanesulfonate,,,
+pulVn,0.13368,298,101,11.278,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,AAhEBB,O=S(=O)([O-])C(F)(F)F.[Na+],sodium trifluoromethanesulfonate,,,

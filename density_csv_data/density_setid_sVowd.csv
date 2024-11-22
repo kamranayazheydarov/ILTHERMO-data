@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+sVowd,297.15,101.325,1058,Fredlake et al. (2004),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+sVowd,312.95,101.325,1052.5,Fredlake et al. (2004),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+sVowd,324.35,101.325,1046.6,Fredlake et al. (2004),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+sVowd,333.95,101.325,1041.5,Fredlake et al. (2004),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+sVowd,344.15,101.325,1034,Fredlake et al. (2004),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,
+sVowd,355.85,101.325,1025.8,Fredlake et al. (2004),Density,Liquid,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide,,,,,,

@@ -1,0 +1,10 @@
+setid,Mole fraction of methanol,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+gnEus,0.5213,101,298.15,1026.7,Yang et al. (2013b),Density,Liquid,AAGIBL,CO,methanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+gnEus,0.5458,101,298.15,1021.6,Yang et al. (2013b),Density,Liquid,AAGIBL,CO,methanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+gnEus,0.5925,101,298.15,1012.5,Yang et al. (2013b),Density,Liquid,AAGIBL,CO,methanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+gnEus,0.7015,101,298.15,984.8,Yang et al. (2013b),Density,Liquid,AAGIBL,CO,methanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+gnEus,0.7996,101,298.15,947.8,Yang et al. (2013b),Density,Liquid,AAGIBL,CO,methanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+gnEus,0.9007,101,298.15,889.3,Yang et al. (2013b),Density,Liquid,AAGIBL,CO,methanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+gnEus,0.95,101,298.15,846.9,Yang et al. (2013b),Density,Liquid,AAGIBL,CO,methanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+gnEus,0.975,101,298.15,819.2,Yang et al. (2013b),Density,Liquid,AAGIBL,CO,methanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+gnEus,1,101,298.15,785.1,Yang et al. (2013b),Density,Liquid,AAGIBL,CO,methanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,

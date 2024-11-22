@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Wavelength, A",Refractive index,reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+NDImh,298,101.325,633,1.5141,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABNEhp,CCCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-3,5-dimethyl-2-pentylpyrazolium methanesulfonate",,,,,,,
+NDImh,308,101.325,633,1.5117,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABNEhp,CCCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-3,5-dimethyl-2-pentylpyrazolium methanesulfonate",,,,,,,
+NDImh,313,101.325,633,1.5104,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABNEhp,CCCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-3,5-dimethyl-2-pentylpyrazolium methanesulfonate",,,,,,,
+NDImh,333,101.325,633,1.5043,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABNEhp,CCCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-3,5-dimethyl-2-pentylpyrazolium methanesulfonate",,,,,,,

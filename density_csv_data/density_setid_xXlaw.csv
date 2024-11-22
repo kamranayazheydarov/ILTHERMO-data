@@ -1,0 +1,22 @@
+setid,"Temperature, K",Mole fraction of carbon dioxide,"Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xXlaw,313.15,0.231,0.0001727,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,313.15,0.36,0.0001423,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,313.15,0.455,0.0001316,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,313.15,0.543,0.0001142,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,313.15,0.616,9.83e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,313.15,0.698,7.61e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,313.15,0.729,7.12e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,323.15,0.236,0.0001712,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,323.15,0.339,0.0001524,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,323.15,0.444,0.0001317,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,323.15,0.51,0.0001192,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,323.15,0.581,0.0001045,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,323.15,0.64,9.2e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,323.15,0.675,8.39e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,333.15,0.228,0.0001713,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,333.15,0.343,0.00015,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,333.15,0.416,0.000137,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,333.15,0.495,0.0001217,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,333.15,0.564,0.0001079,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,333.15,0.62,9.55e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate
+xXlaw,333.15,0.667,8.45e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate

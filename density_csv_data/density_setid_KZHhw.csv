@@ -1,0 +1,9 @@
+setid,Mole fraction of toluene,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KZHhw,0,283.15,100,1263,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,
+KZHhw,0.052,283.15,100,1255,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,
+KZHhw,0.102,283.15,100,1246,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,
+KZHhw,0.221,283.15,100,1224,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,
+KZHhw,0.313,283.15,100,1204,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,
+KZHhw,0.4,283.15,100,1182,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,
+KZHhw,0.516,283.15,100,1147,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,
+KZHhw,0.579,283.15,100,1125,Requejo et al. (2017),Density,Liquid,AARlpN,Cc1ccccc1,toluene,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,

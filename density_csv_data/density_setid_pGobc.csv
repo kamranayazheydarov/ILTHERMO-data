@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+pGobc,348.15,102,1139.4,Vieira et al. (2019a),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,,,,,,
+pGobc,353.15,102,1136.3,Vieira et al. (2019a),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,,,,,,
+pGobc,358.15,102,1133.1,Vieira et al. (2019a),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,,,,,,
+pGobc,363.15,102,1130,Vieira et al. (2019a),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,,,,,,

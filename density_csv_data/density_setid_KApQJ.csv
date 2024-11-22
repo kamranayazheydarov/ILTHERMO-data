@@ -1,0 +1,22 @@
+setid,"Temperature, K",Mole fraction of carbon dioxide,"Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KApQJ,313.15,0.234,0.0002232,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,313.15,0.353,0.0001958,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,313.15,0.452,0.0001733,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,313.15,0.542,0.0001512,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,313.15,0.628,0.0001267,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,313.15,0.715,0.0001003,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,313.15,0.755,8.02e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,323.15,0.223,0.0002263,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,323.15,0.355,0.0001932,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,323.15,0.441,0.0001721,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,323.15,0.514,0.0001578,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,323.15,0.584,0.00014,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,323.15,0.66,0.0001169,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,323.15,0.705,0.000103,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,333.15,0.248,0.000225,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,333.15,0.35,0.0001999,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,333.15,0.45,0.0001738,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,333.15,0.534,0.0001511,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,333.15,0.603,0.0001319,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,333.15,0.682,0.0001081,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate
+KApQJ,333.15,0.726,9.48e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate

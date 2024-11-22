@@ -1,0 +1,11 @@
+setid,Mole fraction of undecane,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+waFdD,0.0129,298.15,101,822,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,10,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAeDlm,CCCCCCCCCCC,undecane
+waFdD,0.0334,298.15,101,1226.4,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,10,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAeDlm,CCCCCCCCCCC,undecane
+waFdD,0.0587,298.15,101,1284.1,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,10,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAeDlm,CCCCCCCCCCC,undecane
+waFdD,0.0623,298.15,101,1276,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,10,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAeDlm,CCCCCCCCCCC,undecane
+waFdD,0.0737,298.15,101,1319.7,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,10,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAeDlm,CCCCCCCCCCC,undecane
+waFdD,0.2316,298.15,101,810,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,10,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAeDlm,CCCCCCCCCCC,undecane
+waFdD,0.2493,298.15,101,813.3,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,10,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAeDlm,CCCCCCCCCCC,undecane
+waFdD,0.2615,298.15,101,822.5,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,10,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAeDlm,CCCCCCCCCCC,undecane
+waFdD,0.6106,298.15,101,767.7,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,10,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAeDlm,CCCCCCCCCCC,undecane
+waFdD,0.6528,298.15,101,769,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,10,AAUVDI,Cc1cccc(C)c1,"1,3-dimethylbenzene",AAeDlm,CCCCCCCCCCC,undecane

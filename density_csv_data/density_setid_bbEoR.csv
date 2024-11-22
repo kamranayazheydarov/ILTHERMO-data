@@ -1,0 +1,12 @@
+setid,Mole fraction of dichloromethane,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bbEoR,0,101,298.15,1364,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+bbEoR,0.0753,101,298.15,1364,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+bbEoR,0.163,101,298.15,1363.5,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+bbEoR,0.2451,101,298.15,1362.8,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+bbEoR,0.3361,101,298.15,1362.2,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+bbEoR,0.4351,101,298.15,1361.4,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+bbEoR,0.5384,101,298.15,1360.3,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+bbEoR,0.6462,101,298.15,1358.3,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+bbEoR,0.738,101,298.15,1354.7,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+bbEoR,0.8242,101,298.15,1349.8,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,
+bbEoR,0.8678,101,298.15,1344.8,Li et al. (2007c),Density,Liquid,AAQRGv,ClCCl,dichloromethane,ABChJv,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-butyl-3-methylimidazolium hexafluorophosphate,,,

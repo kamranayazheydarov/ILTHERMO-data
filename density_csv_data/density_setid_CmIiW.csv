@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CmIiW,298,101.325,1259.6,Ozdemir and Ozgun (2017),Density,Liquid,ABIDpp,COc1ccc(-[n+]2c(C)cc(C)n2C)cc1.CS(=O)(=O)[O-],"2,3,5-trimethyl-1-(4-methoxyphenyl)-pyrazolium methanesulfonate",,,,,,
+CmIiW,308,101.325,1256.1,Ozdemir and Ozgun (2017),Density,Liquid,ABIDpp,COc1ccc(-[n+]2c(C)cc(C)n2C)cc1.CS(=O)(=O)[O-],"2,3,5-trimethyl-1-(4-methoxyphenyl)-pyrazolium methanesulfonate",,,,,,
+CmIiW,313,101.325,1232.1,Ozdemir and Ozgun (2017),Density,Liquid,ABIDpp,COc1ccc(-[n+]2c(C)cc(C)n2C)cc1.CS(=O)(=O)[O-],"2,3,5-trimethyl-1-(4-methoxyphenyl)-pyrazolium methanesulfonate",,,,,,
+CmIiW,333,101.325,1217.1,Ozdemir and Ozgun (2017),Density,Liquid,ABIDpp,COc1ccc(-[n+]2c(C)cc(C)n2C)cc1.CS(=O)(=O)[O-],"2,3,5-trimethyl-1-(4-methoxyphenyl)-pyrazolium methanesulfonate",,,,,,

@@ -1,0 +1,27 @@
+setid,"MolaLity of sodium dodecyl sulfate, mol/kg","MolaLity of L-valine, mol/kg","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mHWMK,0.05,0,298.15,101,999.151,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.05,0.0526,298.15,101,1000.51,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.05,0.05424,298.15,101,1000.55,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.05,0.06951,298.15,101,1000.97,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.05,0.07635,298.15,101,1001.14,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.05,0.09316,298.15,101,1001.58,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.05,0.108,298.15,101,1001.96,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.05,0.11371,298.15,101,1002.1,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.5,0,298.15,101,1014.51,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.5,0.02851,298.15,101,1015.19,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.5,0.04202,298.15,101,1015.49,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.5,0.06029,298.15,101,1015.94,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.5,0.07035,298.15,101,1016.17,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.5,0.08425,298.15,101,1016.5,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.5,0.0909,298.15,101,1016.66,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.5,0.10401,298.15,101,1016.95,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,0.5,0.13788,298.15,101,1017.73,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,1,0,298.15,101,1027.46,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,1,0.04227,298.15,101,1028.42,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,1,0.05514,298.15,101,1028.7,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,1,0.07323,298.15,101,1029.12,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,1,0.0774,298.15,101,1029.19,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,1,0.096,298.15,101,1029.61,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,1,0.1047,298.15,101,1029.8,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,1,0.1086,298.15,101,1029.88,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water
+mHWMK,1,0.1885,298.15,101,1031.64,Singh et al. (2004),Density,Liquid,AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,ABDXmt,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,AADYJk,O,water

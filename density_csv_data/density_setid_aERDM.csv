@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+aERDM,293.15,101.325,1064.5,Ghanem et al. (2015a),Density,Liquid,ABHaJl,CCCCCCCC[n+]1ccn(C)c1.O=C([O-])[C@@H]1CCCN1,1-methyl-3-octyl-1H-imidazol-3-ium L-prolinate,,,,,,
+aERDM,303.15,101.325,1058.2,Ghanem et al. (2015a),Density,Liquid,ABHaJl,CCCCCCCC[n+]1ccn(C)c1.O=C([O-])[C@@H]1CCCN1,1-methyl-3-octyl-1H-imidazol-3-ium L-prolinate,,,,,,
+aERDM,313.15,101.325,1051.8,Ghanem et al. (2015a),Density,Liquid,ABHaJl,CCCCCCCC[n+]1ccn(C)c1.O=C([O-])[C@@H]1CCCN1,1-methyl-3-octyl-1H-imidazol-3-ium L-prolinate,,,,,,
+aERDM,323.15,101.325,1045.5,Ghanem et al. (2015a),Density,Liquid,ABHaJl,CCCCCCCC[n+]1ccn(C)c1.O=C([O-])[C@@H]1CCCN1,1-methyl-3-octyl-1H-imidazol-3-ium L-prolinate,,,,,,
+aERDM,333.15,101.325,1039.1,Ghanem et al. (2015a),Density,Liquid,ABHaJl,CCCCCCCC[n+]1ccn(C)c1.O=C([O-])[C@@H]1CCCN1,1-methyl-3-octyl-1H-imidazol-3-ium L-prolinate,,,,,,
+aERDM,343.15,101.325,1032.8,Ghanem et al. (2015a),Density,Liquid,ABHaJl,CCCCCCCC[n+]1ccn(C)c1.O=C([O-])[C@@H]1CCCN1,1-methyl-3-octyl-1H-imidazol-3-ium L-prolinate,,,,,,
+aERDM,353.15,101.325,1026.4,Ghanem et al. (2015a),Density,Liquid,ABHaJl,CCCCCCCC[n+]1ccn(C)c1.O=C([O-])[C@@H]1CCCN1,1-methyl-3-octyl-1H-imidazol-3-ium L-prolinate,,,,,,
+aERDM,363.15,101.325,1020.1,Ghanem et al. (2015a),Density,Liquid,ABHaJl,CCCCCCCC[n+]1ccn(C)c1.O=C([O-])[C@@H]1CCCN1,1-methyl-3-octyl-1H-imidazol-3-ium L-prolinate,,,,,,
+aERDM,373.15,101.325,1013.9,Ghanem et al. (2015a),Density,Liquid,ABHaJl,CCCCCCCC[n+]1ccn(C)c1.O=C([O-])[C@@H]1CCCN1,1-methyl-3-octyl-1H-imidazol-3-ium L-prolinate,,,,,,

@@ -1,0 +1,12 @@
+setid,Mole fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HHTqz,0,101,298,1105.9,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+HHTqz,0.112,101,298,1105.1,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+HHTqz,0.2,101,298,1104.4,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+HHTqz,0.294,101,298,1103.3,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+HHTqz,0.397,101,298,1101.8,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+HHTqz,0.494,101,298,1099.6,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+HHTqz,0.596,101,298,1096.2,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+HHTqz,0.698,101,298,1093.3,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+HHTqz,0.801,101,298,1085.3,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+HHTqz,0.9,101,298,1063.8,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+HHTqz,0.95,101,298,1037.3,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IfcQy,333.15,101.325,1216.8,Okuniewski et al. (2016),Density,Liquid,ABGlzA,CCCC[N+]1(C)CCCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpiperidinium trifluoromethanesulfonate,,,,,,
+IfcQy,338.15,101.325,1213.3,Okuniewski et al. (2016),Density,Liquid,ABGlzA,CCCC[N+]1(C)CCCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpiperidinium trifluoromethanesulfonate,,,,,,
+IfcQy,343.15,101.325,1209.8,Okuniewski et al. (2016),Density,Liquid,ABGlzA,CCCC[N+]1(C)CCCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpiperidinium trifluoromethanesulfonate,,,,,,
+IfcQy,348.15,101.325,1206.4,Okuniewski et al. (2016),Density,Liquid,ABGlzA,CCCC[N+]1(C)CCCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpiperidinium trifluoromethanesulfonate,,,,,,
+IfcQy,353.15,101.325,1202.9,Okuniewski et al. (2016),Density,Liquid,ABGlzA,CCCC[N+]1(C)CCCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpiperidinium trifluoromethanesulfonate,,,,,,
+IfcQy,358.15,101.325,1199.5,Okuniewski et al. (2016),Density,Liquid,ABGlzA,CCCC[N+]1(C)CCCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpiperidinium trifluoromethanesulfonate,,,,,,
+IfcQy,363.13,101.325,1196.1,Okuniewski et al. (2016),Density,Liquid,ABGlzA,CCCC[N+]1(C)CCCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpiperidinium trifluoromethanesulfonate,,,,,,

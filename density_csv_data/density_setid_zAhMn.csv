@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zAhMn,298.15,101,980.7,Wang et al. (2012e),Density,Liquid,ABUVJK,CC(C)[C@H](N)C(=O)[O-].CCCC[P+](CCCC)(CCCC)CCCN,(3-aminopropyl)tributylphosphonium L-valinate,,,,,,
+zAhMn,303.15,101,977.7,Wang et al. (2012e),Density,Liquid,ABUVJK,CC(C)[C@H](N)C(=O)[O-].CCCC[P+](CCCC)(CCCC)CCCN,(3-aminopropyl)tributylphosphonium L-valinate,,,,,,
+zAhMn,313.15,101,971.6,Wang et al. (2012e),Density,Liquid,ABUVJK,CC(C)[C@H](N)C(=O)[O-].CCCC[P+](CCCC)(CCCC)CCCN,(3-aminopropyl)tributylphosphonium L-valinate,,,,,,
+zAhMn,323.15,101,965.5,Wang et al. (2012e),Density,Liquid,ABUVJK,CC(C)[C@H](N)C(=O)[O-].CCCC[P+](CCCC)(CCCC)CCCN,(3-aminopropyl)tributylphosphonium L-valinate,,,,,,
+zAhMn,333.15,101,959.5,Wang et al. (2012e),Density,Liquid,ABUVJK,CC(C)[C@H](N)C(=O)[O-].CCCC[P+](CCCC)(CCCC)CCCN,(3-aminopropyl)tributylphosphonium L-valinate,,,,,,
+zAhMn,343.15,101,953.5,Wang et al. (2012e),Density,Liquid,ABUVJK,CC(C)[C@H](N)C(=O)[O-].CCCC[P+](CCCC)(CCCC)CCCN,(3-aminopropyl)tributylphosphonium L-valinate,,,,,,

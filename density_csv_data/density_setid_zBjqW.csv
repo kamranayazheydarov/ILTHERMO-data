@@ -1,0 +1,10 @@
+setid,Mole fraction of dimethylformamide,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zBjqW,0.501,101,298.15,1045.6,Yang et al. (2013b),Density,Liquid,AAOCWD,CN(C)C=O,dimethylformamide,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+zBjqW,0.5541,101,298.15,1039,Yang et al. (2013b),Density,Liquid,AAOCWD,CN(C)C=O,dimethylformamide,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+zBjqW,0.6134,101,298.15,1032.4,Yang et al. (2013b),Density,Liquid,AAOCWD,CN(C)C=O,dimethylformamide,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+zBjqW,0.6994,101,298.15,1020.4,Yang et al. (2013b),Density,Liquid,AAOCWD,CN(C)C=O,dimethylformamide,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+zBjqW,0.8017,101,298.15,1001.6,Yang et al. (2013b),Density,Liquid,AAOCWD,CN(C)C=O,dimethylformamide,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+zBjqW,0.9,101,298.15,978,Yang et al. (2013b),Density,Liquid,AAOCWD,CN(C)C=O,dimethylformamide,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+zBjqW,0.9502,101,298.15,963.1,Yang et al. (2013b),Density,Liquid,AAOCWD,CN(C)C=O,dimethylformamide,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+zBjqW,0.975,101,298.15,954.2,Yang et al. (2013b),Density,Liquid,AAOCWD,CN(C)C=O,dimethylformamide,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+zBjqW,1,101,298.15,943.9,Yang et al. (2013b),Density,Liquid,AAOCWD,CN(C)C=O,dimethylformamide,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,

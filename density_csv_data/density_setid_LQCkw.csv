@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LQCkw,288.15,101.325,1224.9,Vatascin and Dohnal (2020),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+LQCkw,293.15,101.325,1221.3,Vatascin and Dohnal (2020),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+LQCkw,298.15,101.325,1217.8,Vatascin and Dohnal (2020),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+LQCkw,303.15,101.325,1214.4,Vatascin and Dohnal (2020),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+LQCkw,308.15,101.325,1211,Vatascin and Dohnal (2020),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+LQCkw,313.15,101.325,1207.6,Vatascin and Dohnal (2020),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+LQCkw,318.15,101.325,1204.3,Vatascin and Dohnal (2020),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+LQCkw,323.15,101.325,1201,Vatascin and Dohnal (2020),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+LQCkw,328.15,101.325,1197.8,Vatascin and Dohnal (2020),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+LQCkw,333.15,101.325,1194.5,Vatascin and Dohnal (2020),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,

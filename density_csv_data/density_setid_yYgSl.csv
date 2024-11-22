@@ -1,0 +1,17 @@
+setid,"Temperature, K",Mole fraction of nonane,Mole fraction of benzene,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yYgSl,283.15,0,0.552,1123.91,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,283.15,0.002,0.342,1174.43,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,283.15,0.002,0.381,1166,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,283.15,0.002,0.428,1155.34,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,283.15,0.003,0.298,1182.78,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,283.15,0.004,0.099,1215.61,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,283.15,0.004,0.147,1208.03,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,283.15,0.004,0.199,1199.94,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,283.15,0.005,0.238,1193.72,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,298.15,0,0.591,1104.84,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,298.15,0.001,0.301,1172.4,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,298.15,0.001,0.348,1162.85,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,298.15,0.002,0.447,1140.81,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,298.15,0.004,0,1217.62,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,298.15,0.004,0.053,1211.41,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane
+yYgSl,298.15,0.004,0.097,1205.73,Gonzalez et al. (2010b),Density,Liquid mixture 1,Liquid mixture 2,,16,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane

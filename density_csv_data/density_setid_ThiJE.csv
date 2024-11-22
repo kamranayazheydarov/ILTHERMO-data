@@ -1,0 +1,2 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ThiJE,298.15,101.325,1240,Mei et al. (2018),Density,Liquid,ABeWPy,CC[S+](CC)CCOCCOCC[S+](CC)CC.N#C[N-]C#N.N#C[N-]C#N,"((ethane-1,2-diylbis(oxy))bis(ethane-2,1-diyl))bis(diethylsulfonium) dicyanamide",,,,,,

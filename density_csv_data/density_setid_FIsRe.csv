@@ -1,0 +1,3 @@
+setid,"MolaRity of N-methyldiethanolamine, mol/dm3","MolaRity of 1-butyl-3-methylimidazolium tetrafluoroborate, mol/dm3","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FIsRe,4,4,303.15,100,1099.3,Lu et al. (2019c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,AAWveB,CN(CCO)CCO,N-methyldiethanolamine
+FIsRe,4,4,313.15,100,1091.4,Lu et al. (2019c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,AAWveB,CN(CCO)CCO,N-methyldiethanolamine

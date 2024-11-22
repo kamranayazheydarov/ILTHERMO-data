@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Wavelength, A",Refractive index,reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+Fxasi,298,101.325,633,1.4772,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABOKix,CCCCCCn1c(C)cc(C)[n+]1-c1ccccc1.F[B-](F)(F)F,"1-phenyl-3,5-dimethyl-2-hexylpyrazolium tetrafluoroborate",,,,,,,
+Fxasi,308,101.325,633,1.474,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABOKix,CCCCCCn1c(C)cc(C)[n+]1-c1ccccc1.F[B-](F)(F)F,"1-phenyl-3,5-dimethyl-2-hexylpyrazolium tetrafluoroborate",,,,,,,
+Fxasi,313,101.325,633,1.4728,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABOKix,CCCCCCn1c(C)cc(C)[n+]1-c1ccccc1.F[B-](F)(F)F,"1-phenyl-3,5-dimethyl-2-hexylpyrazolium tetrafluoroborate",,,,,,,
+Fxasi,333,101.325,633,1.4671,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABOKix,CCCCCCn1c(C)cc(C)[n+]1-c1ccccc1.F[B-](F)(F)F,"1-phenyl-3,5-dimethyl-2-hexylpyrazolium tetrafluoroborate",,,,,,,

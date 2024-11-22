@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CzKvq,303.15,101,1449.8,Wang et al. (2018c),Density,Liquid,ABcDLM,CCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+CzKvq,313.15,101,1440.4,Wang et al. (2018c),Density,Liquid,ABcDLM,CCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+CzKvq,323.15,101,1431.1,Wang et al. (2018c),Density,Liquid,ABcDLM,CCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+CzKvq,333.15,101,1421.8,Wang et al. (2018c),Density,Liquid,ABcDLM,CCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

@@ -1,0 +1,13 @@
+setid,Mole fraction of ethanol,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KVRwB,0,298.15,100,1115.1,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,0.1175,298.15,100,1101.6,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,0.2134,298.15,100,1088.9,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,0.345,298.15,100,1067.7,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,0.3836,298.15,100,1060.5,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,0.5009,298.15,100,1035.2,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,0.5142,298.15,100,1031.8,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,0.6181,298.15,100,1003.1,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,0.6948,298.15,100,975.7,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,0.7997,298.15,100,928.2,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,0.8944,298.15,100,873.3,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,
+KVRwB,1,298.15,100,784.6,Wojtczuk et al. (2020),Density,Liquid,AAIsrh,CCO,ethanol,AAgcST,CC[n+]1ccn(C)c1.N#C[S-],1-ethyl-3-methylimidazolium thiocyanate,,,

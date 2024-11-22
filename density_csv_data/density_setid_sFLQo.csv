@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+sFLQo,298.2,98.3,0.00035,Aki et al. (2004),Density,Liquid,ACBsjq,CCCC[n+]1ccn(C)c1.O=S(=O)([C-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium tris[(trifluoromethyl)sulfonyl]methide,,,,,,
+sFLQo,313.2,98,0.000361,Aki et al. (2004),Density,Liquid,ACBsjq,CCCC[n+]1ccn(C)c1.O=S(=O)([C-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium tris[(trifluoromethyl)sulfonyl]methide,,,,,,
+sFLQo,333.2,98.5,0.000364,Aki et al. (2004),Density,Liquid,ACBsjq,CCCC[n+]1ccn(C)c1.O=S(=O)([C-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium tris[(trifluoromethyl)sulfonyl]methide,,,,,,

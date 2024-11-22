@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Weight fraction of 2-hydroxyethanaminium tetrafluoroborate,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nRNiC,303.15,101,0.3004,1116.5,Zhao et al. (2010a),Density,Liquid,AADYJk,O,water,AAcgPC,F[B-](F)(F)F.[NH3+]CCO,2-hydroxyethanaminium tetrafluoroborate,,,
+nRNiC,313.15,101,0.3004,1110.9,Zhao et al. (2010a),Density,Liquid,AADYJk,O,water,AAcgPC,F[B-](F)(F)F.[NH3+]CCO,2-hydroxyethanaminium tetrafluoroborate,,,
+nRNiC,323.15,101,0.3004,1105,Zhao et al. (2010a),Density,Liquid,AADYJk,O,water,AAcgPC,F[B-](F)(F)F.[NH3+]CCO,2-hydroxyethanaminium tetrafluoroborate,,,
+nRNiC,333.15,101,0.3004,1099,Zhao et al. (2010a),Density,Liquid,AADYJk,O,water,AAcgPC,F[B-](F)(F)F.[NH3+]CCO,2-hydroxyethanaminium tetrafluoroborate,,,
+nRNiC,343.15,101,0.3004,1093.4,Zhao et al. (2010a),Density,Liquid,AADYJk,O,water,AAcgPC,F[B-](F)(F)F.[NH3+]CCO,2-hydroxyethanaminium tetrafluoroborate,,,

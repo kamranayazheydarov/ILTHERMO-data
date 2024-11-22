@@ -1,0 +1,22 @@
+setid,"Temperature, K",Mole fraction of carbon dioxide,"Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OnFPy,313.15,0.197,0.0002214,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,313.15,0.319,0.0001937,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,313.15,0.417,0.0001709,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,313.15,0.507,0.0001497,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,313.15,0.589,0.0001292,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,313.15,0.658,0.0001106,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,313.15,0.708,9.69e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,323.15,0.191,0.000221,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,323.15,0.297,0.0001966,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,323.15,0.398,0.0001734,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,323.15,0.489,0.0001528,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,323.15,0.551,0.0001382,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,323.15,0.627,0.0001178,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,323.15,0.671,0.0001061,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,333.15,0.16,0.0002306,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,333.15,0.292,0.0002005,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,333.15,0.373,0.0001828,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,333.15,0.454,0.0001641,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,333.15,0.523,0.0001431,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,333.15,0.605,0.0001238,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate
+OnFPy,333.15,0.651,0.0001115,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate

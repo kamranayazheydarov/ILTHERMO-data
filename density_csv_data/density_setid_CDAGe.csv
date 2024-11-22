@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of methyltriphenylphosphonium bromide,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CDAGe,293.15,101,0.25,1245,Ibrahim et al. (2019),Density,Liquid,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,AALwIY,OCCO,"1,2-ethanediol",,,
+CDAGe,303.15,101,0.25,1238,Ibrahim et al. (2019),Density,Liquid,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,AALwIY,OCCO,"1,2-ethanediol",,,
+CDAGe,313.15,101,0.25,1231,Ibrahim et al. (2019),Density,Liquid,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,AALwIY,OCCO,"1,2-ethanediol",,,
+CDAGe,323.15,101,0.25,1224,Ibrahim et al. (2019),Density,Liquid,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,AALwIY,OCCO,"1,2-ethanediol",,,
+CDAGe,333.15,101,0.25,1217,Ibrahim et al. (2019),Density,Liquid,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,AALwIY,OCCO,"1,2-ethanediol",,,
+CDAGe,343.15,101,0.25,1210,Ibrahim et al. (2019),Density,Liquid,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,AALwIY,OCCO,"1,2-ethanediol",,,
+CDAGe,353.15,101,0.25,1203,Ibrahim et al. (2019),Density,Liquid,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,AALwIY,OCCO,"1,2-ethanediol",,,

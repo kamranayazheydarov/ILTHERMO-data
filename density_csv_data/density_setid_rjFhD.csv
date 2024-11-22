@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rjFhD,293.15,101.325,1429.4,Khan et al. (2017a),Density,Liquid,AAqIsO,N#CCCn1cc[nH+]c1.O=S(=O)([O-])O,1-(2-cyanoethyl)imidazolium hydrogen sulfate,,,,,,
+rjFhD,303.15,101.325,1423.3,Khan et al. (2017a),Density,Liquid,AAqIsO,N#CCCn1cc[nH+]c1.O=S(=O)([O-])O,1-(2-cyanoethyl)imidazolium hydrogen sulfate,,,,,,
+rjFhD,313.15,101.325,1417.4,Khan et al. (2017a),Density,Liquid,AAqIsO,N#CCCn1cc[nH+]c1.O=S(=O)([O-])O,1-(2-cyanoethyl)imidazolium hydrogen sulfate,,,,,,
+rjFhD,323.15,101.325,1411.4,Khan et al. (2017a),Density,Liquid,AAqIsO,N#CCCn1cc[nH+]c1.O=S(=O)([O-])O,1-(2-cyanoethyl)imidazolium hydrogen sulfate,,,,,,
+rjFhD,333.15,101.325,1405,Khan et al. (2017a),Density,Liquid,AAqIsO,N#CCCn1cc[nH+]c1.O=S(=O)([O-])O,1-(2-cyanoethyl)imidazolium hydrogen sulfate,,,,,,
+rjFhD,343.15,101.325,1398.8,Khan et al. (2017a),Density,Liquid,AAqIsO,N#CCCn1cc[nH+]c1.O=S(=O)([O-])O,1-(2-cyanoethyl)imidazolium hydrogen sulfate,,,,,,
+rjFhD,353.15,101.325,1393,Khan et al. (2017a),Density,Liquid,AAqIsO,N#CCCn1cc[nH+]c1.O=S(=O)([O-])O,1-(2-cyanoethyl)imidazolium hydrogen sulfate,,,,,,
+rjFhD,363.15,101.325,1385.9,Khan et al. (2017a),Density,Liquid,AAqIsO,N#CCCn1cc[nH+]c1.O=S(=O)([O-])O,1-(2-cyanoethyl)imidazolium hydrogen sulfate,,,,,,
+rjFhD,373.15,101.325,1378.6,Khan et al. (2017a),Density,Liquid,AAqIsO,N#CCCn1cc[nH+]c1.O=S(=O)([O-])O,1-(2-cyanoethyl)imidazolium hydrogen sulfate,,,,,,

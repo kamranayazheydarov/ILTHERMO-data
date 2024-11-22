@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fDwZA,288.15,101.325,1192.9,Hong et al. (2013a),Density,Liquid,AAmaPc,CC(O)C(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium lactate,,,,,,
+fDwZA,293.15,101.325,1189.8,Hong et al. (2013a),Density,Liquid,AAmaPc,CC(O)C(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium lactate,,,,,,
+fDwZA,303.15,101.325,1183.4,Hong et al. (2013a),Density,Liquid,AAmaPc,CC(O)C(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium lactate,,,,,,
+fDwZA,308.15,101.325,1180.1,Hong et al. (2013a),Density,Liquid,AAmaPc,CC(O)C(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium lactate,,,,,,
+fDwZA,313.15,101.325,1176.4,Hong et al. (2013a),Density,Liquid,AAmaPc,CC(O)C(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium lactate,,,,,,
+fDwZA,318.15,101.325,1173.4,Hong et al. (2013a),Density,Liquid,AAmaPc,CC(O)C(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium lactate,,,,,,
+fDwZA,323.15,101.325,1170.4,Hong et al. (2013a),Density,Liquid,AAmaPc,CC(O)C(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium lactate,,,,,,
+fDwZA,328.15,101.325,1167.1,Hong et al. (2013a),Density,Liquid,AAmaPc,CC(O)C(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium lactate,,,,,,
+fDwZA,333.15,101.325,1163.6,Hong et al. (2013a),Density,Liquid,AAmaPc,CC(O)C(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium lactate,,,,,,

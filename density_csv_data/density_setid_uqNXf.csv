@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uqNXf,293.15,101.325,1110.2,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,
+uqNXf,298.15,101.325,1106,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,
+uqNXf,303.15,101.325,1101.8,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,
+uqNXf,308.15,101.325,1097.7,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,
+uqNXf,313.15,101.325,1093.5,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,
+uqNXf,318.15,101.325,1089.3,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,
+uqNXf,323.15,101.325,1085.2,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,
+uqNXf,328.15,101.325,1081,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,
+uqNXf,333.15,101.325,1076.8,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,
+uqNXf,338.15,101.325,1072.61,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,
+uqNXf,343.15,101.325,1068.42,Lamas et al. (2016),Density,Liquid,AAqitB,CCCC[NH+](CCCC)CCCC.[Cl-],tributylammonium chloride,,,,,,

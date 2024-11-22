@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+YojeW,293.15,100,1158.3,Heydarian et al. (2019),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+YojeW,298.15,100,1155.2,Heydarian et al. (2019),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+YojeW,303.15,100,1152.3,Heydarian et al. (2019),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+YojeW,308.15,100,1149.3,Heydarian et al. (2019),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+YojeW,313.15,100,1146.5,Heydarian et al. (2019),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+YojeW,318.15,100,1143.8,Heydarian et al. (2019),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,
+YojeW,323.15,100,1141.2,Heydarian et al. (2019),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,,,,

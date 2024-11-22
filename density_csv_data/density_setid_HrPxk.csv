@@ -1,0 +1,9 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HrPxk,100,328.83,1027.93,Souckova et al. (2016),Density,Liquid,ABNCBt,CCCCCCCCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-dodecyl-3-methylimidazolium tetrafluoroborate,,,,,,
+HrPxk,100,333.45,1024.75,Souckova et al. (2016),Density,Liquid,ABNCBt,CCCCCCCCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-dodecyl-3-methylimidazolium tetrafluoroborate,,,,,,
+HrPxk,100,337,1022.41,Souckova et al. (2016),Density,Liquid,ABNCBt,CCCCCCCCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-dodecyl-3-methylimidazolium tetrafluoroborate,,,,,,
+HrPxk,100,343.4,1018.2,Souckova et al. (2016),Density,Liquid,ABNCBt,CCCCCCCCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-dodecyl-3-methylimidazolium tetrafluoroborate,,,,,,
+HrPxk,100,347.32,1015.89,Souckova et al. (2016),Density,Liquid,ABNCBt,CCCCCCCCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-dodecyl-3-methylimidazolium tetrafluoroborate,,,,,,
+HrPxk,100,352.58,1012.18,Souckova et al. (2016),Density,Liquid,ABNCBt,CCCCCCCCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-dodecyl-3-methylimidazolium tetrafluoroborate,,,,,,
+HrPxk,100,357.71,1009,Souckova et al. (2016),Density,Liquid,ABNCBt,CCCCCCCCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-dodecyl-3-methylimidazolium tetrafluoroborate,,,,,,
+HrPxk,100,362.85,1005.22,Souckova et al. (2016),Density,Liquid,ABNCBt,CCCCCCCCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-dodecyl-3-methylimidazolium tetrafluoroborate,,,,,,

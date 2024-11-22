@@ -1,0 +1,10 @@
+setid,"Temperature, K","MolaLity of 1-dodecyl-3-methylimidazolium bromide, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+hhBZR,288.15,0.04,100,1000.19,Sharma et al. (2022d),Density,Liquid,ABLlfj,CCCCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-dodecyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+hhBZR,288.15,0.06,100,1000.46,Sharma et al. (2022d),Density,Liquid,ABLlfj,CCCCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-dodecyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+hhBZR,298.15,0.005,100,997.235,Sharma et al. (2022d),Density,Liquid,ABLlfj,CCCCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-dodecyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+hhBZR,308.15,0.005,100,994.213,Sharma et al. (2022d),Density,Liquid,ABLlfj,CCCCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-dodecyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+hhBZR,318.15,0.005,100,990.321,Sharma et al. (2022d),Density,Liquid,ABLlfj,CCCCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-dodecyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+hhBZR,318.15,0.005,100,990.379,Sharma et al. (2022d),Density,Liquid,ABLlfj,CCCCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-dodecyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+hhBZR,318.15,0.02,100,990.618,Sharma et al. (2022d),Density,Liquid,ABLlfj,CCCCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-dodecyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+hhBZR,318.15,0.04,100,991.009,Sharma et al. (2022d),Density,Liquid,ABLlfj,CCCCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-dodecyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+hhBZR,318.15,0.06,100,991.423,Sharma et al. (2022d),Density,Liquid,ABLlfj,CCCCCCCCCCCC[n+]1ccn(C)c1.[Br-],1-dodecyl-3-methylimidazolium bromide,AADYJk,O,water,,,

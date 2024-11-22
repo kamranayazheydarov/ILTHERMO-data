@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+aMqJo,293.15,101.325,1127.2,Wang et al. (2009c),Density,Liquid,ABBaMT,CCOP(=O)([O-])OCC.CCn1cc[n+](CC)c1,"1,3-diethyl-1H-imidazol-3-ium diethyl phosphate",,,,,,
+aMqJo,298.15,101.325,1125,Wang et al. (2009c),Density,Liquid,ABBaMT,CCOP(=O)([O-])OCC.CCn1cc[n+](CC)c1,"1,3-diethyl-1H-imidazol-3-ium diethyl phosphate",,,,,,
+aMqJo,303.15,101.325,1122.3,Wang et al. (2009c),Density,Liquid,ABBaMT,CCOP(=O)([O-])OCC.CCn1cc[n+](CC)c1,"1,3-diethyl-1H-imidazol-3-ium diethyl phosphate",,,,,,
+aMqJo,308.15,101.325,1119.6,Wang et al. (2009c),Density,Liquid,ABBaMT,CCOP(=O)([O-])OCC.CCn1cc[n+](CC)c1,"1,3-diethyl-1H-imidazol-3-ium diethyl phosphate",,,,,,
+aMqJo,313.15,101.325,1115.5,Wang et al. (2009c),Density,Liquid,ABBaMT,CCOP(=O)([O-])OCC.CCn1cc[n+](CC)c1,"1,3-diethyl-1H-imidazol-3-ium diethyl phosphate",,,,,,
+aMqJo,318.15,101.325,1111.9,Wang et al. (2009c),Density,Liquid,ABBaMT,CCOP(=O)([O-])OCC.CCn1cc[n+](CC)c1,"1,3-diethyl-1H-imidazol-3-ium diethyl phosphate",,,,,,
+aMqJo,323.15,101.325,1108.8,Wang et al. (2009c),Density,Liquid,ABBaMT,CCOP(=O)([O-])OCC.CCn1cc[n+](CC)c1,"1,3-diethyl-1H-imidazol-3-ium diethyl phosphate",,,,,,

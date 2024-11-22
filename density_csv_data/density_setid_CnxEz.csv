@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CnxEz,293.15,101.325,996.2,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,
+CnxEz,298.15,101.325,993.5,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,
+CnxEz,303.15,101.325,990.8,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,
+CnxEz,308.15,101.325,988.1,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,
+CnxEz,313.15,101.325,985.4,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,
+CnxEz,318.15,101.325,982.8,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,
+CnxEz,323.15,101.325,980.1,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,
+CnxEz,328.15,101.325,977.5,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,
+CnxEz,333.15,101.325,974.8,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,
+CnxEz,338.15,101.325,972.1,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,
+CnxEz,343.15,101.325,969.5,Chhotaray and Gardas (2014),Density,Liquid,AAULkX,CCC[NH3+].O=C[O-],propylammonium formate,,,,,,

@@ -1,0 +1,10 @@
+setid,Mole fraction of ethanol,"Pressure, kPa","Temperature, K",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+dqPCp,0.1874,101,298.15,1.52564,Calvar et al. (2006),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,
+dqPCp,0.2532,101,298.15,1.51878,Calvar et al. (2006),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,
+dqPCp,0.4815,101,298.15,1.49102,Calvar et al. (2006),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,
+dqPCp,0.6209,101,298.15,1.4689,Calvar et al. (2006),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,
+dqPCp,0.7217,101,298.15,1.44986,Calvar et al. (2006),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,
+dqPCp,0.8485,101,298.15,1.41754,Calvar et al. (2006),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,
+dqPCp,0.8982,101,298.15,1.40177,Calvar et al. (2006),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,
+dqPCp,0.9373,101,298.15,1.38718,Calvar et al. (2006),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,
+dqPCp,1,101,298.15,1.36023,Calvar et al. (2006),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,,

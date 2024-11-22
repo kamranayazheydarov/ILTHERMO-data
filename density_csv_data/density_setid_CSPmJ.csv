@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CSPmJ,283.15,101.325,1209.4,Peng et al. (2021),Density,Liquid,ABLceY,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])[C@@H](C(=O)[O-])[NH3+],N-butyltropinium L-aspartate,,,,,,
+CSPmJ,288.15,101.325,1199.3,Peng et al. (2021),Density,Liquid,ABLceY,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])[C@@H](C(=O)[O-])[NH3+],N-butyltropinium L-aspartate,,,,,,
+CSPmJ,293.15,101.325,1189,Peng et al. (2021),Density,Liquid,ABLceY,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])[C@@H](C(=O)[O-])[NH3+],N-butyltropinium L-aspartate,,,,,,
+CSPmJ,298.15,101.325,1175.9,Peng et al. (2021),Density,Liquid,ABLceY,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])[C@@H](C(=O)[O-])[NH3+],N-butyltropinium L-aspartate,,,,,,
+CSPmJ,303.15,101.325,1165.7,Peng et al. (2021),Density,Liquid,ABLceY,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])[C@@H](C(=O)[O-])[NH3+],N-butyltropinium L-aspartate,,,,,,
+CSPmJ,308.15,101.325,1154.4,Peng et al. (2021),Density,Liquid,ABLceY,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])[C@@H](C(=O)[O-])[NH3+],N-butyltropinium L-aspartate,,,,,,
+CSPmJ,313.15,101.325,1146.5,Peng et al. (2021),Density,Liquid,ABLceY,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])[C@@H](C(=O)[O-])[NH3+],N-butyltropinium L-aspartate,,,,,,
+CSPmJ,318.15,101.325,1135.2,Peng et al. (2021),Density,Liquid,ABLceY,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])[C@@H](C(=O)[O-])[NH3+],N-butyltropinium L-aspartate,,,,,,
+CSPmJ,323.15,101.325,1121.9,Peng et al. (2021),Density,Liquid,ABLceY,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])[C@@H](C(=O)[O-])[NH3+],N-butyltropinium L-aspartate,,,,,,
+CSPmJ,328.15,101.325,1109.5,Peng et al. (2021),Density,Liquid,ABLceY,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])[C@@H](C(=O)[O-])[NH3+],N-butyltropinium L-aspartate,,,,,,

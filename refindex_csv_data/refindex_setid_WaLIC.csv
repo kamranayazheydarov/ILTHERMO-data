@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+WaLIC,288.15,100,1.4332,Fang et al. (2022),Refractive index,Liquid,ABZdDq,C=CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-allyl-3-methyl-1H-imidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,,
+WaLIC,293.15,100,1.4319,Fang et al. (2022),Refractive index,Liquid,ABZdDq,C=CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-allyl-3-methyl-1H-imidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,,
+WaLIC,298.15,100,1.4303,Fang et al. (2022),Refractive index,Liquid,ABZdDq,C=CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-allyl-3-methyl-1H-imidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,,
+WaLIC,303.15,100,1.4288,Fang et al. (2022),Refractive index,Liquid,ABZdDq,C=CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-allyl-3-methyl-1H-imidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,,
+WaLIC,308.15,100,1.4279,Fang et al. (2022),Refractive index,Liquid,ABZdDq,C=CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-allyl-3-methyl-1H-imidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,,
+WaLIC,313.15,100,1.4262,Fang et al. (2022),Refractive index,Liquid,ABZdDq,C=CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-allyl-3-methyl-1H-imidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,,
+WaLIC,318.15,100,1.425,Fang et al. (2022),Refractive index,Liquid,ABZdDq,C=CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-allyl-3-methyl-1H-imidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KLoNI,293.15,101.325,1254.2,Raj et al. (2017),Density,Liquid,AAyDDd,CCOCC[n+]1ccn(CCC#N)c1.N#C[N-]C#N,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium dicyanamide,,,,,,
+KLoNI,303.15,101.325,1247.2,Raj et al. (2017),Density,Liquid,AAyDDd,CCOCC[n+]1ccn(CCC#N)c1.N#C[N-]C#N,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium dicyanamide,,,,,,
+KLoNI,313.15,101.325,1240,Raj et al. (2017),Density,Liquid,AAyDDd,CCOCC[n+]1ccn(CCC#N)c1.N#C[N-]C#N,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium dicyanamide,,,,,,
+KLoNI,323.15,101.325,1233.2,Raj et al. (2017),Density,Liquid,AAyDDd,CCOCC[n+]1ccn(CCC#N)c1.N#C[N-]C#N,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium dicyanamide,,,,,,
+KLoNI,333.15,101.325,1226.1,Raj et al. (2017),Density,Liquid,AAyDDd,CCOCC[n+]1ccn(CCC#N)c1.N#C[N-]C#N,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium dicyanamide,,,,,,
+KLoNI,343.15,101.325,1219.4,Raj et al. (2017),Density,Liquid,AAyDDd,CCOCC[n+]1ccn(CCC#N)c1.N#C[N-]C#N,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium dicyanamide,,,,,,
+KLoNI,353.15,101.325,1212.5,Raj et al. (2017),Density,Liquid,AAyDDd,CCOCC[n+]1ccn(CCC#N)c1.N#C[N-]C#N,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium dicyanamide,,,,,,
+KLoNI,363.15,101.325,1205.7,Raj et al. (2017),Density,Liquid,AAyDDd,CCOCC[n+]1ccn(CCC#N)c1.N#C[N-]C#N,3-(2-cyanoethyl)-1-(2-ethoxyethyl)imidazolium dicyanamide,,,,,,

@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Apcsf,283.15,101.325,1165.8,Peng et al. (2021),Density,Liquid,ABRlse,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C(C=C1)C[C@@H](C(=O)[O-])N,N-butyltropinium L-phenylalaninate,,,,,,
+Apcsf,288.15,101.325,1154,Peng et al. (2021),Density,Liquid,ABRlse,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C(C=C1)C[C@@H](C(=O)[O-])N,N-butyltropinium L-phenylalaninate,,,,,,
+Apcsf,293.15,101.325,1142.4,Peng et al. (2021),Density,Liquid,ABRlse,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C(C=C1)C[C@@H](C(=O)[O-])N,N-butyltropinium L-phenylalaninate,,,,,,
+Apcsf,298.15,101.325,1133,Peng et al. (2021),Density,Liquid,ABRlse,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C(C=C1)C[C@@H](C(=O)[O-])N,N-butyltropinium L-phenylalaninate,,,,,,
+Apcsf,303.15,101.325,1120.9,Peng et al. (2021),Density,Liquid,ABRlse,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C(C=C1)C[C@@H](C(=O)[O-])N,N-butyltropinium L-phenylalaninate,,,,,,
+Apcsf,308.15,101.325,1107.6,Peng et al. (2021),Density,Liquid,ABRlse,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C(C=C1)C[C@@H](C(=O)[O-])N,N-butyltropinium L-phenylalaninate,,,,,,
+Apcsf,313.15,101.325,1094.6,Peng et al. (2021),Density,Liquid,ABRlse,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C(C=C1)C[C@@H](C(=O)[O-])N,N-butyltropinium L-phenylalaninate,,,,,,
+Apcsf,318.15,101.325,1085.7,Peng et al. (2021),Density,Liquid,ABRlse,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C(C=C1)C[C@@H](C(=O)[O-])N,N-butyltropinium L-phenylalaninate,,,,,,
+Apcsf,323.15,101.325,1076.5,Peng et al. (2021),Density,Liquid,ABRlse,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C(C=C1)C[C@@H](C(=O)[O-])N,N-butyltropinium L-phenylalaninate,,,,,,
+Apcsf,328.15,101.325,1065.9,Peng et al. (2021),Density,Liquid,ABRlse,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C1=CC=C(C=C1)C[C@@H](C(=O)[O-])N,N-butyltropinium L-phenylalaninate,,,,,,

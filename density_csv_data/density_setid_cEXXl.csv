@@ -1,0 +1,8 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cEXXl,100,293.15,1179.3,Patel et al. (2016),Density,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,,,,,,
+cEXXl,100,298.15,1175.7,Patel et al. (2016),Density,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,,,,,,
+cEXXl,100,303.15,1172.1,Patel et al. (2016),Density,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,,,,,,
+cEXXl,100,308.15,1168.5,Patel et al. (2016),Density,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,,,,,,
+cEXXl,100,313.15,1165,Patel et al. (2016),Density,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,,,,,,
+cEXXl,100,318.15,1161.5,Patel et al. (2016),Density,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,,,,,,
+cEXXl,100,323.15,1158,Patel et al. (2016),Density,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,,,,,,

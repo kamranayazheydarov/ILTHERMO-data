@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ndPzO,303.15,96.7,1014,Yang and Feng (2020),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+ndPzO,308.15,96.7,1011,Yang and Feng (2020),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+ndPzO,313.15,96.7,1008,Yang and Feng (2020),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+ndPzO,318.15,96.7,1005,Yang and Feng (2020),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+ndPzO,323.15,96.7,1002,Yang and Feng (2020),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+ndPzO,328.15,96.7,999,Yang and Feng (2020),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+ndPzO,333.15,96.7,995,Yang and Feng (2020),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,
+ndPzO,338.15,96.7,992.2,Yang and Feng (2020),Density,Liquid,AArbij,CC(=O)[O-].CCCCCCn1cc[n+](C)c1,3-hexyl-1-methylimidazolium acetate,,,,,,

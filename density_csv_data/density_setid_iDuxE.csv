@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iDuxE,298.15,101.325,1012.35,He et al. (2012),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+iDuxE,323.15,101.325,998.05,He et al. (2012),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+iDuxE,348.15,101.325,983.99,He et al. (2012),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,
+iDuxE,363.15,101.325,975.67,He et al. (2012),Density,Liquid,AAsTjr,CCCCCCCCn1cc[n+](C)c1.[Cl-],1-methyl-3-octylimidazolium chloride,,,,,,

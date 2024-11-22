@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eqCVi,298.15,101.325,1708,Wlazlo et al. (2015a),Density,Liquid,ACCxcQ,CCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+eqCVi,308.15,101.325,1699.6,Wlazlo et al. (2015a),Density,Liquid,ACCxcQ,CCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+eqCVi,318.15,101.325,1684.5,Wlazlo et al. (2015a),Density,Liquid,ACCxcQ,CCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+eqCVi,328.15,101.325,1672.8,Wlazlo et al. (2015a),Density,Liquid,ACCxcQ,CCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+eqCVi,338.15,101.325,1661.1,Wlazlo et al. (2015a),Density,Liquid,ACCxcQ,CCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+eqCVi,348.15,101.325,1649.4,Wlazlo et al. (2015a),Density,Liquid,ACCxcQ,CCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,

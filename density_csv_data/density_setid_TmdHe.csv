@@ -1,0 +1,2 @@
+setid,Mole fraction of methylcyclohexane,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+TmdHe,0.013,101,298.15,1248.8,Gomez et al. (2014),Density,Liquid,AAStyH,CC1CCCCC1,methylcyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,

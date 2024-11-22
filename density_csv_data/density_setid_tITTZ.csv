@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+tITTZ,298,101.325,1165.1,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,303,101.325,1162.2,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,308,101.325,1159.4,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,313,101.325,1156.6,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,318,101.325,1153.8,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,323,101.325,1151,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,328,101.325,1148.2,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,333,101.325,1145.3,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,338,101.325,1142.5,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,343,101.325,1139.6,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,348,101.325,1136.8,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,
+tITTZ,353,101.325,1134,Carreira et al. (2021),Density,Liquid,AAzfRH,C[N+](C)(C)CCO.N[C@H](Cc1ccccc1)C(=O)[O-],cholinium D-phenylalaninate,,,,,,

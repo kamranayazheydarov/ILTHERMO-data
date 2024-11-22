@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FBLSc,303,101.325,829,Khan et al. (2019),Density,Liquid,ACVfje,CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium oleate,,,,,,
+FBLSc,313,101.325,823,Khan et al. (2019),Density,Liquid,ACVfje,CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium oleate,,,,,,
+FBLSc,323,101.325,817,Khan et al. (2019),Density,Liquid,ACVfje,CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium oleate,,,,,,
+FBLSc,333,101.325,810,Khan et al. (2019),Density,Liquid,ACVfje,CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium oleate,,,,,,
+FBLSc,343,101.325,803,Khan et al. (2019),Density,Liquid,ACVfje,CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium oleate,,,,,,
+FBLSc,353,101.325,795,Khan et al. (2019),Density,Liquid,ACVfje,CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium oleate,,,,,,
+FBLSc,363,101.325,788,Khan et al. (2019),Density,Liquid,ACVfje,CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium oleate,,,,,,
+FBLSc,373,101.325,780,Khan et al. (2019),Density,Liquid,ACVfje,CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC[PH+](CCCCCCCC)CCCCCCCC,trioctylphosphonium oleate,,,,,,

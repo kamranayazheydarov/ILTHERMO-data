@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oJgLo,293.16,101.325,1192.2,Machanova et al. (2012),Density,Liquid,ACBueh,CCCCCCCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+oJgLo,303.14,101.325,1184.4,Machanova et al. (2012),Density,Liquid,ACBueh,CCCCCCCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+oJgLo,313.14,101.325,1176.5,Machanova et al. (2012),Density,Liquid,ACBueh,CCCCCCCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+oJgLo,323.13,101.325,1168.6,Machanova et al. (2012),Density,Liquid,ACBueh,CCCCCCCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+oJgLo,333.13,101.325,1160.8,Machanova et al. (2012),Density,Liquid,ACBueh,CCCCCCCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+oJgLo,343.12,101.325,1153.1,Machanova et al. (2012),Density,Liquid,ACBueh,CCCCCCCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+oJgLo,353.15,101.325,1145.4,Machanova et al. (2012),Density,Liquid,ACBueh,CCCCCCCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+oJgLo,363.12,101.325,1137.8,Machanova et al. (2012),Density,Liquid,ACBueh,CCCCCCCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide",,,,,,

@@ -1,0 +1,11 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kFbiE,100,308.15,1020.4,Lee et al. (2016),Density,Liquid,ABoDJr,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CC(O)CNC1CCCCC1,tetrabutylammonium 3-(cyclohexylamino)-2-hydroxypropanesulfonate,,,,,,
+kFbiE,100,313.15,1017.3,Lee et al. (2016),Density,Liquid,ABoDJr,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CC(O)CNC1CCCCC1,tetrabutylammonium 3-(cyclohexylamino)-2-hydroxypropanesulfonate,,,,,,
+kFbiE,100,318.15,1014.4,Lee et al. (2016),Density,Liquid,ABoDJr,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CC(O)CNC1CCCCC1,tetrabutylammonium 3-(cyclohexylamino)-2-hydroxypropanesulfonate,,,,,,
+kFbiE,100,323.15,1011.5,Lee et al. (2016),Density,Liquid,ABoDJr,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CC(O)CNC1CCCCC1,tetrabutylammonium 3-(cyclohexylamino)-2-hydroxypropanesulfonate,,,,,,
+kFbiE,100,328.15,1008.6,Lee et al. (2016),Density,Liquid,ABoDJr,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CC(O)CNC1CCCCC1,tetrabutylammonium 3-(cyclohexylamino)-2-hydroxypropanesulfonate,,,,,,
+kFbiE,100,333.15,1005.7,Lee et al. (2016),Density,Liquid,ABoDJr,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CC(O)CNC1CCCCC1,tetrabutylammonium 3-(cyclohexylamino)-2-hydroxypropanesulfonate,,,,,,
+kFbiE,100,338.15,1002.8,Lee et al. (2016),Density,Liquid,ABoDJr,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CC(O)CNC1CCCCC1,tetrabutylammonium 3-(cyclohexylamino)-2-hydroxypropanesulfonate,,,,,,
+kFbiE,100,343.15,999.9,Lee et al. (2016),Density,Liquid,ABoDJr,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CC(O)CNC1CCCCC1,tetrabutylammonium 3-(cyclohexylamino)-2-hydroxypropanesulfonate,,,,,,
+kFbiE,100,348.15,997.2,Lee et al. (2016),Density,Liquid,ABoDJr,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CC(O)CNC1CCCCC1,tetrabutylammonium 3-(cyclohexylamino)-2-hydroxypropanesulfonate,,,,,,
+kFbiE,100,353.15,994.3,Lee et al. (2016),Density,Liquid,ABoDJr,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CC(O)CNC1CCCCC1,tetrabutylammonium 3-(cyclohexylamino)-2-hydroxypropanesulfonate,,,,,,

@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cghot,298,101.325,1486,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,303,101.325,1478,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,308,101.325,1469,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,313,101.325,1465,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,318,101.325,1459,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,323,101.325,1454,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,328,101.325,1448,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,333,101.325,1444,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,338,101.325,1440,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,343,101.325,1433,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,348,101.325,1430,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+cghot,353,101.325,1425,De La Hoz et al. (2014),Density,Liquid,ABcrbe,CCCCn1c[n+](C)cn1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-butyl-4-methyl-1H-1,2,4-triazol-4-ium bis((trifluoromethyl)sulfonyl)amide",,,,,,

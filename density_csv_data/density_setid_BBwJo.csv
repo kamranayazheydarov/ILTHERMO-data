@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BBwJo,293.15,101.325,970.5,Gardas et al. (2010b),Density,Liquid,ABZqCd,CCCC[P+](CCCC)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],tetrabutylphosphonium L-lysinate,,,,,,
+BBwJo,298.15,101.325,967.5,Gardas et al. (2010b),Density,Liquid,ABZqCd,CCCC[P+](CCCC)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],tetrabutylphosphonium L-lysinate,,,,,,
+BBwJo,303.15,101.325,964.4,Gardas et al. (2010b),Density,Liquid,ABZqCd,CCCC[P+](CCCC)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],tetrabutylphosphonium L-lysinate,,,,,,
+BBwJo,313.15,101.325,958.4,Gardas et al. (2010b),Density,Liquid,ABZqCd,CCCC[P+](CCCC)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],tetrabutylphosphonium L-lysinate,,,,,,
+BBwJo,323.15,101.325,952.3,Gardas et al. (2010b),Density,Liquid,ABZqCd,CCCC[P+](CCCC)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],tetrabutylphosphonium L-lysinate,,,,,,
+BBwJo,333.15,101.325,946.2,Gardas et al. (2010b),Density,Liquid,ABZqCd,CCCC[P+](CCCC)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],tetrabutylphosphonium L-lysinate,,,,,,
+BBwJo,343.15,101.325,940.3,Gardas et al. (2010b),Density,Liquid,ABZqCd,CCCC[P+](CCCC)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],tetrabutylphosphonium L-lysinate,,,,,,
+BBwJo,353.15,101.325,934.4,Gardas et al. (2010b),Density,Liquid,ABZqCd,CCCC[P+](CCCC)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],tetrabutylphosphonium L-lysinate,,,,,,
+BBwJo,363.15,101.325,928.6,Gardas et al. (2010b),Density,Liquid,ABZqCd,CCCC[P+](CCCC)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],tetrabutylphosphonium L-lysinate,,,,,,

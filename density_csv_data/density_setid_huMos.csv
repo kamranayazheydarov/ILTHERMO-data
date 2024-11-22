@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+huMos,293.16,101.325,1453.6,Deng et al. (2011b),Density,Liquid,ABbPxg,CCC[N+](C)(C)CCO.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+huMos,303.16,101.325,1444.5,Deng et al. (2011b),Density,Liquid,ABbPxg,CCC[N+](C)(C)CCO.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+huMos,313.11,101.325,1435.7,Deng et al. (2011b),Density,Liquid,ABbPxg,CCC[N+](C)(C)CCO.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+huMos,323.14,101.325,1426.8,Deng et al. (2011b),Density,Liquid,ABbPxg,CCC[N+](C)(C)CCO.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+huMos,333.16,101.325,1418.1,Deng et al. (2011b),Density,Liquid,ABbPxg,CCC[N+](C)(C)CCO.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+huMos,343.14,101.325,1408.7,Deng et al. (2011b),Density,Liquid,ABbPxg,CCC[N+](C)(C)CCO.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N-(2-hydroxyethyl)-N,N-dimethyl-1-propanaminium bis((trifluoromethyl)sulfonyl)amide",,,,,,

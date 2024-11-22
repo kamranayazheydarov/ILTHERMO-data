@@ -1,0 +1,18 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jSnHx,298.2,1031,0.000153,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,298.2,1962,0.000141,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,298.2,2951,0.000132,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,298.2,4200,0.000121,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,298.2,5621,0.000113,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,313.2,9316,0.000107,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,313.3,1280,0.000161,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,313.3,2698,0.000151,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,313.3,4069,0.00014,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,313.3,5623,0.00013,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,313.3,7099,0.000122,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,333.1,1311,0.000166,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,333.1,4153,0.000148,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,333.1,5643,0.000139,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,333.1,7027,0.000131,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,333.1,8892,0.000115,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+jSnHx,333.2,2692,0.000158,Aki et al. (2004),Density,Liquid,Gas,,17,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate

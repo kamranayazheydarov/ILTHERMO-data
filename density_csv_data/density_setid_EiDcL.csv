@@ -1,0 +1,3 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EiDcL,298.15,100,745.37,Lago et al. (2014a),Density,Liquid mixture 3,Liquid mixture 2,,ACqwtJ,Liquid mixture 1,,2,AAgnKZ,CCCCCCCCCCCC,dodecane
+EiDcL,348.15,100,710.28,Lago et al. (2014a),Density,Liquid mixture 3,Liquid mixture 2,,ACqwtJ,Liquid mixture 1,,2,AAgnKZ,CCCCCCCCCCCC,dodecane

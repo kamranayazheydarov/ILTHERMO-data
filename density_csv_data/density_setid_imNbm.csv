@@ -1,0 +1,12 @@
+setid,Weight fraction of 1-ethyl-3-methylimidazolium bromide,Weight fraction of cesium nitrate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+imNbm,0,0.214,101,298.15,1177.77,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide
+imNbm,0.0716,0.1558,101,298.15,1199.29,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide
+imNbm,0.1499,0.1165,101,298.15,1210.31,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide
+imNbm,0.232,0.0886,101,298.15,1222.63,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide
+imNbm,0.318,0.063,101,298.15,1234.32,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide
+imNbm,0.4038,0.0483,101,298.15,1246.34,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide
+imNbm,0.4924,0.0329,101,298.15,1260.76,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide
+imNbm,0.5847,0.0157,101,298.15,1277.91,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide
+imNbm,0.6724,0.0094,101,298.15,1298.8,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide
+imNbm,0.7607,0.004,101,298.15,1311.94,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide
+imNbm,0.8464,0.0026,101,298.15,1332.91,Li et al. (2016d),Density,Liquid,AADYJk,O,water,AAlZDt,O=[N+]([O-])[O-].[Cs+],cesium nitrate,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide

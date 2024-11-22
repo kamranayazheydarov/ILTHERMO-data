@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GeLGx,298,101.325,1114,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,303,101.325,1111,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,308,101.325,1108,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,313,101.325,1105,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,318,101.325,1102,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,323,101.325,1099,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,328,101.325,1096,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,333,101.325,1093,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,338,101.325,1090,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,343,101.325,1087,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,348,101.325,1083,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,
+GeLGx,353,101.325,1080,Iwasaki et al. (2017),Density,Liquid,ABDLNl,CCCC[N+]1(C)CCCC1.F[B-](F)(F)c1ccccc1,1-butyl-1-methylpyrrolidinium phenyltrifluoroborate,,,,,,

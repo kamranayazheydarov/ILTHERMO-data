@@ -1,0 +1,4 @@
+setid,Solvent: Weight fraction of triethylammonium dihydrogen phosphate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fbHri,0.123,298.15,101,1004.23,Vasantha et al. (2013),Density,Liquid,Crystal of pure component 1,,3,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water
+fbHri,0.1901,298.15,101,1101.03,Vasantha et al. (2013),Density,Liquid,Crystal of pure component 1,,3,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water
+fbHri,0.259,298.15,101,1110.46,Vasantha et al. (2013),Density,Liquid,Crystal of pure component 1,,3,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water

@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+aFWHB,293.15,101.325,1419.39,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+aFWHB,298.15,101.325,1414.76,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+aFWHB,303.15,101.325,1410.15,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+aFWHB,308.15,101.325,1405.56,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+aFWHB,313.15,101.325,1400.98,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+aFWHB,318.15,101.325,1396.42,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+aFWHB,323.15,101.325,1391.87,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+aFWHB,328.15,101.325,1387.33,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+aFWHB,333.15,101.325,1382.82,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+aFWHB,338.15,101.325,1378.31,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,
+aFWHB,343.15,101.325,1373.81,Seoane et al. (2012b),Density,Liquid,ABenCa,CCCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylpyridinium bis[(trifluoromethyl)sulfonyl]amide,,,,,,

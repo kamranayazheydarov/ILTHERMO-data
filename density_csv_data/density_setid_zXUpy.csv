@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zXUpy,298,101.325,1150,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,303,101.325,1147,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,308,101.325,1144,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,313,101.325,1141,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,318,101.325,1138,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,323,101.325,1135,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,328,101.325,1131,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,333,101.325,1128,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,338,101.325,1125,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,343,101.325,1122,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,348,101.325,1119,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,
+zXUpy,353,101.325,1115,Iwasaki et al. (2017),Density,Liquid,ABCDGm,CCCC[n+]1ccccc1.F[B-](F)(F)c1ccccc1,1-butylpyridinium phenyltrifluoroborate,,,,,,

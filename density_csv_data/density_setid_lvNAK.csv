@@ -1,0 +1,8 @@
+setid,"Temperature, K","MolaRity of silver nitrate, mol/dm3","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+lvNAK,293,3.3,100,1560.2,Sanchez (2008),Density,Liquid,AAgijT,O=[N+]([O-])[O-].[Ag+],silver nitrate,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,
+lvNAK,303,3.3,100,1551.8,Sanchez (2008),Density,Liquid,AAgijT,O=[N+]([O-])[O-].[Ag+],silver nitrate,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,
+lvNAK,313,3.3,100,1543.5,Sanchez (2008),Density,Liquid,AAgijT,O=[N+]([O-])[O-].[Ag+],silver nitrate,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,
+lvNAK,323,3.3,100,1535.2,Sanchez (2008),Density,Liquid,AAgijT,O=[N+]([O-])[O-].[Ag+],silver nitrate,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,
+lvNAK,333,3.3,100,1526.9,Sanchez (2008),Density,Liquid,AAgijT,O=[N+]([O-])[O-].[Ag+],silver nitrate,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,
+lvNAK,343,3.3,100,1518.6,Sanchez (2008),Density,Liquid,AAgijT,O=[N+]([O-])[O-].[Ag+],silver nitrate,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,
+lvNAK,353,3.3,100,1510.2,Sanchez (2008),Density,Liquid,AAgijT,O=[N+]([O-])[O-].[Ag+],silver nitrate,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,,,

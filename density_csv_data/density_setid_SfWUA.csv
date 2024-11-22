@@ -1,0 +1,4 @@
+setid,Mole fraction of methyltriphenylphosphonium bromide,Mole fraction of glycerol,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SfWUA,0.2,0,101,298.2,1230,Warrag et al. (2020),Density,Liquid,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,AARkmK,OCC(O)CO,glycerol,AALwIY,OCCO,"1,2-ethanediol"
+SfWUA,0.2,0.4,101,298.2,1260,Warrag et al. (2020),Density,Liquid,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,AARkmK,OCC(O)CO,glycerol,AALwIY,OCCO,"1,2-ethanediol"
+SfWUA,0.2,0.8,101,298.2,1284,Warrag et al. (2020),Density,Liquid,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,AARkmK,OCC(O)CO,glycerol,AALwIY,OCCO,"1,2-ethanediol"

@@ -1,0 +1,11 @@
+setid,Mole fraction of dimethyl carbonate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kfzpu,0,298.15,101,1236.33,Kim et al. (2010),Density,Liquid,AARQqy,COC(=O)OC,dimethyl carbonate,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+kfzpu,0.0502,298.15,101,1233.17,Kim et al. (2010),Density,Liquid,AARQqy,COC(=O)OC,dimethyl carbonate,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+kfzpu,0.0999,298.15,101,1229.81,Kim et al. (2010),Density,Liquid,AARQqy,COC(=O)OC,dimethyl carbonate,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+kfzpu,0.1987,298.15,101,1223.27,Kim et al. (2010),Density,Liquid,AARQqy,COC(=O)OC,dimethyl carbonate,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+kfzpu,0.2999,298.15,101,1215.47,Kim et al. (2010),Density,Liquid,AARQqy,COC(=O)OC,dimethyl carbonate,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+kfzpu,0.3994,298.15,101,1206.15,Kim et al. (2010),Density,Liquid,AARQqy,COC(=O)OC,dimethyl carbonate,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+kfzpu,0.5006,298.15,101,1194.57,Kim et al. (2010),Density,Liquid,AARQqy,COC(=O)OC,dimethyl carbonate,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+kfzpu,0.5999,298.15,101,1180.67,Kim et al. (2010),Density,Liquid,AARQqy,COC(=O)OC,dimethyl carbonate,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+kfzpu,0.7001,298.15,101,1163.11,Kim et al. (2010),Density,Liquid,AARQqy,COC(=O)OC,dimethyl carbonate,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,
+kfzpu,1,298.15,101,1063.28,Kim et al. (2010),Density,Liquid,AARQqy,COC(=O)OC,dimethyl carbonate,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate,,,

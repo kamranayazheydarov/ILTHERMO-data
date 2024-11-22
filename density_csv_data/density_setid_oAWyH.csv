@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","MolaLity of tetrapentylammonium bromide, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oAWyH,293.15,100,0.01,998.34,Chauhan et al. (2016),Density,Liquid,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,AADYJk,O,water,,,
+oAWyH,298.15,100,0.01,997,Chauhan et al. (2016),Density,Liquid,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,AADYJk,O,water,,,
+oAWyH,303.15,100,0.01,995.7,Chauhan et al. (2016),Density,Liquid,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,AADYJk,O,water,,,
+oAWyH,308.15,100,0.01,994.05,Chauhan et al. (2016),Density,Liquid,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,AADYJk,O,water,,,
+oAWyH,313.15,100,0.01,991.93,Chauhan et al. (2016),Density,Liquid,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,AADYJk,O,water,,,
+oAWyH,318.15,100,0.01,990.16,Chauhan et al. (2016),Density,Liquid,ABUomC,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],tetrapentylammonium bromide,AADYJk,O,water,,,

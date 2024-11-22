@@ -1,0 +1,7 @@
+setid,Mole fraction of 2-hydroxypropanoic acid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ITCUF,0.75,293.15,100,1049.8,Zubeir et al. (2016c),Density,Liquid,AARQjp,CC(O)C(=O)O,2-hydroxypropanoic acid,ABBXWo,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],tetrabutylammonium chloride,,,
+ITCUF,0.75,298.15,100,1046.2,Zubeir et al. (2016c),Density,Liquid,AARQjp,CC(O)C(=O)O,2-hydroxypropanoic acid,ABBXWo,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],tetrabutylammonium chloride,,,
+ITCUF,0.75,303.15,100,1042.5,Zubeir et al. (2016c),Density,Liquid,AARQjp,CC(O)C(=O)O,2-hydroxypropanoic acid,ABBXWo,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],tetrabutylammonium chloride,,,
+ITCUF,0.75,308.15,100,1038.9,Zubeir et al. (2016c),Density,Liquid,AARQjp,CC(O)C(=O)O,2-hydroxypropanoic acid,ABBXWo,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],tetrabutylammonium chloride,,,
+ITCUF,0.75,313.15,100,1035.4,Zubeir et al. (2016c),Density,Liquid,AARQjp,CC(O)C(=O)O,2-hydroxypropanoic acid,ABBXWo,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],tetrabutylammonium chloride,,,
+ITCUF,0.75,318.15,100,1031.9,Zubeir et al. (2016c),Density,Liquid,AARQjp,CC(O)C(=O)O,2-hydroxypropanoic acid,ABBXWo,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],tetrabutylammonium chloride,,,

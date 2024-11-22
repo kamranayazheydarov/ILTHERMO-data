@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ozoXp,293.15,94.4,1009,Musale et al. (2018),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,
+ozoXp,298.15,94.4,1002.8,Musale et al. (2018),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,
+ozoXp,303.15,94.4,993.4,Musale et al. (2018),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,
+ozoXp,308.15,94.4,989.8,Musale et al. (2018),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,
+ozoXp,313.15,94.4,986.3,Musale et al. (2018),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,

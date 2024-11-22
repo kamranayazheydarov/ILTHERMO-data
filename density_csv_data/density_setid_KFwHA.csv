@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KFwHA,298,101.325,1186.2,Ozdemir and Ozgun (2014),Density,Liquid,ABKUnd,CCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-2-butyl-3,5-dimethylpyrazolium methanesulfonate",,,,,,
+KFwHA,308,101.325,1178.8,Ozdemir and Ozgun (2014),Density,Liquid,ABKUnd,CCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-2-butyl-3,5-dimethylpyrazolium methanesulfonate",,,,,,
+KFwHA,313,101.325,1170.8,Ozdemir and Ozgun (2014),Density,Liquid,ABKUnd,CCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-2-butyl-3,5-dimethylpyrazolium methanesulfonate",,,,,,
+KFwHA,333,101.325,1155.9,Ozdemir and Ozgun (2014),Density,Liquid,ABKUnd,CCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-2-butyl-3,5-dimethylpyrazolium methanesulfonate",,,,,,

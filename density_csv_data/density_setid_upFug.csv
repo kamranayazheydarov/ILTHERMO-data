@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+upFug,298.15,100,1232.6,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,
+upFug,303.15,100,1229.5,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,
+upFug,308.15,100,1226.3,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,
+upFug,313.15,100,1223,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,
+upFug,318.15,100,1219.8,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,
+upFug,323.15,100,1216.5,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,
+upFug,328.15,100,1213.3,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,
+upFug,333.15,100,1210.1,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,
+upFug,338.15,100,1207.2,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,
+upFug,343.15,100,1204.1,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,
+upFug,348.15,100,1201.1,Krolikowska et al. (2017),Density,Liquid,AAnYvV,CC[N+]1(C)CCOCC1.O=C([O-])CO,N-ethyl-N-methylmorpholinium glycolate,,,,,,

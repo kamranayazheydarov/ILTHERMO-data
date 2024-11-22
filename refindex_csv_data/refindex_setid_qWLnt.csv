@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+qWLnt,293,101.325,1.514,Venkatraman et al. (2018),Refractive index,Liquid,ABEBJI,CCCCCn1cc[n+](CCC(=O)OC)c1.N#C[N-]C#N,1-(3-methoxy-3-oxopropyl)-3-pentylimidazolium dicyanamide,,,,,,,
+qWLnt,303,101.325,1.51,Venkatraman et al. (2018),Refractive index,Liquid,ABEBJI,CCCCCn1cc[n+](CCC(=O)OC)c1.N#C[N-]C#N,1-(3-methoxy-3-oxopropyl)-3-pentylimidazolium dicyanamide,,,,,,,
+qWLnt,313,101.325,1.507,Venkatraman et al. (2018),Refractive index,Liquid,ABEBJI,CCCCCn1cc[n+](CCC(=O)OC)c1.N#C[N-]C#N,1-(3-methoxy-3-oxopropyl)-3-pentylimidazolium dicyanamide,,,,,,,
+qWLnt,323,101.325,1.503,Venkatraman et al. (2018),Refractive index,Liquid,ABEBJI,CCCCCn1cc[n+](CCC(=O)OC)c1.N#C[N-]C#N,1-(3-methoxy-3-oxopropyl)-3-pentylimidazolium dicyanamide,,,,,,,
+qWLnt,333,101.325,1.5,Venkatraman et al. (2018),Refractive index,Liquid,ABEBJI,CCCCCn1cc[n+](CCC(=O)OC)c1.N#C[N-]C#N,1-(3-methoxy-3-oxopropyl)-3-pentylimidazolium dicyanamide,,,,,,,

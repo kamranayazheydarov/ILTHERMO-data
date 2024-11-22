@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eDNQb,298.15,101.325,1082.6,Marcinkowski et al. (2019a),Density,Liquid,ABIssC,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,
+eDNQb,303.15,101.325,1079.2,Marcinkowski et al. (2019a),Density,Liquid,ABIssC,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,
+eDNQb,308.15,101.325,1075.7,Marcinkowski et al. (2019a),Density,Liquid,ABIssC,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,
+eDNQb,313.15,101.325,1072.3,Marcinkowski et al. (2019a),Density,Liquid,ABIssC,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,
+eDNQb,318.15,101.325,1068.9,Marcinkowski et al. (2019a),Density,Liquid,ABIssC,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,

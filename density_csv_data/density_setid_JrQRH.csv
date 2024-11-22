@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JrQRH,298.15,100,1150.9,Qiang Wang et al. (2020),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+JrQRH,303.15,100,1147.4,Qiang Wang et al. (2020),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+JrQRH,313.15,100,1140.1,Qiang Wang et al. (2020),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+JrQRH,323.15,100,1135.9,Qiang Wang et al. (2020),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+JrQRH,333.15,100,1129.1,Qiang Wang et al. (2020),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+JrQRH,343.15,100,1123,Qiang Wang et al. (2020),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,

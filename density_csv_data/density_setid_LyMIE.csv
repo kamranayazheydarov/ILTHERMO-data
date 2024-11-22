@@ -1,0 +1,11 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LyMIE,100,318.15,1365.4,Neves et al. (2010),Density,Liquid,ABCDuL,CCCc1ccc[n+](C)c1.F[P-](F)(F)(F)(F)F,1-methyl-3-propylpyridinium hexafluorophosphate,,,,,,
+LyMIE,100,323.15,1361.3,Neves et al. (2010),Density,Liquid,ABCDuL,CCCc1ccc[n+](C)c1.F[P-](F)(F)(F)(F)F,1-methyl-3-propylpyridinium hexafluorophosphate,,,,,,
+LyMIE,100,328.15,1357.3,Neves et al. (2010),Density,Liquid,ABCDuL,CCCc1ccc[n+](C)c1.F[P-](F)(F)(F)(F)F,1-methyl-3-propylpyridinium hexafluorophosphate,,,,,,
+LyMIE,100,333.15,1353.2,Neves et al. (2010),Density,Liquid,ABCDuL,CCCc1ccc[n+](C)c1.F[P-](F)(F)(F)(F)F,1-methyl-3-propylpyridinium hexafluorophosphate,,,,,,
+LyMIE,100,338.15,1349.2,Neves et al. (2010),Density,Liquid,ABCDuL,CCCc1ccc[n+](C)c1.F[P-](F)(F)(F)(F)F,1-methyl-3-propylpyridinium hexafluorophosphate,,,,,,
+LyMIE,100,343.15,1345.2,Neves et al. (2010),Density,Liquid,ABCDuL,CCCc1ccc[n+](C)c1.F[P-](F)(F)(F)(F)F,1-methyl-3-propylpyridinium hexafluorophosphate,,,,,,
+LyMIE,100,348.15,1341.2,Neves et al. (2010),Density,Liquid,ABCDuL,CCCc1ccc[n+](C)c1.F[P-](F)(F)(F)(F)F,1-methyl-3-propylpyridinium hexafluorophosphate,,,,,,
+LyMIE,100,353.15,1337.2,Neves et al. (2010),Density,Liquid,ABCDuL,CCCc1ccc[n+](C)c1.F[P-](F)(F)(F)(F)F,1-methyl-3-propylpyridinium hexafluorophosphate,,,,,,
+LyMIE,100,358.15,1333.2,Neves et al. (2010),Density,Liquid,ABCDuL,CCCc1ccc[n+](C)c1.F[P-](F)(F)(F)(F)F,1-methyl-3-propylpyridinium hexafluorophosphate,,,,,,
+LyMIE,100,363.15,1329.2,Neves et al. (2010),Density,Liquid,ABCDuL,CCCc1ccc[n+](C)c1.F[P-](F)(F)(F)(F)F,1-methyl-3-propylpyridinium hexafluorophosphate,,,,,,

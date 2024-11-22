@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HLaSV,303.15,101,1544.2,Akbar et al. (2016),Density,Liquid,ACNmkc,CCCCCCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+HLaSV,308.15,101,1538.7,Akbar et al. (2016),Density,Liquid,ACNmkc,CCCCCCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+HLaSV,313.15,101,1533.3,Akbar et al. (2016),Density,Liquid,ACNmkc,CCCCCCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+HLaSV,318.15,101,1527.8,Akbar et al. (2016),Density,Liquid,ACNmkc,CCCCCCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+HLaSV,323.15,101,1522.5,Akbar et al. (2016),Density,Liquid,ACNmkc,CCCCCCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+HLaSV,328.15,101,1517.1,Akbar et al. (2016),Density,Liquid,ACNmkc,CCCCCCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-hexyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,

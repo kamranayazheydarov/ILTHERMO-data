@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eYIvE,293,101.325,960,Ramdin et al. (2013),Density,Liquid,ACEVSf,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Br-],tetradecyltrihexylphosphonium bromide,,,,,,
+eYIvE,303,101.325,954,Ramdin et al. (2013),Density,Liquid,ACEVSf,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Br-],tetradecyltrihexylphosphonium bromide,,,,,,
+eYIvE,313,101.325,948,Ramdin et al. (2013),Density,Liquid,ACEVSf,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Br-],tetradecyltrihexylphosphonium bromide,,,,,,
+eYIvE,323,101.325,942,Ramdin et al. (2013),Density,Liquid,ACEVSf,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Br-],tetradecyltrihexylphosphonium bromide,,,,,,
+eYIvE,333,101.325,936,Ramdin et al. (2013),Density,Liquid,ACEVSf,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Br-],tetradecyltrihexylphosphonium bromide,,,,,,
+eYIvE,343,101.325,930,Ramdin et al. (2013),Density,Liquid,ACEVSf,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Br-],tetradecyltrihexylphosphonium bromide,,,,,,
+eYIvE,353,101.325,924,Ramdin et al. (2013),Density,Liquid,ACEVSf,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Br-],tetradecyltrihexylphosphonium bromide,,,,,,
+eYIvE,363,101.325,918,Ramdin et al. (2013),Density,Liquid,ACEVSf,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Br-],tetradecyltrihexylphosphonium bromide,,,,,,

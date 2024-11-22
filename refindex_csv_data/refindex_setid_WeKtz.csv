@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+WeKtz,298.15,101.325,1.4872,Marcinkowski et al. (2019a),Refractive index,Liquid,ABGIqP,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCC[N+]1(C)CCOCC1,N-methyl-N-propylmorpholinium N-acetyl-L-valinate,,,,,,,
+WeKtz,303.15,101.325,1.4858,Marcinkowski et al. (2019a),Refractive index,Liquid,ABGIqP,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCC[N+]1(C)CCOCC1,N-methyl-N-propylmorpholinium N-acetyl-L-valinate,,,,,,,
+WeKtz,308.15,101.325,1.4844,Marcinkowski et al. (2019a),Refractive index,Liquid,ABGIqP,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCC[N+]1(C)CCOCC1,N-methyl-N-propylmorpholinium N-acetyl-L-valinate,,,,,,,
+WeKtz,313.15,101.325,1.4828,Marcinkowski et al. (2019a),Refractive index,Liquid,ABGIqP,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCC[N+]1(C)CCOCC1,N-methyl-N-propylmorpholinium N-acetyl-L-valinate,,,,,,,
+WeKtz,318.15,101.325,1.4814,Marcinkowski et al. (2019a),Refractive index,Liquid,ABGIqP,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCC[N+]1(C)CCOCC1,N-methyl-N-propylmorpholinium N-acetyl-L-valinate,,,,,,,

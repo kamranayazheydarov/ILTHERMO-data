@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bESUE,298.15,101.325,1166.7,Gonzalez et al. (2011c),Density,Liquid,AAwlCR,CCCC[N+]1(C)CCCC1.COS(=O)(=O)[O-],1-butyl-1-methylpyrrolidinium methyl sulfate,,,,,,
+bESUE,303.15,101.325,1163.6,Gonzalez et al. (2011c),Density,Liquid,AAwlCR,CCCC[N+]1(C)CCCC1.COS(=O)(=O)[O-],1-butyl-1-methylpyrrolidinium methyl sulfate,,,,,,
+bESUE,308.15,101.325,1160.5,Gonzalez et al. (2011c),Density,Liquid,AAwlCR,CCCC[N+]1(C)CCCC1.COS(=O)(=O)[O-],1-butyl-1-methylpyrrolidinium methyl sulfate,,,,,,
+bESUE,313.15,101.325,1157.4,Gonzalez et al. (2011c),Density,Liquid,AAwlCR,CCCC[N+]1(C)CCCC1.COS(=O)(=O)[O-],1-butyl-1-methylpyrrolidinium methyl sulfate,,,,,,
+bESUE,318.15,101.325,1154.4,Gonzalez et al. (2011c),Density,Liquid,AAwlCR,CCCC[N+]1(C)CCCC1.COS(=O)(=O)[O-],1-butyl-1-methylpyrrolidinium methyl sulfate,,,,,,
+bESUE,323.15,101.325,1151.4,Gonzalez et al. (2011c),Density,Liquid,AAwlCR,CCCC[N+]1(C)CCCC1.COS(=O)(=O)[O-],1-butyl-1-methylpyrrolidinium methyl sulfate,,,,,,
+bESUE,328.15,101.325,1148.4,Gonzalez et al. (2011c),Density,Liquid,AAwlCR,CCCC[N+]1(C)CCCC1.COS(=O)(=O)[O-],1-butyl-1-methylpyrrolidinium methyl sulfate,,,,,,
+bESUE,333.15,101.325,1145.4,Gonzalez et al. (2011c),Density,Liquid,AAwlCR,CCCC[N+]1(C)CCCC1.COS(=O)(=O)[O-],1-butyl-1-methylpyrrolidinium methyl sulfate,,,,,,
+bESUE,338.15,101.325,1142.4,Gonzalez et al. (2011c),Density,Liquid,AAwlCR,CCCC[N+]1(C)CCCC1.COS(=O)(=O)[O-],1-butyl-1-methylpyrrolidinium methyl sulfate,,,,,,
+bESUE,343.15,101.325,1139.5,Gonzalez et al. (2011c),Density,Liquid,AAwlCR,CCCC[N+]1(C)CCCC1.COS(=O)(=O)[O-],1-butyl-1-methylpyrrolidinium methyl sulfate,,,,,,

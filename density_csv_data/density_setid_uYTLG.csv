@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uYTLG,293.15,101,1072.74,Singh et al. (2014a),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+uYTLG,298.15,101,1070.34,Singh et al. (2014a),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+uYTLG,303.15,101,1067.37,Singh et al. (2014a),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+uYTLG,308.15,101,1064.42,Singh et al. (2014a),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,
+uYTLG,313.15,101,1061.47,Singh et al. (2014a),Density,Liquid,AAlxZE,CCCC[n+]1ccn(C)c1.N#C[S-],1-butyl-3-methylimidazolium thiocyanate,,,,,,

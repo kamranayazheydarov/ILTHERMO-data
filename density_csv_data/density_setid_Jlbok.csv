@@ -1,0 +1,9 @@
+setid,Mole fraction of benzene,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Jlbok,0,343.15,100,1348,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,ABYLZx,CCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide,,,
+Jlbok,0.096,343.15,100,1336,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,ABYLZx,CCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide,,,
+Jlbok,0.2,343.15,100,1317,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,ABYLZx,CCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide,,,
+Jlbok,0.308,343.15,100,1288,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,ABYLZx,CCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide,,,
+Jlbok,0.414,343.15,100,1262,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,ABYLZx,CCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide,,,
+Jlbok,0.512,343.15,100,1230,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,ABYLZx,CCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide,,,
+Jlbok,0.613,343.15,100,1186,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,ABYLZx,CCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide,,,
+Jlbok,0.762,343.15,100,1106,Requejo et al. (2017),Density,Liquid,AAPBFE,c1ccccc1,benzene,ABYLZx,CCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide,,,

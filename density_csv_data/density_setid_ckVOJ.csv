@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ckVOJ,293.15,101,1233.4,Taib et al. (2012),Density,Liquid,ABDCBp,CCCCCC[n+]1ccn(CCC#N)c1.[Br-],3-(2-cyanoethyl)-1-hexyl-1H-imidazolium bromide,,,,,,
+ckVOJ,298.15,101,1229.7,Taib et al. (2012),Density,Liquid,ABDCBp,CCCCCC[n+]1ccn(CCC#N)c1.[Br-],3-(2-cyanoethyl)-1-hexyl-1H-imidazolium bromide,,,,,,
+ckVOJ,303.15,101,1226.6,Taib et al. (2012),Density,Liquid,ABDCBp,CCCCCC[n+]1ccn(CCC#N)c1.[Br-],3-(2-cyanoethyl)-1-hexyl-1H-imidazolium bromide,,,,,,
+ckVOJ,308.15,101,1223,Taib et al. (2012),Density,Liquid,ABDCBp,CCCCCC[n+]1ccn(CCC#N)c1.[Br-],3-(2-cyanoethyl)-1-hexyl-1H-imidazolium bromide,,,,,,
+ckVOJ,313.15,101,1219.2,Taib et al. (2012),Density,Liquid,ABDCBp,CCCCCC[n+]1ccn(CCC#N)c1.[Br-],3-(2-cyanoethyl)-1-hexyl-1H-imidazolium bromide,,,,,,
+ckVOJ,318.15,101,1215.5,Taib et al. (2012),Density,Liquid,ABDCBp,CCCCCC[n+]1ccn(CCC#N)c1.[Br-],3-(2-cyanoethyl)-1-hexyl-1H-imidazolium bromide,,,,,,
+ckVOJ,323.15,101,1211.9,Taib et al. (2012),Density,Liquid,ABDCBp,CCCCCC[n+]1ccn(CCC#N)c1.[Br-],3-(2-cyanoethyl)-1-hexyl-1H-imidazolium bromide,,,,,,

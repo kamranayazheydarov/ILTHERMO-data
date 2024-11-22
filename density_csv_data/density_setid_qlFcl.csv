@@ -1,0 +1,11 @@
+setid,Mole fraction of 1-butyl-3-methylimidazolium octyl sulfate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qlFcl,0.0798,298.15,101,870.2,Domanska et al. (2006b),Density,Liquid,AAONVE,CCCCO,butan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+qlFcl,0.1197,298.15,101,893.5,Domanska et al. (2006b),Density,Liquid,AAONVE,CCCCO,butan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+qlFcl,0.2019,298.15,101,931.5,Domanska et al. (2006b),Density,Liquid,AAONVE,CCCCO,butan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+qlFcl,0.3447,298.15,101,977.5,Domanska et al. (2006b),Density,Liquid,AAONVE,CCCCO,butan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+qlFcl,0.4288,298.15,101,997,Domanska et al. (2006b),Density,Liquid,AAONVE,CCCCO,butan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+qlFcl,0.5611,298.15,101,1020.8,Domanska et al. (2006b),Density,Liquid,AAONVE,CCCCO,butan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+qlFcl,0.6623,298.15,101,1035.1,Domanska et al. (2006b),Density,Liquid,AAONVE,CCCCO,butan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+qlFcl,0.7259,298.15,101,1042.8,Domanska et al. (2006b),Density,Liquid,AAONVE,CCCCO,butan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+qlFcl,0.8324,298.15,101,1053.8,Domanska et al. (2006b),Density,Liquid,AAONVE,CCCCO,butan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+qlFcl,0.945,298.15,101,1063.6,Domanska et al. (2006b),Density,Liquid,AAONVE,CCCCO,butan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,

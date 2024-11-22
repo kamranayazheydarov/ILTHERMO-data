@@ -1,0 +1,8 @@
+setid,"MolaLity of tetraethylammonium chloride, mol/kg","Temperature, K","Pressure, kPa","Specific density<SUP>*</SUP>, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RShij,0.02157,298.15,101,0.976,Zana et al. (1979),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAHueB,CC#N,acetonitrile,,,
+RShij,0.03958,298.15,101,1.771,Zana et al. (1979),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAHueB,CC#N,acetonitrile,,,
+RShij,0.05569,298.15,101,2.459,Zana et al. (1979),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAHueB,CC#N,acetonitrile,,,
+RShij,0.08125,298.15,101,3.538,Zana et al. (1979),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAHueB,CC#N,acetonitrile,,,
+RShij,0.10053,298.15,101,4.347,Zana et al. (1979),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAHueB,CC#N,acetonitrile,,,
+RShij,0.16097,298.15,101,6.829,Zana et al. (1979),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAHueB,CC#N,acetonitrile,,,
+RShij,0.21398,298.15,101,8.937,Zana et al. (1979),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAHueB,CC#N,acetonitrile,,,

@@ -1,0 +1,4 @@
+setid,Mole fraction of 1-butyl-4-methylpyridinium tetrafluoroborate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Gxxao,0.7611,101,298.15,1272.03,Navas et al. (2011),Density,Liquid,AAsLNN,BrCCCCCBr,"1,5-dibromopentane",AAtevY,CCCC[n+]1ccc(C)cc1.F[B-](F)(F)F,1-butyl-4-methylpyridinium tetrafluoroborate,,,
+Gxxao,0.8345,101,298.15,1243.03,Navas et al. (2011),Density,Liquid,AAsLNN,BrCCCCCBr,"1,5-dibromopentane",AAtevY,CCCC[n+]1ccc(C)cc1.F[B-](F)(F)F,1-butyl-4-methylpyridinium tetrafluoroborate,,,
+Gxxao,0.9131,101,298.15,1213.58,Navas et al. (2011),Density,Liquid,AAsLNN,BrCCCCCBr,"1,5-dibromopentane",AAtevY,CCCC[n+]1ccc(C)cc1.F[B-](F)(F)F,1-butyl-4-methylpyridinium tetrafluoroborate,,,

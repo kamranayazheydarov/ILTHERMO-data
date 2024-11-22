@@ -1,0 +1,3 @@
+setid,"Pressure, kPa","Temperature, K","MolaLity of triethylammonium acetate, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+hmylm,100,298.15,0.2,999,Patil et al. (2020),Density,Liquid,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water,,,
+hmylm,100,298.15,0.2,999.02,Patil et al. (2020),Density,Liquid,AAfApq,CC(=O)[O-].CC[NH+](CC)CC,triethylammonium acetate,AADYJk,O,water,,,

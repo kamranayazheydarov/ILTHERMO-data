@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bzbpu,293.15,101.325,1355.1,Zec et al. (2018a),Density,Liquid,AAnWVz,CCn1cc[n+](CC)c1.[Br-],"1,3-diethyl-1H-imidazolium bromide",,,,,,
+bzbpu,298.15,101.325,1351.2,Zec et al. (2018a),Density,Liquid,AAnWVz,CCn1cc[n+](CC)c1.[Br-],"1,3-diethyl-1H-imidazolium bromide",,,,,,
+bzbpu,303.15,101.325,1347.5,Zec et al. (2018a),Density,Liquid,AAnWVz,CCn1cc[n+](CC)c1.[Br-],"1,3-diethyl-1H-imidazolium bromide",,,,,,
+bzbpu,308.15,101.325,1343.8,Zec et al. (2018a),Density,Liquid,AAnWVz,CCn1cc[n+](CC)c1.[Br-],"1,3-diethyl-1H-imidazolium bromide",,,,,,
+bzbpu,313.15,101.325,1340,Zec et al. (2018a),Density,Liquid,AAnWVz,CCn1cc[n+](CC)c1.[Br-],"1,3-diethyl-1H-imidazolium bromide",,,,,,
+bzbpu,318.15,101.325,1336.1,Zec et al. (2018a),Density,Liquid,AAnWVz,CCn1cc[n+](CC)c1.[Br-],"1,3-diethyl-1H-imidazolium bromide",,,,,,
+bzbpu,323.15,101.325,1332.3,Zec et al. (2018a),Density,Liquid,AAnWVz,CCn1cc[n+](CC)c1.[Br-],"1,3-diethyl-1H-imidazolium bromide",,,,,,

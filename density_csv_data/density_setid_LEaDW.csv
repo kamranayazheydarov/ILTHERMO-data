@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LEaDW,293.15,101,1256.7,Garcia-Mardones et al. (2014a),Density,Liquid,AAoJgc,CCC[n+]1ccccc1.F[B-](F)(F)F,1-propylpyridinium tetrafluoroborate,,,,,,
+LEaDW,303.15,101,1249.5,Garcia-Mardones et al. (2014a),Density,Liquid,AAoJgc,CCC[n+]1ccccc1.F[B-](F)(F)F,1-propylpyridinium tetrafluoroborate,,,,,,
+LEaDW,313.15,101,1242.4,Garcia-Mardones et al. (2014a),Density,Liquid,AAoJgc,CCC[n+]1ccccc1.F[B-](F)(F)F,1-propylpyridinium tetrafluoroborate,,,,,,
+LEaDW,323.15,101,1235.3,Garcia-Mardones et al. (2014a),Density,Liquid,AAoJgc,CCC[n+]1ccccc1.F[B-](F)(F)F,1-propylpyridinium tetrafluoroborate,,,,,,

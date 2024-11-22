@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+svohI,298.15,101.325,1613,Gonzalez-Miquel et al. (2013),Density,Liquid,ACISwI,CCCCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+svohI,308.15,101.325,1604,Gonzalez-Miquel et al. (2013),Density,Liquid,ACISwI,CCCCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,
+svohI,323.15,101.325,1595,Gonzalez-Miquel et al. (2013),Density,Liquid,ACISwI,CCCCn1cc[n+](C)c1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate,,,,,,

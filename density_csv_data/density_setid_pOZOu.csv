@@ -1,0 +1,4 @@
+setid,Mole fraction of heptane,Mole fraction of toluene,"Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+pOZOu,0.002,0.185,298.15,1201.9,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,3,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane
+pOZOu,0.003,0.156,298.15,1207.1,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,3,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane
+pOZOu,0.006,0.057,298.15,1226.2,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,3,AARlpN,Cc1ccccc1,toluene,AATOnt,CCCCCCC,heptane

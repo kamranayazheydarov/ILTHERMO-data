@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yelIb,288.15,100,1259.76,Havlova and Dohnal (2022),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+yelIb,293.15,100,1256.13,Havlova and Dohnal (2022),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+yelIb,298.15,100,1252.44,Havlova and Dohnal (2022),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+yelIb,303.15,100,1248.77,Havlova and Dohnal (2022),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+yelIb,308.15,100,1245.11,Havlova and Dohnal (2022),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+yelIb,313.15,100,1241.49,Havlova and Dohnal (2022),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+yelIb,318.15,100,1237.87,Havlova and Dohnal (2022),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+yelIb,323.15,100,1234.28,Havlova and Dohnal (2022),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+yelIb,328.15,100,1230.72,Havlova and Dohnal (2022),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+yelIb,333.15,100,1227.16,Havlova and Dohnal (2022),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,

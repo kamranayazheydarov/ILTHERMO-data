@@ -1,0 +1,5 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HSvuk,101.3,353.15,1067.3,Ren et al. (2023),Density,Liquid,AAjMJZ,[S-]C#N.C(C)N1C(=[N+](C=C1)C)C,"1-ethyl-2,3-dimethylimidazolium thiocyanate",,,,,,
+HSvuk,101.3,363.15,1061.3,Ren et al. (2023),Density,Liquid,AAjMJZ,[S-]C#N.C(C)N1C(=[N+](C=C1)C)C,"1-ethyl-2,3-dimethylimidazolium thiocyanate",,,,,,
+HSvuk,101.3,373.15,1055.2,Ren et al. (2023),Density,Liquid,AAjMJZ,[S-]C#N.C(C)N1C(=[N+](C=C1)C)C,"1-ethyl-2,3-dimethylimidazolium thiocyanate",,,,,,
+HSvuk,101.3,383.15,1049.2,Ren et al. (2023),Density,Liquid,AAjMJZ,[S-]C#N.C(C)N1C(=[N+](C=C1)C)C,"1-ethyl-2,3-dimethylimidazolium thiocyanate",,,,,,

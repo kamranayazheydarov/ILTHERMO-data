@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QixeG,303,101,1340,Huang et al. (2019a),Density,Liquid,ABHPAi,CCC[N+]1(C)CCCC1.O=S(=O)(F)[N-]S(=O)(=O)F,1-methyl-1-propylpyrrolidinium bis(fluorosulfonyl)amide,,,,,,
+QixeG,308,101,1330,Huang et al. (2019a),Density,Liquid,ABHPAi,CCC[N+]1(C)CCCC1.O=S(=O)(F)[N-]S(=O)(=O)F,1-methyl-1-propylpyrrolidinium bis(fluorosulfonyl)amide,,,,,,
+QixeG,313,101,1330,Huang et al. (2019a),Density,Liquid,ABHPAi,CCC[N+]1(C)CCCC1.O=S(=O)(F)[N-]S(=O)(=O)F,1-methyl-1-propylpyrrolidinium bis(fluorosulfonyl)amide,,,,,,
+QixeG,318,101,1320,Huang et al. (2019a),Density,Liquid,ABHPAi,CCC[N+]1(C)CCCC1.O=S(=O)(F)[N-]S(=O)(=O)F,1-methyl-1-propylpyrrolidinium bis(fluorosulfonyl)amide,,,,,,
+QixeG,323,101,1320,Huang et al. (2019a),Density,Liquid,ABHPAi,CCC[N+]1(C)CCCC1.O=S(=O)(F)[N-]S(=O)(=O)F,1-methyl-1-propylpyrrolidinium bis(fluorosulfonyl)amide,,,,,,

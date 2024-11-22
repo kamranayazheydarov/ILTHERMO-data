@@ -1,0 +1,11 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rqaSv,100,288.15,1168,Zhao et al. (2023b),Density,Liquid,AAmagO,C(CC)(=O)[O-].OCCN1C=[N+](C=C1)C,1-(2-hydroxyethyl)-3-methylimidazolium propionate,,,,,,
+rqaSv,100,293.15,1165,Zhao et al. (2023b),Density,Liquid,AAmagO,C(CC)(=O)[O-].OCCN1C=[N+](C=C1)C,1-(2-hydroxyethyl)-3-methylimidazolium propionate,,,,,,
+rqaSv,100,298.15,1162,Zhao et al. (2023b),Density,Liquid,AAmagO,C(CC)(=O)[O-].OCCN1C=[N+](C=C1)C,1-(2-hydroxyethyl)-3-methylimidazolium propionate,,,,,,
+rqaSv,100,303.15,1159,Zhao et al. (2023b),Density,Liquid,AAmagO,C(CC)(=O)[O-].OCCN1C=[N+](C=C1)C,1-(2-hydroxyethyl)-3-methylimidazolium propionate,,,,,,
+rqaSv,100,308.15,1156,Zhao et al. (2023b),Density,Liquid,AAmagO,C(CC)(=O)[O-].OCCN1C=[N+](C=C1)C,1-(2-hydroxyethyl)-3-methylimidazolium propionate,,,,,,
+rqaSv,100,313.15,1152,Zhao et al. (2023b),Density,Liquid,AAmagO,C(CC)(=O)[O-].OCCN1C=[N+](C=C1)C,1-(2-hydroxyethyl)-3-methylimidazolium propionate,,,,,,
+rqaSv,100,318.15,1149,Zhao et al. (2023b),Density,Liquid,AAmagO,C(CC)(=O)[O-].OCCN1C=[N+](C=C1)C,1-(2-hydroxyethyl)-3-methylimidazolium propionate,,,,,,
+rqaSv,100,323.15,1146,Zhao et al. (2023b),Density,Liquid,AAmagO,C(CC)(=O)[O-].OCCN1C=[N+](C=C1)C,1-(2-hydroxyethyl)-3-methylimidazolium propionate,,,,,,
+rqaSv,100,328.15,1143,Zhao et al. (2023b),Density,Liquid,AAmagO,C(CC)(=O)[O-].OCCN1C=[N+](C=C1)C,1-(2-hydroxyethyl)-3-methylimidazolium propionate,,,,,,
+rqaSv,100,333.15,1140,Zhao et al. (2023b),Density,Liquid,AAmagO,C(CC)(=O)[O-].OCCN1C=[N+](C=C1)C,1-(2-hydroxyethyl)-3-methylimidazolium propionate,,,,,,

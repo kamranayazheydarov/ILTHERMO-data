@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Jttgs,288.15,101.325,1451.11,Havlova and Dohnal (2021),Density,Liquid,ABEAsp,CC[n+]1ccn(C)c1.O=S(=O)(F)[N-]S(=O)(=O)F,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide,,,,,,
+Jttgs,293.15,101.325,1446.5,Havlova and Dohnal (2021),Density,Liquid,ABEAsp,CC[n+]1ccn(C)c1.O=S(=O)(F)[N-]S(=O)(=O)F,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide,,,,,,
+Jttgs,298.15,101.325,1441.9,Havlova and Dohnal (2021),Density,Liquid,ABEAsp,CC[n+]1ccn(C)c1.O=S(=O)(F)[N-]S(=O)(=O)F,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide,,,,,,
+Jttgs,303.15,101.325,1437.34,Havlova and Dohnal (2021),Density,Liquid,ABEAsp,CC[n+]1ccn(C)c1.O=S(=O)(F)[N-]S(=O)(=O)F,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide,,,,,,
+Jttgs,308.15,101.325,1432.81,Havlova and Dohnal (2021),Density,Liquid,ABEAsp,CC[n+]1ccn(C)c1.O=S(=O)(F)[N-]S(=O)(=O)F,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide,,,,,,
+Jttgs,313.15,101.325,1428.29,Havlova and Dohnal (2021),Density,Liquid,ABEAsp,CC[n+]1ccn(C)c1.O=S(=O)(F)[N-]S(=O)(=O)F,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide,,,,,,
+Jttgs,318.15,101.325,1423.79,Havlova and Dohnal (2021),Density,Liquid,ABEAsp,CC[n+]1ccn(C)c1.O=S(=O)(F)[N-]S(=O)(=O)F,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide,,,,,,
+Jttgs,323.15,101.325,1419.31,Havlova and Dohnal (2021),Density,Liquid,ABEAsp,CC[n+]1ccn(C)c1.O=S(=O)(F)[N-]S(=O)(=O)F,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide,,,,,,
+Jttgs,328.15,101.325,1414.85,Havlova and Dohnal (2021),Density,Liquid,ABEAsp,CC[n+]1ccn(C)c1.O=S(=O)(F)[N-]S(=O)(=O)F,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide,,,,,,
+Jttgs,333.15,101.325,1410.41,Havlova and Dohnal (2021),Density,Liquid,ABEAsp,CC[n+]1ccn(C)c1.O=S(=O)(F)[N-]S(=O)(=O)F,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide,,,,,,

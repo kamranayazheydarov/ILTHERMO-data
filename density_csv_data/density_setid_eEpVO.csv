@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eEpVO,288.15,101.325,1183.2,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,293.15,101.325,1179.9,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,298.15,101.325,1176.5,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,303.15,101.325,1173.2,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,308.15,101.325,1169.7,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,313.15,101.325,1166.3,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,318.15,101.325,1162.8,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,323.15,101.325,1159.5,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,328.15,101.325,1156.1,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,333.15,101.325,1152.7,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,338.15,101.325,1149.4,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,
+eEpVO,343.15,101.325,1146,Zhang et al. (2016a),Density,Liquid,AAtWmz,CCCC[n+]1ccn(C)c1.O=P([O-])(O)O,1-butyl-3-methylimidazolium dihydrogen phosphate,,,,,,

@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SCOTN,293.15,100,1243.6,Warminska and Cichowska-Kopczynska (2022),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+SCOTN,298.15,100,1239.7,Warminska and Cichowska-Kopczynska (2022),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+SCOTN,303.15,100,1235.7,Warminska and Cichowska-Kopczynska (2022),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+SCOTN,308.15,100,1231.9,Warminska and Cichowska-Kopczynska (2022),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+SCOTN,313.15,100,1228.1,Warminska and Cichowska-Kopczynska (2022),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

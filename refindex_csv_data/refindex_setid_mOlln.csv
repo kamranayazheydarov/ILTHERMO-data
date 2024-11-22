@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+mOlln,298.19,101.325,1.48175,Freire et al. (2011),Refractive index,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,,
+mOlln,303.1,101.325,1.4805,Freire et al. (2011),Refractive index,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,,
+mOlln,308.01,101.325,1.47909,Freire et al. (2011),Refractive index,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,,
+mOlln,312.91,101.325,1.47771,Freire et al. (2011),Refractive index,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,,
+mOlln,317.82,101.325,1.47636,Freire et al. (2011),Refractive index,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,,
+mOlln,322.73,101.325,1.47511,Freire et al. (2011),Refractive index,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,,
+mOlln,327.64,101.325,1.47384,Freire et al. (2011),Refractive index,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,,

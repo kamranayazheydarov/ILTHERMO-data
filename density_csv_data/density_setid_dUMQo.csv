@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+dUMQo,293,101.325,1275.4,Yuan et al. (2021),Density,Liquid,AAjpij,O=[N+]([O-])[O-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium nitrate,,,,,,
+dUMQo,303,101.325,1268.8,Yuan et al. (2021),Density,Liquid,AAjpij,O=[N+]([O-])[O-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium nitrate,,,,,,
+dUMQo,313,101.325,1262.2,Yuan et al. (2021),Density,Liquid,AAjpij,O=[N+]([O-])[O-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium nitrate,,,,,,
+dUMQo,323,101.325,1255.5,Yuan et al. (2021),Density,Liquid,AAjpij,O=[N+]([O-])[O-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium nitrate,,,,,,
+dUMQo,333,101.325,1248.9,Yuan et al. (2021),Density,Liquid,AAjpij,O=[N+]([O-])[O-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium nitrate,,,,,,
+dUMQo,343,101.325,1242.2,Yuan et al. (2021),Density,Liquid,AAjpij,O=[N+]([O-])[O-].OCCc1cccc[nH+]1,2-(2-hydroxyethyl)pyridinium nitrate,,,,,,

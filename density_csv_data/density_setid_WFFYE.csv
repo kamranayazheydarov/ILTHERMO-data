@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WFFYE,298.15,101.325,1226,Kilaru et al. (2007),Density,Liquid,ABoVOd,CCCCCCCCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-Trimethyl-1-decanaminium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WFFYE,303.15,101.325,1222,Kilaru et al. (2007),Density,Liquid,ABoVOd,CCCCCCCCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-Trimethyl-1-decanaminium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WFFYE,308.15,101.325,1219,Kilaru et al. (2007),Density,Liquid,ABoVOd,CCCCCCCCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-Trimethyl-1-decanaminium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WFFYE,313.15,101.325,1215,Kilaru et al. (2007),Density,Liquid,ABoVOd,CCCCCCCCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-Trimethyl-1-decanaminium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WFFYE,318.15,101.325,1211,Kilaru et al. (2007),Density,Liquid,ABoVOd,CCCCCCCCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-Trimethyl-1-decanaminium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WFFYE,323.15,101.325,1206,Kilaru et al. (2007),Density,Liquid,ABoVOd,CCCCCCCCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-Trimethyl-1-decanaminium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WFFYE,328.15,101.325,1205,Kilaru et al. (2007),Density,Liquid,ABoVOd,CCCCCCCCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-Trimethyl-1-decanaminium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+WFFYE,333.15,101.325,1200,Kilaru et al. (2007),Density,Liquid,ABoVOd,CCCCCCCCCC[N+](C)(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"N,N,N-Trimethyl-1-decanaminium bis[(trifluoromethyl)sulfonyl]imide",,,,,,

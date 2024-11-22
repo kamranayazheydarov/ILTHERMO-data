@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FNnoq,313.15,101.325,1138.6,Palgunadi et al. (2009),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,
+FNnoq,323.15,101.325,1132.1,Palgunadi et al. (2009),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,
+FNnoq,333.15,101.325,1125.5,Palgunadi et al. (2009),Density,Liquid,AAyqRj,CCOP(=O)([O-])OCC.CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium diethyl phosphate,,,,,,

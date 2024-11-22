@@ -1,0 +1,3 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DUalT,298.15,101.325,1183.5,Ortega et al. (2008),Density,Liquid,AAtevY,CCCC[n+]1ccc(C)cc1.F[B-](F)(F)F,1-butyl-4-methylpyridinium tetrafluoroborate,,,,,,
+DUalT,318.15,101.325,1169.1,Ortega et al. (2008),Density,Liquid,AAtevY,CCCC[n+]1ccc(C)cc1.F[B-](F)(F)F,1-butyl-4-methylpyridinium tetrafluoroborate,,,,,,

@@ -1,0 +1,11 @@
+setid,Weight fraction of ethyl acetate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EYWcm,0.017,101,313,1340,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,10,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate
+EYWcm,0.033,101,313,1267,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,10,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate
+EYWcm,0.039,101,313,1249,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,10,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate
+EYWcm,0.058,101,313,1198,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,10,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate
+EYWcm,0.075,101,313,1165,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,10,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate
+EYWcm,0.119,101,313,1107,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,10,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate
+EYWcm,0.134,101,313,1090,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,10,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate
+EYWcm,0.171,101,313,1054.2,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,10,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate
+EYWcm,0.187,101,313,1041.6,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,10,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate
+EYWcm,0.277,101,313,978.7,Naydenov and Bart (2007),Density,Liquid mixture 2,Liquid mixture 1,,10,AAIsrh,CCO,ethanol,AAQxSq,CCOC(C)=O,ethyl acetate

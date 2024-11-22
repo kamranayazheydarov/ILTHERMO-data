@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LjNSd,293.15,101.325,1246.2,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LjNSd,298.15,101.325,1240.7,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LjNSd,303.15,101.325,1237,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LjNSd,308.15,101.325,1232.4,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LjNSd,313.15,101.325,1227.8,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LjNSd,318.15,101.325,1223.3,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LjNSd,323.15,101.325,1218.7,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LjNSd,328.15,101.325,1214,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LjNSd,333.15,101.325,1209.2,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LjNSd,338.15,101.325,1205.1,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LjNSd,343.15,101.325,1200.6,Lamas et al. (2016),Density,Liquid,ABlkPB,CCCC[NH+](CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylammonium bis((trifluoromethyl)sulfonyl)amide,,,,,,

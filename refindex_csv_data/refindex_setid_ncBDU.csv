@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+ncBDU,288.15,101.325,1.50711,Sardar et al. (2017),Refractive index,Liquid,ABOWhJ,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ncBDU,293.15,101.325,1.50537,Sardar et al. (2017),Refractive index,Liquid,ABOWhJ,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ncBDU,298.15,101.325,1.50401,Sardar et al. (2017),Refractive index,Liquid,ABOWhJ,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ncBDU,303.15,101.325,1.50248,Sardar et al. (2017),Refractive index,Liquid,ABOWhJ,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ncBDU,308.15,101.325,1.50093,Sardar et al. (2017),Refractive index,Liquid,ABOWhJ,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ncBDU,313.15,101.325,1.49935,Sardar et al. (2017),Refractive index,Liquid,ABOWhJ,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ncBDU,318.15,101.325,1.49778,Sardar et al. (2017),Refractive index,Liquid,ABOWhJ,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ncBDU,323.15,101.325,1.49619,Sardar et al. (2017),Refractive index,Liquid,ABOWhJ,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ncBDU,328.15,101.325,1.49458,Sardar et al. (2017),Refractive index,Liquid,ABOWhJ,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,
+ncBDU,333.15,101.325,1.49289,Sardar et al. (2017),Refractive index,Liquid,ABOWhJ,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 2-acrylamido-2-methylpropanesulfonate,,,,,,,

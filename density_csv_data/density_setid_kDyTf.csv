@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kDyTf,293.15,101.325,1175.7,Sanchez (2008),Density,Liquid,AAxEib,CCCC[N+]1(C)CCCC1.O=C([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoroacetate,,,,,,
+kDyTf,303.15,101.325,1168.8,Sanchez (2008),Density,Liquid,AAxEib,CCCC[N+]1(C)CCCC1.O=C([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoroacetate,,,,,,
+kDyTf,313.15,101.325,1161.8,Sanchez (2008),Density,Liquid,AAxEib,CCCC[N+]1(C)CCCC1.O=C([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoroacetate,,,,,,
+kDyTf,323.15,101.325,1154.9,Sanchez (2008),Density,Liquid,AAxEib,CCCC[N+]1(C)CCCC1.O=C([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoroacetate,,,,,,
+kDyTf,333.15,101.325,1148.1,Sanchez (2008),Density,Liquid,AAxEib,CCCC[N+]1(C)CCCC1.O=C([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoroacetate,,,,,,
+kDyTf,343.15,101.325,1141.3,Sanchez (2008),Density,Liquid,AAxEib,CCCC[N+]1(C)CCCC1.O=C([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoroacetate,,,,,,
+kDyTf,353.15,101.325,1134.5,Sanchez (2008),Density,Liquid,AAxEib,CCCC[N+]1(C)CCCC1.O=C([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoroacetate,,,,,,
+kDyTf,363.15,101.325,1127.7,Sanchez (2008),Density,Liquid,AAxEib,CCCC[N+]1(C)CCCC1.O=C([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoroacetate,,,,,,

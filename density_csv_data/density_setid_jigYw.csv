@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jigYw,293.15,101.325,1037.3,Lukhosko et al. (2015),Density,Liquid,AAuLqL,CCCC[n+]1ccc(C)cc1.N#C[C-](C#N)C#N,1-butyl-4-methylpyridinium tricyanomethanide,,,,,,
+jigYw,303.15,101.325,1031.7,Lukhosko et al. (2015),Density,Liquid,AAuLqL,CCCC[n+]1ccc(C)cc1.N#C[C-](C#N)C#N,1-butyl-4-methylpyridinium tricyanomethanide,,,,,,
+jigYw,313.15,101.325,1026.2,Lukhosko et al. (2015),Density,Liquid,AAuLqL,CCCC[n+]1ccc(C)cc1.N#C[C-](C#N)C#N,1-butyl-4-methylpyridinium tricyanomethanide,,,,,,
+jigYw,323.15,101.325,1020.7,Lukhosko et al. (2015),Density,Liquid,AAuLqL,CCCC[n+]1ccc(C)cc1.N#C[C-](C#N)C#N,1-butyl-4-methylpyridinium tricyanomethanide,,,,,,
+jigYw,333.15,101.325,1015.1,Lukhosko et al. (2015),Density,Liquid,AAuLqL,CCCC[n+]1ccc(C)cc1.N#C[C-](C#N)C#N,1-butyl-4-methylpyridinium tricyanomethanide,,,,,,
+jigYw,343.15,101.325,1009.6,Lukhosko et al. (2015),Density,Liquid,AAuLqL,CCCC[n+]1ccc(C)cc1.N#C[C-](C#N)C#N,1-butyl-4-methylpyridinium tricyanomethanide,,,,,,

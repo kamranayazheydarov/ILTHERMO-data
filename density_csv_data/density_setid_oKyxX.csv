@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Mole ratio to solvent: 2-oxopropanoic acid,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oKyxX,298.15,101.3,2,1117.2,Zhang et al. (2022c),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAQwdv,CC(=O)C(=O)O,2-oxopropanoic acid,,,
+oKyxX,308.15,101.3,2,1108,Zhang et al. (2022c),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAQwdv,CC(=O)C(=O)O,2-oxopropanoic acid,,,
+oKyxX,318.15,101.3,2,1099.1,Zhang et al. (2022c),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAQwdv,CC(=O)C(=O)O,2-oxopropanoic acid,,,
+oKyxX,328.15,101.3,2,1090.1,Zhang et al. (2022c),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAQwdv,CC(=O)C(=O)O,2-oxopropanoic acid,,,
+oKyxX,338.15,101.3,2,1081.5,Zhang et al. (2022c),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAQwdv,CC(=O)C(=O)O,2-oxopropanoic acid,,,

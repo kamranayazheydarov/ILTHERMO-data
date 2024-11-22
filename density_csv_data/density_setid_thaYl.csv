@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+thaYl,283.15,101.325,1582.5,Chen et al. (2016c),Density,Liquid,ABZmaR,COC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(methoxymethyl)pyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+thaYl,293.15,101.325,1572.3,Chen et al. (2016c),Density,Liquid,ABZmaR,COC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(methoxymethyl)pyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+thaYl,298.15,101.325,1567,Chen et al. (2016c),Density,Liquid,ABZmaR,COC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(methoxymethyl)pyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+thaYl,303.15,101.325,1562,Chen et al. (2016c),Density,Liquid,ABZmaR,COC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(methoxymethyl)pyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+thaYl,313.15,101.325,1551.9,Chen et al. (2016c),Density,Liquid,ABZmaR,COC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(methoxymethyl)pyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+thaYl,323.15,101.325,1541.8,Chen et al. (2016c),Density,Liquid,ABZmaR,COC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(methoxymethyl)pyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+thaYl,333.15,101.325,1531.9,Chen et al. (2016c),Density,Liquid,ABZmaR,COC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(methoxymethyl)pyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+thaYl,343.15,101.325,1522.1,Chen et al. (2016c),Density,Liquid,ABZmaR,COC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(methoxymethyl)pyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+thaYl,353.15,101.325,1512.1,Chen et al. (2016c),Density,Liquid,ABZmaR,COC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(methoxymethyl)pyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,

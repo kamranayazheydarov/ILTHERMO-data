@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+JubVe,288.15,101.325,1.5212,Shekaari et al. (2016c),Refractive index,Liquid,ABOMSG,CC(C)Cc1ccc(C(C)C(=O)[O-])cc1.CCCCn1cc[n+](C)c1,1-butyl-3-methylimidazolium ibuprofenate,,,,,,,
+JubVe,298.15,101.325,1.5174,Shekaari et al. (2016c),Refractive index,Liquid,ABOMSG,CC(C)Cc1ccc(C(C)C(=O)[O-])cc1.CCCCn1cc[n+](C)c1,1-butyl-3-methylimidazolium ibuprofenate,,,,,,,
+JubVe,308.15,101.325,1.5138,Shekaari et al. (2016c),Refractive index,Liquid,ABOMSG,CC(C)Cc1ccc(C(C)C(=O)[O-])cc1.CCCCn1cc[n+](C)c1,1-butyl-3-methylimidazolium ibuprofenate,,,,,,,
+JubVe,318.15,101.325,1.5101,Shekaari et al. (2016c),Refractive index,Liquid,ABOMSG,CC(C)Cc1ccc(C(C)C(=O)[O-])cc1.CCCCn1cc[n+](C)c1,1-butyl-3-methylimidazolium ibuprofenate,,,,,,,

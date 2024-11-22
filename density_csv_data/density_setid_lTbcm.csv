@@ -1,0 +1,11 @@
+setid,Weight fraction of 1-hexyl-3-methylimidazolium L-glutamate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+lTbcm,0,100,298.15,997.1,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABINUR,CCCCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium L-glutamate,,,
+lTbcm,0.059,100,298.15,1006.5,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABINUR,CCCCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium L-glutamate,,,
+lTbcm,0.104,100,298.15,1011.6,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABINUR,CCCCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium L-glutamate,,,
+lTbcm,0.152,100,298.15,1020.5,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABINUR,CCCCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium L-glutamate,,,
+lTbcm,0.212,100,298.15,1029.3,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABINUR,CCCCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium L-glutamate,,,
+lTbcm,0.293,100,298.15,1042.6,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABINUR,CCCCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium L-glutamate,,,
+lTbcm,0.351,100,298.15,1051.4,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABINUR,CCCCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium L-glutamate,,,
+lTbcm,0.431,100,298.15,1063.2,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABINUR,CCCCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium L-glutamate,,,
+lTbcm,0.53,100,298.15,1080.8,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABINUR,CCCCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium L-glutamate,,,
+lTbcm,0.668,100,298.15,1101.7,Alopina et al. (2016),Density,Liquid,AADYJk,O,water,ABINUR,CCCCCC[n+]1ccn(C)c1.N[C@@H](CCC(=O)O)C(=O)[O-],1-hexyl-3-methylimidazolium L-glutamate,,,

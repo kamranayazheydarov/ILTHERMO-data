@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KFpHH,288.15,100,1013.48,Havlova and Dohnal (2022),Density,Liquid,AAsjdp,CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N,1-butyl-1-methylpyrrolidinium tricyanomethanide,,,,,,
+KFpHH,293.15,100,1010.38,Havlova and Dohnal (2022),Density,Liquid,AAsjdp,CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N,1-butyl-1-methylpyrrolidinium tricyanomethanide,,,,,,
+KFpHH,298.15,100,1007.27,Havlova and Dohnal (2022),Density,Liquid,AAsjdp,CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N,1-butyl-1-methylpyrrolidinium tricyanomethanide,,,,,,
+KFpHH,303.15,100,1004.19,Havlova and Dohnal (2022),Density,Liquid,AAsjdp,CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N,1-butyl-1-methylpyrrolidinium tricyanomethanide,,,,,,
+KFpHH,308.15,100,1001.13,Havlova and Dohnal (2022),Density,Liquid,AAsjdp,CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N,1-butyl-1-methylpyrrolidinium tricyanomethanide,,,,,,
+KFpHH,313.15,100,998.09,Havlova and Dohnal (2022),Density,Liquid,AAsjdp,CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N,1-butyl-1-methylpyrrolidinium tricyanomethanide,,,,,,
+KFpHH,318.15,100,995.06,Havlova and Dohnal (2022),Density,Liquid,AAsjdp,CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N,1-butyl-1-methylpyrrolidinium tricyanomethanide,,,,,,
+KFpHH,323.15,100,992.05,Havlova and Dohnal (2022),Density,Liquid,AAsjdp,CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N,1-butyl-1-methylpyrrolidinium tricyanomethanide,,,,,,
+KFpHH,328.15,100,989.05,Havlova and Dohnal (2022),Density,Liquid,AAsjdp,CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N,1-butyl-1-methylpyrrolidinium tricyanomethanide,,,,,,
+KFpHH,333.15,100,986.07,Havlova and Dohnal (2022),Density,Liquid,AAsjdp,CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N,1-butyl-1-methylpyrrolidinium tricyanomethanide,,,,,,

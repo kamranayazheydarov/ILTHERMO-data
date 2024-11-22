@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+sCZUd,298.12,101.325,1144.1,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,302.85,101.325,1140.4,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,308.2,101.325,1137.7,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,312.94,101.325,1134.5,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,318.09,101.325,1130.8,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,323.22,101.325,1128.6,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,328.75,101.325,1124.9,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,333.31,101.325,1120.8,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,338.46,101.325,1118,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,343.19,101.325,1114.8,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,348.14,101.325,1111.7,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,
+sCZUd,353.48,101.325,1108.4,Iwasaki et al. (2018),Density,Liquid,ABChyi,CCCC[n+]1ccn(C)c1.F[B-](F)(F)c1ccccc1,1-butyl-3-methylimidazolium phenyltrifluoroborate,,,,,,

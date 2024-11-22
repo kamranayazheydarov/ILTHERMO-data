@@ -1,0 +1,8 @@
+setid,Mole fraction of lithium bis((trifluoromethyl)sulfonyl)amide,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WfeeT,0,298.1,100,1113,Tran et al. (2020),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AALwIY,OCCO,"1,2-ethanediol",,,
+WfeeT,0.143,298.1,100,1184,Tran et al. (2020),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AALwIY,OCCO,"1,2-ethanediol",,,
+WfeeT,0.167,298.1,100,1197,Tran et al. (2020),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AALwIY,OCCO,"1,2-ethanediol",,,
+WfeeT,0.2,298.1,100,1203,Tran et al. (2020),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AALwIY,OCCO,"1,2-ethanediol",,,
+WfeeT,0.25,298.1,100,1236,Tran et al. (2020),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AALwIY,OCCO,"1,2-ethanediol",,,
+WfeeT,0.333,298.1,100,1307,Tran et al. (2020),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AALwIY,OCCO,"1,2-ethanediol",,,
+WfeeT,0.5,298.1,100,1471,Tran et al. (2020),Density,Liquid,ABDKGa,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Li+],lithium bis((trifluoromethyl)sulfonyl)amide,AALwIY,OCCO,"1,2-ethanediol",,,

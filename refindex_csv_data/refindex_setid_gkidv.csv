@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+gkidv,293.15,101.325,1.50224,Khan et al. (2017a),Refractive index,Liquid,AApoCg,CS(=O)(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium methanesulfonate,,,,,,,
+gkidv,298.15,101.325,1.50096,Khan et al. (2017a),Refractive index,Liquid,AApoCg,CS(=O)(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium methanesulfonate,,,,,,,
+gkidv,303.15,101.325,1.49962,Khan et al. (2017a),Refractive index,Liquid,AApoCg,CS(=O)(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium methanesulfonate,,,,,,,
+gkidv,308.15,101.325,1.49826,Khan et al. (2017a),Refractive index,Liquid,AApoCg,CS(=O)(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium methanesulfonate,,,,,,,
+gkidv,313.15,101.325,1.49686,Khan et al. (2017a),Refractive index,Liquid,AApoCg,CS(=O)(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium methanesulfonate,,,,,,,
+gkidv,318.15,101.325,1.49547,Khan et al. (2017a),Refractive index,Liquid,AApoCg,CS(=O)(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium methanesulfonate,,,,,,,
+gkidv,323.15,101.325,1.49402,Khan et al. (2017a),Refractive index,Liquid,AApoCg,CS(=O)(=O)[O-].N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium methanesulfonate,,,,,,,

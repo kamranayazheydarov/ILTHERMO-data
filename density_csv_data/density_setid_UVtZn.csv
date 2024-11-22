@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+UVtZn,303.15,101.325,1086.9,Xing et al. (2016a),Density,Liquid,AAkKPA,CCC[n+]1ccccc1.N#C[N-]C#N,1-propylpyridinium dicyanamide,,,,,,
+UVtZn,308.15,101.325,1083.8,Xing et al. (2016a),Density,Liquid,AAkKPA,CCC[n+]1ccccc1.N#C[N-]C#N,1-propylpyridinium dicyanamide,,,,,,
+UVtZn,313.15,101.325,1080.7,Xing et al. (2016a),Density,Liquid,AAkKPA,CCC[n+]1ccccc1.N#C[N-]C#N,1-propylpyridinium dicyanamide,,,,,,
+UVtZn,318.15,101.325,1077.6,Xing et al. (2016a),Density,Liquid,AAkKPA,CCC[n+]1ccccc1.N#C[N-]C#N,1-propylpyridinium dicyanamide,,,,,,
+UVtZn,323.15,101.325,1074.5,Xing et al. (2016a),Density,Liquid,AAkKPA,CCC[n+]1ccccc1.N#C[N-]C#N,1-propylpyridinium dicyanamide,,,,,,
+UVtZn,328.15,101.325,1071.5,Xing et al. (2016a),Density,Liquid,AAkKPA,CCC[n+]1ccccc1.N#C[N-]C#N,1-propylpyridinium dicyanamide,,,,,,
+UVtZn,333.15,101.325,1068.4,Xing et al. (2016a),Density,Liquid,AAkKPA,CCC[n+]1ccccc1.N#C[N-]C#N,1-propylpyridinium dicyanamide,,,,,,
+UVtZn,338.15,101.325,1065.4,Xing et al. (2016a),Density,Liquid,AAkKPA,CCC[n+]1ccccc1.N#C[N-]C#N,1-propylpyridinium dicyanamide,,,,,,

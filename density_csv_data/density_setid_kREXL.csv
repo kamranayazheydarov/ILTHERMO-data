@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kREXL,288.15,100,1136.5,Wang et al. (2022f),Density,Liquid,AAuylj,C(C(O)C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium lactate,,,,,,
+kREXL,293.15,100,1132.8,Wang et al. (2022f),Density,Liquid,AAuylj,C(C(O)C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium lactate,,,,,,
+kREXL,298.15,100,1129.1,Wang et al. (2022f),Density,Liquid,AAuylj,C(C(O)C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium lactate,,,,,,
+kREXL,303.15,100,1125.4,Wang et al. (2022f),Density,Liquid,AAuylj,C(C(O)C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium lactate,,,,,,
+kREXL,308.15,100,1121.8,Wang et al. (2022f),Density,Liquid,AAuylj,C(C(O)C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium lactate,,,,,,
+kREXL,313.15,100,1118.2,Wang et al. (2022f),Density,Liquid,AAuylj,C(C(O)C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium lactate,,,,,,
+kREXL,318.15,100,1114.5,Wang et al. (2022f),Density,Liquid,AAuylj,C(C(O)C)(=O)[O-].C(C)OCCN1C=[N+](C=C1)C,1-(2-ethoxyethyl)-3-methylimidazolium lactate,,,,,,

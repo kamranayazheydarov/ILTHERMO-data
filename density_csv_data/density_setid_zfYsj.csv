@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zfYsj,293.16,101.325,1275.7,Machanova et al. (2012),Density,Liquid,ABoVaq,CCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylheptylammonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+zfYsj,303.15,101.325,1267.4,Machanova et al. (2012),Density,Liquid,ABoVaq,CCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylheptylammonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+zfYsj,313.15,101.325,1259,Machanova et al. (2012),Density,Liquid,ABoVaq,CCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylheptylammonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+zfYsj,323.15,101.325,1250.7,Machanova et al. (2012),Density,Liquid,ABoVaq,CCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylheptylammonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+zfYsj,333.15,101.325,1240.1,Machanova et al. (2012),Density,Liquid,ABoVaq,CCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylheptylammonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+zfYsj,343.15,101.325,1231.4,Machanova et al. (2012),Density,Liquid,ABoVaq,CCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylheptylammonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+zfYsj,353.11,101.325,1222.9,Machanova et al. (2012),Density,Liquid,ABoVaq,CCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylheptylammonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+zfYsj,363.15,101.325,1213.8,Machanova et al. (2012),Density,Liquid,ABoVaq,CCCCCCC[N+](CC)(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,triethylheptylammonium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

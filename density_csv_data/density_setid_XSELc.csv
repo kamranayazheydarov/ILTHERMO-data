@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XSELc,298.15,101.325,1114,Yokozeki et al. (2008),Density,Liquid,AAwvZw,CC(=O)CCC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 4-oxopentanoate,,,,,,
+XSELc,323.15,101.325,1098,Yokozeki et al. (2008),Density,Liquid,AAwvZw,CC(=O)CCC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 4-oxopentanoate,,,,,,
+XSELc,348.15,101.325,1081,Yokozeki et al. (2008),Density,Liquid,AAwvZw,CC(=O)CCC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium 4-oxopentanoate,,,,,,

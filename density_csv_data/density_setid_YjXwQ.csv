@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+YjXwQ,288.15,101.325,1228.6,Geppert-Rybczynska et al. (2010b),Density,Liquid,ACFcKF,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.S=C=N[Co-2](N=C=S)(N=C=S)N=C=S,bis(1-butyl-3-methylimidazolium) tetrathiocyanatocobaltate,,,,,,
+YjXwQ,293.15,101.325,1225.3,Geppert-Rybczynska et al. (2010b),Density,Liquid,ACFcKF,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.S=C=N[Co-2](N=C=S)(N=C=S)N=C=S,bis(1-butyl-3-methylimidazolium) tetrathiocyanatocobaltate,,,,,,
+YjXwQ,298.15,101.325,1222,Geppert-Rybczynska et al. (2010b),Density,Liquid,ACFcKF,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.S=C=N[Co-2](N=C=S)(N=C=S)N=C=S,bis(1-butyl-3-methylimidazolium) tetrathiocyanatocobaltate,,,,,,
+YjXwQ,303.15,101.325,1218.7,Geppert-Rybczynska et al. (2010b),Density,Liquid,ACFcKF,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.S=C=N[Co-2](N=C=S)(N=C=S)N=C=S,bis(1-butyl-3-methylimidazolium) tetrathiocyanatocobaltate,,,,,,
+YjXwQ,308.15,101.325,1215.2,Geppert-Rybczynska et al. (2010b),Density,Liquid,ACFcKF,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.S=C=N[Co-2](N=C=S)(N=C=S)N=C=S,bis(1-butyl-3-methylimidazolium) tetrathiocyanatocobaltate,,,,,,
+YjXwQ,313.15,101.325,1211.8,Geppert-Rybczynska et al. (2010b),Density,Liquid,ACFcKF,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.S=C=N[Co-2](N=C=S)(N=C=S)N=C=S,bis(1-butyl-3-methylimidazolium) tetrathiocyanatocobaltate,,,,,,
+YjXwQ,318.15,101.325,1208.2,Geppert-Rybczynska et al. (2010b),Density,Liquid,ACFcKF,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.S=C=N[Co-2](N=C=S)(N=C=S)N=C=S,bis(1-butyl-3-methylimidazolium) tetrathiocyanatocobaltate,,,,,,
+YjXwQ,323.15,101.325,1204.8,Geppert-Rybczynska et al. (2010b),Density,Liquid,ACFcKF,CCCCn1cc[n+](C)c1.CCCCn1cc[n+](C)c1.S=C=N[Co-2](N=C=S)(N=C=S)N=C=S,bis(1-butyl-3-methylimidazolium) tetrathiocyanatocobaltate,,,,,,

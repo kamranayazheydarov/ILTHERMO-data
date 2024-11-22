@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+dAEIt,293.15,101.325,1247.3,Ficke et al. (2010),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+dAEIt,298.15,101.325,1243.8,Ficke et al. (2010),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+dAEIt,303.15,101.325,1240.5,Ficke et al. (2010),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+dAEIt,313.15,101.325,1233.5,Ficke et al. (2010),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+dAEIt,323.15,101.325,1227,Ficke et al. (2010),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+dAEIt,333.15,101.325,1220.3,Ficke et al. (2010),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+dAEIt,343.15,101.325,1213.8,Ficke et al. (2010),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+sahVh,298.15,101.325,955.6,Yoo et al. (2013a),Density,Liquid,ACjXLu,CCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC.CCCCCCCCCCCCc1ccc(S(=O)(=O)[O-])cc1,tributyltetradecylphosphonium 4-dodecylbenzenesulfonate,,,,,,
+sahVh,303.15,101.325,952.5,Yoo et al. (2013a),Density,Liquid,ACjXLu,CCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC.CCCCCCCCCCCCc1ccc(S(=O)(=O)[O-])cc1,tributyltetradecylphosphonium 4-dodecylbenzenesulfonate,,,,,,
+sahVh,313.15,101.325,942.8,Yoo et al. (2013a),Density,Liquid,ACjXLu,CCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC.CCCCCCCCCCCCc1ccc(S(=O)(=O)[O-])cc1,tributyltetradecylphosphonium 4-dodecylbenzenesulfonate,,,,,,
+sahVh,323.15,101.325,936.6,Yoo et al. (2013a),Density,Liquid,ACjXLu,CCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC.CCCCCCCCCCCCc1ccc(S(=O)(=O)[O-])cc1,tributyltetradecylphosphonium 4-dodecylbenzenesulfonate,,,,,,
+sahVh,333.15,101.325,930.4,Yoo et al. (2013a),Density,Liquid,ACjXLu,CCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC.CCCCCCCCCCCCc1ccc(S(=O)(=O)[O-])cc1,tributyltetradecylphosphonium 4-dodecylbenzenesulfonate,,,,,,
+sahVh,343.15,101.325,924.3,Yoo et al. (2013a),Density,Liquid,ACjXLu,CCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC.CCCCCCCCCCCCc1ccc(S(=O)(=O)[O-])cc1,tributyltetradecylphosphonium 4-dodecylbenzenesulfonate,,,,,,
+sahVh,353.15,101.325,918.3,Yoo et al. (2013a),Density,Liquid,ACjXLu,CCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC.CCCCCCCCCCCCc1ccc(S(=O)(=O)[O-])cc1,tributyltetradecylphosphonium 4-dodecylbenzenesulfonate,,,,,,

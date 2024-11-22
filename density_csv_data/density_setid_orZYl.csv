@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+orZYl,283.15,101.325,1417.5,Xue et al. (2016),Density,Liquid,ABfREZ,CC(C)CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methylbutyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+orZYl,288.15,101.325,1412.7,Xue et al. (2016),Density,Liquid,ABfREZ,CC(C)CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methylbutyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+orZYl,293.15,101.325,1408.1,Xue et al. (2016),Density,Liquid,ABfREZ,CC(C)CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methylbutyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+orZYl,298.15,101.325,1403.3,Xue et al. (2016),Density,Liquid,ABfREZ,CC(C)CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methylbutyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+orZYl,303.15,101.325,1398.5,Xue et al. (2016),Density,Liquid,ABfREZ,CC(C)CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methylbutyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+orZYl,308.15,101.325,1393.7,Xue et al. (2016),Density,Liquid,ABfREZ,CC(C)CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methylbutyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+orZYl,313.15,101.325,1388.7,Xue et al. (2016),Density,Liquid,ABfREZ,CC(C)CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(3-methylbutyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ccMtu,293.2,101.325,1444.84,Khan et al. (2017d),Density,Liquid,ABaxjg,CS(=O)(=O)[O-].CS(=O)(=O)[O-].Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) methanesulfonate",,,,,,
+ccMtu,303,101.325,1435.95,Khan et al. (2017d),Density,Liquid,ABaxjg,CS(=O)(=O)[O-].CS(=O)(=O)[O-].Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) methanesulfonate",,,,,,
+ccMtu,313,101.325,1428.55,Khan et al. (2017d),Density,Liquid,ABaxjg,CS(=O)(=O)[O-].CS(=O)(=O)[O-].Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) methanesulfonate",,,,,,
+ccMtu,322.9,101.325,1422.15,Khan et al. (2017d),Density,Liquid,ABaxjg,CS(=O)(=O)[O-].CS(=O)(=O)[O-].Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) methanesulfonate",,,,,,
+ccMtu,332.6,101.325,1416.74,Khan et al. (2017d),Density,Liquid,ABaxjg,CS(=O)(=O)[O-].CS(=O)(=O)[O-].Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) methanesulfonate",,,,,,
+ccMtu,343.1,101.325,1407.86,Khan et al. (2017d),Density,Liquid,ABaxjg,CS(=O)(=O)[O-].CS(=O)(=O)[O-].Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) methanesulfonate",,,,,,
+ccMtu,353.1,101.325,1400.96,Khan et al. (2017d),Density,Liquid,ABaxjg,CS(=O)(=O)[O-].CS(=O)(=O)[O-].Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) methanesulfonate",,,,,,
+ccMtu,363,101.325,1392.57,Khan et al. (2017d),Density,Liquid,ABaxjg,CS(=O)(=O)[O-].CS(=O)(=O)[O-].Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) methanesulfonate",,,,,,
+ccMtu,373,101.325,1385.67,Khan et al. (2017d),Density,Liquid,ABaxjg,CS(=O)(=O)[O-].CS(=O)(=O)[O-].Cn1cc[n+](CCCC[n+]2ccn(C)c2)c1,"3,3'-(butane-1,4-diyl)bis(1-methyl-1H-imidazol-3-ium) methanesulfonate",,,,,,

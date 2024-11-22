@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+tsllN,293.15,100,1.5683,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,
+tsllN,298.15,100,1.5671,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,
+tsllN,303.15,100,1.5658,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,
+tsllN,308.15,100,1.5646,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,
+tsllN,313.15,100,1.5633,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,
+tsllN,318.15,100,1.562,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,
+tsllN,323.15,100,1.5607,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,
+tsllN,328.15,100,1.5594,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,
+tsllN,333.15,100,1.5586,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,
+tsllN,338.15,100,1.5574,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,
+tsllN,343.15,100,1.5563,Song et al. (2021),Refractive index,Liquid,AAqbEg,CC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-ethylpyridinium trifluoroacetate,,,,,,,

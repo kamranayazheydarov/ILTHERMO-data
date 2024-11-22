@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uHbbp,298.15,101.325,1325,Kato and Gmehling (2005a),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+uHbbp,303.15,101.325,1320,Kato and Gmehling (2005a),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+uHbbp,308.15,101.325,1316,Kato and Gmehling (2005a),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+uHbbp,313.15,101.325,1311,Kato and Gmehling (2005a),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+uHbbp,318.15,101.325,1307,Kato and Gmehling (2005a),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+uHbbp,323.15,101.325,1303,Kato and Gmehling (2005a),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+uHbbp,328.15,101.325,1298,Kato and Gmehling (2005a),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+uHbbp,333.15,101.325,1294,Kato and Gmehling (2005a),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+uHbbp,338.15,101.325,1289,Kato and Gmehling (2005a),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+uHbbp,343.15,101.325,1285,Kato and Gmehling (2005a),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,

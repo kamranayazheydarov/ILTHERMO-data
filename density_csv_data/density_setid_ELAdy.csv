@@ -1,0 +1,16 @@
+setid,Solvent: Weight fraction of triethylammonium hydrogen sulfate,Mass ratio to solvent: 2-aminoacetic acid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ELAdy,0.121,0.0464,298.15,101,1046.37,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.121,0.0554,298.15,101,1054.34,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.121,0.0705,298.15,101,1067.47,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.121,0.0805,298.15,101,1076.69,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.121,0.0949,298.15,101,1088.74,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.186,0.0191,298.15,101,1012.31,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.186,0.0255,298.15,101,1031.75,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.186,0.0318,298.15,101,1050.61,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.186,0.0378,298.15,101,1067.66,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.186,0.0453,298.15,101,1092.02,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.246,0.0113,298.15,101,1127.89,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.246,0.0135,298.15,101,1130.74,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.246,0.015,298.15,101,1132.89,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.246,0.0175,298.15,101,1136.27,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate
+ELAdy,0.246,0.0199,298.15,101,1139.97,Vasantha et al. (2013),Density,Liquid,AAOWgA,NCC(=O)O,2-aminoacetic acid,AADYJk,O,water,AAmQWi,CC[NH+](CC)CC.O=S(=O)([O-])O,triethylammonium hydrogen sulfate

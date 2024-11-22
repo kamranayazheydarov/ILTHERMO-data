@@ -1,0 +1,4 @@
+setid,Mole fraction of methylcyclohexane,Mole fraction of toluene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+hQcaf,0.003,0.217,101,298.15,1196.5,Gonzalez et al. (2011a),Density,Liquid,AAStyH,CC1CCCCC1,methylcyclohexane,AARlpN,Cc1ccccc1,toluene,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+hQcaf,0.009,0.117,101,298.15,1214.2,Gonzalez et al. (2011a),Density,Liquid,AAStyH,CC1CCCCC1,methylcyclohexane,AARlpN,Cc1ccccc1,toluene,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+hQcaf,0.012,0.079,101,298.15,1221.2,Gonzalez et al. (2011a),Density,Liquid,AAStyH,CC1CCCCC1,methylcyclohexane,AARlpN,Cc1ccccc1,toluene,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate

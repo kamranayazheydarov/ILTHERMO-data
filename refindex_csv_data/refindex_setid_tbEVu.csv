@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+tbEVu,298.15,101.325,1.4845,Marcinkowski et al. (2019a),Refractive index,Liquid,ABOMXN,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCCCC[N+]1(C)CCOCC1,N-hexyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,,
+tbEVu,303.15,101.325,1.4826,Marcinkowski et al. (2019a),Refractive index,Liquid,ABOMXN,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCCCC[N+]1(C)CCOCC1,N-hexyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,,
+tbEVu,308.15,101.325,1.4811,Marcinkowski et al. (2019a),Refractive index,Liquid,ABOMXN,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCCCC[N+]1(C)CCOCC1,N-hexyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,,
+tbEVu,313.15,101.325,1.4794,Marcinkowski et al. (2019a),Refractive index,Liquid,ABOMXN,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCCCC[N+]1(C)CCOCC1,N-hexyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,,
+tbEVu,318.15,101.325,1.4778,Marcinkowski et al. (2019a),Refractive index,Liquid,ABOMXN,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCCCC[N+]1(C)CCOCC1,N-hexyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,,

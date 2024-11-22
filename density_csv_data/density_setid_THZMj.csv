@@ -1,0 +1,6 @@
+setid,Mole fraction of toluene,Mole fraction of tetraethylammonium chloride,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+THZMj,0,0.25,298.2,100,910,Song et al. (2020b),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,ABCQte,CCCCCCCC/C=C\CCCCCCCC(=O)O,(Z)-9-octadecenoic acid
+THZMj,0.2,0.2,298.2,100,901,Song et al. (2020b),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,ABCQte,CCCCCCCC/C=C\CCCCCCCC(=O)O,(Z)-9-octadecenoic acid
+THZMj,0.4,0.149,298.2,100,892,Song et al. (2020b),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,ABCQte,CCCCCCCC/C=C\CCCCCCCC(=O)O,(Z)-9-octadecenoic acid
+THZMj,0.6,0.1,298.2,100,882,Song et al. (2020b),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,ABCQte,CCCCCCCC/C=C\CCCCCCCC(=O)O,(Z)-9-octadecenoic acid
+THZMj,0.8,0.05,298.2,100,871,Song et al. (2020b),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,ABCQte,CCCCCCCC/C=C\CCCCCCCC(=O)O,(Z)-9-octadecenoic acid

@@ -1,0 +1,14 @@
+setid,Mole fraction of butanoic acid,Mole fraction of hexane,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EdjyP,0.1297,0.1503,303.15,100,1054.1,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.2196,0.1561,303.15,100,1042.4,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.2802,0.1496,303.15,100,1031.3,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.39,0.5799,303.15,100,780,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.4001,0.1702,303.15,100,1017.3,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.4999,0.4503,303.15,100,829.4,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.5149,0.1726,303.15,100,992.5,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.53,0.22,303.15,100,969.1,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.5301,0.4097,303.15,100,853.5,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.5302,0.3898,303.15,100,862.4,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.5497,0.25,303.15,100,942.2,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.5746,0.321,303.15,100,897.6,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane
+EdjyP,0.5846,0.2697,303.15,100,926.4,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxlj,CCCC(=O)O,butanoic acid,AAQdzy,CCCCCC,hexane

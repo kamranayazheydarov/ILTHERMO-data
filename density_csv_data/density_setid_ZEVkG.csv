@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZEVkG,293.15,101.325,848,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,
+ZEVkG,298.15,101.325,844.3,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,
+ZEVkG,303.15,101.325,840.6,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,
+ZEVkG,308.15,101.325,836.9,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,
+ZEVkG,313.15,101.325,833.2,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,
+ZEVkG,318.15,101.325,829.5,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,
+ZEVkG,323.15,101.325,825.8,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,
+ZEVkG,328.15,101.325,822,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,
+ZEVkG,333.15,101.325,818.3,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,
+ZEVkG,338.15,101.325,814.5,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,
+ZEVkG,343.15,101.325,810.8,Keshapolla et al. (2019),Density,Liquid,ABQosp,CCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium butanoate,,,,,,

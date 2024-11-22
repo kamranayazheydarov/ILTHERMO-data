@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HXFrH,293.15,101.325,1297.1,Kermanioryani et al. (2016),Density,Liquid,ABrOHw,CCCCn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-butylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+HXFrH,303.15,101.325,1288.3,Kermanioryani et al. (2016),Density,Liquid,ABrOHw,CCCCn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-butylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+HXFrH,313.15,101.325,1279.6,Kermanioryani et al. (2016),Density,Liquid,ABrOHw,CCCCn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-butylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+HXFrH,323.15,101.325,1271,Kermanioryani et al. (2016),Density,Liquid,ABrOHw,CCCCn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-butylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+HXFrH,333.15,101.325,1262.4,Kermanioryani et al. (2016),Density,Liquid,ABrOHw,CCCCn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-butylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+HXFrH,343.15,101.325,1253.7,Kermanioryani et al. (2016),Density,Liquid,ABrOHw,CCCCn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-butylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+HXFrH,353.15,101.325,1245.3,Kermanioryani et al. (2016),Density,Liquid,ABrOHw,CCCCn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-butylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+HXFrH,363.15,101.325,1237.2,Kermanioryani et al. (2016),Density,Liquid,ABrOHw,CCCCn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-butylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+HXFrH,373.15,101.325,1229.2,Kermanioryani et al. (2016),Density,Liquid,ABrOHw,CCCCn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-butylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,

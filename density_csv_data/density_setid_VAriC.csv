@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VAriC,293.15,101.325,1068.13,Santos et al. (2016),Density,Liquid,AAcjLb,CCC(=O)[O-].C[NH2+]CCO,2-hydroxy-N-methylethanaminium propionate,,,,,,
+VAriC,303.15,101.325,1061.16,Santos et al. (2016),Density,Liquid,AAcjLb,CCC(=O)[O-].C[NH2+]CCO,2-hydroxy-N-methylethanaminium propionate,,,,,,
+VAriC,313.15,101.325,1054.19,Santos et al. (2016),Density,Liquid,AAcjLb,CCC(=O)[O-].C[NH2+]CCO,2-hydroxy-N-methylethanaminium propionate,,,,,,
+VAriC,323.15,101.325,1047.12,Santos et al. (2016),Density,Liquid,AAcjLb,CCC(=O)[O-].C[NH2+]CCO,2-hydroxy-N-methylethanaminium propionate,,,,,,
+VAriC,333.15,101.325,1039.96,Santos et al. (2016),Density,Liquid,AAcjLb,CCC(=O)[O-].C[NH2+]CCO,2-hydroxy-N-methylethanaminium propionate,,,,,,
+VAriC,343.15,101.325,1032.71,Santos et al. (2016),Density,Liquid,AAcjLb,CCC(=O)[O-].C[NH2+]CCO,2-hydroxy-N-methylethanaminium propionate,,,,,,
+VAriC,353.15,101.325,1025.34,Santos et al. (2016),Density,Liquid,AAcjLb,CCC(=O)[O-].C[NH2+]CCO,2-hydroxy-N-methylethanaminium propionate,,,,,,

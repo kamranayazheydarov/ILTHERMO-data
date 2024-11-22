@@ -1,0 +1,10 @@
+setid,Mole fraction of ethylbenzene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+FDaeC,0,101,283.15,1034.3,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+FDaeC,0.0555,101,283.15,1030.5,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+FDaeC,0.1101,101,283.15,1026.8,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+FDaeC,0.2088,101,283.15,1021,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+FDaeC,0.3135,101,283.15,1012.02,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+FDaeC,0.4082,101,283.15,1001.8,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+FDaeC,0.4247,101,283.15,1000.06,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+FDaeC,0.447,101,283.15,997.53,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+FDaeC,1,101,283.15,875.67,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,

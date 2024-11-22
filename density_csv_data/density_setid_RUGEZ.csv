@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RUGEZ,298.2,101.325,1291.2,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,303.2,101.325,1287.8,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,308.2,101.325,1282.7,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,313.3,101.325,1277.6,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,318,101.325,1277.6,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,323.3,101.325,1272.4,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,328.2,101.325,1269,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,333.3,101.325,1263.9,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,338.1,101.325,1258.8,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,343,101.325,1258.8,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,348.3,101.325,1252,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,
+RUGEZ,353,101.325,1250.3,Brauer et al. (2015),Density,Liquid,AAoxuG,CCC[n+]1cn(C)cn1.F[B-](F)(F)F,"4-methyl-1-propyl-1,2,4-triazolium tetrafluoroborate",,,,,,

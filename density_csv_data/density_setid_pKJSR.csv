@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+pKJSR,302.71,101.325,1355.9,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,307.7,101.325,1352.4,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,312.7,101.325,1348.9,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,317.71,101.325,1345.4,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,322.7,101.325,1341.9,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,327.7,101.325,1338.5,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,332.7,101.325,1335,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,337.69,101.325,1331.6,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,342.68,101.325,1328.2,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,347.68,101.325,1324.9,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,352.67,101.325,1321.6,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,
+pKJSR,357.67,101.325,1318.3,Paulechka et al. (2010b),Density,Liquid,AAnWVs,CCCn1cc[n+](C)c1.[Br-],1-methyl-3-propylimidazolium bromide,,,,,,

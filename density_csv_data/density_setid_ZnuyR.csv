@@ -1,0 +1,5 @@
+setid,"Temperature, K",Mass ratio to solvent: urea,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZnuyR,298.15,0,101,1178,Zhuang et al. (2020),Density,Liquid,AAnSCL,CCOC(=O)C[n+]1ccn(C)c1.[Cl-],1-(2-ethoxy-2-oxoethyl)-3-methylimidazolium chloride,AALcjF,NC(N)=O,urea,,,
+ZnuyR,298.15,0.1,101,1193,Zhuang et al. (2020),Density,Liquid,AAnSCL,CCOC(=O)C[n+]1ccn(C)c1.[Cl-],1-(2-ethoxy-2-oxoethyl)-3-methylimidazolium chloride,AALcjF,NC(N)=O,urea,,,
+ZnuyR,298.15,0.2,101,1208,Zhuang et al. (2020),Density,Liquid,AAnSCL,CCOC(=O)C[n+]1ccn(C)c1.[Cl-],1-(2-ethoxy-2-oxoethyl)-3-methylimidazolium chloride,AALcjF,NC(N)=O,urea,,,
+ZnuyR,298.15,0.3,101,1223,Zhuang et al. (2020),Density,Liquid,AAnSCL,CCOC(=O)C[n+]1ccn(C)c1.[Cl-],1-(2-ethoxy-2-oxoethyl)-3-methylimidazolium chloride,AALcjF,NC(N)=O,urea,,,

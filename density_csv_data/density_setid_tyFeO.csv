@@ -1,0 +1,3 @@
+setid,Mole fraction of toluene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+tyFeO,0.328,101,298.15,1151,Dominguez et al. (2011a),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,
+tyFeO,0.328,101,298.15,1153.4,Dominguez et al. (2011a),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,

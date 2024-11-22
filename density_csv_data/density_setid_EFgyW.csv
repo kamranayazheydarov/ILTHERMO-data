@@ -1,0 +1,9 @@
+setid,Weight fraction of ethanol,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EFgyW,0.008,100,313.15,1411.58,Seoane et al. (2012c),Density,Liquid,AAIsrh,CCO,ethanol,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,
+EFgyW,0.015,100,313.15,1403.51,Seoane et al. (2012c),Density,Liquid,AAIsrh,CCO,ethanol,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,
+EFgyW,0.032,100,313.15,1384.48,Seoane et al. (2012c),Density,Liquid,AAIsrh,CCO,ethanol,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,
+EFgyW,0.084,100,313.15,1329.16,Seoane et al. (2012c),Density,Liquid,AAIsrh,CCO,ethanol,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,
+EFgyW,0.156,100,313.15,1259.12,Seoane et al. (2012c),Density,Liquid,AAIsrh,CCO,ethanol,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,
+EFgyW,0.202,100,313.15,1218.21,Seoane et al. (2012c),Density,Liquid,AAIsrh,CCO,ethanol,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,
+EFgyW,0.385,100,313.15,1077.75,Seoane et al. (2012c),Density,Liquid,AAIsrh,CCO,ethanol,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,
+EFgyW,0.48,100,313.15,1016.97,Seoane et al. (2012c),Density,Liquid,AAIsrh,CCO,ethanol,ABchwx,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,

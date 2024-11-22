@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+TfaPF,333.65,100,1195.3,Souckova et al. (2017),Density,Liquid,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,,,,
+TfaPF,338.68,100,1192,Souckova et al. (2017),Density,Liquid,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,,,,
+TfaPF,343.7,100,1188,Souckova et al. (2017),Density,Liquid,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,,,,
+TfaPF,347.72,100,1186.5,Souckova et al. (2017),Density,Liquid,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,,,,
+TfaPF,353.06,100,1184.1,Souckova et al. (2017),Density,Liquid,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,,,,
+TfaPF,359.06,100,1180.8,Souckova et al. (2017),Density,Liquid,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,,,,
+TfaPF,363.86,100,1177.4,Souckova et al. (2017),Density,Liquid,AAWpNY,Cn1cc[nH+]c1.[Cl-],1-methylimidazolium chloride,,,,,,

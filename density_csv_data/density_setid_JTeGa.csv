@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JTeGa,298.15,101,1221.2,Zawadzki et al. (2014),Density,Liquid,AAqlQM,CCCC[N+]1(C)CCCC1.[Br-],1-butyl-1-methylpyrrolidinium bromide,,,,,,
+JTeGa,303.15,101,1217.3,Zawadzki et al. (2014),Density,Liquid,AAqlQM,CCCC[N+]1(C)CCCC1.[Br-],1-butyl-1-methylpyrrolidinium bromide,,,,,,
+JTeGa,308.15,101,1213.4,Zawadzki et al. (2014),Density,Liquid,AAqlQM,CCCC[N+]1(C)CCCC1.[Br-],1-butyl-1-methylpyrrolidinium bromide,,,,,,
+JTeGa,313.15,101,1209.5,Zawadzki et al. (2014),Density,Liquid,AAqlQM,CCCC[N+]1(C)CCCC1.[Br-],1-butyl-1-methylpyrrolidinium bromide,,,,,,
+JTeGa,318.15,101,1205.7,Zawadzki et al. (2014),Density,Liquid,AAqlQM,CCCC[N+]1(C)CCCC1.[Br-],1-butyl-1-methylpyrrolidinium bromide,,,,,,
+JTeGa,323.15,101,1201.8,Zawadzki et al. (2014),Density,Liquid,AAqlQM,CCCC[N+]1(C)CCCC1.[Br-],1-butyl-1-methylpyrrolidinium bromide,,,,,,
+JTeGa,328.15,101,1198,Zawadzki et al. (2014),Density,Liquid,AAqlQM,CCCC[N+]1(C)CCCC1.[Br-],1-butyl-1-methylpyrrolidinium bromide,,,,,,
+JTeGa,333.15,101,1194.3,Zawadzki et al. (2014),Density,Liquid,AAqlQM,CCCC[N+]1(C)CCCC1.[Br-],1-butyl-1-methylpyrrolidinium bromide,,,,,,
+JTeGa,338.15,101,1190.5,Zawadzki et al. (2014),Density,Liquid,AAqlQM,CCCC[N+]1(C)CCCC1.[Br-],1-butyl-1-methylpyrrolidinium bromide,,,,,,
+JTeGa,343.15,101,1186.8,Zawadzki et al. (2014),Density,Liquid,AAqlQM,CCCC[N+]1(C)CCCC1.[Br-],1-butyl-1-methylpyrrolidinium bromide,,,,,,

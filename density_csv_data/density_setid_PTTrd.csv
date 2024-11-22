@@ -1,0 +1,13 @@
+setid,Mole fraction of cyclooctane,Mole fraction of benzene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PTTrd,0,0.406,101,298.15,1171.7,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.001,0.306,101,298.15,1195.3,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.001,0.351,101,298.15,1184.7,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.004,0.207,101,298.15,1215.2,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.004,0.26,101,298.15,1204,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.004,0.283,101,298.15,1199.3,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.005,0.181,101,298.15,1219.5,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.006,0.151,101,298.15,1225.2,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.007,0.101,101,298.15,1233.8,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.008,0.078,101,298.15,1237.5,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.009,0,101,298.15,1249.2,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+PTTrd,0.009,0.05,101,298.15,1241.4,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVeaX,C1CCCCCCC1,cyclooctane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate

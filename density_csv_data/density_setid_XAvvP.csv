@@ -1,0 +1,4 @@
+setid,Mole fraction of hexane,"Mole fraction of 1,2-dimethylbenzene","Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XAvvP,0.003,0.111,101,298.15,1198.8,Gonzalez et al. (2010i),Density,Liquid,AAUVtU,Cc1ccccc1C,"1,2-dimethylbenzene",AAQdzy,CCCCCC,hexane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+XAvvP,0.008,0.058,101,298.15,1208,Gonzalez et al. (2010i),Density,Liquid,AAUVtU,Cc1ccccc1C,"1,2-dimethylbenzene",AAQdzy,CCCCCC,hexane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+XAvvP,0.008,0.091,101,298.15,1202.1,Gonzalez et al. (2010i),Density,Liquid,AAUVtU,Cc1ccccc1C,"1,2-dimethylbenzene",AAQdzy,CCCCCC,hexane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate

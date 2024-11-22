@@ -1,0 +1,10 @@
+setid,"Mole fraction of 1,4-dimethylbenzene","Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uDisQ,0,101,283.15,1230.73,Gonzalez et al. (2015c),Density,Liquid,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+uDisQ,0.0494,101,283.15,1221.42,Gonzalez et al. (2015c),Density,Liquid,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+uDisQ,0.1138,101,283.15,1208.21,Gonzalez et al. (2015c),Density,Liquid,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+uDisQ,0.1206,101,283.15,1207.34,Gonzalez et al. (2015c),Density,Liquid,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+uDisQ,0.1401,101,283.15,1202.84,Gonzalez et al. (2015c),Density,Liquid,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+uDisQ,0.1696,101,283.15,1196.58,Gonzalez et al. (2015c),Density,Liquid,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+uDisQ,0.187,101,283.15,1192.57,Gonzalez et al. (2015c),Density,Liquid,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+uDisQ,0.1972,101,283.15,1190.4,Gonzalez et al. (2015c),Density,Liquid,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+uDisQ,1,101,283.15,869.6,Gonzalez et al. (2015c),Density,Liquid,AAUVGQ,Cc1ccc(C)cc1,"1,4-dimethylbenzene",AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,

@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nSUuK,298.1,101.3,1209.1,Singh et al. (2022),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,
+nSUuK,308.1,101.3,1202.9,Singh et al. (2022),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,
+nSUuK,318.1,101.3,1196.8,Singh et al. (2022),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,

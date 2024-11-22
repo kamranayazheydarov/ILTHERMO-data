@@ -1,0 +1,10 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XOleu,100,313.15,1052.4,Lee et al. (2016),Density,Liquid,ABjXYg,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CCN(CCO)CCO,tetrabutylammonium 2-(bis(2-hydroxyethyl)amino)ethanesulfonate,,,,,,
+XOleu,100,318.15,1049.6,Lee et al. (2016),Density,Liquid,ABjXYg,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CCN(CCO)CCO,tetrabutylammonium 2-(bis(2-hydroxyethyl)amino)ethanesulfonate,,,,,,
+XOleu,100,323.15,1046.8,Lee et al. (2016),Density,Liquid,ABjXYg,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CCN(CCO)CCO,tetrabutylammonium 2-(bis(2-hydroxyethyl)amino)ethanesulfonate,,,,,,
+XOleu,100,328.15,1044,Lee et al. (2016),Density,Liquid,ABjXYg,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CCN(CCO)CCO,tetrabutylammonium 2-(bis(2-hydroxyethyl)amino)ethanesulfonate,,,,,,
+XOleu,100,333.15,1041.2,Lee et al. (2016),Density,Liquid,ABjXYg,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CCN(CCO)CCO,tetrabutylammonium 2-(bis(2-hydroxyethyl)amino)ethanesulfonate,,,,,,
+XOleu,100,338.15,1038.4,Lee et al. (2016),Density,Liquid,ABjXYg,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CCN(CCO)CCO,tetrabutylammonium 2-(bis(2-hydroxyethyl)amino)ethanesulfonate,,,,,,
+XOleu,100,343.15,1035.6,Lee et al. (2016),Density,Liquid,ABjXYg,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CCN(CCO)CCO,tetrabutylammonium 2-(bis(2-hydroxyethyl)amino)ethanesulfonate,,,,,,
+XOleu,100,348.15,1032.8,Lee et al. (2016),Density,Liquid,ABjXYg,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CCN(CCO)CCO,tetrabutylammonium 2-(bis(2-hydroxyethyl)amino)ethanesulfonate,,,,,,
+XOleu,100,353.15,1030.1,Lee et al. (2016),Density,Liquid,ABjXYg,CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])CCN(CCO)CCO,tetrabutylammonium 2-(bis(2-hydroxyethyl)amino)ethanesulfonate,,,,,,

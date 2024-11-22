@@ -1,0 +1,10 @@
+setid,Mole fraction of tetrapropylammonium bromide,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EUvst,0.333,293.15,100,1227.06,Omar and Sadeghi (2022),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AASILr,O=C(O)CCl,chloroethanoic acid,,,
+EUvst,0.333,298.15,100,1223.13,Omar and Sadeghi (2022),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AASILr,O=C(O)CCl,chloroethanoic acid,,,
+EUvst,0.333,303.15,100,1219.37,Omar and Sadeghi (2022),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AASILr,O=C(O)CCl,chloroethanoic acid,,,
+EUvst,0.333,308.15,100,1215.6,Omar and Sadeghi (2022),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AASILr,O=C(O)CCl,chloroethanoic acid,,,
+EUvst,0.333,313.15,100,1211.84,Omar and Sadeghi (2022),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AASILr,O=C(O)CCl,chloroethanoic acid,,,
+EUvst,0.333,318.15,100,1208.08,Omar and Sadeghi (2022),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AASILr,O=C(O)CCl,chloroethanoic acid,,,
+EUvst,0.333,323.15,100,1204.33,Omar and Sadeghi (2022),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AASILr,O=C(O)CCl,chloroethanoic acid,,,
+EUvst,0.333,328.15,100,1200.59,Omar and Sadeghi (2022),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AASILr,O=C(O)CCl,chloroethanoic acid,,,
+EUvst,0.333,333.15,100,1196.87,Omar and Sadeghi (2022),Density,Liquid,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AASILr,O=C(O)CCl,chloroethanoic acid,,,

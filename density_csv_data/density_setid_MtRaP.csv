@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","MolaLity of tetrabutylammonium acetate, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MtRaP,293.15,100,0.01,998.583,Kaur and Chauhan (2020),Density,Liquid,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate,AADYJk,O,water,,,
+MtRaP,298.15,100,0.01,997.389,Kaur and Chauhan (2020),Density,Liquid,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate,AADYJk,O,water,,,
+MtRaP,303.15,100,0.01,995.998,Kaur and Chauhan (2020),Density,Liquid,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate,AADYJk,O,water,,,
+MtRaP,308.15,100,0.01,994.315,Kaur and Chauhan (2020),Density,Liquid,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate,AADYJk,O,water,,,
+MtRaP,313.15,100,0.01,992.463,Kaur and Chauhan (2020),Density,Liquid,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate,AADYJk,O,water,,,
+MtRaP,318.15,100,0.01,990.432,Kaur and Chauhan (2020),Density,Liquid,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate,AADYJk,O,water,,,

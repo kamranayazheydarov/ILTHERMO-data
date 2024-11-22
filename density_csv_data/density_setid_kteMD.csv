@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kteMD,288.15,101,1185.9,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 1,,5,AAQJlb,C1CCCCC1,cyclohexane,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+kteMD,298.15,101,1181.2,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 1,,5,AAQJlb,C1CCCCC1,cyclohexane,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+kteMD,308.15,101,1178.1,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 1,,5,AAQJlb,C1CCCCC1,cyclohexane,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+kteMD,318.15,101,1174,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 1,,5,AAQJlb,C1CCCCC1,cyclohexane,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+kteMD,328.15,101,1166.5,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 1,,5,AAQJlb,C1CCCCC1,cyclohexane,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate

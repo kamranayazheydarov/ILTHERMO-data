@@ -1,0 +1,7 @@
+setid,"MolaRity of sodium octane-1-sulfonate, mol/dm3","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MSuBa,0.005,302.15,100,995.5,Deosarkar et al. (2014),Density,Liquid,AApeGS,CCCCCCCCS(=O)(=O)[O-].[Na+],sodium octane-1-sulfonate,AADYJk,O,water,,,
+MSuBa,0.01,302.15,100,996,Deosarkar et al. (2014),Density,Liquid,AApeGS,CCCCCCCCS(=O)(=O)[O-].[Na+],sodium octane-1-sulfonate,AADYJk,O,water,,,
+MSuBa,0.015,302.15,100,996.5,Deosarkar et al. (2014),Density,Liquid,AApeGS,CCCCCCCCS(=O)(=O)[O-].[Na+],sodium octane-1-sulfonate,AADYJk,O,water,,,
+MSuBa,0.02,302.15,100,997.5,Deosarkar et al. (2014),Density,Liquid,AApeGS,CCCCCCCCS(=O)(=O)[O-].[Na+],sodium octane-1-sulfonate,AADYJk,O,water,,,
+MSuBa,0.025,302.15,100,998.1,Deosarkar et al. (2014),Density,Liquid,AApeGS,CCCCCCCCS(=O)(=O)[O-].[Na+],sodium octane-1-sulfonate,AADYJk,O,water,,,
+MSuBa,0.03,302.15,100,998.9,Deosarkar et al. (2014),Density,Liquid,AApeGS,CCCCCCCCS(=O)(=O)[O-].[Na+],sodium octane-1-sulfonate,AADYJk,O,water,,,

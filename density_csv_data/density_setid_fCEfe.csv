@@ -1,0 +1,6 @@
+setid,"Temperature, K","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fCEfe,306.6,4.66e-05,Shiflett et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,5,AAGcjK,S,hydrogen sulfide
+fCEfe,307,4.68e-05,Shiflett et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,5,AAGcjK,S,hydrogen sulfide
+fCEfe,307.8,4.7e-05,Shiflett et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,5,AAGcjK,S,hydrogen sulfide
+fCEfe,313,4.8e-05,Shiflett et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,5,AAGcjK,S,hydrogen sulfide
+fCEfe,318,4.91e-05,Shiflett et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,,Gas,,5,AAGcjK,S,hydrogen sulfide

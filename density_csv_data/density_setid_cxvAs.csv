@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cxvAs,293.15,101.325,995.7,Gardas et al. (2010b),Density,Liquid,ABTrBd,CCCC[P+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylphosphonium L-prolinate,,,,,,
+cxvAs,298.15,101.325,992.5,Gardas et al. (2010b),Density,Liquid,ABTrBd,CCCC[P+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylphosphonium L-prolinate,,,,,,
+cxvAs,303.15,101.325,989.1,Gardas et al. (2010b),Density,Liquid,ABTrBd,CCCC[P+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylphosphonium L-prolinate,,,,,,
+cxvAs,313.15,101.325,983,Gardas et al. (2010b),Density,Liquid,ABTrBd,CCCC[P+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylphosphonium L-prolinate,,,,,,
+cxvAs,323.15,101.325,976.9,Gardas et al. (2010b),Density,Liquid,ABTrBd,CCCC[P+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylphosphonium L-prolinate,,,,,,
+cxvAs,333.15,101.325,970.8,Gardas et al. (2010b),Density,Liquid,ABTrBd,CCCC[P+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylphosphonium L-prolinate,,,,,,
+cxvAs,343.15,101.325,964.6,Gardas et al. (2010b),Density,Liquid,ABTrBd,CCCC[P+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylphosphonium L-prolinate,,,,,,
+cxvAs,353.15,101.325,958.6,Gardas et al. (2010b),Density,Liquid,ABTrBd,CCCC[P+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylphosphonium L-prolinate,,,,,,
+cxvAs,363.15,101.325,952.6,Gardas et al. (2010b),Density,Liquid,ABTrBd,CCCC[P+](CCCC)(CCCC)CCCC.O=C([O-])[C@@H]1CCCN1,tetrabutylphosphonium L-prolinate,,,,,,

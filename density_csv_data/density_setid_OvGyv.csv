@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OvGyv,293.15,101.325,1305.9,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,
+OvGyv,298.15,101.325,1302.5,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,
+OvGyv,303.15,101.325,1299.1,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,
+OvGyv,308.15,101.325,1295.8,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,
+OvGyv,313.15,101.325,1292.4,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,
+OvGyv,318.15,101.325,1289.1,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,
+OvGyv,323.15,101.325,1285.7,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,
+OvGyv,328.15,101.325,1282.4,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,
+OvGyv,333.15,101.325,1279.1,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,
+OvGyv,338.15,101.325,1275.8,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,
+OvGyv,343.15,101.325,1272.5,Gomez et al. (2010c),Density,Liquid,AAqIgw,COS(=O)(=O)[O-].Cc1ccc[n+](C)c1,"1,3-dimethylpyridinium methyl sulfate",,,,,,

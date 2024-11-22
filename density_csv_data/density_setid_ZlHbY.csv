@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZlHbY,293.15,101,1170.3,Gonfa et al. (2015a),Density,Liquid,AAiskl,C=CC[n+]1ccn(C)c1.N#C[S-],1-allyl-3-methylimidazolium thiocyanate,,,,,,
+ZlHbY,298.15,101,1167,Gonfa et al. (2015a),Density,Liquid,AAiskl,C=CC[n+]1ccn(C)c1.N#C[S-],1-allyl-3-methylimidazolium thiocyanate,,,,,,
+ZlHbY,303.15,101,1163.7,Gonfa et al. (2015a),Density,Liquid,AAiskl,C=CC[n+]1ccn(C)c1.N#C[S-],1-allyl-3-methylimidazolium thiocyanate,,,,,,
+ZlHbY,308.15,101,1160.6,Gonfa et al. (2015a),Density,Liquid,AAiskl,C=CC[n+]1ccn(C)c1.N#C[S-],1-allyl-3-methylimidazolium thiocyanate,,,,,,
+ZlHbY,313.15,101,1157.3,Gonfa et al. (2015a),Density,Liquid,AAiskl,C=CC[n+]1ccn(C)c1.N#C[S-],1-allyl-3-methylimidazolium thiocyanate,,,,,,
+ZlHbY,318.15,101,1154.1,Gonfa et al. (2015a),Density,Liquid,AAiskl,C=CC[n+]1ccn(C)c1.N#C[S-],1-allyl-3-methylimidazolium thiocyanate,,,,,,
+ZlHbY,323.15,101,1151,Gonfa et al. (2015a),Density,Liquid,AAiskl,C=CC[n+]1ccn(C)c1.N#C[S-],1-allyl-3-methylimidazolium thiocyanate,,,,,,

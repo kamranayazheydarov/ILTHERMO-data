@@ -1,0 +1,22 @@
+setid,"Temperature, K",Mole fraction of carbon dioxide,"Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jPken,313.15,0.1,0.0001686,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,313.15,0.146,0.0001618,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,313.15,0.249,0.0001453,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,313.15,0.307,0.0001375,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,313.15,0.361,0.0001295,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,313.15,0.401,0.0001238,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,313.15,0.423,0.000121,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,323.15,0.103,0.0001681,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,323.15,0.17,0.0001573,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,323.15,0.223,0.0001484,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,323.15,0.282,0.0001418,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,323.15,0.328,0.0001349,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,323.15,0.384,0.0001261,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,323.15,0.403,0.0001246,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,333.15,0.118,0.0001663,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,333.15,0.186,0.0001551,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,333.15,0.263,0.0001419,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,333.15,0.319,0.0001333,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,333.15,0.383,0.0001226,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,333.15,0.433,0.0001144,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate
+jPken,333.15,0.457,0.0001111,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAtWDT,CCOS(=O)(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium ethyl sulfate

@@ -1,0 +1,12 @@
+setid,Weight fraction of ethanol,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RxgtN,0.008,313.15,101,1219.8,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,
+RxgtN,0.015,313.15,101,1214.6,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,
+RxgtN,0.031,313.15,101,1203.9,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,
+RxgtN,0.056,313.15,101,1187.4,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,
+RxgtN,0.082,313.15,101,1170.7,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,
+RxgtN,0.123,313.15,101,1144.9,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,
+RxgtN,0.179,313.15,101,1111.8,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,
+RxgtN,0.252,313.15,101,1071.5,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,
+RxgtN,0.366,313.15,101,1013.6,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,
+RxgtN,0.551,313.15,101,931.5,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,
+RxgtN,0.72,313.15,101,865.9,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,

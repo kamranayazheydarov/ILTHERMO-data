@@ -1,0 +1,22 @@
+setid,"Temperature, K",Mole fraction of carbon dioxide,"Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ctPnl,313.15,0.196,0.0001491,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,313.15,0.276,0.0001366,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,313.15,0.342,0.0001263,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,313.15,0.397,0.0001178,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,313.15,0.449,0.0001095,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,313.15,0.497,0.0001016,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,313.15,0.513,9.92e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,323.15,0.169,0.0001541,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,323.15,0.263,0.000139,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,323.15,0.336,0.0001276,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,323.15,0.388,0.0001206,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,323.15,0.446,0.0001091,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,323.15,0.498,0.0001006,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,323.15,0.53,9.5e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,333.15,0.183,0.0001519,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,333.15,0.236,0.0001433,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,333.15,0.314,0.000131,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,333.15,0.369,0.0001226,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,333.15,0.425,0.0001135,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,333.15,0.48,0.0001037,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate
+ctPnl,333.15,0.522,9.59e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate

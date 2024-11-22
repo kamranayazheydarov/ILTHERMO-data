@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ECsro,288.15,100,1355.5,Havlov and Dohnal (2018),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+ECsro,293.15,100,1351.5,Havlov and Dohnal (2018),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+ECsro,298.15,100,1347.3,Havlov and Dohnal (2018),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+ECsro,303.15,100,1343.2,Havlov and Dohnal (2018),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+ECsro,308.15,100,1339.1,Havlov and Dohnal (2018),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+ECsro,313.15,100,1335,Havlov and Dohnal (2018),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+ECsro,318.15,100,1330.9,Havlov and Dohnal (2018),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+ECsro,323.15,100,1326.8,Havlov and Dohnal (2018),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+ECsro,328.15,100,1322.8,Havlov and Dohnal (2018),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,
+ECsro,333.15,100,1318.8,Havlov and Dohnal (2018),Density,Liquid,ABJfwj,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)C(F)F,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",,,,,,

@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HQvwx,293.15,101.3,1456,Raj et al. (2021),Density,Liquid,ABtAhY,COCCOCCn1cc[n+](CCC#N)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-cyanoethyl)-3[2-(2-methoxyethoxy)ethyl]imidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+HQvwx,303.15,101.3,1447,Raj et al. (2021),Density,Liquid,ABtAhY,COCCOCCn1cc[n+](CCC#N)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-cyanoethyl)-3[2-(2-methoxyethoxy)ethyl]imidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+HQvwx,313.15,101.3,1438,Raj et al. (2021),Density,Liquid,ABtAhY,COCCOCCn1cc[n+](CCC#N)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-cyanoethyl)-3[2-(2-methoxyethoxy)ethyl]imidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+HQvwx,323.15,101.3,1428,Raj et al. (2021),Density,Liquid,ABtAhY,COCCOCCn1cc[n+](CCC#N)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-cyanoethyl)-3[2-(2-methoxyethoxy)ethyl]imidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,

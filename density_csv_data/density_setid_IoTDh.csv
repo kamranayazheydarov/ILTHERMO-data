@@ -1,0 +1,2 @@
+setid,Mole fraction of cyclohexene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IoTDh,0.041,101,298.15,1243.4,Gomez et al. (2014),Density,Liquid,AAPpAQ,C1=CCCCC1,cyclohexene,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,

@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EaqTI,298.15,101.325,1107.9,Marcinkowski et al. (2019a),Density,Liquid,ABGIns,CC[C@H](C)[C@H](NC(C)=O)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-isoleucinate,,,,,,
+EaqTI,303.15,101.325,1104.5,Marcinkowski et al. (2019a),Density,Liquid,ABGIns,CC[C@H](C)[C@H](NC(C)=O)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-isoleucinate,,,,,,
+EaqTI,308.15,101.325,1101.1,Marcinkowski et al. (2019a),Density,Liquid,ABGIns,CC[C@H](C)[C@H](NC(C)=O)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-isoleucinate,,,,,,
+EaqTI,313.15,101.325,1097.8,Marcinkowski et al. (2019a),Density,Liquid,ABGIns,CC[C@H](C)[C@H](NC(C)=O)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-isoleucinate,,,,,,
+EaqTI,318.15,101.325,1094.3,Marcinkowski et al. (2019a),Density,Liquid,ABGIns,CC[C@H](C)[C@H](NC(C)=O)C(=O)[O-].CC[N+]1(C)CCOCC1,N-ethyl-N-methylmorpholinium N-acetyl-L-isoleucinate,,,,,,

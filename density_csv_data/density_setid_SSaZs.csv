@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SSaZs,288.15,100,1044.51,Bai et al. (2016c),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+SSaZs,293.15,100,1041.57,Bai et al. (2016c),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+SSaZs,298.15,100,1038.62,Bai et al. (2016c),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+SSaZs,303.15,100,1035.7,Bai et al. (2016c),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+SSaZs,308.15,100,1032.78,Bai et al. (2016c),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+SSaZs,313.15,100,1029.88,Bai et al. (2016c),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+SSaZs,318.25,100,1027.06,Bai et al. (2016c),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+SSaZs,323.15,100,1024.19,Bai et al. (2016c),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+SSaZs,328.15,100,1021.31,Bai et al. (2016c),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,
+SSaZs,333.15,100,1018.44,Bai et al. (2016c),Density,Liquid,AAmzKp,CCCCCC[n+]1ccn(C)c1.[Cl-],1-hexyl-3-methylimidazolium chloride,,,,,,

@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+YXvqN,283.15,101.325,1122,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,288.15,101.325,1118.6,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,293.15,101.325,1115.6,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,298.15,101.325,1112.5,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,303.15,101.325,1109.5,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,308.15,101.325,1106.5,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,313.15,101.325,1103.5,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,323.15,101.325,1097.7,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,328.15,101.325,1094.7,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,333.15,101.325,1091.8,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,338.15,101.325,1088.9,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,
+YXvqN,343.15,101.325,1086,Mohammadi et al. (2021),Density,Liquid,AAraWc,CCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-hexylpyridinium nitrate,,,,,,

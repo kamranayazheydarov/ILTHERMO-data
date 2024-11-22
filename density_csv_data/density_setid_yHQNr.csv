@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yHQNr,293.15,101.325,985.3,Ghanem et al. (2015a),Density,Liquid,ABCawU,CCCCCCCCn1cc[n+](C)c1.C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-alaninate,,,,,,
+yHQNr,303.15,101.325,982.1,Ghanem et al. (2015a),Density,Liquid,ABCawU,CCCCCCCCn1cc[n+](C)c1.C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-alaninate,,,,,,
+yHQNr,313.15,101.325,978.6,Ghanem et al. (2015a),Density,Liquid,ABCawU,CCCCCCCCn1cc[n+](C)c1.C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-alaninate,,,,,,
+yHQNr,323.15,101.325,975.8,Ghanem et al. (2015a),Density,Liquid,ABCawU,CCCCCCCCn1cc[n+](C)c1.C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-alaninate,,,,,,
+yHQNr,333.15,101.325,972.9,Ghanem et al. (2015a),Density,Liquid,ABCawU,CCCCCCCCn1cc[n+](C)c1.C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-alaninate,,,,,,
+yHQNr,343.15,101.325,969.3,Ghanem et al. (2015a),Density,Liquid,ABCawU,CCCCCCCCn1cc[n+](C)c1.C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-alaninate,,,,,,
+yHQNr,353.15,101.325,966.3,Ghanem et al. (2015a),Density,Liquid,ABCawU,CCCCCCCCn1cc[n+](C)c1.C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-alaninate,,,,,,
+yHQNr,363.15,101.325,962.6,Ghanem et al. (2015a),Density,Liquid,ABCawU,CCCCCCCCn1cc[n+](C)c1.C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-alaninate,,,,,,
+yHQNr,373.15,101.325,959.7,Ghanem et al. (2015a),Density,Liquid,ABCawU,CCCCCCCCn1cc[n+](C)c1.C[C@H](N)C(=O)[O-],1-methyl-3-octylimidazolium L-alaninate,,,,,,

@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uoLSJ,297.35,101.325,1207.3,Maginn (2005),Density,Liquid,ABPKZp,CCCCCCn1cc[n+](C)c1.O=C1[N-]S(=O)(=O)c2ccccc21,1-hexyl-3-methylimidazolium saccharinate,,,,,,
+uoLSJ,307.45,101.325,1200.3,Maginn (2005),Density,Liquid,ABPKZp,CCCCCCn1cc[n+](C)c1.O=C1[N-]S(=O)(=O)c2ccccc21,1-hexyl-3-methylimidazolium saccharinate,,,,,,
+uoLSJ,313.05,101.325,1194.8,Maginn (2005),Density,Liquid,ABPKZp,CCCCCCn1cc[n+](C)c1.O=C1[N-]S(=O)(=O)c2ccccc21,1-hexyl-3-methylimidazolium saccharinate,,,,,,
+uoLSJ,322.55,101.325,1188,Maginn (2005),Density,Liquid,ABPKZp,CCCCCCn1cc[n+](C)c1.O=C1[N-]S(=O)(=O)c2ccccc21,1-hexyl-3-methylimidazolium saccharinate,,,,,,
+uoLSJ,332.45,101.325,1181.1,Maginn (2005),Density,Liquid,ABPKZp,CCCCCCn1cc[n+](C)c1.O=C1[N-]S(=O)(=O)c2ccccc21,1-hexyl-3-methylimidazolium saccharinate,,,,,,

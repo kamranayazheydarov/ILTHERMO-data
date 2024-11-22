@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZJeqo,298.15,101.325,1570,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,303.15,101.325,1564.8,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,308.15,101.325,1559.6,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,313.15,101.325,1554.4,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,318.15,101.325,1549.3,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,323.15,101.325,1544.1,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,328.15,101.325,1539,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,333.15,101.325,1533.9,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,338.15,101.325,1528.9,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,343.15,101.325,1523.8,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,348.15,101.325,1518.8,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,
+ZJeqo,353.15,101.325,1513.8,Krummen et al. (2002),Density,Liquid,ABUcyg,Cn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide",,,,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vMmPu,293.15,101.325,1123.1,Zec et al. (2018a),Density,Liquid,ABJBaa,CCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-octyl-1H-imidazolium bromide,,,,,,
+vMmPu,298.15,101.325,1119.7,Zec et al. (2018a),Density,Liquid,ABJBaa,CCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-octyl-1H-imidazolium bromide,,,,,,
+vMmPu,303.15,101.325,1116.3,Zec et al. (2018a),Density,Liquid,ABJBaa,CCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-octyl-1H-imidazolium bromide,,,,,,
+vMmPu,308.15,101.325,1112.8,Zec et al. (2018a),Density,Liquid,ABJBaa,CCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-octyl-1H-imidazolium bromide,,,,,,
+vMmPu,313.15,101.325,1109.2,Zec et al. (2018a),Density,Liquid,ABJBaa,CCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-octyl-1H-imidazolium bromide,,,,,,
+vMmPu,318.15,101.325,1105.7,Zec et al. (2018a),Density,Liquid,ABJBaa,CCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-octyl-1H-imidazolium bromide,,,,,,
+vMmPu,323.15,101.325,1102.2,Zec et al. (2018a),Density,Liquid,ABJBaa,CCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-octyl-1H-imidazolium bromide,,,,,,

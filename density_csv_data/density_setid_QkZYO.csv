@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QkZYO,298.15,101.325,1357,Schreiner et al. (2010b),Density,Liquid,ABbgOd,CCCCn1cc[n+](C)c1.O=C(O[B-](F)(F)OC(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium difluorobis(trifluoroacetato)borate,,,,,,
+QkZYO,303.15,101.325,1352,Schreiner et al. (2010b),Density,Liquid,ABbgOd,CCCCn1cc[n+](C)c1.O=C(O[B-](F)(F)OC(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium difluorobis(trifluoroacetato)borate,,,,,,
+QkZYO,313.15,101.325,1341,Schreiner et al. (2010b),Density,Liquid,ABbgOd,CCCCn1cc[n+](C)c1.O=C(O[B-](F)(F)OC(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium difluorobis(trifluoroacetato)borate,,,,,,
+QkZYO,323.15,101.325,1330,Schreiner et al. (2010b),Density,Liquid,ABbgOd,CCCCn1cc[n+](C)c1.O=C(O[B-](F)(F)OC(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium difluorobis(trifluoroacetato)borate,,,,,,
+QkZYO,333.15,101.325,1320,Schreiner et al. (2010b),Density,Liquid,ABbgOd,CCCCn1cc[n+](C)c1.O=C(O[B-](F)(F)OC(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-methylimidazolium difluorobis(trifluoroacetato)borate,,,,,,

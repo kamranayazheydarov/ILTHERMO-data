@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa",Mole ratio to solvent: glycerol,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qEtmA,293.15,101,3,1133.02,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,
+qEtmA,298.15,101,3,1129.97,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,
+qEtmA,303.15,101,3,1126.92,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,
+qEtmA,308.15,101,3,1123.81,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,
+qEtmA,313.15,101,3,1120.62,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,
+qEtmA,318.15,101,3,1117.51,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,
+qEtmA,323.15,101,3,1114.45,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,
+qEtmA,328.15,101,3,1111.39,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,
+qEtmA,333.15,101,3,1108.32,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,
+qEtmA,338.15,101,3,1105.24,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,
+qEtmA,343.15,101,3,1102.17,Basaiahgari et al. (2017),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAzuLA,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],benzyltripropylammonium chloride,,,

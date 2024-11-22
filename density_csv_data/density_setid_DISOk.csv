@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DISOk,293.15,101.325,1064.37,Sanchez (2008),Density,Liquid,AAoDMM,CCCC[n+]1ccc(C)cc1.N#C[S-],1-butyl-4-methylpyridinium thiocyanate,,,,,,
+DISOk,303.15,101.325,1058.7,Sanchez (2008),Density,Liquid,AAoDMM,CCCC[n+]1ccc(C)cc1.N#C[S-],1-butyl-4-methylpyridinium thiocyanate,,,,,,
+DISOk,313.15,101.325,1053.02,Sanchez (2008),Density,Liquid,AAoDMM,CCCC[n+]1ccc(C)cc1.N#C[S-],1-butyl-4-methylpyridinium thiocyanate,,,,,,
+DISOk,323.15,101.325,1047.4,Sanchez (2008),Density,Liquid,AAoDMM,CCCC[n+]1ccc(C)cc1.N#C[S-],1-butyl-4-methylpyridinium thiocyanate,,,,,,
+DISOk,333.15,101.325,1041.81,Sanchez (2008),Density,Liquid,AAoDMM,CCCC[n+]1ccc(C)cc1.N#C[S-],1-butyl-4-methylpyridinium thiocyanate,,,,,,
+DISOk,343.15,101.325,1036.24,Sanchez (2008),Density,Liquid,AAoDMM,CCCC[n+]1ccc(C)cc1.N#C[S-],1-butyl-4-methylpyridinium thiocyanate,,,,,,
+DISOk,353.15,101.325,1030.71,Sanchez (2008),Density,Liquid,AAoDMM,CCCC[n+]1ccc(C)cc1.N#C[S-],1-butyl-4-methylpyridinium thiocyanate,,,,,,
+DISOk,363.15,101.325,1025.22,Sanchez (2008),Density,Liquid,AAoDMM,CCCC[n+]1ccc(C)cc1.N#C[S-],1-butyl-4-methylpyridinium thiocyanate,,,,,,

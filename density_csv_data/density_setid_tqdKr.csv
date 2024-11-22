@@ -1,0 +1,6 @@
+setid,"Temperature, K","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+tqdKr,243.2,7.23e-05,Shiflett and Yokozeki (2006a),Density,Liquid mixture 1,Liquid mixture 2,,,Gas,,5,AAJMQK,CCF,fluoroethane
+tqdKr,263.2,7.8e-05,Shiflett and Yokozeki (2006a),Density,Liquid mixture 1,Liquid mixture 2,,,Gas,,5,AAJMQK,CCF,fluoroethane
+tqdKr,293.7,8.31e-05,Shiflett and Yokozeki (2006a),Density,Liquid mixture 1,Liquid mixture 2,,,Gas,,5,AAJMQK,CCF,fluoroethane
+tqdKr,324.6,0.0001046,Shiflett and Yokozeki (2006a),Density,Liquid mixture 1,Liquid mixture 2,,,Gas,,5,AAJMQK,CCF,fluoroethane
+tqdKr,338.6,0.00012,Shiflett and Yokozeki (2006a),Density,Liquid mixture 1,Liquid mixture 2,,,Gas,,5,AAJMQK,CCF,fluoroethane

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zapuW,298.15,101.325,883,Kilaru et al. (2007),Density,Liquid,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,,,,
+zapuW,303.15,101.325,880,Kilaru et al. (2007),Density,Liquid,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,,,,
+zapuW,308.15,101.325,878,Kilaru et al. (2007),Density,Liquid,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,,,,
+zapuW,313.15,101.325,875,Kilaru et al. (2007),Density,Liquid,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,,,,
+zapuW,318.15,101.325,873,Kilaru et al. (2007),Density,Liquid,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,,,,
+zapuW,323.15,101.325,869,Kilaru et al. (2007),Density,Liquid,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,,,,
+zapuW,328.15,101.325,867,Kilaru et al. (2007),Density,Liquid,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,,,,
+zapuW,333.15,101.325,864,Kilaru et al. (2007),Density,Liquid,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,,,,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eQLQu,293.15,101.325,1215.6,Khan et al. (2018),Density,Liquid,AAgHQE,N#CCCn1cc[nH+]c1.O=C[O-],1-(2-cyanoethyl)imidazolium formate,,,,,,
+eQLQu,303.15,101.325,1207.1,Khan et al. (2018),Density,Liquid,AAgHQE,N#CCCn1cc[nH+]c1.O=C[O-],1-(2-cyanoethyl)imidazolium formate,,,,,,
+eQLQu,313.15,101.325,1198.7,Khan et al. (2018),Density,Liquid,AAgHQE,N#CCCn1cc[nH+]c1.O=C[O-],1-(2-cyanoethyl)imidazolium formate,,,,,,
+eQLQu,323.15,101.325,1190.3,Khan et al. (2018),Density,Liquid,AAgHQE,N#CCCn1cc[nH+]c1.O=C[O-],1-(2-cyanoethyl)imidazolium formate,,,,,,
+eQLQu,333.15,101.325,1182,Khan et al. (2018),Density,Liquid,AAgHQE,N#CCCn1cc[nH+]c1.O=C[O-],1-(2-cyanoethyl)imidazolium formate,,,,,,
+eQLQu,343.15,101.325,1173.7,Khan et al. (2018),Density,Liquid,AAgHQE,N#CCCn1cc[nH+]c1.O=C[O-],1-(2-cyanoethyl)imidazolium formate,,,,,,
+eQLQu,353.15,101.325,1163.6,Khan et al. (2018),Density,Liquid,AAgHQE,N#CCCn1cc[nH+]c1.O=C[O-],1-(2-cyanoethyl)imidazolium formate,,,,,,
+eQLQu,363.15,101.325,1154.7,Khan et al. (2018),Density,Liquid,AAgHQE,N#CCCn1cc[nH+]c1.O=C[O-],1-(2-cyanoethyl)imidazolium formate,,,,,,

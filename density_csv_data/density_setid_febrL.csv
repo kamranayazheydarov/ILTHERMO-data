@@ -1,0 +1,6 @@
+setid,Weight fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+febrL,0.0086,101,298.15,1110.1,Tong et al. (2013),Density,Liquid,AADYJk,O,water,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,
+febrL,0.010601,101,298.15,1110.9,Tong et al. (2013),Density,Liquid,AADYJk,O,water,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,
+febrL,0.012901,101,298.15,1112.2,Tong et al. (2013),Density,Liquid,AADYJk,O,water,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,
+febrL,0.0163,101,298.15,1113.9,Tong et al. (2013),Density,Liquid,AADYJk,O,water,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,
+febrL,0.021,101,298.15,1116.1,Tong et al. (2013),Density,Liquid,AADYJk,O,water,AAufur,CC(O)C(=O)[O-].CCCCC[n+]1ccn(C)c1,1-pentyl-3-methylimidazolium lactate,,,

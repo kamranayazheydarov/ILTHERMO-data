@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ISCNT,298.1,101.325,1177.34,Fareghi-Alamdari et al. (2015),Density,Liquid,ABKxVF,C=CC[N+](C)(C)CCn1cc[n+](C)c1.N#C[N-]C#N.N#C[N-]C#N,3-(2-allyldimethylammonio)ethyl-1-methylimidazolium bis(dicyanamide),,,,,,
+ISCNT,303,101.325,1173.64,Fareghi-Alamdari et al. (2015),Density,Liquid,ABKxVF,C=CC[N+](C)(C)CCn1cc[n+](C)c1.N#C[N-]C#N.N#C[N-]C#N,3-(2-allyldimethylammonio)ethyl-1-methylimidazolium bis(dicyanamide),,,,,,
+ISCNT,313,101.325,1167.56,Fareghi-Alamdari et al. (2015),Density,Liquid,ABKxVF,C=CC[N+](C)(C)CCn1cc[n+](C)c1.N#C[N-]C#N.N#C[N-]C#N,3-(2-allyldimethylammonio)ethyl-1-methylimidazolium bis(dicyanamide),,,,,,
+ISCNT,323,101.325,1162.32,Fareghi-Alamdari et al. (2015),Density,Liquid,ABKxVF,C=CC[N+](C)(C)CCn1cc[n+](C)c1.N#C[N-]C#N.N#C[N-]C#N,3-(2-allyldimethylammonio)ethyl-1-methylimidazolium bis(dicyanamide),,,,,,
+ISCNT,333,101.325,1155.53,Fareghi-Alamdari et al. (2015),Density,Liquid,ABKxVF,C=CC[N+](C)(C)CCn1cc[n+](C)c1.N#C[N-]C#N.N#C[N-]C#N,3-(2-allyldimethylammonio)ethyl-1-methylimidazolium bis(dicyanamide),,,,,,
+ISCNT,343,101.325,1150.06,Fareghi-Alamdari et al. (2015),Density,Liquid,ABKxVF,C=CC[N+](C)(C)CCn1cc[n+](C)c1.N#C[N-]C#N.N#C[N-]C#N,3-(2-allyldimethylammonio)ethyl-1-methylimidazolium bis(dicyanamide),,,,,,
+ISCNT,353,101.325,1145.25,Fareghi-Alamdari et al. (2015),Density,Liquid,ABKxVF,C=CC[N+](C)(C)CCn1cc[n+](C)c1.N#C[N-]C#N.N#C[N-]C#N,3-(2-allyldimethylammonio)ethyl-1-methylimidazolium bis(dicyanamide),,,,,,

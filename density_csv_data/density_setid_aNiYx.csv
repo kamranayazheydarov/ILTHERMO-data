@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+aNiYx,293,101.325,1000.7,Cui et al. (2020b),Density,Liquid,ABPoov,C(C1=CC=CC=C1)(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium benzoate,,,,,,
+aNiYx,303,101.325,994.7,Cui et al. (2020b),Density,Liquid,ABPoov,C(C1=CC=CC=C1)(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium benzoate,,,,,,
+aNiYx,313,101.325,988.7,Cui et al. (2020b),Density,Liquid,ABPoov,C(C1=CC=CC=C1)(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium benzoate,,,,,,
+aNiYx,323,101.325,982.7,Cui et al. (2020b),Density,Liquid,ABPoov,C(C1=CC=CC=C1)(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium benzoate,,,,,,
+aNiYx,333,101.325,976.7,Cui et al. (2020b),Density,Liquid,ABPoov,C(C1=CC=CC=C1)(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium benzoate,,,,,,
+aNiYx,343,101.325,970.8,Cui et al. (2020b),Density,Liquid,ABPoov,C(C1=CC=CC=C1)(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium benzoate,,,,,,
+aNiYx,353,101.325,964.9,Cui et al. (2020b),Density,Liquid,ABPoov,C(C1=CC=CC=C1)(=O)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium benzoate,,,,,,

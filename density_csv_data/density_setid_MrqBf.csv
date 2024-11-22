@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MrqBf,298.15,101.325,891.05,Domanska and Krolikowski (2012a),Density,Liquid,ACLHup,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[B-](C#N)(C#N)C#N,trihexyltetradecylphosphonium tetracyanoborate,,,,,,
+MrqBf,308.15,101.325,884.97,Domanska and Krolikowski (2012a),Density,Liquid,ACLHup,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[B-](C#N)(C#N)C#N,trihexyltetradecylphosphonium tetracyanoborate,,,,,,
+MrqBf,318.15,101.325,879.06,Domanska and Krolikowski (2012a),Density,Liquid,ACLHup,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[B-](C#N)(C#N)C#N,trihexyltetradecylphosphonium tetracyanoborate,,,,,,
+MrqBf,328.15,101.325,873.16,Domanska and Krolikowski (2012a),Density,Liquid,ACLHup,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[B-](C#N)(C#N)C#N,trihexyltetradecylphosphonium tetracyanoborate,,,,,,
+MrqBf,338.15,101.325,867.25,Domanska and Krolikowski (2012a),Density,Liquid,ACLHup,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[B-](C#N)(C#N)C#N,trihexyltetradecylphosphonium tetracyanoborate,,,,,,
+MrqBf,348.15,101.325,861.36,Domanska and Krolikowski (2012a),Density,Liquid,ACLHup,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[B-](C#N)(C#N)C#N,trihexyltetradecylphosphonium tetracyanoborate,,,,,,

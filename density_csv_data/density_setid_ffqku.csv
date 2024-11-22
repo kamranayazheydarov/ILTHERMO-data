@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ffqku,283.15,101.325,1612,Shiflett et al. (2006a),Density,Liquid,ACBsUp,CCCn1cc[n+](C)c1C.O=S(=O)([C-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,2-dimethyl-3-propylimidazolium tris(trifluoromethylsulfonyl)methide",,,,,,
+ffqku,298.15,101.325,1597,Shiflett et al. (2006a),Density,Liquid,ACBsUp,CCCn1cc[n+](C)c1C.O=S(=O)([C-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,2-dimethyl-3-propylimidazolium tris(trifluoromethylsulfonyl)methide",,,,,,
+ffqku,323.15,101.325,1582,Shiflett et al. (2006a),Density,Liquid,ACBsUp,CCCn1cc[n+](C)c1C.O=S(=O)([C-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,2-dimethyl-3-propylimidazolium tris(trifluoromethylsulfonyl)methide",,,,,,
+ffqku,348.15,101.325,1567,Shiflett et al. (2006a),Density,Liquid,ACBsUp,CCCn1cc[n+](C)c1C.O=S(=O)([C-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)C(F)(F)F,"1,2-dimethyl-3-propylimidazolium tris(trifluoromethylsulfonyl)methide",,,,,,

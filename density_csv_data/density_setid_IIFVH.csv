@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IIFVH,288.15,101.325,1148.9,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,293.15,101.325,1145.2,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,298.15,101.325,1141.8,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,303.15,101.325,1138.3,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,308.15,101.325,1134.8,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,313.15,101.325,1131.3,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,318.15,101.325,1127.8,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,323.15,101.325,1124.3,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,328.15,101.325,1120.7,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,333.15,101.325,1117.3,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,338.15,101.325,1113.8,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,
+IIFVH,343.15,101.325,1110.3,Zhang et al. (2016a),Density,Liquid,AApKJN,CCCCC[n+]1ccn(C)c1.O=C([O-])O,3-methyl-1-pentylimidazolium hydrogen carbonate,,,,,,

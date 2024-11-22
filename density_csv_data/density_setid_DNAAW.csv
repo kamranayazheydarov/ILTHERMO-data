@@ -1,0 +1,13 @@
+setid,Weight fraction of 1-butyl-3-methylimidazolium bromide,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DNAAW,0,288.15,101,999.1,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0,298.15,101,997,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0,308.15,101,994,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0.0008,288.15,101,999.2,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0.0008,298.15,101,997.2,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0.0008,308.15,101,994.2,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0.00119,288.15,101,999.3,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0.00119,298.15,101,997.2,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0.00119,308.15,101,994.2,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0.00161,288.15,101,999.4,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0.00161,298.15,101,997.3,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,
+DNAAW,0.00161,308.15,101,994.4,Mehrdad and Parvini (2017b),Density,Liquid,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide,AADYJk,O,water,,,

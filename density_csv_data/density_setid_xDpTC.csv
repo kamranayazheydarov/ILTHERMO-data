@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xDpTC,293,101.325,1476.7,Ramenskaya et al. (2018),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+xDpTC,313,101.325,1457.1,Ramenskaya et al. (2018),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+xDpTC,323,101.325,1446.5,Ramenskaya et al. (2018),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+xDpTC,333,101.325,1437.6,Ramenskaya et al. (2018),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+xDpTC,343,101.325,1426.9,Ramenskaya et al. (2018),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+xDpTC,353,101.325,1419.8,Ramenskaya et al. (2018),Density,Liquid,ABZxGx,CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

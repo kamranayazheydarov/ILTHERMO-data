@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of methyltriphenylphosphonium bromide,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bcwQu,298.15,101,0.111,1394.7,Kareem et al. (2010),Density,Liquid,AAVmzJ,NC(=O)C(F)(F)F,"2,2,2-trifluoroacetamide",ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+bcwQu,308.15,101,0.111,1383.7,Kareem et al. (2010),Density,Liquid,AAVmzJ,NC(=O)C(F)(F)F,"2,2,2-trifluoroacetamide",ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+bcwQu,318.15,101,0.111,1372.7,Kareem et al. (2010),Density,Liquid,AAVmzJ,NC(=O)C(F)(F)F,"2,2,2-trifluoroacetamide",ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+bcwQu,328.15,101,0.111,1361.6,Kareem et al. (2010),Density,Liquid,AAVmzJ,NC(=O)C(F)(F)F,"2,2,2-trifluoroacetamide",ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+bcwQu,338.15,101,0.111,1350.4,Kareem et al. (2010),Density,Liquid,AAVmzJ,NC(=O)C(F)(F)F,"2,2,2-trifluoroacetamide",ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+bcwQu,348.15,101,0.111,1339.3,Kareem et al. (2010),Density,Liquid,AAVmzJ,NC(=O)C(F)(F)F,"2,2,2-trifluoroacetamide",ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+bcwQu,358.15,101,0.111,1328.2,Kareem et al. (2010),Density,Liquid,AAVmzJ,NC(=O)C(F)(F)F,"2,2,2-trifluoroacetamide",ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,

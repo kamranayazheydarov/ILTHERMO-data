@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+gfpUv,293.15,100,1193.5,Gupta et al. (2016),Density,Metastable liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+gfpUv,298.15,100,1191.8,Gupta et al. (2016),Density,Metastable liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+gfpUv,303.15,100,1189.7,Gupta et al. (2016),Density,Metastable liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+gfpUv,308.15,100,1187.9,Gupta et al. (2016),Density,Metastable liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,

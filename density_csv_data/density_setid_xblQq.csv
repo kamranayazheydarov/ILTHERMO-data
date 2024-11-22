@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xblQq,278.15,101.325,1235.7,Nie et al. (2017),Density,Liquid,ABNivm,CC1(C)CC(OS(=O)(=O)[O-])CC(C)(C)N1[O].C[NH+](C)CCO,"(2-hydroxyethyl)dimethylammonium 4-sulfonatooxy-2,2,6,6-tetramethylpiperidine-1-yloxyl",,,,,,
+xblQq,283.15,101.325,1225.2,Nie et al. (2017),Density,Liquid,ABNivm,CC1(C)CC(OS(=O)(=O)[O-])CC(C)(C)N1[O].C[NH+](C)CCO,"(2-hydroxyethyl)dimethylammonium 4-sulfonatooxy-2,2,6,6-tetramethylpiperidine-1-yloxyl",,,,,,
+xblQq,288.15,101.325,1209.5,Nie et al. (2017),Density,Liquid,ABNivm,CC1(C)CC(OS(=O)(=O)[O-])CC(C)(C)N1[O].C[NH+](C)CCO,"(2-hydroxyethyl)dimethylammonium 4-sulfonatooxy-2,2,6,6-tetramethylpiperidine-1-yloxyl",,,,,,
+xblQq,293.15,101.325,1191.8,Nie et al. (2017),Density,Liquid,ABNivm,CC1(C)CC(OS(=O)(=O)[O-])CC(C)(C)N1[O].C[NH+](C)CCO,"(2-hydroxyethyl)dimethylammonium 4-sulfonatooxy-2,2,6,6-tetramethylpiperidine-1-yloxyl",,,,,,
+xblQq,298.15,101.325,1175.5,Nie et al. (2017),Density,Liquid,ABNivm,CC1(C)CC(OS(=O)(=O)[O-])CC(C)(C)N1[O].C[NH+](C)CCO,"(2-hydroxyethyl)dimethylammonium 4-sulfonatooxy-2,2,6,6-tetramethylpiperidine-1-yloxyl",,,,,,
+xblQq,303.15,101.325,1162.5,Nie et al. (2017),Density,Liquid,ABNivm,CC1(C)CC(OS(=O)(=O)[O-])CC(C)(C)N1[O].C[NH+](C)CCO,"(2-hydroxyethyl)dimethylammonium 4-sulfonatooxy-2,2,6,6-tetramethylpiperidine-1-yloxyl",,,,,,
+xblQq,308.15,101.325,1148.1,Nie et al. (2017),Density,Liquid,ABNivm,CC1(C)CC(OS(=O)(=O)[O-])CC(C)(C)N1[O].C[NH+](C)CCO,"(2-hydroxyethyl)dimethylammonium 4-sulfonatooxy-2,2,6,6-tetramethylpiperidine-1-yloxyl",,,,,,
+xblQq,313.15,101.325,1133.1,Nie et al. (2017),Density,Liquid,ABNivm,CC1(C)CC(OS(=O)(=O)[O-])CC(C)(C)N1[O].C[NH+](C)CCO,"(2-hydroxyethyl)dimethylammonium 4-sulfonatooxy-2,2,6,6-tetramethylpiperidine-1-yloxyl",,,,,,
+xblQq,318.15,101.325,1119.3,Nie et al. (2017),Density,Liquid,ABNivm,CC1(C)CC(OS(=O)(=O)[O-])CC(C)(C)N1[O].C[NH+](C)CCO,"(2-hydroxyethyl)dimethylammonium 4-sulfonatooxy-2,2,6,6-tetramethylpiperidine-1-yloxyl",,,,,,
+xblQq,323.15,101.325,1107.5,Nie et al. (2017),Density,Liquid,ABNivm,CC1(C)CC(OS(=O)(=O)[O-])CC(C)(C)N1[O].C[NH+](C)CCO,"(2-hydroxyethyl)dimethylammonium 4-sulfonatooxy-2,2,6,6-tetramethylpiperidine-1-yloxyl",,,,,,

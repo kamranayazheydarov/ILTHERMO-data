@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+gzPVr,283.15,100,1235,Pires et al. (2013),Density,Liquid,AAZplZ,C1CC[NH2+]C1.O=[N+]([O-])[O-],pyrrolidinium nitrate,,,,,,
+gzPVr,293.15,100,1228,Pires et al. (2013),Density,Liquid,AAZplZ,C1CC[NH2+]C1.O=[N+]([O-])[O-],pyrrolidinium nitrate,,,,,,
+gzPVr,303.15,100,1220.4,Pires et al. (2013),Density,Liquid,AAZplZ,C1CC[NH2+]C1.O=[N+]([O-])[O-],pyrrolidinium nitrate,,,,,,
+gzPVr,313.15,100,1213.1,Pires et al. (2013),Density,Liquid,AAZplZ,C1CC[NH2+]C1.O=[N+]([O-])[O-],pyrrolidinium nitrate,,,,,,
+gzPVr,323.15,100,1205.5,Pires et al. (2013),Density,Liquid,AAZplZ,C1CC[NH2+]C1.O=[N+]([O-])[O-],pyrrolidinium nitrate,,,,,,
+gzPVr,333.15,100,1197.2,Pires et al. (2013),Density,Liquid,AAZplZ,C1CC[NH2+]C1.O=[N+]([O-])[O-],pyrrolidinium nitrate,,,,,,
+gzPVr,343.15,100,1190.2,Pires et al. (2013),Density,Liquid,AAZplZ,C1CC[NH2+]C1.O=[N+]([O-])[O-],pyrrolidinium nitrate,,,,,,
+gzPVr,353.15,100,1182,Pires et al. (2013),Density,Liquid,AAZplZ,C1CC[NH2+]C1.O=[N+]([O-])[O-],pyrrolidinium nitrate,,,,,,

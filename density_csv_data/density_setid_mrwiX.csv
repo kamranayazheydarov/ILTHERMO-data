@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mrwiX,293.15,101.325,849.7,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,
+mrwiX,298.15,101.325,846.2,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,
+mrwiX,303.15,101.325,842.8,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,
+mrwiX,308.15,101.325,839.3,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,
+mrwiX,313.15,101.325,835.9,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,
+mrwiX,318.15,101.325,832.4,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,
+mrwiX,323.15,101.325,828.9,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,
+mrwiX,328.15,101.325,825.4,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,
+mrwiX,333.15,101.325,822,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,
+mrwiX,338.15,101.325,818.5,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,
+mrwiX,343.15,101.325,815,Keshapolla et al. (2019),Density,Liquid,ABrmLN,CCCCCCCC(=O)[O-].CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,trioctylammonium octanoate,,,,,,

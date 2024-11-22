@@ -1,0 +1,10 @@
+setid,"Temperature, K",Mole fraction of tetraethylammonium chloride,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Iuhym,303.15,0.2,101,1053.1,Ji et al. (2016),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AASFbA,Oc1ccccc1,phenol,,,
+Iuhym,303.15,0.25,101,1050.2,Ji et al. (2016),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AASFbA,Oc1ccccc1,phenol,,,
+Iuhym,303.15,0.333,101,1050.4,Ji et al. (2016),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AASFbA,Oc1ccccc1,phenol,,,
+Iuhym,313.15,0.2,101,1046.7,Ji et al. (2016),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AASFbA,Oc1ccccc1,phenol,,,
+Iuhym,313.15,0.25,101,1043.9,Ji et al. (2016),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AASFbA,Oc1ccccc1,phenol,,,
+Iuhym,313.15,0.333,101,1039.8,Ji et al. (2016),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AASFbA,Oc1ccccc1,phenol,,,
+Iuhym,323.15,0.2,101,1040.2,Ji et al. (2016),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AASFbA,Oc1ccccc1,phenol,,,
+Iuhym,323.15,0.25,101,1037.7,Ji et al. (2016),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AASFbA,Oc1ccccc1,phenol,,,
+Iuhym,323.15,0.333,101,1033.7,Ji et al. (2016),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AASFbA,Oc1ccccc1,phenol,,,

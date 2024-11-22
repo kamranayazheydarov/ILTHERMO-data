@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+sgrLA,298,101.325,1141.6,Ozdemir and Ozgun (2014),Density,Liquid,ABPorc,CCCCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-3,5-dimethyl-2-hexylpyrazolium methanesulfonate",,,,,,
+sgrLA,308,101.325,1136.8,Ozdemir and Ozgun (2014),Density,Liquid,ABPorc,CCCCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-3,5-dimethyl-2-hexylpyrazolium methanesulfonate",,,,,,
+sgrLA,313,101.325,1129,Ozdemir and Ozgun (2014),Density,Liquid,ABPorc,CCCCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-3,5-dimethyl-2-hexylpyrazolium methanesulfonate",,,,,,
+sgrLA,333,101.325,1114.8,Ozdemir and Ozgun (2014),Density,Liquid,ABPorc,CCCCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-3,5-dimethyl-2-hexylpyrazolium methanesulfonate",,,,,,

@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ctTNd,328.15,101.325,1235.34,Blahut and Dohnal (2013),Density,Liquid,ABLPzJ,CCCC[N+]1(C)CCCC1.O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2,1-butyl-1-methylpyrrolidinium bis(oxalato)borate,,,,,,
+ctTNd,333.15,101.325,1231.29,Blahut and Dohnal (2013),Density,Liquid,ABLPzJ,CCCC[N+]1(C)CCCC1.O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2,1-butyl-1-methylpyrrolidinium bis(oxalato)borate,,,,,,
+ctTNd,338.15,101.325,1227.23,Blahut and Dohnal (2013),Density,Liquid,ABLPzJ,CCCC[N+]1(C)CCCC1.O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2,1-butyl-1-methylpyrrolidinium bis(oxalato)borate,,,,,,
+ctTNd,343.15,101.325,1223.19,Blahut and Dohnal (2013),Density,Liquid,ABLPzJ,CCCC[N+]1(C)CCCC1.O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2,1-butyl-1-methylpyrrolidinium bis(oxalato)borate,,,,,,
+ctTNd,348.15,101.325,1219.17,Blahut and Dohnal (2013),Density,Liquid,ABLPzJ,CCCC[N+]1(C)CCCC1.O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2,1-butyl-1-methylpyrrolidinium bis(oxalato)borate,,,,,,
+ctTNd,353.15,101.325,1215.17,Blahut and Dohnal (2013),Density,Liquid,ABLPzJ,CCCC[N+]1(C)CCCC1.O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2,1-butyl-1-methylpyrrolidinium bis(oxalato)borate,,,,,,

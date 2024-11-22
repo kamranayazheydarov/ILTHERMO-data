@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+dKCPI,293.15,101.325,1.4432,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,
+dKCPI,298.15,101.325,1.4412,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,
+dKCPI,303.15,101.325,1.4395,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,
+dKCPI,308.15,101.325,1.4375,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,
+dKCPI,313.15,101.325,1.4355,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,
+dKCPI,318.15,101.325,1.4336,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,
+dKCPI,323.15,101.325,1.4315,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,
+dKCPI,328.15,101.325,1.4297,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,
+dKCPI,333.15,101.325,1.4278,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,
+dKCPI,338.15,101.325,1.4258,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,
+dKCPI,343.15,101.325,1.4238,Keshapolla et al. (2019),Refractive index,Liquid,ABWIxJ,CCCCCC(=O)[O-].CCCCCC[NH+](CCCCCC)CCCCCC,trihexylammonium hexanoate,,,,,,,

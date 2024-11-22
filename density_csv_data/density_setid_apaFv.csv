@@ -1,0 +1,5 @@
+setid,"Temperature, K","MolaLity of 1-butyl-3-methylimidazolium tetrafluoroborate, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+apaFv,298.15,0,101,799.722,Kiselev et al. (2012),Density,Liquid,AALcLI,CCCO,propan-1-ol,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+apaFv,298.15,0.015091,101,800.691,Kiselev et al. (2012),Density,Liquid,AALcLI,CCCO,propan-1-ol,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+apaFv,298.15,0.019993,101,801.046,Kiselev et al. (2012),Density,Liquid,AALcLI,CCCO,propan-1-ol,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+apaFv,298.15,0.030045,101,801.664,Kiselev et al. (2012),Density,Liquid,AALcLI,CCCO,propan-1-ol,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,

@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+TAYTH,318.15,101,1019.53,Domanska and Krolikowska (2012),Density,Liquid,AApLNt,CCCC[N+]1(C)CCCCC1.N#C[S-],1-butyl-1-methylpiperidinium thiocyanate,,,,,,
+TAYTH,328.15,101,1014.17,Domanska and Krolikowska (2012),Density,Liquid,AApLNt,CCCC[N+]1(C)CCCCC1.N#C[S-],1-butyl-1-methylpiperidinium thiocyanate,,,,,,
+TAYTH,338.15,101,1009.13,Domanska and Krolikowska (2012),Density,Liquid,AApLNt,CCCC[N+]1(C)CCCCC1.N#C[S-],1-butyl-1-methylpiperidinium thiocyanate,,,,,,
+TAYTH,348.15,101,1004.03,Domanska and Krolikowska (2012),Density,Liquid,AApLNt,CCCC[N+]1(C)CCCCC1.N#C[S-],1-butyl-1-methylpiperidinium thiocyanate,,,,,,

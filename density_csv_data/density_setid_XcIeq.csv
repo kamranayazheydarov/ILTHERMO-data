@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XcIeq,395.15,101.325,1003.9,Griffiths (1963),Density,Liquid,ABofoF,CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC.[I-],tetrahexylammonium iodide,,,,,,
+XcIeq,400.15,101.325,1000.3,Griffiths (1963),Density,Liquid,ABofoF,CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC.[I-],tetrahexylammonium iodide,,,,,,
+XcIeq,405.15,101.325,996.6,Griffiths (1963),Density,Liquid,ABofoF,CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC.[I-],tetrahexylammonium iodide,,,,,,
+XcIeq,410.15,101.325,993,Griffiths (1963),Density,Liquid,ABofoF,CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC.[I-],tetrahexylammonium iodide,,,,,,
+XcIeq,415.15,101.325,989.3,Griffiths (1963),Density,Liquid,ABofoF,CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC.[I-],tetrahexylammonium iodide,,,,,,
+XcIeq,420.15,101.325,985.7,Griffiths (1963),Density,Liquid,ABofoF,CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC.[I-],tetrahexylammonium iodide,,,,,,
+XcIeq,423.1,101.325,983.5,Griffiths (1963),Density,Liquid,ABofoF,CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC.[I-],tetrahexylammonium iodide,,,,,,

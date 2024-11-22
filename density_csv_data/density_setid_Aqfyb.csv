@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Aqfyb,303.15,101.325,1266,Khan et al. (2017a),Density,Liquid,ABEVdw,Cc1ccc(S(=O)(=O)[O-])cc1.N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium 4-methylbenzenesulfonate,,,,,,
+Aqfyb,313.15,101.325,1260,Khan et al. (2017a),Density,Liquid,ABEVdw,Cc1ccc(S(=O)(=O)[O-])cc1.N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium 4-methylbenzenesulfonate,,,,,,
+Aqfyb,323.15,101.325,1253,Khan et al. (2017a),Density,Liquid,ABEVdw,Cc1ccc(S(=O)(=O)[O-])cc1.N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium 4-methylbenzenesulfonate,,,,,,
+Aqfyb,333.15,101.325,1248,Khan et al. (2017a),Density,Liquid,ABEVdw,Cc1ccc(S(=O)(=O)[O-])cc1.N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium 4-methylbenzenesulfonate,,,,,,
+Aqfyb,343.15,101.325,1241,Khan et al. (2017a),Density,Liquid,ABEVdw,Cc1ccc(S(=O)(=O)[O-])cc1.N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium 4-methylbenzenesulfonate,,,,,,
+Aqfyb,353.15,101.325,1234,Khan et al. (2017a),Density,Liquid,ABEVdw,Cc1ccc(S(=O)(=O)[O-])cc1.N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium 4-methylbenzenesulfonate,,,,,,
+Aqfyb,363.15,101.325,1229,Khan et al. (2017a),Density,Liquid,ABEVdw,Cc1ccc(S(=O)(=O)[O-])cc1.N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium 4-methylbenzenesulfonate,,,,,,
+Aqfyb,373.15,101.325,1222,Khan et al. (2017a),Density,Liquid,ABEVdw,Cc1ccc(S(=O)(=O)[O-])cc1.N#CCCn1cc[nH+]c1,1-(2-cyanoethyl)imidazolium 4-methylbenzenesulfonate,,,,,,

@@ -1,0 +1,12 @@
+setid,Mole fraction of ethylammonium formate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PiFua,0,298.15,100,997,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,
+PiFua,0.09,298.15,100,1031.8,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,
+PiFua,0.2,298.15,100,1045.5,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,
+PiFua,0.332,298.15,100,1047.7,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,
+PiFua,0.386,298.15,100,1047,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,
+PiFua,0.495,298.15,100,1044.8,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,
+PiFua,0.625,298.15,100,1041.7,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,
+PiFua,0.718,298.15,100,1039.5,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,
+PiFua,0.834,298.15,100,1036.9,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,
+PiFua,0.905,298.15,100,1035.4,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,
+PiFua,1,298.15,100,1033.5,Usula et al. (2015),Density,Liquid,AADYJk,O,water,AARbsW,CC[NH3+].O=C[O-],ethylammonium formate,,,

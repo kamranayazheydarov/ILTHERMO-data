@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NCyWy,288.15,101.325,1217.1,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,293.15,101.325,1213.7,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,298.15,101.325,1210.6,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,303.15,101.325,1207.3,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,308.15,101.325,1203.9,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,313.15,101.325,1200.6,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,318.15,101.325,1197.5,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,323.15,101.325,1194,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,328.15,101.325,1190.8,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,333.15,101.325,1187.6,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,338.15,101.325,1184.3,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,
+NCyWy,343.15,101.325,1181,Zhang et al. (2016a),Density,Liquid,AAwHHm,CCCC[n+]1ccn(C)c1C.O=S(=O)([O-])O,"1-butyl-2,3-dimethylimidazolium hydrogen sulfate",,,,,,

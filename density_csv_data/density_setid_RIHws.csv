@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of glycerol,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RIHws,293.15,101,0.333,1170.9,Kabane and Redhi (2020a),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+RIHws,298.15,101,0.333,1167.8,Kabane and Redhi (2020a),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+RIHws,303.15,101,0.333,1164.7,Kabane and Redhi (2020a),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+RIHws,308.15,101,0.333,1161.6,Kabane and Redhi (2020a),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,
+RIHws,313.15,101,0.333,1158.5,Kabane and Redhi (2020a),Density,Liquid,AARkmK,OCC(O)CO,glycerol,AAherF,CCCC[n+]1ccn(C)c1.[Cl-],1-butyl-3-methylimidazolium chloride,,,

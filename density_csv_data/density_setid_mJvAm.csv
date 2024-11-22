@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mJvAm,303.15,101.325,1444,Sakhaeinia et al. (2010b),Density,Liquid,ABBGbN,C[n+]1ccn(CCO)c1.O=S(=O)([O-])C(F)(F)F,"3-(2-hydroxyethyl)-1-methylimidazolium 1,1,1-trifluoromethanesulfonate",,,,,,
+mJvAm,313.15,101.325,1436.1,Sakhaeinia et al. (2010b),Density,Liquid,ABBGbN,C[n+]1ccn(CCO)c1.O=S(=O)([O-])C(F)(F)F,"3-(2-hydroxyethyl)-1-methylimidazolium 1,1,1-trifluoromethanesulfonate",,,,,,
+mJvAm,323.15,101.325,1428,Sakhaeinia et al. (2010b),Density,Liquid,ABBGbN,C[n+]1ccn(CCO)c1.O=S(=O)([O-])C(F)(F)F,"3-(2-hydroxyethyl)-1-methylimidazolium 1,1,1-trifluoromethanesulfonate",,,,,,
+mJvAm,333.15,101.325,1420.5,Sakhaeinia et al. (2010b),Density,Liquid,ABBGbN,C[n+]1ccn(CCO)c1.O=S(=O)([O-])C(F)(F)F,"3-(2-hydroxyethyl)-1-methylimidazolium 1,1,1-trifluoromethanesulfonate",,,,,,
+mJvAm,343.15,101.325,1410.8,Sakhaeinia et al. (2010b),Density,Liquid,ABBGbN,C[n+]1ccn(CCO)c1.O=S(=O)([O-])C(F)(F)F,"3-(2-hydroxyethyl)-1-methylimidazolium 1,1,1-trifluoromethanesulfonate",,,,,,
+mJvAm,353.15,101.325,1400.5,Sakhaeinia et al. (2010b),Density,Liquid,ABBGbN,C[n+]1ccn(CCO)c1.O=S(=O)([O-])C(F)(F)F,"3-(2-hydroxyethyl)-1-methylimidazolium 1,1,1-trifluoromethanesulfonate",,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+ExpDW,288.15,101.325,1.5201,Zhang et al. (2019e),Refractive index,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,,
+ExpDW,293.15,101.325,1.5185,Zhang et al. (2019e),Refractive index,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,,
+ExpDW,298.15,101.325,1.516,Zhang et al. (2019e),Refractive index,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,,
+ExpDW,303.15,101.325,1.5142,Zhang et al. (2019e),Refractive index,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,,
+ExpDW,308.15,101.325,1.5121,Zhang et al. (2019e),Refractive index,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,,
+ExpDW,313.15,101.325,1.5103,Zhang et al. (2019e),Refractive index,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,,
+ExpDW,318.15,101.325,1.5083,Zhang et al. (2019e),Refractive index,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,,
+ExpDW,323.15,101.325,1.5069,Zhang et al. (2019e),Refractive index,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,,
+ExpDW,328.15,101.325,1.5046,Zhang et al. (2019e),Refractive index,Liquid,AAhyRW,COCC[n+]1ccn(C)c1.[Cl-],1-(2-methoxyethyl)-3-methylimidazolium chloride,,,,,,,

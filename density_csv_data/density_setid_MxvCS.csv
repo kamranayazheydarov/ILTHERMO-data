@@ -1,0 +1,11 @@
+setid,Mole fraction of 1-octylpyridinium nitrate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MxvCS,0,298.15,101,785.3,Jiang et al. (2012),Density,Liquid,AAGIBL,CO,methanol,AAwvAU,CCCCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-octylpyridinium nitrate,,,
+MxvCS,0.1026,298.15,101,910.2,Jiang et al. (2012),Density,Liquid,AAGIBL,CO,methanol,AAwvAU,CCCCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-octylpyridinium nitrate,,,
+MxvCS,0.2063,298.15,101,974.3,Jiang et al. (2012),Density,Liquid,AAGIBL,CO,methanol,AAwvAU,CCCCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-octylpyridinium nitrate,,,
+MxvCS,0.3072,298.15,101,1011.3,Jiang et al. (2012),Density,Liquid,AAGIBL,CO,methanol,AAwvAU,CCCCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-octylpyridinium nitrate,,,
+MxvCS,0.4225,298.15,101,1038.4,Jiang et al. (2012),Density,Liquid,AAGIBL,CO,methanol,AAwvAU,CCCCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-octylpyridinium nitrate,,,
+MxvCS,0.5067,298.15,101,1052.6,Jiang et al. (2012),Density,Liquid,AAGIBL,CO,methanol,AAwvAU,CCCCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-octylpyridinium nitrate,,,
+MxvCS,0.6067,298.15,101,1065,Jiang et al. (2012),Density,Liquid,AAGIBL,CO,methanol,AAwvAU,CCCCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-octylpyridinium nitrate,,,
+MxvCS,0.8534,298.15,101,1084.4,Jiang et al. (2012),Density,Liquid,AAGIBL,CO,methanol,AAwvAU,CCCCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-octylpyridinium nitrate,,,
+MxvCS,0.936,298.15,101,1087.5,Jiang et al. (2012),Density,Liquid,AAGIBL,CO,methanol,AAwvAU,CCCCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-octylpyridinium nitrate,,,
+MxvCS,1,298.15,101,1089.5,Jiang et al. (2012),Density,Liquid,AAGIBL,CO,methanol,AAwvAU,CCCCCCCC[n+]1ccccc1.O=[N+]([O-])[O-],1-octylpyridinium nitrate,,,

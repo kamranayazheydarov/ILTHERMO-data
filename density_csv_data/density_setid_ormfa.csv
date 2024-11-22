@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ormfa,288.15,101,1225.93,Gonzalez et al. (2012b),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+ormfa,298.15,101,1219.26,Gonzalez et al. (2012b),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,
+ormfa,308.15,101,1212.65,Gonzalez et al. (2012b),Density,Liquid,AAyNkY,CCOS(=O)(=O)[O-].CCc1cccc[n+]1CC,"1,2-diethylpyridinium ethylsulfate",,,,,,

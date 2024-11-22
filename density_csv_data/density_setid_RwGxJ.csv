@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RwGxJ,288.15,101.325,1172.5,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,293.15,101.325,1169,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,298.15,101.325,1165.5,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,303.15,101.325,1162,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,308.15,101.325,1158.5,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,313.15,101.325,1155,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,318.15,101.325,1151.5,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,323.15,101.325,1148,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,328.15,101.325,1144.4,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,333.15,101.325,1140.9,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,338.15,101.325,1137.3,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,
+RwGxJ,343.15,101.325,1133.8,Zhang et al. (2016a),Density,Liquid,AAjqak,CCC[n+]1ccn(C)c1.O=C([O-])O,1-metyl-3-propylimidazolium hydrogen carbonate,,,,,,

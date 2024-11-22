@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vIdLn,293.15,101.325,1059.3,Zec et al. (2018a),Density,Liquid,ABTqhg,CCCCCCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-dodecyl-1H-imidazolium bromide,,,,,,
+vIdLn,298.15,101.325,1056,Zec et al. (2018a),Density,Liquid,ABTqhg,CCCCCCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-dodecyl-1H-imidazolium bromide,,,,,,
+vIdLn,303.15,101.325,1052.6,Zec et al. (2018a),Density,Liquid,ABTqhg,CCCCCCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-dodecyl-1H-imidazolium bromide,,,,,,
+vIdLn,308.15,101.325,1049.2,Zec et al. (2018a),Density,Liquid,ABTqhg,CCCCCCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-dodecyl-1H-imidazolium bromide,,,,,,
+vIdLn,313.15,101.325,1045.7,Zec et al. (2018a),Density,Liquid,ABTqhg,CCCCCCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-dodecyl-1H-imidazolium bromide,,,,,,
+vIdLn,318.15,101.325,1042.3,Zec et al. (2018a),Density,Liquid,ABTqhg,CCCCCCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-dodecyl-1H-imidazolium bromide,,,,,,
+vIdLn,323.15,101.325,1038.8,Zec et al. (2018a),Density,Liquid,ABTqhg,CCCCCCCCCCCCn1cc[n+](CCCC)c1.[Br-],1-butyl-3-dodecyl-1H-imidazolium bromide,,,,,,

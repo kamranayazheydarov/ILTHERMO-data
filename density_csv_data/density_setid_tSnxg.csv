@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of 4-oxopentanoic acid,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+tSnxg,293.15,101,0.75,1097.4,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+tSnxg,298.15,101,0.75,1093.9,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+tSnxg,303.15,101,0.75,1090.3,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+tSnxg,308.15,101,0.75,1086.6,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+tSnxg,313.15,101,0.75,1083.3,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+tSnxg,318.15,101,0.75,1079.7,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+tSnxg,323.15,101,0.75,1076.1,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+tSnxg,328.15,101,0.75,1072.5,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+tSnxg,333.15,101,0.75,1069.2,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+tSnxg,338.15,101,0.75,1065.7,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+tSnxg,343.15,101,0.75,1062.3,Li et al. (2016a),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,

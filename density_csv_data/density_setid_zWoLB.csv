@@ -1,0 +1,8 @@
+setid,Mole fraction of nonane,Mole fraction of toluene,"Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zWoLB,0,0.248,298.15,1189.1,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,7,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+zWoLB,0.002,0,298.15,1236.02,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,7,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+zWoLB,0.002,0.184,298.15,1204,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,7,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+zWoLB,0.003,0.082,298.15,1222.9,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,7,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+zWoLB,0.003,0.158,298.15,1208.7,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,7,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+zWoLB,0.004,0.041,298.15,1229.9,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,7,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+zWoLB,0.004,0.116,298.15,1216.5,Gonzalez et al. (2011b),Density,Liquid mixture 1,Liquid mixture 2,,7,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane

@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MZyic,288.15,101.325,1546,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MZyic,293.15,101.325,1541,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MZyic,298.15,101.325,1538,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MZyic,303.15,101.325,1533,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MZyic,308.15,101.325,1529,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MZyic,313.15,101.325,1525,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MZyic,318.15,101.325,1520,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MZyic,323.15,101.325,1516,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MZyic,328.15,101.325,1512,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MZyic,333.15,101.325,1508,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MZyic,338.15,101.325,1504,Liu et al. (2010b),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+liJWF,288.15,100,1422.7,Suzuki et al. (2024b),Density,Liquid,ABVbyj,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)[NH+](C)C,butyldimethylammonium bis(trifluoromethylsulfonyl)amide,,,,,,
+liJWF,293.15,100,1417.7,Suzuki et al. (2024b),Density,Liquid,ABVbyj,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)[NH+](C)C,butyldimethylammonium bis(trifluoromethylsulfonyl)amide,,,,,,
+liJWF,298.15,100,1412.8,Suzuki et al. (2024b),Density,Liquid,ABVbyj,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)[NH+](C)C,butyldimethylammonium bis(trifluoromethylsulfonyl)amide,,,,,,
+liJWF,303.15,100,1408,Suzuki et al. (2024b),Density,Liquid,ABVbyj,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)[NH+](C)C,butyldimethylammonium bis(trifluoromethylsulfonyl)amide,,,,,,
+liJWF,313.15,100,1398.2,Suzuki et al. (2024b),Density,Liquid,ABVbyj,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)[NH+](C)C,butyldimethylammonium bis(trifluoromethylsulfonyl)amide,,,,,,
+liJWF,323.15,100,1388.6,Suzuki et al. (2024b),Density,Liquid,ABVbyj,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)[NH+](C)C,butyldimethylammonium bis(trifluoromethylsulfonyl)amide,,,,,,
+liJWF,333.15,100,1379,Suzuki et al. (2024b),Density,Liquid,ABVbyj,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)[NH+](C)C,butyldimethylammonium bis(trifluoromethylsulfonyl)amide,,,,,,
+liJWF,343.15,100,1369.5,Suzuki et al. (2024b),Density,Liquid,ABVbyj,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)[NH+](C)C,butyldimethylammonium bis(trifluoromethylsulfonyl)amide,,,,,,
+liJWF,353.15,100,1360,Suzuki et al. (2024b),Density,Liquid,ABVbyj,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)[NH+](C)C,butyldimethylammonium bis(trifluoromethylsulfonyl)amide,,,,,,
+liJWF,363.15,100,1350.6,Suzuki et al. (2024b),Density,Liquid,ABVbyj,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.C(CCC)[NH+](C)C,butyldimethylammonium bis(trifluoromethylsulfonyl)amide,,,,,,

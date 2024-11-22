@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CbtZk,288.15,100,1197.7,Zhang et al. (2020a),Density,Liquid,AAxtnL,COCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-(2-methoxyethyl)-3-methylimidazolium threonine,,,,,,
+CbtZk,293.15,100,1193.6,Zhang et al. (2020a),Density,Liquid,AAxtnL,COCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-(2-methoxyethyl)-3-methylimidazolium threonine,,,,,,
+CbtZk,298.15,100,1190.1,Zhang et al. (2020a),Density,Liquid,AAxtnL,COCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-(2-methoxyethyl)-3-methylimidazolium threonine,,,,,,
+CbtZk,303.15,100,1186.6,Zhang et al. (2020a),Density,Liquid,AAxtnL,COCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-(2-methoxyethyl)-3-methylimidazolium threonine,,,,,,
+CbtZk,308.15,100,1183,Zhang et al. (2020a),Density,Liquid,AAxtnL,COCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-(2-methoxyethyl)-3-methylimidazolium threonine,,,,,,
+CbtZk,313.15,100,1179.4,Zhang et al. (2020a),Density,Liquid,AAxtnL,COCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-(2-methoxyethyl)-3-methylimidazolium threonine,,,,,,
+CbtZk,318.15,100,1176,Zhang et al. (2020a),Density,Liquid,AAxtnL,COCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-(2-methoxyethyl)-3-methylimidazolium threonine,,,,,,
+CbtZk,323.15,100,1172.4,Zhang et al. (2020a),Density,Liquid,AAxtnL,COCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-(2-methoxyethyl)-3-methylimidazolium threonine,,,,,,
+CbtZk,328.15,100,1168.8,Zhang et al. (2020a),Density,Liquid,AAxtnL,COCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-(2-methoxyethyl)-3-methylimidazolium threonine,,,,,,

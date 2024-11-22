@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rFbzQ,293.15,101.325,1366,Mutelet et al. (2013),Density,Liquid,ABfwsF,CCCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-pentyl-1-methylpyrrolidinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",,,,,,
+rFbzQ,303.15,101.325,1358.1,Mutelet et al. (2013),Density,Liquid,ABfwsF,CCCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-pentyl-1-methylpyrrolidinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",,,,,,
+rFbzQ,313.15,101.325,1350.1,Mutelet et al. (2013),Density,Liquid,ABfwsF,CCCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-pentyl-1-methylpyrrolidinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",,,,,,
+rFbzQ,323.15,101.325,1342,Mutelet et al. (2013),Density,Liquid,ABfwsF,CCCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-pentyl-1-methylpyrrolidinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",,,,,,
+rFbzQ,333.15,101.325,1334.6,Mutelet et al. (2013),Density,Liquid,ABfwsF,CCCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-pentyl-1-methylpyrrolidinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",,,,,,

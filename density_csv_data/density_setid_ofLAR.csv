@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ofLAR,293.15,100,1120.3,Khedri et al. (2019),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+ofLAR,298.15,100,1117.5,Khedri et al. (2019),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+ofLAR,303.15,100,1114.3,Khedri et al. (2019),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+ofLAR,308.15,100,1111.1,Khedri et al. (2019),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+ofLAR,313.15,100,1107.8,Khedri et al. (2019),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+ofLAR,318.15,100,1104.7,Khedri et al. (2019),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,
+ofLAR,323.15,100,1101.6,Khedri et al. (2019),Density,Liquid,AAsErb,CCCCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-hexyl-3-methylimidazolium nitrate,,,,,,

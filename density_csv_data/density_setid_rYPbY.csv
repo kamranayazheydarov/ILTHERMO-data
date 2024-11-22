@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rYPbY,293.15,101.325,1075.6,Ghanem et al. (2015a),Density,Liquid,ABFeCl,CCCCCCCC[n+]1ccn(C)c1.N[C@@H](CO)C(=O)[O-],1-methyl-3-octyl-1H-imidazol-3-ium L-serinate,,,,,,
+rYPbY,303.15,101.325,1069.3,Ghanem et al. (2015a),Density,Liquid,ABFeCl,CCCCCCCC[n+]1ccn(C)c1.N[C@@H](CO)C(=O)[O-],1-methyl-3-octyl-1H-imidazol-3-ium L-serinate,,,,,,
+rYPbY,313.15,101.325,1062.7,Ghanem et al. (2015a),Density,Liquid,ABFeCl,CCCCCCCC[n+]1ccn(C)c1.N[C@@H](CO)C(=O)[O-],1-methyl-3-octyl-1H-imidazol-3-ium L-serinate,,,,,,
+rYPbY,323.15,101.325,1056.1,Ghanem et al. (2015a),Density,Liquid,ABFeCl,CCCCCCCC[n+]1ccn(C)c1.N[C@@H](CO)C(=O)[O-],1-methyl-3-octyl-1H-imidazol-3-ium L-serinate,,,,,,
+rYPbY,333.15,101.325,1049.7,Ghanem et al. (2015a),Density,Liquid,ABFeCl,CCCCCCCC[n+]1ccn(C)c1.N[C@@H](CO)C(=O)[O-],1-methyl-3-octyl-1H-imidazol-3-ium L-serinate,,,,,,
+rYPbY,343.15,101.325,1043.3,Ghanem et al. (2015a),Density,Liquid,ABFeCl,CCCCCCCC[n+]1ccn(C)c1.N[C@@H](CO)C(=O)[O-],1-methyl-3-octyl-1H-imidazol-3-ium L-serinate,,,,,,
+rYPbY,353.15,101.325,1036.9,Ghanem et al. (2015a),Density,Liquid,ABFeCl,CCCCCCCC[n+]1ccn(C)c1.N[C@@H](CO)C(=O)[O-],1-methyl-3-octyl-1H-imidazol-3-ium L-serinate,,,,,,
+rYPbY,363.15,101.325,1030.5,Ghanem et al. (2015a),Density,Liquid,ABFeCl,CCCCCCCC[n+]1ccn(C)c1.N[C@@H](CO)C(=O)[O-],1-methyl-3-octyl-1H-imidazol-3-ium L-serinate,,,,,,
+rYPbY,373.15,101.325,1024.2,Ghanem et al. (2015a),Density,Liquid,ABFeCl,CCCCCCCC[n+]1ccn(C)c1.N[C@@H](CO)C(=O)[O-],1-methyl-3-octyl-1H-imidazol-3-ium L-serinate,,,,,,

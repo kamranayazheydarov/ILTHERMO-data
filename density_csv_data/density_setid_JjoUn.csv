@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JjoUn,293,101.325,979.8,Cui et al. (2020b),Density,Liquid,ABKUSd,C1(=CC=CC=C1)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium phenolate,,,,,,
+JjoUn,303,101.325,973.7,Cui et al. (2020b),Density,Liquid,ABKUSd,C1(=CC=CC=C1)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium phenolate,,,,,,
+JjoUn,313,101.325,967.6,Cui et al. (2020b),Density,Liquid,ABKUSd,C1(=CC=CC=C1)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium phenolate,,,,,,
+JjoUn,323,101.325,961.5,Cui et al. (2020b),Density,Liquid,ABKUSd,C1(=CC=CC=C1)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium phenolate,,,,,,
+JjoUn,333,101.325,955.5,Cui et al. (2020b),Density,Liquid,ABKUSd,C1(=CC=CC=C1)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium phenolate,,,,,,
+JjoUn,343,101.325,949.3,Cui et al. (2020b),Density,Liquid,ABKUSd,C1(=CC=CC=C1)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium phenolate,,,,,,
+JjoUn,353,101.325,943.1,Cui et al. (2020b),Density,Liquid,ABKUSd,C1(=CC=CC=C1)[O-].C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium phenolate,,,,,,

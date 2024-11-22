@@ -1,0 +1,7 @@
+setid,"Temperature, K",Mole fraction of 1-ethyl-3-methylimidazolium chloride,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mPTKy,303.15,0.667,101.325,1130,Shao et al. (2022),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAUAdY,O=C(O)CC(=O)O,propanedioic acid,,,
+mPTKy,313.15,0.667,101.325,1124,Shao et al. (2022),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAUAdY,O=C(O)CC(=O)O,propanedioic acid,,,
+mPTKy,323.15,0.667,101.325,1118,Shao et al. (2022),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAUAdY,O=C(O)CC(=O)O,propanedioic acid,,,
+mPTKy,333.15,0.667,101.325,1112,Shao et al. (2022),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAUAdY,O=C(O)CC(=O)O,propanedioic acid,,,
+mPTKy,343.15,0.667,101.325,1106,Shao et al. (2022),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAUAdY,O=C(O)CC(=O)O,propanedioic acid,,,
+mPTKy,353.15,0.667,101.325,1100,Shao et al. (2022),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAUAdY,O=C(O)CC(=O)O,propanedioic acid,,,

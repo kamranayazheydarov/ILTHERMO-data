@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RdzIE,303.15,101.325,1246,Deng et al. (2013b),Density,Liquid,AAjzGS,C[N+](C)=CO.O=C([O-])C(F)(F)F,"N,N-dimethylformamide trifluoroacetate",,,,,,
+RdzIE,313.15,101.325,1232.9,Deng et al. (2013b),Density,Liquid,AAjzGS,C[N+](C)=CO.O=C([O-])C(F)(F)F,"N,N-dimethylformamide trifluoroacetate",,,,,,
+RdzIE,323.15,101.325,1219.9,Deng et al. (2013b),Density,Liquid,AAjzGS,C[N+](C)=CO.O=C([O-])C(F)(F)F,"N,N-dimethylformamide trifluoroacetate",,,,,,

@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+gHdRD,288.15,101.325,1199.9,Pal et al. (2013),Density,Liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+gHdRD,293.15,101.325,1196.72,Pal et al. (2013),Density,Liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+gHdRD,298.15,101.325,1193.34,Pal et al. (2013),Density,Liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+gHdRD,303.15,101.325,1189.92,Pal et al. (2013),Density,Liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+gHdRD,308.15,101.325,1186.52,Pal et al. (2013),Density,Liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+gHdRD,313.15,101.325,1183.17,Pal et al. (2013),Density,Liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+gHdRD,318.15,101.325,1179.54,Pal et al. (2013),Density,Liquid,AAuItX,CCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EnpvT,298.15,101.325,1113.6,Pan et al. (2017a),Density,Liquid,AAqcec,CC[n+]1ccn(CCOC)c1.N#C[N-]C#N,1-ethyl-3-(2-methoxyethyl)imidazolium dicyanamide,,,,,,
+EnpvT,303.15,101.325,1110.2,Pan et al. (2017a),Density,Liquid,AAqcec,CC[n+]1ccn(CCOC)c1.N#C[N-]C#N,1-ethyl-3-(2-methoxyethyl)imidazolium dicyanamide,,,,,,
+EnpvT,308.15,101.325,1106.8,Pan et al. (2017a),Density,Liquid,AAqcec,CC[n+]1ccn(CCOC)c1.N#C[N-]C#N,1-ethyl-3-(2-methoxyethyl)imidazolium dicyanamide,,,,,,
+EnpvT,313.15,101.325,1103.5,Pan et al. (2017a),Density,Liquid,AAqcec,CC[n+]1ccn(CCOC)c1.N#C[N-]C#N,1-ethyl-3-(2-methoxyethyl)imidazolium dicyanamide,,,,,,
+EnpvT,318.15,101.325,1100.2,Pan et al. (2017a),Density,Liquid,AAqcec,CC[n+]1ccn(CCOC)c1.N#C[N-]C#N,1-ethyl-3-(2-methoxyethyl)imidazolium dicyanamide,,,,,,
+EnpvT,323.15,101.325,1096.8,Pan et al. (2017a),Density,Liquid,AAqcec,CC[n+]1ccn(CCOC)c1.N#C[N-]C#N,1-ethyl-3-(2-methoxyethyl)imidazolium dicyanamide,,,,,,
+EnpvT,328.15,101.325,1093.5,Pan et al. (2017a),Density,Liquid,AAqcec,CC[n+]1ccn(CCOC)c1.N#C[N-]C#N,1-ethyl-3-(2-methoxyethyl)imidazolium dicyanamide,,,,,,
+EnpvT,333.15,101.325,1090.3,Pan et al. (2017a),Density,Liquid,AAqcec,CC[n+]1ccn(CCOC)c1.N#C[N-]C#N,1-ethyl-3-(2-methoxyethyl)imidazolium dicyanamide,,,,,,
+EnpvT,338.15,101.325,1087,Pan et al. (2017a),Density,Liquid,AAqcec,CC[n+]1ccn(CCOC)c1.N#C[N-]C#N,1-ethyl-3-(2-methoxyethyl)imidazolium dicyanamide,,,,,,

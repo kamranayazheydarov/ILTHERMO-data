@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zSPkd,288.15,100,1130,Wang et al. (2022i),Density,Liquid,ABAJLY,N[C@@H]([C@H](O)C)C(=O)[O-].C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium L-threoninate",,,,,,
+zSPkd,293.15,100,1126.4,Wang et al. (2022i),Density,Liquid,ABAJLY,N[C@@H]([C@H](O)C)C(=O)[O-].C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium L-threoninate",,,,,,
+zSPkd,298.15,100,1123.1,Wang et al. (2022i),Density,Liquid,ABAJLY,N[C@@H]([C@H](O)C)C(=O)[O-].C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium L-threoninate",,,,,,
+zSPkd,303.15,100,1119.5,Wang et al. (2022i),Density,Liquid,ABAJLY,N[C@@H]([C@H](O)C)C(=O)[O-].C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium L-threoninate",,,,,,
+zSPkd,308.15,100,1116,Wang et al. (2022i),Density,Liquid,ABAJLY,N[C@@H]([C@H](O)C)C(=O)[O-].C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium L-threoninate",,,,,,
+zSPkd,313.15,100,1112.7,Wang et al. (2022i),Density,Liquid,ABAJLY,N[C@@H]([C@H](O)C)C(=O)[O-].C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium L-threoninate",,,,,,
+zSPkd,318.15,100,1109.1,Wang et al. (2022i),Density,Liquid,ABAJLY,N[C@@H]([C@H](O)C)C(=O)[O-].C(CCC)N1C(=[N+](C=C1)C)C,"1-butyl-2,3-dimethylimidazolium L-threoninate",,,,,,

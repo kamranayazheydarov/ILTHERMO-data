@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LdXIa,303.15,101.325,0.0003055,Jalili et al. (2022),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LdXIa,303.15,101.325,0.0003063,Jalili et al. (2022),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LdXIa,313.15,101.325,0.0003077,Jalili et al. (2022),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LdXIa,313.15,101.325,0.0003081,Jalili et al. (2022),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LdXIa,323.15,101.325,0.00031,Jalili et al. (2022),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LdXIa,323.15,101.325,0.0003102,Jalili et al. (2022),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LdXIa,333.15,101.325,0.0003125,Jalili et al. (2022),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LdXIa,333.15,101.325,0.0003126,Jalili et al. (2022),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LdXIa,343.15,101.325,0.000315,Jalili et al. (2022),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+LdXIa,343.15,101.325,0.0003152,Jalili et al. (2022),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,

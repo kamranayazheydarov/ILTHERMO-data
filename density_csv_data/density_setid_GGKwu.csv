@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GGKwu,293.15,101.325,1370.4,Ficke et al. (2010),Density,Liquid,AAuJeI,Cn1cc[n+](CCO)c1.O=C([O-])C(F)(F)F,"1-(2-hydroxyethyl)-3-methyl-1H-imidazolium 2,2,2-trifluoroacetate",,,,,,
+GGKwu,298.15,101.325,1366.4,Ficke et al. (2010),Density,Liquid,AAuJeI,Cn1cc[n+](CCO)c1.O=C([O-])C(F)(F)F,"1-(2-hydroxyethyl)-3-methyl-1H-imidazolium 2,2,2-trifluoroacetate",,,,,,
+GGKwu,303.15,101.325,1362.5,Ficke et al. (2010),Density,Liquid,AAuJeI,Cn1cc[n+](CCO)c1.O=C([O-])C(F)(F)F,"1-(2-hydroxyethyl)-3-methyl-1H-imidazolium 2,2,2-trifluoroacetate",,,,,,
+GGKwu,313.15,101.325,1354.8,Ficke et al. (2010),Density,Liquid,AAuJeI,Cn1cc[n+](CCO)c1.O=C([O-])C(F)(F)F,"1-(2-hydroxyethyl)-3-methyl-1H-imidazolium 2,2,2-trifluoroacetate",,,,,,
+GGKwu,323.15,101.325,1347,Ficke et al. (2010),Density,Liquid,AAuJeI,Cn1cc[n+](CCO)c1.O=C([O-])C(F)(F)F,"1-(2-hydroxyethyl)-3-methyl-1H-imidazolium 2,2,2-trifluoroacetate",,,,,,
+GGKwu,333.15,101.325,1339.5,Ficke et al. (2010),Density,Liquid,AAuJeI,Cn1cc[n+](CCO)c1.O=C([O-])C(F)(F)F,"1-(2-hydroxyethyl)-3-methyl-1H-imidazolium 2,2,2-trifluoroacetate",,,,,,
+GGKwu,343.15,101.325,1332,Ficke et al. (2010),Density,Liquid,AAuJeI,Cn1cc[n+](CCO)c1.O=C([O-])C(F)(F)F,"1-(2-hydroxyethyl)-3-methyl-1H-imidazolium 2,2,2-trifluoroacetate",,,,,,

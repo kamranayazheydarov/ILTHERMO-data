@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xBmPb,293.15,101,1239.6,Pereiro and Rodriguez (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,
+xBmPb,298.15,101,1235.7,Pereiro and Rodriguez (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,
+xBmPb,303.15,101,1231.9,Pereiro and Rodriguez (2007a),Density,Liquid,ABNWoR,CCCCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-octyl-3-methylimidazolium hexafluorophosphate,,,,,,

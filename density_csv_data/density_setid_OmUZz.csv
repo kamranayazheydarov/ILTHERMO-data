@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OmUZz,298.15,101.325,899.8,Yoo et al. (2013a),Density,Liquid,ACBnAk,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[N-]C#N,tetradecyl(trihexyl)phosphonium dicyanamide,,,,,,
+OmUZz,303.15,101.325,896.9,Yoo et al. (2013a),Density,Liquid,ACBnAk,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[N-]C#N,tetradecyl(trihexyl)phosphonium dicyanamide,,,,,,
+OmUZz,313.15,101.325,891.1,Yoo et al. (2013a),Density,Liquid,ACBnAk,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[N-]C#N,tetradecyl(trihexyl)phosphonium dicyanamide,,,,,,
+OmUZz,323.15,101.325,885.5,Yoo et al. (2013a),Density,Liquid,ACBnAk,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[N-]C#N,tetradecyl(trihexyl)phosphonium dicyanamide,,,,,,
+OmUZz,333.15,101.325,879.9,Yoo et al. (2013a),Density,Liquid,ACBnAk,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[N-]C#N,tetradecyl(trihexyl)phosphonium dicyanamide,,,,,,
+OmUZz,343.15,101.325,874.2,Yoo et al. (2013a),Density,Liquid,ACBnAk,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[N-]C#N,tetradecyl(trihexyl)phosphonium dicyanamide,,,,,,
+OmUZz,353.15,101.325,868.6,Yoo et al. (2013a),Density,Liquid,ACBnAk,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[N-]C#N,tetradecyl(trihexyl)phosphonium dicyanamide,,,,,,

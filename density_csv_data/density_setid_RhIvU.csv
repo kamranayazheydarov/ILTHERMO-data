@@ -1,0 +1,9 @@
+setid,Mole fraction of nonane,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+RhIvU,0,298.15,101,867.9,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+RhIvU,0.0292,298.15,101,1226.9,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+RhIvU,0.044,298.15,101,857,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+RhIvU,0.0517,298.15,101,1243,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+RhIvU,0.2498,298.15,101,805.9,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+RhIvU,0.2741,298.15,101,812.4,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+RhIvU,0.325,298.15,101,844.9,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane
+RhIvU,0.3511,298.15,101,824.9,Maduro and Aznar (2008),Density,Liquid mixture 1,Liquid mixture 2,,8,AARlpN,Cc1ccccc1,toluene,AAYikW,CCCCCCCCC,nonane

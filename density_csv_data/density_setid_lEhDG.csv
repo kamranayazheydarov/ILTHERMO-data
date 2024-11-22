@@ -1,0 +1,12 @@
+setid,Mole fraction of 1H-imidazolium octanoate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+lEhDG,0,298.15,101.3,824.5,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+lEhDG,0.1003,298.15,101.3,844.8,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+lEhDG,0.201,298.15,101.3,863.9,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+lEhDG,0.3001,298.15,101.3,881.8,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+lEhDG,0.3995,298.15,101.3,898.9,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+lEhDG,0.4993,298.15,101.3,915.6,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+lEhDG,0.6,298.15,101.3,931.7,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+lEhDG,0.7009,298.15,101.3,947,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+lEhDG,0.8001,298.15,101.3,961.2,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+lEhDG,0.8989,298.15,101.3,974.4,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+lEhDG,1,298.15,101.3,987,Anouti et al. (2010a),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,

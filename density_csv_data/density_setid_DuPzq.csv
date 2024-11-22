@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DuPzq,293.15,101.325,985.87,Nann et al. (2013a),Density,Liquid,ABQlWu,CCCCCCCCCC[N+]1(C)CCOCC1.N#C[B-](C#N)(C#N)C#N,4-decyl-4-methylmorpholinium tetracyanoborate,,,,,,
+DuPzq,303.15,101.325,979.3,Nann et al. (2013a),Density,Liquid,ABQlWu,CCCCCCCCCC[N+]1(C)CCOCC1.N#C[B-](C#N)(C#N)C#N,4-decyl-4-methylmorpholinium tetracyanoborate,,,,,,
+DuPzq,313.15,101.325,972.65,Nann et al. (2013a),Density,Liquid,ABQlWu,CCCCCCCCCC[N+]1(C)CCOCC1.N#C[B-](C#N)(C#N)C#N,4-decyl-4-methylmorpholinium tetracyanoborate,,,,,,
+DuPzq,323.15,101.325,966.3,Nann et al. (2013a),Density,Liquid,ABQlWu,CCCCCCCCCC[N+]1(C)CCOCC1.N#C[B-](C#N)(C#N)C#N,4-decyl-4-methylmorpholinium tetracyanoborate,,,,,,
+DuPzq,333.15,101.325,960.01,Nann et al. (2013a),Density,Liquid,ABQlWu,CCCCCCCCCC[N+]1(C)CCOCC1.N#C[B-](C#N)(C#N)C#N,4-decyl-4-methylmorpholinium tetracyanoborate,,,,,,
+DuPzq,343.15,101.325,953.45,Nann et al. (2013a),Density,Liquid,ABQlWu,CCCCCCCCCC[N+]1(C)CCOCC1.N#C[B-](C#N)(C#N)C#N,4-decyl-4-methylmorpholinium tetracyanoborate,,,,,,

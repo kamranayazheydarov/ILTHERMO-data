@@ -1,0 +1,12 @@
+setid,Mole fraction of 1H-imidazolium octanoate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QHVae,0,298.15,101.3,771.5,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+QHVae,0.1004,298.15,101.3,846.7,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+QHVae,0.2012,298.15,101.3,891.6,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+QHVae,0.3076,298.15,101.3,923,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+QHVae,0.4005,298.15,101.3,942.5,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+QHVae,0.501,298.15,101.3,957.9,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+QHVae,0.5995,298.15,101.3,969.6,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+QHVae,0.702,298.15,101.3,978.9,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+QHVae,0.8014,298.15,101.3,985.2,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+QHVae,0.8956,298.15,101.3,988.1,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,
+QHVae,1,298.15,101.3,987,Anouti et al. (2010a),Density,Liquid,AAHueB,CC#N,acetonitrile,AAoqiD,c1c[nH+]c[nH]1.CCCCCCCC(=O)[O-],1H-imidazolium octanoate,,,

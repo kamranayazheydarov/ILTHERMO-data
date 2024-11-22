@@ -1,0 +1,13 @@
+setid,Mole fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NcEhO,0,101,298,1211.2,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,0.1,101,298,1208.5,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,0.198,101,298,1204.9,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,0.294,101,298,1200.7,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,0.394,101,298,1194.4,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,0.5,101,298,1186.5,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,0.6,101,298,1175.6,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,0.7,101,298,1159.5,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,0.799,101,298,1133.4,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,0.9,101,298,1089.7,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,0.95,101,298,1052.9,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+NcEhO,1,101,298,997.6,Kaneko et al. (2021),Density,Liquid,AADYJk,O,water,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,

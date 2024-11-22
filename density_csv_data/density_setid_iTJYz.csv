@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+iTJYz,298.15,101.325,1100.2,Xu et al. (2013b),Density,Liquid,AAruWK,CC(O)C(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium lactate,,,,,,
+iTJYz,303.15,101.325,1096.6,Xu et al. (2013b),Density,Liquid,AAruWK,CC(O)C(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium lactate,,,,,,
+iTJYz,313.15,101.325,1089.8,Xu et al. (2013b),Density,Liquid,AAruWK,CC(O)C(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium lactate,,,,,,
+iTJYz,323.15,101.325,1083.2,Xu et al. (2013b),Density,Liquid,AAruWK,CC(O)C(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium lactate,,,,,,
+iTJYz,333.15,101.325,1076.4,Xu et al. (2013b),Density,Liquid,AAruWK,CC(O)C(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium lactate,,,,,,
+iTJYz,343.15,101.325,1069.8,Xu et al. (2013b),Density,Liquid,AAruWK,CC(O)C(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium lactate,,,,,,

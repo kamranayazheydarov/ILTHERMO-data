@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HQlhg,305.175,101.325,1250,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,
+HQlhg,308.996,101.325,1247,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,
+HQlhg,313.18,101.325,1244,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,
+HQlhg,318.001,101.325,1241,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,
+HQlhg,323.16,101.325,1238,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,
+HQlhg,327.987,101.325,1234,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,
+HQlhg,333.994,101.325,1231,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,
+HQlhg,341.001,101.325,1227,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,
+HQlhg,343.278,101.325,1225,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,
+HQlhg,348.104,101.325,1221,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,
+HQlhg,353.191,101.325,1218,Wu et al. (2011b),Density,Liquid,AAnBYh,CC[NH+]1CCOCC1.F[B-](F)(F)F,4-ethyl-4-morpholinium tetrafluoroborate,,,,,,

@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CdKdn,333.05,101.325,987,Ahmed et al. (2018),Density,Liquid,ABQJqf,CCCC[P+](CCCC)(CCCC)CCCC.CS(=O)(=O)[O-],tetrabutylphosphonium methanesulfonate,,,,,,
+CdKdn,343.05,101.325,980,Ahmed et al. (2018),Density,Liquid,ABQJqf,CCCC[P+](CCCC)(CCCC)CCCC.CS(=O)(=O)[O-],tetrabutylphosphonium methanesulfonate,,,,,,
+CdKdn,353.15,101.325,975,Ahmed et al. (2018),Density,Liquid,ABQJqf,CCCC[P+](CCCC)(CCCC)CCCC.CS(=O)(=O)[O-],tetrabutylphosphonium methanesulfonate,,,,,,

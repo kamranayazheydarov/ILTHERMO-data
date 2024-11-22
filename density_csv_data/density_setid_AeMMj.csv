@@ -1,0 +1,11 @@
+setid,Mole ratio to solvent: 1-ethyl-3-methylimidazolium chloride,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+AeMMj,1,298.15,101.3,1151.4,Liu et al. (2023a),Density,Liquid,AAlSBG,OCCOCCOCCOCCO,tetraethylene glycol,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,
+AeMMj,1,303.15,101.3,1148.1,Liu et al. (2023a),Density,Liquid,AAlSBG,OCCOCCOCCOCCO,tetraethylene glycol,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,
+AeMMj,1,313.15,101.3,1141.4,Liu et al. (2023a),Density,Liquid,AAlSBG,OCCOCCOCCOCCO,tetraethylene glycol,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,
+AeMMj,1,323.15,101.3,1134.8,Liu et al. (2023a),Density,Liquid,AAlSBG,OCCOCCOCCOCCO,tetraethylene glycol,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,
+AeMMj,1,333.15,101.3,1128.1,Liu et al. (2023a),Density,Liquid,AAlSBG,OCCOCCOCCOCCO,tetraethylene glycol,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,
+AeMMj,2,298.15,101.3,1157.4,Liu et al. (2023a),Density,Liquid,AAlSBG,OCCOCCOCCOCCO,tetraethylene glycol,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,
+AeMMj,2,303.15,101.3,1153.9,Liu et al. (2023a),Density,Liquid,AAlSBG,OCCOCCOCCOCCO,tetraethylene glycol,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,
+AeMMj,2,313.15,101.3,1146.7,Liu et al. (2023a),Density,Liquid,AAlSBG,OCCOCCOCCOCCO,tetraethylene glycol,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,
+AeMMj,2,323.15,101.3,1139.6,Liu et al. (2023a),Density,Liquid,AAlSBG,OCCOCCOCCOCCO,tetraethylene glycol,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,
+AeMMj,2,333.15,101.3,1132.5,Liu et al. (2023a),Density,Liquid,AAlSBG,OCCOCCOCCOCCO,tetraethylene glycol,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,

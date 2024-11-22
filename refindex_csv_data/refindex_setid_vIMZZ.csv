@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+vIMZZ,298.15,101.325,1.4864,Marcinkowski et al. (2019a),Refractive index,Liquid,ABIssC,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,,
+vIMZZ,303.15,101.325,1.4847,Marcinkowski et al. (2019a),Refractive index,Liquid,ABIssC,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,,
+vIMZZ,308.15,101.325,1.4831,Marcinkowski et al. (2019a),Refractive index,Liquid,ABIssC,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,,
+vIMZZ,313.15,101.325,1.4815,Marcinkowski et al. (2019a),Refractive index,Liquid,ABIssC,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,,
+vIMZZ,318.15,101.325,1.48,Marcinkowski et al. (2019a),Refractive index,Liquid,ABIssC,CC(=O)N[C@H](C(=O)[O-])C(C)C.CCCC[N+]1(C)CCOCC1,N-butyl-N-methylmorpholinium N-acetyl-L-valinate,,,,,,,

@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uCEJN,298.1,101.325,1491,Dzyuba and Bartsch (2002a),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+uCEJN,303,101.325,1484,Dzyuba and Bartsch (2002a),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+uCEJN,308.1,101.325,1477,Dzyuba and Bartsch (2002a),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+uCEJN,313,101.325,1471,Dzyuba and Bartsch (2002a),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+uCEJN,318.1,101.325,1464,Dzyuba and Bartsch (2002a),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+uCEJN,323,101.325,1458,Dzyuba and Bartsch (2002a),Density,Liquid,ABjJPt,Cn1cc[n+](Cc2ccccc2)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-benzyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)amide,,,,,,

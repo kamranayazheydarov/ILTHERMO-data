@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zDeeQ,303.15,101.325,1425.6,Zhao et al. (2010a),Density,Liquid,AAnpCD,C[NH+](CCO)CCO.F[B-](F)(F)F,2-hydroxy-N-(2-hydroxyethyl)-N-methylethanaminium tetrafluoroborate,,,,,,
+zDeeQ,313.15,101.325,1418.1,Zhao et al. (2010a),Density,Liquid,AAnpCD,C[NH+](CCO)CCO.F[B-](F)(F)F,2-hydroxy-N-(2-hydroxyethyl)-N-methylethanaminium tetrafluoroborate,,,,,,
+zDeeQ,323.15,101.325,1410.6,Zhao et al. (2010a),Density,Liquid,AAnpCD,C[NH+](CCO)CCO.F[B-](F)(F)F,2-hydroxy-N-(2-hydroxyethyl)-N-methylethanaminium tetrafluoroborate,,,,,,
+zDeeQ,333.15,101.325,1403.2,Zhao et al. (2010a),Density,Liquid,AAnpCD,C[NH+](CCO)CCO.F[B-](F)(F)F,2-hydroxy-N-(2-hydroxyethyl)-N-methylethanaminium tetrafluoroborate,,,,,,
+zDeeQ,343.15,101.325,1395.9,Zhao et al. (2010a),Density,Liquid,AAnpCD,C[NH+](CCO)CCO.F[B-](F)(F)F,2-hydroxy-N-(2-hydroxyethyl)-N-methylethanaminium tetrafluoroborate,,,,,,

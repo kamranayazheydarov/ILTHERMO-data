@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jViUu,298.15,101.325,1292,AlTuwaim et al. (2014),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,
+jViUu,303.15,101.325,1288,AlTuwaim et al. (2014),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,
+jViUu,308.15,101.325,1284,AlTuwaim et al. (2014),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,
+jViUu,313.15,101.325,1280,AlTuwaim et al. (2014),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,
+jViUu,318.15,101.325,1276,AlTuwaim et al. (2014),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,
+jViUu,323.15,101.325,1272,AlTuwaim et al. (2014),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,
+jViUu,328.15,101.325,1268,AlTuwaim et al. (2014),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,
+jViUu,333.15,101.325,1264,AlTuwaim et al. (2014),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,

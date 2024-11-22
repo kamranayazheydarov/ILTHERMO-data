@@ -1,0 +1,13 @@
+setid,Mole fraction of pentan-2-ol,Mole fraction of hexane,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+UyTcc,0.1499,0.81,303.15,100,697.1,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.16,0.1199,303.15,100,1030.8,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.1854,0.791,303.15,100,705.9,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.2387,0.7475,303.15,100,726,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.2597,0.3001,303.15,100,941.8,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.2763,0.6986,303.15,100,747.4,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.2801,0.1799,303.15,100,984.5,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.2999,0.5801,303.15,100,808.7,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.306,0.3521,303.15,100,913.5,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.3099,0.6229,303.15,100,782.9,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.3201,0.45,303.15,100,865,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane
+UyTcc,0.3249,0.535,303.15,100,825.6,Montalban et al. (2018b),Density,Liquid,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,AAQxVB,CCCC(C)O,pentan-2-ol,AAQdzy,CCCCCC,hexane

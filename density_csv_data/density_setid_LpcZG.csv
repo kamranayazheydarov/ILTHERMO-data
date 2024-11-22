@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LpcZG,298.31,101.325,1198.9,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,303.45,101.325,1195.7,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,307.8,101.325,1192.5,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,313.33,101.325,1188.9,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,318.29,101.325,1185.7,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,323.42,101.325,1182,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,328.75,101.325,1178.8,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,333.5,101.325,1174.3,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,338.46,101.325,1171.5,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,343.59,101.325,1168.8,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,348.34,101.325,1165.1,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,
+LpcZG,353.08,101.325,1161.4,Iwasaki et al. (2018),Density,Liquid,ABGFZa,CCCCn1cc[n+](C)c1.Fc1ccccc1[B-](F)(F)F,1-butyl-3-methyl-1H-imidazol-3-ium trifluoro(2-fluorophenyl)borate,,,,,,

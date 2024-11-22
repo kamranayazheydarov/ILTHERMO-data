@@ -1,0 +1,22 @@
+setid,"Temperature, K",Mole fraction of carbon dioxide,"Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+pEhKF,313.15,0.144,0.0001665,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,313.15,0.243,0.0001511,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,313.15,0.331,0.0001369,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,313.15,0.399,0.0001271,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,313.15,0.47,0.0001148,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,313.15,0.533,0.0001036,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,313.15,0.579,9.4e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,323.15,0.142,0.0001655,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,323.15,0.25,0.0001486,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,323.15,0.306,0.000141,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,323.15,0.392,0.0001265,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,323.15,0.466,0.0001129,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,323.15,0.532,0.0001014,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,323.15,0.581,9.22e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,333.15,0.166,0.0001613,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,333.15,0.231,0.0001527,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,333.15,0.298,0.0001418,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,333.15,0.372,0.0001301,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,333.15,0.44,0.0001179,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,333.15,0.511,0.0001046,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate
+pEhKF,333.15,0.549,9.81e-05,Blanchard et al. (2001),Density,Liquid,Gas,,21,AAIYzl,O=C=O,carbon dioxide,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate

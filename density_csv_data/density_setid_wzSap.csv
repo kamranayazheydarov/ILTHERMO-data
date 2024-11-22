@@ -1,0 +1,10 @@
+setid,Mole fraction of ethylbenzene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+wzSap,0,101,283.15,1230.73,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+wzSap,0.0532,101,283.15,1219.97,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+wzSap,0.1241,101,283.15,1204.82,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+wzSap,0.146,101,283.15,1199.79,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+wzSap,0.1639,101,283.15,1196.37,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+wzSap,0.1732,101,283.15,1194.88,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+wzSap,0.1875,101,283.15,1190.9,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+wzSap,0.1934,101,283.15,1190.35,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+wzSap,1,101,283.15,875.67,Gonzalez et al. (2015c),Density,Liquid,AAUVOo,CCc1ccccc1,ethylbenzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,

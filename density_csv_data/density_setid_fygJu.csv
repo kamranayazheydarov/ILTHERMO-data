@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fygJu,288.15,101.325,1035,Shekaari et al. (2016c),Density,Liquid,ABOMSG,CC(C)Cc1ccc(C(C)C(=O)[O-])cc1.CCCCn1cc[n+](C)c1,1-butyl-3-methylimidazolium ibuprofenate,,,,,,
+fygJu,298.15,101.325,1029,Shekaari et al. (2016c),Density,Liquid,ABOMSG,CC(C)Cc1ccc(C(C)C(=O)[O-])cc1.CCCCn1cc[n+](C)c1,1-butyl-3-methylimidazolium ibuprofenate,,,,,,
+fygJu,308.15,101.325,1023,Shekaari et al. (2016c),Density,Liquid,ABOMSG,CC(C)Cc1ccc(C(C)C(=O)[O-])cc1.CCCCn1cc[n+](C)c1,1-butyl-3-methylimidazolium ibuprofenate,,,,,,
+fygJu,318.15,101.325,1017,Shekaari et al. (2016c),Density,Liquid,ABOMSG,CC(C)Cc1ccc(C(C)C(=O)[O-])cc1.CCCCn1cc[n+](C)c1,1-butyl-3-methylimidazolium ibuprofenate,,,,,,

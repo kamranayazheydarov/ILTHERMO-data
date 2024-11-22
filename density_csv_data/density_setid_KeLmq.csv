@@ -1,0 +1,12 @@
+setid,Mole fraction of methylcyclohexane,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KeLmq,0,298.15,101,1185.88,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane
+KeLmq,0.006,298.15,101,1199.33,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane
+KeLmq,0.007,298.15,101,1191.05,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane
+KeLmq,0.01,298.15,101,1197.6,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane
+KeLmq,0.011,298.15,101,1195.7,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane
+KeLmq,0.012,298.15,101,1201.6,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane
+KeLmq,0.014,298.15,101,1206.7,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane
+KeLmq,0.015,298.15,101,1204,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane
+KeLmq,0.015,298.15,101,1209,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane
+KeLmq,0.015,298.15,101,1209.6,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane
+KeLmq,0.016,298.15,101,1216.3,Gonzalez et al. (2010f),Density,Liquid mixture 1,Liquid mixture 2,,11,AAUVOo,CCc1ccccc1,ethylbenzene,AAStyH,CC1CCCCC1,methylcyclohexane

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kNHaM,293.15,101.325,1462.2,Ullah et al. (2015),Density,Liquid,AAihdr,Cn1cc[nH+]c1.O=S(=O)([O-])O,1-methylimidazolium hydrogen sulfate,,,,,,
+kNHaM,303.15,101.325,1455.5,Ullah et al. (2015),Density,Liquid,AAihdr,Cn1cc[nH+]c1.O=S(=O)([O-])O,1-methylimidazolium hydrogen sulfate,,,,,,
+kNHaM,313.15,101.325,1449.1,Ullah et al. (2015),Density,Liquid,AAihdr,Cn1cc[nH+]c1.O=S(=O)([O-])O,1-methylimidazolium hydrogen sulfate,,,,,,
+kNHaM,323.15,101.325,1442.9,Ullah et al. (2015),Density,Liquid,AAihdr,Cn1cc[nH+]c1.O=S(=O)([O-])O,1-methylimidazolium hydrogen sulfate,,,,,,
+kNHaM,333.15,101.325,1436.7,Ullah et al. (2015),Density,Liquid,AAihdr,Cn1cc[nH+]c1.O=S(=O)([O-])O,1-methylimidazolium hydrogen sulfate,,,,,,
+kNHaM,343.15,101.325,1430.6,Ullah et al. (2015),Density,Liquid,AAihdr,Cn1cc[nH+]c1.O=S(=O)([O-])O,1-methylimidazolium hydrogen sulfate,,,,,,
+kNHaM,353.15,101.325,1424.6,Ullah et al. (2015),Density,Liquid,AAihdr,Cn1cc[nH+]c1.O=S(=O)([O-])O,1-methylimidazolium hydrogen sulfate,,,,,,
+kNHaM,363.15,101.325,1418.7,Ullah et al. (2015),Density,Liquid,AAihdr,Cn1cc[nH+]c1.O=S(=O)([O-])O,1-methylimidazolium hydrogen sulfate,,,,,,
+kNHaM,373.15,101.325,1412.9,Ullah et al. (2015),Density,Liquid,AAihdr,Cn1cc[nH+]c1.O=S(=O)([O-])O,1-methylimidazolium hydrogen sulfate,,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fwbox,293.15,101.325,1369,Jacquemin et al. (2013),Density,Liquid,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate,,,,,,
+fwbox,298.15,101.325,1366,Jacquemin et al. (2013),Density,Liquid,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate,,,,,,
+fwbox,303.15,101.325,1363,Jacquemin et al. (2013),Density,Liquid,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate,,,,,,
+fwbox,313.15,101.325,1357,Jacquemin et al. (2013),Density,Liquid,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate,,,,,,
+fwbox,323.15,101.325,1351,Jacquemin et al. (2013),Density,Liquid,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate,,,,,,
+fwbox,333.15,101.325,1344.7,Jacquemin et al. (2013),Density,Liquid,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate,,,,,,
+fwbox,343.15,101.325,1338.7,Jacquemin et al. (2013),Density,Liquid,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate,,,,,,
+fwbox,353.15,101.325,1332.6,Jacquemin et al. (2013),Density,Liquid,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate,,,,,,
+fwbox,363.15,101.325,1326.6,Jacquemin et al. (2013),Density,Liquid,AAoChY,CC[n+]1ccn(C)c1.O=S(=O)([O-])O,1-ethyl-3-methylimidazolium hydrogen sulfate,,,,,,

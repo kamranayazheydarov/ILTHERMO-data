@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CAMFh,293.15,101,1377.9,Lu et al. (2019b),Density,Liquid,ABjAEx,CC[N+](CC)=C(N(C)C)N(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,N-(bis(dimethylamino)methylene)-N-ethylethanaminium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+CAMFh,298.15,101,1373.2,Lu et al. (2019b),Density,Liquid,ABjAEx,CC[N+](CC)=C(N(C)C)N(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,N-(bis(dimethylamino)methylene)-N-ethylethanaminium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+CAMFh,303.15,101,1368.5,Lu et al. (2019b),Density,Liquid,ABjAEx,CC[N+](CC)=C(N(C)C)N(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,N-(bis(dimethylamino)methylene)-N-ethylethanaminium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+CAMFh,308.15,101,1363.9,Lu et al. (2019b),Density,Liquid,ABjAEx,CC[N+](CC)=C(N(C)C)N(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,N-(bis(dimethylamino)methylene)-N-ethylethanaminium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+CAMFh,313.15,101,1359.3,Lu et al. (2019b),Density,Liquid,ABjAEx,CC[N+](CC)=C(N(C)C)N(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,N-(bis(dimethylamino)methylene)-N-ethylethanaminium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+CAMFh,318.15,101,1354.8,Lu et al. (2019b),Density,Liquid,ABjAEx,CC[N+](CC)=C(N(C)C)N(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,N-(bis(dimethylamino)methylene)-N-ethylethanaminium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+CAMFh,323.15,101,1350.2,Lu et al. (2019b),Density,Liquid,ABjAEx,CC[N+](CC)=C(N(C)C)N(C)C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,N-(bis(dimethylamino)methylene)-N-ethylethanaminium bis((trifluoromethyl)sulfonyl)amide,,,,,,

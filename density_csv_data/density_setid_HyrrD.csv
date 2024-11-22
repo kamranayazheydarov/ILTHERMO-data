@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+HyrrD,303.15,101.325,1555.6,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,
+HyrrD,308.15,101.325,1550.8,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,
+HyrrD,313.15,101.325,1546,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,
+HyrrD,318.15,101.325,1541.1,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,
+HyrrD,323.15,101.325,1536.4,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,
+HyrrD,328.15,101.325,1531.8,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,
+HyrrD,333.15,101.325,1527.2,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,
+HyrrD,338.15,101.325,1522.6,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,
+HyrrD,343.15,101.325,1518.2,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,
+HyrrD,348.15,101.325,1513.6,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,
+HyrrD,353.15,101.325,1508.7,Sakhaeinia et al. (2010b),Density,Liquid,ABARrO,C[n+]1ccn(CCO)c1.F[P-](F)(F)(F)(F)F,3-(2-hydroxyethyl)-1-methylimidazolium hexafluorophosphate,,,,,,

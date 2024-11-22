@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VaVIy,293.15,101.325,1296.4,Tariq et al. (2009),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,
+VaVIy,298.15,101.325,1292.4,Tariq et al. (2009),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,
+VaVIy,313.15,101.325,1280.4,Tariq et al. (2009),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,
+VaVIy,333.15,101.325,1264.9,Tariq et al. (2009),Density,Liquid,ABICIG,CCCCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,1-hexyl-3-methylimidazolium hexafluorophosphate,,,,,,

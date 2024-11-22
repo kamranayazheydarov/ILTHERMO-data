@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of carbon dioxide,"Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bYWyN,298.15,10194,0.767,9.034e-05,Ren et al. (2010b),Density,Liquid,AAIYzl,O=C=O,carbon dioxide,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,
+bYWyN,298.15,11608,0.777,8.747e-05,Ren et al. (2010b),Density,Liquid,AAIYzl,O=C=O,carbon dioxide,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,
+bYWyN,298.15,13084,0.781,8.646e-05,Ren et al. (2010b),Density,Liquid,AAIYzl,O=C=O,carbon dioxide,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,
+bYWyN,298.15,14794,0.782,8.625e-05,Ren et al. (2010b),Density,Liquid,AAIYzl,O=C=O,carbon dioxide,ABXNZH,CC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-3-methylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,

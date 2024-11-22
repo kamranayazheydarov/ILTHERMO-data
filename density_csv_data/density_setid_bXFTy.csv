@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bXFTy,298.15,100,1607.1,Cai et al. (2020a),Density,Liquid,ABfHVl,C=C[n+]1ccn(CC(N)=O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(2-amino-2-oxoethyl)-1-vinylimidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+bXFTy,303.15,100,1601.2,Cai et al. (2020a),Density,Liquid,ABfHVl,C=C[n+]1ccn(CC(N)=O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(2-amino-2-oxoethyl)-1-vinylimidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+bXFTy,308.15,100,1594.4,Cai et al. (2020a),Density,Liquid,ABfHVl,C=C[n+]1ccn(CC(N)=O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(2-amino-2-oxoethyl)-1-vinylimidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+bXFTy,313.15,100,1588.1,Cai et al. (2020a),Density,Liquid,ABfHVl,C=C[n+]1ccn(CC(N)=O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(2-amino-2-oxoethyl)-1-vinylimidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+bXFTy,318.15,100,1580.8,Cai et al. (2020a),Density,Liquid,ABfHVl,C=C[n+]1ccn(CC(N)=O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(2-amino-2-oxoethyl)-1-vinylimidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+bXFTy,323.15,100,1573.7,Cai et al. (2020a),Density,Liquid,ABfHVl,C=C[n+]1ccn(CC(N)=O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(2-amino-2-oxoethyl)-1-vinylimidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+bXFTy,328.15,100,1567.9,Cai et al. (2020a),Density,Liquid,ABfHVl,C=C[n+]1ccn(CC(N)=O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(2-amino-2-oxoethyl)-1-vinylimidazolium bis(trifluoromethylsulfonyl)amide,,,,,,
+bXFTy,333.15,100,1561.1,Cai et al. (2020a),Density,Liquid,ABfHVl,C=C[n+]1ccn(CC(N)=O)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-(2-amino-2-oxoethyl)-1-vinylimidazolium bis(trifluoromethylsulfonyl)amide,,,,,,

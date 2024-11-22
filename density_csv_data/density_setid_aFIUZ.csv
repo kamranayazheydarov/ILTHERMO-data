@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of water,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+aFIUZ,293.72,101.325,0.00875,1293.5,Klomfar et al. (2010b),Density,Liquid,AADYJk,O,water,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,
+aFIUZ,298.4,101.325,0.00875,1290.3,Klomfar et al. (2010b),Density,Liquid,AADYJk,O,water,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,
+aFIUZ,303.27,101.325,0.00875,1286.6,Klomfar et al. (2010b),Density,Liquid,AADYJk,O,water,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,
+aFIUZ,313.36,101.325,0.00875,1278.2,Klomfar et al. (2010b),Density,Liquid,AADYJk,O,water,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,
+aFIUZ,322.87,101.325,0.00875,1271.3,Klomfar et al. (2010b),Density,Liquid,AADYJk,O,water,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,
+aFIUZ,332.92,101.325,0.00875,1263.8,Klomfar et al. (2010b),Density,Liquid,AADYJk,O,water,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,
+aFIUZ,342.9,101.325,0.00875,1256,Klomfar et al. (2010b),Density,Liquid,AADYJk,O,water,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,
+aFIUZ,352.7,101.325,0.00875,1248.2,Klomfar et al. (2010b),Density,Liquid,AADYJk,O,water,ABDWVo,CCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoromethanesulfonate,,,

@@ -1,0 +1,12 @@
+setid,"Temperature, K",Mole fraction of ethanol,"Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+vxlPn,298.15,0,101,1.50252,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,
+vxlPn,298.15,0.0476,101,1.50313,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,
+vxlPn,298.15,0.1993,101,1.49585,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,
+vxlPn,298.15,0.2992,101,1.48987,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,
+vxlPn,298.15,0.5009,101,1.47321,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,
+vxlPn,298.15,0.6033,101,1.46152,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,
+vxlPn,298.15,0.7023,101,1.44693,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,
+vxlPn,298.15,0.8016,101,1.42734,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,
+vxlPn,298.15,0.899,101,1.40078,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,
+vxlPn,298.15,0.9476,101,1.38342,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,
+vxlPn,298.15,1,101,1.36023,Gonzalez et al. (2009a),Refractive index,Liquid,AAIsrh,CCO,ethanol,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,

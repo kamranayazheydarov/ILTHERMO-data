@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZnhpN,293.15,100,1105,Bentley et al. (2023),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+ZnhpN,298.15,100,1102,Bentley et al. (2023),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+ZnhpN,303.15,100,1098,Bentley et al. (2023),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+ZnhpN,313.15,100,1092,Bentley et al. (2023),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+ZnhpN,323.15,100,1085,Bentley et al. (2023),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,
+ZnhpN,333.15,100,1079,Bentley et al. (2023),Density,Liquid,AAiEIE,CC[n+]1ccn(C)c1.N#C[N-]C#N,1-ethyl-3-methylimidazolium dicyanamide,,,,,,

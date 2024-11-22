@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MVfHI,298.1,101,1301,Shiflett and Yokozeki (2009),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+MVfHI,323.1,101,1283,Shiflett and Yokozeki (2009),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+MVfHI,348.1,101,1264,Shiflett and Yokozeki (2009),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+MVfHI,373.1,101,1250,Shiflett and Yokozeki (2009),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,

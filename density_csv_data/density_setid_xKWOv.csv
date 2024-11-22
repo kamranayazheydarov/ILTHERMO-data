@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xKWOv,313.15,101.325,1092.3,He et al. (2019),Density,Liquid,ABExso,CCCCCCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-octyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+xKWOv,323.15,101.325,1086,He et al. (2019),Density,Liquid,ABExso,CCCCCCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-octyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+xKWOv,333.15,101.325,1079.7,He et al. (2019),Density,Liquid,ABExso,CCCCCCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-octyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+xKWOv,343.15,101.325,1073.3,He et al. (2019),Density,Liquid,ABExso,CCCCCCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-octyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+xKWOv,353.15,101.325,1067,He et al. (2019),Density,Liquid,ABExso,CCCCCCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-octyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,

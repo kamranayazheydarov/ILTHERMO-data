@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oFVsD,296.9,101.325,1266,Anthony et al. (2005),Density,Liquid,ABoVAt,CCCC[N+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylmethylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+oFVsD,304.21,101.325,1263,Anthony et al. (2005),Density,Liquid,ABoVAt,CCCC[N+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylmethylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+oFVsD,314.06,101.325,1255,Anthony et al. (2005),Density,Liquid,ABoVAt,CCCC[N+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylmethylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+oFVsD,323.16,101.325,1250,Anthony et al. (2005),Density,Liquid,ABoVAt,CCCC[N+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylmethylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+oFVsD,332.86,101.325,1238,Anthony et al. (2005),Density,Liquid,ABoVAt,CCCC[N+](C)(CCCC)CCCC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,tributylmethylammonium bis((trifluoromethyl)sulfonyl)imide,,,,,,

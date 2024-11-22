@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xwxBk,298.4,5170,0.000125,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate
+xwxBk,298.5,4180,0.000128,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate
+xwxBk,298.6,3180,0.000131,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate
+xwxBk,298.7,99,0.000166,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate
+xwxBk,298.7,1240,0.000152,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate
+xwxBk,298.7,2060,0.000137,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate
+xwxBk,313.3,4430,0.000133,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate
+xwxBk,313.3,5560,0.000126,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate
+xwxBk,313.4,2840,0.000149,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate
+xwxBk,313.5,99,0.000168,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate
+xwxBk,314.1,1420,0.000162,Mejia et al. (2013),Density,Liquid,Gas,,11,AAIYzl,O=C=O,carbon dioxide,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate

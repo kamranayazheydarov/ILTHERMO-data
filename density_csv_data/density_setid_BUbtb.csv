@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BUbtb,293.15,100.9,949,Nascimento et al. (2020),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,
+BUbtb,298.15,100.9,946,Nascimento et al. (2020),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,
+BUbtb,303.15,100.9,943,Nascimento et al. (2020),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,
+BUbtb,308.15,100.9,939,Nascimento et al. (2020),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,
+BUbtb,313.15,100.9,936,Nascimento et al. (2020),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,
+BUbtb,318.15,100.9,932,Nascimento et al. (2020),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,
+BUbtb,323.15,100.9,929,Nascimento et al. (2020),Density,Liquid,AAZfWi,CC(=O)[O-].CC[NH2+]CC,diethylammonium acetate,,,,,,

@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BTAdW,313.15,101.325,1129.8,He et al. (2018b),Density,Liquid,AAzdAp,CCCCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-hexyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+BTAdW,323.15,101.325,1123.3,He et al. (2018b),Density,Liquid,AAzdAp,CCCCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-hexyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+BTAdW,333.15,101.325,1116.8,He et al. (2018b),Density,Liquid,AAzdAp,CCCCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-hexyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+BTAdW,343.15,101.325,1110.3,He et al. (2018b),Density,Liquid,AAzdAp,CCCCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-hexyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,
+BTAdW,353.15,101.325,1103.9,He et al. (2018b),Density,Liquid,AAzdAp,CCCCCC[n+]1ccn(C)c1C.F[B-](F)(F)F,"1-hexyl-2,3-dimethylimidazolium tetrafluoroborate",,,,,,

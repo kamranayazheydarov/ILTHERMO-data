@@ -1,0 +1,10 @@
+setid,Mole fraction of 1-butanamine,Mole fraction of water,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ztJrj,0,0.0291,303.15,100,958,Berton et al. (2017),Density,Liquid,AAODWt,CCCCN,1-butanamine,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+ztJrj,0.0965,0.0347,303.15,100,943,Berton et al. (2017),Density,Liquid,AAODWt,CCCCN,1-butanamine,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+ztJrj,0.194,0.0301,303.15,100,926,Berton et al. (2017),Density,Liquid,AAODWt,CCCCN,1-butanamine,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+ztJrj,0.3198,0.031,303.15,100,903,Berton et al. (2017),Density,Liquid,AAODWt,CCCCN,1-butanamine,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+ztJrj,0.4873,0.0253,303.15,100,871,Berton et al. (2017),Density,Liquid,AAODWt,CCCCN,1-butanamine,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+ztJrj,0.6575,0.0186,303.15,100,831,Berton et al. (2017),Density,Liquid,AAODWt,CCCCN,1-butanamine,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+ztJrj,0.7882,0.0148,303.15,100,794,Berton et al. (2017),Density,Liquid,AAODWt,CCCCN,1-butanamine,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+ztJrj,0.8893,0.0119,303.15,100,764,Berton et al. (2017),Density,Liquid,AAODWt,CCCCN,1-butanamine,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate
+ztJrj,0.996,0.004,303.15,100,729,Berton et al. (2017),Density,Liquid,AAODWt,CCCCN,1-butanamine,AADYJk,O,water,ABFzOJ,CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC,tetrabutylammonium acetate

@@ -1,0 +1,10 @@
+setid,"MolaLity of N,N,N-trimethyl-1-hexadecanaminium bromide, mol/kg","MolaLity of L-valine, mol/kg","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ELdcB,1,0,298.15,101,1004.43,Singh et al. (2004),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,AADYJk,O,water
+ELdcB,1,0.02377,298.15,101,1005.39,Singh et al. (2004),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,AADYJk,O,water
+ELdcB,1,0.05358,298.15,101,1006.59,Singh et al. (2004),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,AADYJk,O,water
+ELdcB,1,0.08578,298.15,101,1007.87,Singh et al. (2004),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,AADYJk,O,water
+ELdcB,1,0.10324,298.15,101,1008.53,Singh et al. (2004),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,AADYJk,O,water
+ELdcB,1,0.10898,298.15,101,1008.75,Singh et al. (2004),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,AADYJk,O,water
+ELdcB,1,0.11794,298.15,101,1009.13,Singh et al. (2004),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,AADYJk,O,water
+ELdcB,1,0.11993,298.15,101,1009.19,Singh et al. (2004),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,AADYJk,O,water
+ELdcB,1,0.13239,298.15,101,1009.72,Singh et al. (2004),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AAWbiv,CC(C)[C@H](N)C(=O)O,L-valine,AADYJk,O,water

@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+NNRYE,298.2,99,0.000358,Aki et al. (2004),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+NNRYE,313.2,100.1,0.000365,Aki et al. (2004),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+NNRYE,333.2,98.9,0.00037,Aki et al. (2004),Density,Liquid,ABnWNT,CCCCCCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,

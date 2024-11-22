@@ -1,0 +1,27 @@
+setid,Solvent: Mole fraction of tetrahydrofuran,"MolaLity of tetrapropylammonium bromide, mol/kg","Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EGaDE,0,0,101,298.15,1199.3,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0,0.01298,101,298.15,1199.1,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0,0.02428,101,298.15,1198.8,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0,0.0295,101,298.15,1198.7,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0,0.04445,101,298.15,1198.4,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0,0.06718,101,298.15,1198,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0,0.07557,101,298.15,1197.8,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.2,0,101,298.15,1137.9,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.2,0.04599,101,298.15,1137.9,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.2,0.05273,101,298.15,1137.9,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.2,0.05879,101,298.15,1137.9,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.2,0.06844,101,298.15,1137.9,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.2,0.0776,101,298.15,1137.8,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.4,0,101,298.15,1080,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.4,0.016,101,298.15,1080.3,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.4,0.02758,101,298.15,1080.5,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.4,0.03546,101,298.15,1080.6,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.4,0.04813,101,298.15,1080.7,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.4,0.06726,101,298.15,1080.9,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.4,0.08083,101,298.15,1081.1,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.6,0,101,298.15,1016.5,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.6,0.01512,101,298.15,1017.1,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.6,0.0242,101,298.15,1017.4,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.6,0.0333,101,298.15,1017.7,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.6,0.05406,101,298.15,1018.4,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide
+EGaDE,0.6,0.08357,101,298.15,1019.2,Zhao et al. (2016),Density,Liquid,AATgdC,CC1COC(=O)O1,propylene carbonate,AANtst,C1CCOC1,tetrahydrofuran,AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide

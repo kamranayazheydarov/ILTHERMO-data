@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+YVeTV,303.15,101.325,1214.4,Hiraga et al. (2017a),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+YVeTV,313.15,101.325,1207.6,Hiraga et al. (2017a),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+YVeTV,323.15,101.325,1200.9,Hiraga et al. (2017a),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+YVeTV,333.15,101.325,1194.3,Hiraga et al. (2017a),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+YVeTV,343.15,101.325,1187.6,Hiraga et al. (2017a),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+YVeTV,353.15,101.325,1181.1,Hiraga et al. (2017a),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+YVeTV,363.15,101.325,1174.5,Hiraga et al. (2017a),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,
+YVeTV,373.15,101.325,1168.1,Hiraga et al. (2017a),Density,Liquid,AAtWRk,CC[n+]1ccn(C)c1.COP(=O)([O-])OC,1-ethyl-3-methylimidazolium dimethylphosphate,,,,,,

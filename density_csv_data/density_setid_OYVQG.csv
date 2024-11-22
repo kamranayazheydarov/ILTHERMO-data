@@ -1,0 +1,11 @@
+setid,Mole fraction of dimethyl sulfoxide,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OYVQG,0.2,100,293,1108,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+OYVQG,0.4,100,293,1107,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+OYVQG,0.6,100,293,1106,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+OYVQG,0.7,100,293,1106,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+OYVQG,0.8,100,293,1104,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+OYVQG,0.9,100,293,1104,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+OYVQG,0.95,100,293,1103,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+OYVQG,0.97,100,293,1102,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+OYVQG,0.99,100,293,1101,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,
+OYVQG,1,100,293,1101,Ando et al. (2020),Density,Liquid,ABCNhW,CCCCCCCCn1cc[n+](C)c1.F[B-](F)(F)F,1-methyl-3-octylimidazolium tetrafluoroborate,AAPByN,CS(C)=O,dimethyl sulfoxide,,,

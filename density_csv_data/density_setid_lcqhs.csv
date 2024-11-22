@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+lcqhs,293,101.325,1612,Yuan et al. (2021),Density,Liquid,ABXCDu,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.OCc1cc[nH+]cc1,4-(hydroxymethyl)pyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+lcqhs,303,101.325,1602,Yuan et al. (2021),Density,Liquid,ABXCDu,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.OCc1cc[nH+]cc1,4-(hydroxymethyl)pyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+lcqhs,313,101.325,1591,Yuan et al. (2021),Density,Liquid,ABXCDu,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.OCc1cc[nH+]cc1,4-(hydroxymethyl)pyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+lcqhs,323,101.325,1581,Yuan et al. (2021),Density,Liquid,ABXCDu,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.OCc1cc[nH+]cc1,4-(hydroxymethyl)pyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+lcqhs,333,101.325,1570,Yuan et al. (2021),Density,Liquid,ABXCDu,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.OCc1cc[nH+]cc1,4-(hydroxymethyl)pyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+lcqhs,343,101.325,1560,Yuan et al. (2021),Density,Liquid,ABXCDu,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.OCc1cc[nH+]cc1,4-(hydroxymethyl)pyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

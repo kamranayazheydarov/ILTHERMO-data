@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QgbCp,293.15,101,1085.2,Larriba et al. (2014a),Density,Liquid,AAmkSk,CC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide,,,,,,
+QgbCp,303.15,101,1078.1,Larriba et al. (2014a),Density,Liquid,AAmkSk,CC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide,,,,,,
+QgbCp,313.15,101,1071.1,Larriba et al. (2014a),Density,Liquid,AAmkSk,CC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide,,,,,,
+QgbCp,323.15,101,1064.1,Larriba et al. (2014a),Density,Liquid,AAmkSk,CC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide,,,,,,
+QgbCp,333.15,101,1057.2,Larriba et al. (2014a),Density,Liquid,AAmkSk,CC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide,,,,,,
+QgbCp,343.15,101,1050.4,Larriba et al. (2014a),Density,Liquid,AAmkSk,CC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide,,,,,,
+QgbCp,353.15,101,1043.6,Larriba et al. (2014a),Density,Liquid,AAmkSk,CC[n+]1ccn(C)c1.N#C[C-](C#N)C#N,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide,,,,,,

@@ -1,0 +1,11 @@
+setid,"MolaLity of tetraethylammonium perchlorate, mol/kg","Temperature, K","Pressure, kPa","Specific density<SUP>*</SUP>, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QGlQN,0.01014,298.15,101,0.776,Zana et al. (1979),Density,Liquid,AAsJpx,CC[N+](CC)(CC)CC.[O-]Cl(=O)(=O)=O,tetraethylammonium perchlorate,AAHueB,CC#N,acetonitrile,,,
+QGlQN,0.02075,298.15,101,1.579,Zana et al. (1979),Density,Liquid,AAsJpx,CC[N+](CC)(CC)CC.[O-]Cl(=O)(=O)=O,tetraethylammonium perchlorate,AAHueB,CC#N,acetonitrile,,,
+QGlQN,0.04254,298.15,101,3.212,Zana et al. (1979),Density,Liquid,AAsJpx,CC[N+](CC)(CC)CC.[O-]Cl(=O)(=O)=O,tetraethylammonium perchlorate,AAHueB,CC#N,acetonitrile,,,
+QGlQN,0.06652,298.15,101,4.984,Zana et al. (1979),Density,Liquid,AAsJpx,CC[N+](CC)(CC)CC.[O-]Cl(=O)(=O)=O,tetraethylammonium perchlorate,AAHueB,CC#N,acetonitrile,,,
+QGlQN,0.07918,298.15,101,5.91,Zana et al. (1979),Density,Liquid,AAsJpx,CC[N+](CC)(CC)CC.[O-]Cl(=O)(=O)=O,tetraethylammonium perchlorate,AAHueB,CC#N,acetonitrile,,,
+QGlQN,0.10313,298.15,101,7.647,Zana et al. (1979),Density,Liquid,AAsJpx,CC[N+](CC)(CC)CC.[O-]Cl(=O)(=O)=O,tetraethylammonium perchlorate,AAHueB,CC#N,acetonitrile,,,
+QGlQN,0.12937,298.15,101,9.524,Zana et al. (1979),Density,Liquid,AAsJpx,CC[N+](CC)(CC)CC.[O-]Cl(=O)(=O)=O,tetraethylammonium perchlorate,AAHueB,CC#N,acetonitrile,,,
+QGlQN,0.17034,298.15,101,12.413,Zana et al. (1979),Density,Liquid,AAsJpx,CC[N+](CC)(CC)CC.[O-]Cl(=O)(=O)=O,tetraethylammonium perchlorate,AAHueB,CC#N,acetonitrile,,,
+QGlQN,0.2067,298.15,101,14.942,Zana et al. (1979),Density,Liquid,AAsJpx,CC[N+](CC)(CC)CC.[O-]Cl(=O)(=O)=O,tetraethylammonium perchlorate,AAHueB,CC#N,acetonitrile,,,
+QGlQN,0.29065,298.15,101,20.638,Zana et al. (1979),Density,Liquid,AAsJpx,CC[N+](CC)(CC)CC.[O-]Cl(=O)(=O)=O,tetraethylammonium perchlorate,AAHueB,CC#N,acetonitrile,,,

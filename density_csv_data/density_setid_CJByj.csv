@@ -1,0 +1,7 @@
+setid,"MolaLity of tetraphenylphosphonium chloride, mol/kg","Temperature, K","Pressure, kPa","Specific density<SUP>*</SUP>, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CJByj,0.02121,298,101,0.343,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUEqe,[Cl-].c1ccc([P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,tetraphenylphosphonium chloride,,,
+CJByj,0.0383,298,101,0.611,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUEqe,[Cl-].c1ccc([P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,tetraphenylphosphonium chloride,,,
+CJByj,0.05503,298,101,0.88,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUEqe,[Cl-].c1ccc([P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,tetraphenylphosphonium chloride,,,
+CJByj,0.06072,298,101,0.961,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUEqe,[Cl-].c1ccc([P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,tetraphenylphosphonium chloride,,,
+CJByj,0.07312,298,101,1.145,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUEqe,[Cl-].c1ccc([P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,tetraphenylphosphonium chloride,,,
+CJByj,0.10248,298,101,1.575,Chen et al. (1998),Density,Liquid,AAIiso,NC=O,formamide,ABUEqe,[Cl-].c1ccc([P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,tetraphenylphosphonium chloride,,,

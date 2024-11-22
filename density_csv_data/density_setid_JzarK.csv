@@ -1,0 +1,12 @@
+setid,Weight fraction of ethanol,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JzarK,0,100,293.15,1481,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,
+JzarK,0.1998,100,293.15,1274,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,
+JzarK,0.3001,100,293.15,1185,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,
+JzarK,0.3979,100,293.15,1110,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,
+JzarK,0.4992,100,293.15,1042,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,
+JzarK,0.6074,100,293.15,976,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,
+JzarK,0.7048,100,293.15,925,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,
+JzarK,0.8091,100,293.15,870,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,
+JzarK,0.8953,100,293.15,832,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,
+JzarK,0.95,100,293.15,811,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,
+JzarK,1,100,293.15,789,Otero-Mato et al. (2022),Density,Liquid,AAzJkz,CCCC[n+]1ccn(C)c1.[I-],1-butyl-3-methylimidazolium iodide,AAIsrh,CCO,ethanol,,,

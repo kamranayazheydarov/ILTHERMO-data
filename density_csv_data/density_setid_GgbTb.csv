@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GgbTb,288.1,101.325,1091,Oh et al. (2019),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+GgbTb,293,101.325,1088,Oh et al. (2019),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+GgbTb,296.1,101.325,1086,Oh et al. (2019),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+GgbTb,298.1,101.325,1085,Oh et al. (2019),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+GgbTb,303,101.325,1082,Oh et al. (2019),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,
+GgbTb,313,101.325,1076,Oh et al. (2019),Density,Liquid,AAmuhI,CC[n+]1ccn(C)c1.N#Cc1ccc[n-]1,1-ethyl-3-methylimidazolium 2-(cyano)pyrrolide,,,,,,

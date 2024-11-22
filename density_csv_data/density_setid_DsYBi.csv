@@ -1,0 +1,13 @@
+setid,Mole fraction of cyclohexane,Mole fraction of benzene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DsYBi,0,0.406,101,298.15,1171.7,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.003,0.313,101,298.15,1192.6,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.003,0.359,101,298.15,1181.7,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.004,0.289,101,298.15,1197,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.005,0.262,101,298.15,1203.3,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.009,0.211,101,298.15,1212.5,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.011,0.194,101,298.15,1215.5,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.012,0.148,101,298.15,1224,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.015,0.051,101,298.15,1240,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.015,0.078,101,298.15,1235.8,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.015,0.099,101,298.15,1232,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+DsYBi,0.017,0,101,298.15,1247.7,Gomez et al. (2014),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAQJlb,C1CCCCC1,cyclohexane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate

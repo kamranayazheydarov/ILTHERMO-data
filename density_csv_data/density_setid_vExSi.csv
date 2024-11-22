@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vExSi,288.15,101,1041.25,Hong et al. (2013b),Density,Liquid,AAoqOm,CCC(=O)[O-].CCCCn1cc[n+](C)c1,3-butyl-1-methyl-1H-imidazolium propanoate,,,,,,
+vExSi,293.15,101,1038.19,Hong et al. (2013b),Density,Liquid,AAoqOm,CCC(=O)[O-].CCCCn1cc[n+](C)c1,3-butyl-1-methyl-1H-imidazolium propanoate,,,,,,
+vExSi,298.15,101,1035.27,Hong et al. (2013b),Density,Liquid,AAoqOm,CCC(=O)[O-].CCCCn1cc[n+](C)c1,3-butyl-1-methyl-1H-imidazolium propanoate,,,,,,
+vExSi,303.15,101,1032.25,Hong et al. (2013b),Density,Liquid,AAoqOm,CCC(=O)[O-].CCCCn1cc[n+](C)c1,3-butyl-1-methyl-1H-imidazolium propanoate,,,,,,
+vExSi,308.15,101,1029.31,Hong et al. (2013b),Density,Liquid,AAoqOm,CCC(=O)[O-].CCCCn1cc[n+](C)c1,3-butyl-1-methyl-1H-imidazolium propanoate,,,,,,
+vExSi,313.15,101,1026.28,Hong et al. (2013b),Density,Liquid,AAoqOm,CCC(=O)[O-].CCCCn1cc[n+](C)c1,3-butyl-1-methyl-1H-imidazolium propanoate,,,,,,
+vExSi,318.15,101,1023.21,Hong et al. (2013b),Density,Liquid,AAoqOm,CCC(=O)[O-].CCCCn1cc[n+](C)c1,3-butyl-1-methyl-1H-imidazolium propanoate,,,,,,
+vExSi,323.15,101,1020.14,Hong et al. (2013b),Density,Liquid,AAoqOm,CCC(=O)[O-].CCCCn1cc[n+](C)c1,3-butyl-1-methyl-1H-imidazolium propanoate,,,,,,
+vExSi,328.15,101,1017.06,Hong et al. (2013b),Density,Liquid,AAoqOm,CCC(=O)[O-].CCCCn1cc[n+](C)c1,3-butyl-1-methyl-1H-imidazolium propanoate,,,,,,

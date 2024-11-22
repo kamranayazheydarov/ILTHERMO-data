@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OIxOl,293.15,101,1358.2,Ren et al. (2011c),Density,Liquid,ABkmDU,CCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-hexyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+OIxOl,298.15,101,1353.1,Ren et al. (2011c),Density,Liquid,ABkmDU,CCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-hexyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+OIxOl,303.15,101,1348.7,Ren et al. (2011c),Density,Liquid,ABkmDU,CCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-hexyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+OIxOl,308.15,101,1344.3,Ren et al. (2011c),Density,Liquid,ABkmDU,CCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-hexyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+OIxOl,313.15,101,1339.9,Ren et al. (2011c),Density,Liquid,ABkmDU,CCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-hexyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+OIxOl,318.15,101,1335.5,Ren et al. (2011c),Density,Liquid,ABkmDU,CCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-hexyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+OIxOl,323.15,101,1331.1,Ren et al. (2011c),Density,Liquid,ABkmDU,CCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-hexyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+OIxOl,328.15,101,1326.7,Ren et al. (2011c),Density,Liquid,ABkmDU,CCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-hexyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,
+OIxOl,333.15,101,1322.2,Ren et al. (2011c),Density,Liquid,ABkmDU,CCCCCC[n+]1ccn(C)c1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"1-hexyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide",,,,,,

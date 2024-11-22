@@ -1,0 +1,5 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+zcqns,100,293.15,1230,Troncoso (2021),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,
+zcqns,100,298.15,1226.5,Troncoso (2021),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,
+zcqns,100,303.15,1222.9,Troncoso (2021),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,
+zcqns,100,308.15,1219.2,Troncoso (2021),Density,Liquid,AAvbcc,CCCCCC[n+]1ccn(C)c1.[Br-],1-hexyl-3-methyl-1H-imidazolium bromide,,,,,,

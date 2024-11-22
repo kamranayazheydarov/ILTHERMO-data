@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+afvYT,298.15,101.325,1252,Gonzalez et al. (2009a),Density,Liquid,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,,,
+afvYT,303.15,101.325,1248.7,Gonzalez et al. (2009a),Density,Liquid,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,,,
+afvYT,308.15,101.325,1245.4,Gonzalez et al. (2009a),Density,Liquid,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,,,
+afvYT,313.15,101.325,1242.1,Gonzalez et al. (2009a),Density,Liquid,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,,,
+afvYT,318.15,101.325,1238.8,Gonzalez et al. (2009a),Density,Liquid,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,,,
+afvYT,323.15,101.325,1235.6,Gonzalez et al. (2009a),Density,Liquid,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,,,
+afvYT,328.15,101.325,1232.3,Gonzalez et al. (2009a),Density,Liquid,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,,,
+afvYT,333.15,101.325,1229.1,Gonzalez et al. (2009a),Density,Liquid,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,,,
+afvYT,338.15,101.325,1225.9,Gonzalez et al. (2009a),Density,Liquid,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,,,
+afvYT,343.15,101.325,1222.7,Gonzalez et al. (2009a),Density,Liquid,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate,,,,,,

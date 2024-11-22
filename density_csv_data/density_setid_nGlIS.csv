@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nGlIS,303.15,101,1209.4,Otero et al. (2017),Density,Liquid,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,,,,
+nGlIS,313.15,101,1201.9,Otero et al. (2017),Density,Liquid,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,,,,
+nGlIS,323.15,101,1194.3,Otero et al. (2017),Density,Liquid,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,,,,
+nGlIS,333.15,101,1186.9,Otero et al. (2017),Density,Liquid,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,,,,
+nGlIS,343.15,101,1179.4,Otero et al. (2017),Density,Liquid,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,,,,
+nGlIS,353.15,101,1172.1,Otero et al. (2017),Density,Liquid,AAwaEi,CCCC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-butyl-3-methylimidazolium trifluoroacetate,,,,,,

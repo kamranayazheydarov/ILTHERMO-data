@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oCnBM,293.15,101.325,982.9,Gardas et al. (2010b),Density,Liquid,ABOXSX,CCCC[N+](C)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-lysinate",,,,,,
+oCnBM,298.15,101.325,979.7,Gardas et al. (2010b),Density,Liquid,ABOXSX,CCCC[N+](C)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-lysinate",,,,,,
+oCnBM,303.15,101.325,976.7,Gardas et al. (2010b),Density,Liquid,ABOXSX,CCCC[N+](C)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-lysinate",,,,,,
+oCnBM,313.15,101.325,970.7,Gardas et al. (2010b),Density,Liquid,ABOXSX,CCCC[N+](C)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-lysinate",,,,,,
+oCnBM,323.15,101.325,964.7,Gardas et al. (2010b),Density,Liquid,ABOXSX,CCCC[N+](C)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-lysinate",,,,,,
+oCnBM,333.15,101.325,958.6,Gardas et al. (2010b),Density,Liquid,ABOXSX,CCCC[N+](C)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-lysinate",,,,,,
+oCnBM,343.15,101.325,952.7,Gardas et al. (2010b),Density,Liquid,ABOXSX,CCCC[N+](C)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-lysinate",,,,,,
+oCnBM,353.15,101.325,946.8,Gardas et al. (2010b),Density,Liquid,ABOXSX,CCCC[N+](C)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-lysinate",,,,,,
+oCnBM,363.15,101.325,940.8,Gardas et al. (2010b),Density,Liquid,ABOXSX,CCCC[N+](C)(CCCC)CCCC.NCCCC[C@H](N)C(=O)[O-],"N,N-dibutyl-N-methyl-1-butanaminium L-lysinate",,,,,,

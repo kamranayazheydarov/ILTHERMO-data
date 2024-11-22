@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OzlLl,293.15,100,1368.5,Rives et al. (2021),Density,Liquid,AApHVR,Cn1cc[n+](CCO)c1.F[B-](F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium tetrafluoroborate,,,,,,
+OzlLl,298.15,100,1363.3,Rives et al. (2021),Density,Liquid,AApHVR,Cn1cc[n+](CCO)c1.F[B-](F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium tetrafluoroborate,,,,,,
+OzlLl,303.15,100,1360,Rives et al. (2021),Density,Liquid,AApHVR,Cn1cc[n+](CCO)c1.F[B-](F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium tetrafluoroborate,,,,,,
+OzlLl,308.15,100,1355.9,Rives et al. (2021),Density,Liquid,AApHVR,Cn1cc[n+](CCO)c1.F[B-](F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium tetrafluoroborate,,,,,,
+OzlLl,313.15,100,1351.8,Rives et al. (2021),Density,Liquid,AApHVR,Cn1cc[n+](CCO)c1.F[B-](F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium tetrafluoroborate,,,,,,
+OzlLl,318.15,100,1348.5,Rives et al. (2021),Density,Liquid,AApHVR,Cn1cc[n+](CCO)c1.F[B-](F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium tetrafluoroborate,,,,,,
+OzlLl,323.15,100,1343.9,Rives et al. (2021),Density,Liquid,AApHVR,Cn1cc[n+](CCO)c1.F[B-](F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium tetrafluoroborate,,,,,,

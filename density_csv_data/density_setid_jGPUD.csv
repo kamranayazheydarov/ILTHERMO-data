@@ -1,0 +1,9 @@
+setid,Mole fraction of methyltriphenylphosphonium bromide,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+jGPUD,0.25,298.186,101,1297.35,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+jGPUD,0.25,303.07,101,1293.73,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+jGPUD,0.25,313.116,101,1287.23,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+jGPUD,0.25,323.163,101,1280,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+jGPUD,0.25,333.209,101,1273.49,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+jGPUD,0.25,343.256,101,1266.99,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+jGPUD,0.25,353.302,101,1259.04,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,
+jGPUD,0.25,363.349,101,1252.53,AlOmar et al. (2016),Density,Liquid,AARkmK,OCC(O)CO,glycerol,ABQkxU,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],methyltriphenylphosphonium bromide,,,

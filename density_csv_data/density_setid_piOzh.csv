@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+piOzh,293.15,101.325,1581.93,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,298.15,101.325,1577.04,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,303.15,101.325,1572.07,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,308.15,101.325,1567.12,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,313.15,101.325,1562.22,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,323.15,101.325,1552.45,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,328.15,101.325,1547.61,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,333.15,101.325,1542.76,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,338.15,101.325,1537.96,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,343.16,101.325,1533.17,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,348.15,101.325,1528.39,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+piOzh,353.15,101.325,1523.62,Doblinger et al. (2021),Density,Liquid,ABaReg,Cn1cc[n+](CCO)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

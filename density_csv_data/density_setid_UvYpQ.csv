@@ -1,0 +1,21 @@
+setid,"Temperature, K","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+UvYpQ,298.2,1209,0.000159,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,298.2,2225,0.000137,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,298.2,3183,0.000123,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,298.2,4210,0.000111,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,298.2,5121,0.000109,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,313.3,1274,0.000171,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,313.3,2205,0.000157,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,313.3,3144,0.000147,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,313.3,4170,0.000138,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,313.3,5278,0.00013,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,313.3,6317,0.000123,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,313.3,7424,0.000117,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,313.3,8402,0.000109,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,333.3,1422,0.000179,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,333.3,2456,0.000172,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,333.3,3501,0.000163,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,333.3,4860,0.000154,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,333.3,6096,0.000146,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,333.3,7232,0.000136,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate
+UvYpQ,333.3,8500,0.000122,Aki et al. (2004),Density,Liquid,Gas,,20,AAIYzl,O=C=O,carbon dioxide,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate

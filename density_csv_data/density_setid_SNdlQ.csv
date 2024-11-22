@@ -1,0 +1,27 @@
+setid,"Mole fraction of 1,4-butanediol","Temperature, K","Pressure, kPa","Moles per mass of solution: 1-butyl-3-methylimidazolium bromide, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SNdlQ,0.0329,298.15,101,0.1,1008.4,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.0687,298.15,101,0.1,1012.7,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.1074,298.15,101,0.1,1015.8,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.1487,298.15,101,0.1,1017.1,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.1925,298.15,101,0.1,1018,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.2382,298.15,101,0.1,1018.4,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.2855,298.15,101,0.1,1018.4,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.3338,298.15,101,0.1,1018.2,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.3826,298.15,101,0.1,1017.6,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.4312,298.15,101,0.1,1016.8,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.4791,298.15,101,0.1,1015.8,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.5256,298.15,101,0.1,1014.9,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.5704,298.15,101,0.1,1013.9,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.613,298.15,101,0.1,1012.9,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.653,298.15,101,0.1,1012,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.6903,298.15,101,0.1,1011.2,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.7247,298.15,101,0.1,1010.4,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.7561,298.15,101,0.1,1009.8,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.7846,298.15,101,0.1,1009.3,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.8103,298.15,101,0.1,1008.8,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.8333,298.15,101,0.1,1008.3,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.8537,298.15,101,0.1,1007.9,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.8771,298.15,101,0.1,1007.1,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.8966,298.15,101,0.1,1006.7,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.9131,298.15,101,0.1,1006.4,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide
+SNdlQ,0.9268,298.15,101,0.1,1006.1,Checoni (2010),Density,Liquid,AARRzH,OCCCCO,"1,4-butanediol",AADYJk,O,water,AAqHiH,CCCC[n+]1ccn(C)c1.[Br-],1-butyl-3-methylimidazolium bromide

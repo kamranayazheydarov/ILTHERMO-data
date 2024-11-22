@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PTADg,288.15,100,1107.7,Zhang et al. (2017e),Density,Liquid,ABAJtl,CCCCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-pentyl-3-methylimidazolium DL-threoninate,,,,,,
+PTADg,293.15,100,1104.39,Zhang et al. (2017e),Density,Liquid,ABAJtl,CCCCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-pentyl-3-methylimidazolium DL-threoninate,,,,,,
+PTADg,298.15,100,1101.08,Zhang et al. (2017e),Density,Liquid,ABAJtl,CCCCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-pentyl-3-methylimidazolium DL-threoninate,,,,,,
+PTADg,303.15,100,1097.75,Zhang et al. (2017e),Density,Liquid,ABAJtl,CCCCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-pentyl-3-methylimidazolium DL-threoninate,,,,,,
+PTADg,308.15,100,1094.43,Zhang et al. (2017e),Density,Liquid,ABAJtl,CCCCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-pentyl-3-methylimidazolium DL-threoninate,,,,,,
+PTADg,313.15,100,1091.16,Zhang et al. (2017e),Density,Liquid,ABAJtl,CCCCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-pentyl-3-methylimidazolium DL-threoninate,,,,,,
+PTADg,318.15,100,1087.7,Zhang et al. (2017e),Density,Liquid,ABAJtl,CCCCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-pentyl-3-methylimidazolium DL-threoninate,,,,,,
+PTADg,323.15,100,1084.55,Zhang et al. (2017e),Density,Liquid,ABAJtl,CCCCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-pentyl-3-methylimidazolium DL-threoninate,,,,,,
+PTADg,328.15,100,1081.25,Zhang et al. (2017e),Density,Liquid,ABAJtl,CCCCC[n+]1ccn(C)c1.C[C@@H](O)[C@H](N)C(=O)[O-],1-pentyl-3-methylimidazolium DL-threoninate,,,,,,

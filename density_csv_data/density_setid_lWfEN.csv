@@ -1,0 +1,6 @@
+setid,Weight fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+lWfEN,0.00223,100,298.15,1118.1,Ma et al. (2015),Density,Liquid,AADYJk,O,water,AAhaEl,CC[n+]1ccccc1.N#C[N-]C#N,1-ethylpyridinium dicyanamide,,,
+lWfEN,0.00394,100,298.15,1117.9,Ma et al. (2015),Density,Liquid,AADYJk,O,water,AAhaEl,CC[n+]1ccccc1.N#C[N-]C#N,1-ethylpyridinium dicyanamide,,,
+lWfEN,0.00565,100,298.15,1117.6,Ma et al. (2015),Density,Liquid,AADYJk,O,water,AAhaEl,CC[n+]1ccccc1.N#C[N-]C#N,1-ethylpyridinium dicyanamide,,,
+lWfEN,0.00735,100,298.15,1117.4,Ma et al. (2015),Density,Liquid,AADYJk,O,water,AAhaEl,CC[n+]1ccccc1.N#C[N-]C#N,1-ethylpyridinium dicyanamide,,,
+lWfEN,0.00901,100,298.15,1117.1,Ma et al. (2015),Density,Liquid,AADYJk,O,water,AAhaEl,CC[n+]1ccccc1.N#C[N-]C#N,1-ethylpyridinium dicyanamide,,,

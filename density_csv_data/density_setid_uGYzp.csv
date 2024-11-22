@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uGYzp,348.26,101.325,1381.17,Klomfar et al. (2018),Density,Liquid,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide,,,,,,
+uGYzp,352.77,101.325,1378.39,Klomfar et al. (2018),Density,Liquid,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide,,,,,,
+uGYzp,358.17,101.325,1375.04,Klomfar et al. (2018),Density,Liquid,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide,,,,,,
+uGYzp,364.02,101.325,1370.88,Klomfar et al. (2018),Density,Liquid,AAkmTS,CC[n+]1ccn(C)c1.[Br-],1-ethyl-3-methylimidazolium bromide,,,,,,

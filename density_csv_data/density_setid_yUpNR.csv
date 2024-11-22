@@ -1,0 +1,7 @@
+setid,Mole fraction of octane,Mole fraction of toluene,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yUpNR,0,0.307,298.15,101.3,1161.7,Gonzalez et al. (2010d),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+yUpNR,0.003,0.149,298.15,101.3,1193.8,Gonzalez et al. (2010d),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+yUpNR,0.003,0.254,298.15,101.3,1172.8,Gonzalez et al. (2010d),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+yUpNR,0.005,0.05,298.15,101.3,1209.8,Gonzalez et al. (2010d),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+yUpNR,0.005,0.099,298.15,101.3,1202,Gonzalez et al. (2010d),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate
+yUpNR,0.007,0,298.15,101.3,1218.15,Gonzalez et al. (2010d),Density,Liquid,AARlpN,Cc1ccccc1,toluene,AAVyLr,CCCCCCCC,octane,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate

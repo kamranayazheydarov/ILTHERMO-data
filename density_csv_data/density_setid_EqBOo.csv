@@ -1,0 +1,15 @@
+setid,"Temperature, K",Mole fraction of heptane,Mole fraction of benzene,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EqBOo,283.15,0,0.335,101,1198.6,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,283.15,0.001,0.295,101,1207.1,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,283.15,0.003,0.146,101,1236.4,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,283.15,0.003,0.198,101,1226.6,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,283.15,0.003,0.243,101,1217.8,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,283.15,0.006,0.051,101,1252.6,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,283.15,0.007,0,101,1260.51,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,298.15,0,0.406,101,1171.7,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,298.15,0.001,0.354,101,1185,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,298.15,0.003,0.201,101,1216,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,298.15,0.003,0.251,101,1207,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,298.15,0.005,0.098,101,1233.9,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,298.15,0.007,0,101,1250.63,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+EqBOo,298.15,0.007,0.048,101,1242,Gomez et al. (2010b),Density,Liquid,AAPBFE,c1ccccc1,benzene,AATOnt,CCCCCCC,heptane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate

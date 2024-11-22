@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WuBtx,293.15,101.325,983,Gardas et al. (2010b),Density,Liquid,ABUfbJ,CCCC[P+](CCCC)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],tetrabutylphosphonium L-threoninate,,,,,,
+WuBtx,298.15,101.325,979.9,Gardas et al. (2010b),Density,Liquid,ABUfbJ,CCCC[P+](CCCC)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],tetrabutylphosphonium L-threoninate,,,,,,
+WuBtx,303.15,101.325,976.9,Gardas et al. (2010b),Density,Liquid,ABUfbJ,CCCC[P+](CCCC)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],tetrabutylphosphonium L-threoninate,,,,,,
+WuBtx,313.15,101.325,970.7,Gardas et al. (2010b),Density,Liquid,ABUfbJ,CCCC[P+](CCCC)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],tetrabutylphosphonium L-threoninate,,,,,,
+WuBtx,323.15,101.325,964.6,Gardas et al. (2010b),Density,Liquid,ABUfbJ,CCCC[P+](CCCC)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],tetrabutylphosphonium L-threoninate,,,,,,
+WuBtx,333.15,101.325,958.5,Gardas et al. (2010b),Density,Liquid,ABUfbJ,CCCC[P+](CCCC)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],tetrabutylphosphonium L-threoninate,,,,,,
+WuBtx,343.15,101.325,952.5,Gardas et al. (2010b),Density,Liquid,ABUfbJ,CCCC[P+](CCCC)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],tetrabutylphosphonium L-threoninate,,,,,,
+WuBtx,353.15,101.325,946.6,Gardas et al. (2010b),Density,Liquid,ABUfbJ,CCCC[P+](CCCC)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],tetrabutylphosphonium L-threoninate,,,,,,
+WuBtx,363.15,101.325,940.7,Gardas et al. (2010b),Density,Liquid,ABUfbJ,CCCC[P+](CCCC)(CCCC)CCCC.C[C@@H](O)[C@H](N)C(=O)[O-],tetrabutylphosphonium L-threoninate,,,,,,

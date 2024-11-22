@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of 1-ethyl-1-methylpyrrolidinium bromide,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vbrXe,293.15,100,0.2,1155,Manyoni and Redhi (2022b),Density,Liquid,AAlRMn,CC[N+]1(C)CCCC1.[Br-],1-ethyl-1-methylpyrrolidinium bromide,AALwIY,OCCO,"1,2-ethanediol",,,
+vbrXe,298.15,100,0.2,1150,Manyoni and Redhi (2022b),Density,Liquid,AAlRMn,CC[N+]1(C)CCCC1.[Br-],1-ethyl-1-methylpyrrolidinium bromide,AALwIY,OCCO,"1,2-ethanediol",,,
+vbrXe,303.15,100,0.2,1146,Manyoni and Redhi (2022b),Density,Liquid,AAlRMn,CC[N+]1(C)CCCC1.[Br-],1-ethyl-1-methylpyrrolidinium bromide,AALwIY,OCCO,"1,2-ethanediol",,,
+vbrXe,308.15,100,0.2,1143,Manyoni and Redhi (2022b),Density,Liquid,AAlRMn,CC[N+]1(C)CCCC1.[Br-],1-ethyl-1-methylpyrrolidinium bromide,AALwIY,OCCO,"1,2-ethanediol",,,
+vbrXe,313.15,100,0.2,1141,Manyoni and Redhi (2022b),Density,Liquid,AAlRMn,CC[N+]1(C)CCCC1.[Br-],1-ethyl-1-methylpyrrolidinium bromide,AALwIY,OCCO,"1,2-ethanediol",,,

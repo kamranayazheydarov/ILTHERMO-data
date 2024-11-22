@@ -1,0 +1,5 @@
+setid,"Temperature, K","MolaLity of 1-butyl-3-methylimidazolium tetrafluoroborate, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ytvct,298.15,0,101,1130.59,Kiselev et al. (2012),Density,Liquid,AALmzw,C[N+](=O)[O-],nitromethane,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+ytvct,298.15,0.007979,101,1130.82,Kiselev et al. (2012),Density,Liquid,AALmzw,C[N+](=O)[O-],nitromethane,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+ytvct,298.15,0.009839,101,1130.87,Kiselev et al. (2012),Density,Liquid,AALmzw,C[N+](=O)[O-],nitromethane,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+ytvct,298.15,0.01982,101,1131.17,Kiselev et al. (2012),Density,Liquid,AALmzw,C[N+](=O)[O-],nitromethane,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,

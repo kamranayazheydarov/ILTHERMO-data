@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+tYmKR,293.15,101.325,985.6,Tariq et al. (2009),Density,Liquid,ACRlHi,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([O-])C(F)(F)F,"trihexyltetradecylphosphonium 1,1,1-trifluoromethanesulfonate",,,,,,
+tYmKR,298.15,101.325,982.3,Tariq et al. (2009),Density,Liquid,ACRlHi,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([O-])C(F)(F)F,"trihexyltetradecylphosphonium 1,1,1-trifluoromethanesulfonate",,,,,,
+tYmKR,313.15,101.325,972.5,Tariq et al. (2009),Density,Liquid,ACRlHi,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([O-])C(F)(F)F,"trihexyltetradecylphosphonium 1,1,1-trifluoromethanesulfonate",,,,,,
+tYmKR,333.15,101.325,959.6,Tariq et al. (2009),Density,Liquid,ACRlHi,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.O=S(=O)([O-])C(F)(F)F,"trihexyltetradecylphosphonium 1,1,1-trifluoromethanesulfonate",,,,,,

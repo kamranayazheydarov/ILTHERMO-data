@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ewSCx,293.15,101.325,1132.9,Shah et al. (2015),Density,Liquid,ABDYNc,CCCCCCCCn1cc[n+](C)c1.[O-]c1ccccc1,1-methyl-3-octylimidazolium phenolate,,,,,,
+ewSCx,303.15,101.325,1125.9,Shah et al. (2015),Density,Liquid,ABDYNc,CCCCCCCCn1cc[n+](C)c1.[O-]c1ccccc1,1-methyl-3-octylimidazolium phenolate,,,,,,
+ewSCx,313.15,101.325,1119.1,Shah et al. (2015),Density,Liquid,ABDYNc,CCCCCCCCn1cc[n+](C)c1.[O-]c1ccccc1,1-methyl-3-octylimidazolium phenolate,,,,,,
+ewSCx,323.15,101.325,1112.2,Shah et al. (2015),Density,Liquid,ABDYNc,CCCCCCCCn1cc[n+](C)c1.[O-]c1ccccc1,1-methyl-3-octylimidazolium phenolate,,,,,,
+ewSCx,333.15,101.325,1105.3,Shah et al. (2015),Density,Liquid,ABDYNc,CCCCCCCCn1cc[n+](C)c1.[O-]c1ccccc1,1-methyl-3-octylimidazolium phenolate,,,,,,
+ewSCx,343.15,101.325,1098.4,Shah et al. (2015),Density,Liquid,ABDYNc,CCCCCCCCn1cc[n+](C)c1.[O-]c1ccccc1,1-methyl-3-octylimidazolium phenolate,,,,,,
+ewSCx,353.15,101.325,1091.5,Shah et al. (2015),Density,Liquid,ABDYNc,CCCCCCCCn1cc[n+](C)c1.[O-]c1ccccc1,1-methyl-3-octylimidazolium phenolate,,,,,,
+ewSCx,363.15,101.325,1084.6,Shah et al. (2015),Density,Liquid,ABDYNc,CCCCCCCCn1cc[n+](C)c1.[O-]c1ccccc1,1-methyl-3-octylimidazolium phenolate,,,,,,
+ewSCx,373.15,101.325,1077.9,Shah et al. (2015),Density,Liquid,ABDYNc,CCCCCCCCn1cc[n+](C)c1.[O-]c1ccccc1,1-methyl-3-octylimidazolium phenolate,,,,,,

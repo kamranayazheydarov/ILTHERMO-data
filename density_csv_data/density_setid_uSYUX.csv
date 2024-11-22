@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uSYUX,298.15,101.325,1511.4,Shekaari and Armanfar (2010),Density,Liquid,AAtWnV,CCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-propyl-3-methylimidazolium methylsulfate,,,,,,
+uSYUX,308.15,101.325,1507.5,Shekaari and Armanfar (2010),Density,Liquid,AAtWnV,CCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-propyl-3-methylimidazolium methylsulfate,,,,,,
+uSYUX,318.15,101.325,1493,Shekaari and Armanfar (2010),Density,Liquid,AAtWnV,CCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-propyl-3-methylimidazolium methylsulfate,,,,,,
+uSYUX,328.15,101.325,1485.1,Shekaari and Armanfar (2010),Density,Liquid,AAtWnV,CCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-propyl-3-methylimidazolium methylsulfate,,,,,,

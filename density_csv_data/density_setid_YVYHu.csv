@@ -1,0 +1,12 @@
+setid,Mole fraction of n-butylammonium nitrate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+YVYHu,0,298.15,101,1028.25,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+YVYHu,0.048,298.15,101,1036.44,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+YVYHu,0.108,298.15,101,1044.94,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+YVYHu,0.163,298.15,101,1051.72,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+YVYHu,0.267,298.15,101,1062.31,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+YVYHu,0.365,298.15,101,1069.91,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+YVYHu,0.439,298.15,101,1074.93,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+YVYHu,0.538,298.15,101,1080.43,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+YVYHu,0.67,298.15,101,1088.1,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+YVYHu,0.843,298.15,101,1097.2,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,
+YVYHu,1,298.15,101,1105.5,Usula et al. (2014),Density,Liquid,AATDtI,CN1CCCC1=O,N-methylpyrrolidone,AAaJgU,CCCC[NH3+].O=[N+]([O-])[O-],n-butylammonium nitrate,,,

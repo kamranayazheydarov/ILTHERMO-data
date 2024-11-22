@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CrDOF,278.15,101,1307,Rodriguez and Brennecke (2006),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+CrDOF,288.15,101,1299,Rodriguez and Brennecke (2006),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+CrDOF,298.15,101,1291,Rodriguez and Brennecke (2006),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+CrDOF,308.15,101,1283,Rodriguez and Brennecke (2006),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+CrDOF,318.15,101,1275,Rodriguez and Brennecke (2006),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+CrDOF,328.15,101,1267,Rodriguez and Brennecke (2006),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+CrDOF,338.15,101,1259,Rodriguez and Brennecke (2006),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,
+CrDOF,348.15,101,1252,Rodriguez and Brennecke (2006),Density,Liquid,AArFGw,CC[n+]1ccn(C)c1.O=C([O-])C(F)(F)F,1-ethyl-3-methylimidazolium trifluoroacetate,,,,,,

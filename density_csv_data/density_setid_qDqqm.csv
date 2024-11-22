@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","MolaLity of N,N,N-trimethyl-1-hexadecanaminium bromide, mol/kg","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+qDqqm,298.15,100,0.004,997.082,Jangid et al. (2018),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AADYJk,O,water,,,
+qDqqm,303.15,100,0.004,995.681,Jangid et al. (2018),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AADYJk,O,water,,,
+qDqqm,308.15,100,0.004,994.06,Jangid et al. (2018),Density,Liquid,ABSElq,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"N,N,N-trimethyl-1-hexadecanaminium bromide",AADYJk,O,water,,,

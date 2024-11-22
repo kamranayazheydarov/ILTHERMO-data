@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+EjQmV,293.15,101.325,1149.5,Hiraga et al. (2015b),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+EjQmV,303.15,101.325,1143.6,Hiraga et al. (2015b),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+EjQmV,313.15,101.325,1137.6,Hiraga et al. (2015b),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+EjQmV,323.15,101.325,1131.6,Hiraga et al. (2015b),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+EjQmV,333.15,101.325,1126,Hiraga et al. (2015b),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+EjQmV,343.15,101.325,1120.5,Hiraga et al. (2015b),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+EjQmV,353.15,101.325,1115,Hiraga et al. (2015b),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+EjQmV,363.15,101.325,1109.5,Hiraga et al. (2015b),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,
+EjQmV,373.15,101.325,1104.4,Hiraga et al. (2015b),Density,Liquid,AAeaVk,C=CC[n+]1ccn(C)c1.[Cl-],1-allyl-3-methylimidazolium chloride,,,,,,

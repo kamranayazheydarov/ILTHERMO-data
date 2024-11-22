@@ -1,0 +1,25 @@
+setid,"Temperature, K","MolaLity of 1-butyl-3-methylimidazolium acetate, mol/kg","MolaLity of 2-methylpiperazine, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vqJjp,298.15,2.51,1.509,100,1031.7,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,298.15,3.002,1.008,100,1035.5,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,298.15,3.507,0.509,100,1038.8,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,303.15,2.51,1.509,100,1028.6,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,303.15,3.002,1.008,100,1032.3,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,303.15,3.507,0.509,100,1035.7,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,308.15,2.51,1.509,100,1025.5,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,308.15,3.002,1.008,100,1029.1,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,308.15,3.507,0.509,100,1032.5,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,313.15,2.51,1.509,100,1022.3,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,313.15,3.002,1.008,100,1025.9,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,313.15,3.507,0.509,100,1029.2,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,318.15,2.51,1.509,100,1018.9,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,318.15,3.002,1.008,100,1022.6,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,318.15,3.507,0.509,100,1025.9,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,323.15,2.51,1.509,100,1015.6,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,323.15,3.002,1.008,100,1019.2,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,323.15,3.507,0.509,100,1022.5,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,328.15,2.51,1.509,100,1012.2,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,328.15,3.002,1.008,100,1015.8,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,328.15,3.507,0.509,100,1019.1,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,333.15,2.51,1.509,100,1008.8,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,333.15,3.002,1.008,100,1012.4,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water
+vqJjp,333.15,3.507,0.509,100,1015.6,Balchandani et al. (2022),Density,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AATNpp,CC1CNCCN1,2-methylpiperazine,AADYJk,O,water

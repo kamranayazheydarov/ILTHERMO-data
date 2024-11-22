@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific volume, m<SUP>3</SUP>/kg",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WMnPg,288.15,101,0.0008226,Allen et al. (1985),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,
+WMnPg,298.15,101,0.0008271,Allen et al. (1985),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,
+WMnPg,318.15,101,0.0008357,Allen et al. (1985),Density,Liquid,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,,,,

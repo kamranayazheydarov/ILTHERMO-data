@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+qndbr,288.15,100,1.5192,Wang et al. (2021a),Refractive index,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,,
+qndbr,293.15,100,1.5173,Wang et al. (2021a),Refractive index,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,,
+qndbr,298.15,100,1.5154,Wang et al. (2021a),Refractive index,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,,
+qndbr,303.15,100,1.5141,Wang et al. (2021a),Refractive index,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,,
+qndbr,308.15,100,1.5126,Wang et al. (2021a),Refractive index,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,,
+qndbr,313.15,100,1.5107,Wang et al. (2021a),Refractive index,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,,
+qndbr,318.15,100,1.5093,Wang et al. (2021a),Refractive index,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,,
+qndbr,323.15,100,1.5077,Wang et al. (2021a),Refractive index,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,,
+qndbr,328.15,100,1.506,Wang et al. (2021a),Refractive index,Liquid,AAuVsW,CC(N)C(=O)[O-].CCCC[n+]1ccn(C)c1C,"1-butyl-2,3-dimethylimidazolium DL-alaninate",,,,,,,

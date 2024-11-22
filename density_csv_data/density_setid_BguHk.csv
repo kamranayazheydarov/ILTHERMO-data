@@ -1,0 +1,11 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BguHk,100,293.15,1245.2,Bioucas et al. (2018),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+BguHk,100,298.15,1241.8,Bioucas et al. (2018),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+BguHk,100,303.15,1238.4,Bioucas et al. (2018),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+BguHk,100,308.15,1234.9,Bioucas et al. (2018),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+BguHk,100,313.15,1231.5,Bioucas et al. (2018),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+BguHk,100,318.15,1228.1,Bioucas et al. (2018),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+BguHk,100,323.15,1224.8,Bioucas et al. (2018),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+BguHk,100,328.15,1221.4,Bioucas et al. (2018),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+BguHk,100,333.15,1218.1,Bioucas et al. (2018),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,
+BguHk,100,343.15,1211.5,Bioucas et al. (2018),Density,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,

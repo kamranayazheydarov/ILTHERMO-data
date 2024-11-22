@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of 4-oxopentanoic acid,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+bCpgt,303.15,101.3,0.75,1027.3,Deng et al. (2016),Density,Liquid,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,ABBXWo,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],tetrabutylammonium chloride,,,
+bCpgt,313.15,101.3,0.75,1020.3,Deng et al. (2016),Density,Liquid,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,ABBXWo,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],tetrabutylammonium chloride,,,
+bCpgt,323.15,101.3,0.75,1013.1,Deng et al. (2016),Density,Liquid,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,ABBXWo,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],tetrabutylammonium chloride,,,
+bCpgt,333.15,101.3,0.75,1006,Deng et al. (2016),Density,Liquid,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,ABBXWo,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],tetrabutylammonium chloride,,,

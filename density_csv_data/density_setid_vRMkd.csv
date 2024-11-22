@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vRMkd,283.15,101.325,1175.7,Peng et al. (2021),Density,Liquid,ABATYq,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])N,N-butyltropinium glycinate,,,,,,
+vRMkd,288.15,101.325,1164,Peng et al. (2021),Density,Liquid,ABATYq,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])N,N-butyltropinium glycinate,,,,,,
+vRMkd,293.15,101.325,1153.5,Peng et al. (2021),Density,Liquid,ABATYq,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])N,N-butyltropinium glycinate,,,,,,
+vRMkd,298.15,101.325,1142.8,Peng et al. (2021),Density,Liquid,ABATYq,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])N,N-butyltropinium glycinate,,,,,,
+vRMkd,303.15,101.325,1132.2,Peng et al. (2021),Density,Liquid,ABATYq,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])N,N-butyltropinium glycinate,,,,,,
+vRMkd,308.15,101.325,1122.7,Peng et al. (2021),Density,Liquid,ABATYq,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])N,N-butyltropinium glycinate,,,,,,
+vRMkd,313.15,101.325,1111.6,Peng et al. (2021),Density,Liquid,ABATYq,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])N,N-butyltropinium glycinate,,,,,,
+vRMkd,318.15,101.325,1097,Peng et al. (2021),Density,Liquid,ABATYq,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])N,N-butyltropinium glycinate,,,,,,
+vRMkd,323.15,101.325,1087.6,Peng et al. (2021),Density,Liquid,ABATYq,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])N,N-butyltropinium glycinate,,,,,,
+vRMkd,328.15,101.325,1075.7,Peng et al. (2021),Density,Liquid,ABATYq,C1C[C@@H]2[N+](CCCC)(C)[C@H]1C[C@H](O)C2.C(C(=O)[O-])N,N-butyltropinium glycinate,,,,,,

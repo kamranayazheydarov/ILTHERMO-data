@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+dJISN,288.15,100,1140.5,wang et al. (2022),Density,Liquid,AAmaDQ,CC(=O)[O-].C[N+]1=CN(C=C1)CCOC,1-(2-methoxyethyl)-3-methylimidazolium acetate,,,,,,
+dJISN,293.15,100,1137.2,wang et al. (2022),Density,Liquid,AAmaDQ,CC(=O)[O-].C[N+]1=CN(C=C1)CCOC,1-(2-methoxyethyl)-3-methylimidazolium acetate,,,,,,
+dJISN,298.15,100,1134,wang et al. (2022),Density,Liquid,AAmaDQ,CC(=O)[O-].C[N+]1=CN(C=C1)CCOC,1-(2-methoxyethyl)-3-methylimidazolium acetate,,,,,,
+dJISN,303.15,100,1130.6,wang et al. (2022),Density,Liquid,AAmaDQ,CC(=O)[O-].C[N+]1=CN(C=C1)CCOC,1-(2-methoxyethyl)-3-methylimidazolium acetate,,,,,,
+dJISN,308.15,100,1127.3,wang et al. (2022),Density,Liquid,AAmaDQ,CC(=O)[O-].C[N+]1=CN(C=C1)CCOC,1-(2-methoxyethyl)-3-methylimidazolium acetate,,,,,,
+dJISN,313.15,100,1124,wang et al. (2022),Density,Liquid,AAmaDQ,CC(=O)[O-].C[N+]1=CN(C=C1)CCOC,1-(2-methoxyethyl)-3-methylimidazolium acetate,,,,,,
+dJISN,318.15,100,1120.6,wang et al. (2022),Density,Liquid,AAmaDQ,CC(=O)[O-].C[N+]1=CN(C=C1)CCOC,1-(2-methoxyethyl)-3-methylimidazolium acetate,,,,,,

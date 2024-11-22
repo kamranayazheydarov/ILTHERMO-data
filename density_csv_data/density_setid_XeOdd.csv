@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+XeOdd,298.15,100,1146.3,Alvarez et al. (2022),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+XeOdd,303.15,100,1143.4,Alvarez et al. (2022),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+XeOdd,308.15,100,1140.6,Alvarez et al. (2022),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+XeOdd,313.15,100,1137.8,Alvarez et al. (2022),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+XeOdd,318.15,100,1135,Alvarez et al. (2022),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+XeOdd,323.15,100,1132.2,Alvarez et al. (2022),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+XeOdd,328.15,100,1129.4,Alvarez et al. (2022),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+XeOdd,333.15,100,1126.6,Alvarez et al. (2022),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+XeOdd,338.15,100,1123.8,Alvarez et al. (2022),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+XeOdd,343.15,100,1121.1,Alvarez et al. (2022),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,

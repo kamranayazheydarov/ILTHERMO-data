@@ -1,0 +1,7 @@
+setid,Mole fraction of 1-butyl-3-methylimidazolium methyl sulfate,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+sARXB,0.0693,101,298.15,911.6,Domanska et al. (2008d),Density,Liquid,AAGIBL,CO,methanol,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,
+sARXB,0.2513,101,298.15,1064.7,Domanska et al. (2008d),Density,Liquid,AAGIBL,CO,methanol,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,
+sARXB,0.3692,101,298.15,1114.1,Domanska et al. (2008d),Density,Liquid,AAGIBL,CO,methanol,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,
+sARXB,0.5202,101,298.15,1149.4,Domanska et al. (2008d),Density,Liquid,AAGIBL,CO,methanol,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,
+sARXB,0.6485,101,298.15,1169.5,Domanska et al. (2008d),Density,Liquid,AAGIBL,CO,methanol,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,
+sARXB,0.8174,101,298.15,1192.8,Domanska et al. (2008d),Density,Liquid,AAGIBL,CO,methanol,AAwHNg,CCCC[n+]1ccn(C)c1.COS(=O)(=O)[O-],1-butyl-3-methylimidazolium methyl sulfate,,,

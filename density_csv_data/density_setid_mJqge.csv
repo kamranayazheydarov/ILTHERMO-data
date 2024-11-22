@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mJqge,293.15,100,1260,Krolikowska et al. (2023),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+mJqge,298.15,100,1257,Krolikowska et al. (2023),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+mJqge,303.15,100,1253,Krolikowska et al. (2023),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+mJqge,308.15,100,1250,Krolikowska et al. (2023),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+mJqge,313.15,100,1246,Krolikowska et al. (2023),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+mJqge,318.15,100,1243,Krolikowska et al. (2023),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+mJqge,323.15,100,1240,Krolikowska et al. (2023),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+mJqge,328.15,100,1236,Krolikowska et al. (2023),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+mJqge,333.15,100,1233,Krolikowska et al. (2023),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,
+mJqge,338.15,100,1229,Krolikowska et al. (2023),Density,Liquid,AAqlaB,COP(=O)([O-])OC.Cn1cc[n+](C)c1,"1,3-dimethylimidazolium dimethyl phosphate",,,,,,

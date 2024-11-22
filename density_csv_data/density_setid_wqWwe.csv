@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+wqWwe,298.15,100,1123.01,Govinda et al. (2013c),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,,,,
+wqWwe,303.15,100,1119.46,Govinda et al. (2013c),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,,,,
+wqWwe,308.15,100,1115.36,Govinda et al. (2013c),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,,,,
+wqWwe,313.15,100,1111.89,Govinda et al. (2013c),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,,,,,,

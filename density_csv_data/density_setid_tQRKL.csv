@@ -1,0 +1,11 @@
+setid,Mole fraction of water,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+tQRKL,0,101,298.15,1182.2,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+tQRKL,0.1036,101,298.15,1179.2,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+tQRKL,0.1877,101,298.15,1176.2,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+tQRKL,0.2879,101,298.15,1172.3,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+tQRKL,0.4094,101,298.15,1166.2,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+tQRKL,0.4954,101,298.15,1160.6,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+tQRKL,0.5908,101,298.15,1153.3,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+tQRKL,0.6979,101,298.15,1141,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+tQRKL,0.7971,101,298.15,1124.5,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+tQRKL,0.8953,101,298.15,1093.1,Li et al. (2007c),Density,Liquid,AADYJk,O,water,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,

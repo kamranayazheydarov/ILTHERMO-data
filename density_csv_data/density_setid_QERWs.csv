@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QERWs,293.15,101.325,1452.7,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,
+QERWs,298.15,101.325,1447.94,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,
+QERWs,303.15,101.325,1443.2,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,
+QERWs,308.15,101.325,1438.47,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,
+QERWs,313.15,101.325,1433.76,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,
+QERWs,318.15,101.325,1429.07,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,
+QERWs,323.15,101.325,1424.39,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,
+QERWs,328.15,101.325,1419.74,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,
+QERWs,333.15,101.325,1415.1,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,
+QERWs,338.15,101.325,1410.47,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,
+QERWs,343.15,101.325,1405.86,Seoane et al. (2012b),Density,Liquid,ABcDdV,CCC[n+]1cccc(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,

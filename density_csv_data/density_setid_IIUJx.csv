@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IIUJx,293.15,101,1092.5,Zhou et al. (2010b),Density,Liquid,AAppNn,C[N+](C)(C)CCO.O=C([O-])C1CCCC1,choline cyclopentane carboxylate,,,,,,
+IIUJx,298.15,101,1089.6,Zhou et al. (2010b),Density,Liquid,AAppNn,C[N+](C)(C)CCO.O=C([O-])C1CCCC1,choline cyclopentane carboxylate,,,,,,
+IIUJx,303.15,101,1086.8,Zhou et al. (2010b),Density,Liquid,AAppNn,C[N+](C)(C)CCO.O=C([O-])C1CCCC1,choline cyclopentane carboxylate,,,,,,
+IIUJx,308.15,101,1083.9,Zhou et al. (2010b),Density,Liquid,AAppNn,C[N+](C)(C)CCO.O=C([O-])C1CCCC1,choline cyclopentane carboxylate,,,,,,
+IIUJx,313.15,101,1081.1,Zhou et al. (2010b),Density,Liquid,AAppNn,C[N+](C)(C)CCO.O=C([O-])C1CCCC1,choline cyclopentane carboxylate,,,,,,
+IIUJx,318.15,101,1078.2,Zhou et al. (2010b),Density,Liquid,AAppNn,C[N+](C)(C)CCO.O=C([O-])C1CCCC1,choline cyclopentane carboxylate,,,,,,
+IIUJx,323.15,101,1075.4,Zhou et al. (2010b),Density,Liquid,AAppNn,C[N+](C)(C)CCO.O=C([O-])C1CCCC1,choline cyclopentane carboxylate,,,,,,

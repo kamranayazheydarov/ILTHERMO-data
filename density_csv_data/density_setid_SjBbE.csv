@@ -1,0 +1,7 @@
+setid,"Temperature, K",Mole fraction of nonane,Mole fraction of benzene,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SjBbE,283.15,0.001,0.288,101,1209,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+SjBbE,283.15,0.002,0.195,101,1227.9,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+SjBbE,283.15,0.004,0.082,101,1249.05,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+SjBbE,298.15,0,0.183,101,1221.46,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+SjBbE,298.15,0.001,0.195,101,1218.73,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate
+SjBbE,298.15,0.003,0.08,101,1239.2,Gomez et al. (2010a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAYikW,CCCCCCCCC,nonane,AAssoQ,CCOS(=O)(=O)[O-].CC[n+]1ccccc1,1-ethylpyridinium ethyl sulfate

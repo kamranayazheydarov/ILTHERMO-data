@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Rlgli,293.15,101.325,1010.56,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,
+Rlgli,298.15,101.325,1006.11,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,
+Rlgli,303.15,101.325,1001.65,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,
+Rlgli,308.15,101.325,997.18,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,
+Rlgli,313.15,101.325,992.71,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,
+Rlgli,318.15,101.325,988.24,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,
+Rlgli,323.15,101.325,983.74,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,
+Rlgli,328.15,101.325,979.25,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,
+Rlgli,333.15,101.325,974.76,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,
+Rlgli,338.15,101.325,970.26,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,
+Rlgli,343.15,101.325,965.75,Panda and Gardas (2015),Density,Liquid,AAkADI,CCCC(=O)[O-].C[N+]=1CCCC1O,N-methyl-2-oxopyrrolidinium butanoate,,,,,,

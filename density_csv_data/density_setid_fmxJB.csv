@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of aluminum chloride,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fmxJB,293.15,100,0.62,1354.47,Das et al. (2021),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAZhtG,Cl[Al](Cl)Cl,aluminum chloride,,,
+fmxJB,298.15,100,0.62,1350,Das et al. (2021),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAZhtG,Cl[Al](Cl)Cl,aluminum chloride,,,
+fmxJB,303.15,100,0.62,1345.56,Das et al. (2021),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAZhtG,Cl[Al](Cl)Cl,aluminum chloride,,,
+fmxJB,308.15,100,0.62,1341.13,Das et al. (2021),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAZhtG,Cl[Al](Cl)Cl,aluminum chloride,,,
+fmxJB,313.15,100,0.62,1336.73,Das et al. (2021),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAZhtG,Cl[Al](Cl)Cl,aluminum chloride,,,
+fmxJB,318.15,100,0.62,1332.36,Das et al. (2021),Density,Liquid,AAcKZa,CC[n+]1ccn(C)c1.[Cl-],1-ethyl-3-methylimidazolium chloride,AAZhtG,Cl[Al](Cl)Cl,aluminum chloride,,,

@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+MpPUP,298.15,101.325,1536,Kato and Gmehling (2004),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MpPUP,303.15,101.325,1531,Kato and Gmehling (2004),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MpPUP,308.15,101.325,1526,Kato and Gmehling (2004),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MpPUP,313.15,101.325,1521,Kato and Gmehling (2004),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MpPUP,318.15,101.325,1516,Kato and Gmehling (2004),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MpPUP,323.15,101.325,1512,Kato and Gmehling (2004),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MpPUP,328.15,101.325,1507,Kato and Gmehling (2004),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+MpPUP,333.15,101.325,1502,Kato and Gmehling (2004),Density,Liquid,ABWiWC,CC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

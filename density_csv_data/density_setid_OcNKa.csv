@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+OcNKa,288.15,101,1040.8,Shekaari et al. (2019c),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+OcNKa,293.15,101,1037.9,Shekaari et al. (2019c),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+OcNKa,298.15,101,1035.5,Shekaari et al. (2019c),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+OcNKa,303.15,101,1032.4,Shekaari et al. (2019c),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+OcNKa,308.15,101,1030,Shekaari et al. (2019c),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+OcNKa,313.15,101,1027.8,Shekaari et al. (2019c),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,
+OcNKa,318.15,101,1025.1,Shekaari et al. (2019c),Density,Liquid,AAwmau,CCCCCCCCn1cc[n+](C)c1.N#C[S-],1-methyl-3-octyl-1H-imidazolium thiocyanate,,,,,,

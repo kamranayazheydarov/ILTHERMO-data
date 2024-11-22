@@ -1,0 +1,12 @@
+setid,Mole fraction of 1-butyl-3-methylimidazolium acetate,"Pressure, kPa","Temperature, K",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+tcLly,0,100,293,1.3333,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,
+tcLly,0.01,100,293,1.3486,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,
+tcLly,0.02,100,293,1.3622,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,
+tcLly,0.05,100,293,1.3936,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,
+tcLly,0.099,100,293,1.4257,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,
+tcLly,0.167,100,293,1.4494,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,
+tcLly,0.243,100,293,1.4646,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,
+tcLly,0.364,100,293,1.4768,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,
+tcLly,0.501,100,293,1.4846,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,
+tcLly,0.759,100,293,1.491,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,
+tcLly,1,100,293,1.494,Kaneko et al. (2018a),Refractive index,Liquid,AAmGQS,CC(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium acetate,AADYJk,O,water,,,,

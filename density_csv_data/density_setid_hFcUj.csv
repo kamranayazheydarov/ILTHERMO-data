@@ -1,0 +1,4 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+hFcUj,288.15,101,1287.07,Gonzalez et al. (2012b),Density,Liquid,ABFdjO,CCCC[n+]1cccc(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylpyridinium trifluoromethanesulfonate,,,,,,
+hFcUj,298.15,101,1279.41,Gonzalez et al. (2012b),Density,Liquid,ABFdjO,CCCC[n+]1cccc(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylpyridinium trifluoromethanesulfonate,,,,,,
+hFcUj,308.15,101,1271.8,Gonzalez et al. (2012b),Density,Liquid,ABFdjO,CCCC[n+]1cccc(C)c1.O=S(=O)([O-])C(F)(F)F,1-butyl-3-methylpyridinium trifluoromethanesulfonate,,,,,,

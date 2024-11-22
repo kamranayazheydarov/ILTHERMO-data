@@ -1,0 +1,13 @@
+setid,"Temperature, K",Mole fraction of sodium thiocyanate,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LOFfi,298.15,0,101,1098.3,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,298.15,0.0502,101,1105.7,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,303.15,0,101,1095.2,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,303.15,0.0502,101,1102.6,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,308.15,0,101,1092.4,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,308.15,0.0502,101,1099.5,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,313.15,0,101,1089.4,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,313.15,0.0502,101,1096.5,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,318.15,0,101,1086.4,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,318.15,0.0502,101,1093.5,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,323.15,0,101,1083.4,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,
+LOFfi,323.15,0.0502,101,1090.4,Oliveira et al. (2015),Density,Liquid,AAPeZL,N#C[S-].[Na+],sodium thiocyanate,AAgmaR,CC(=O)[O-].CC[n+]1ccn(C)c1,1-ethyl-3-methylimidazolium acetate,,,

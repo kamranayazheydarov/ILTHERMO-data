@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+beNiO,293.15,101.3,1226,Fan et al. (2022),Density,Liquid,AArQSv,CCCC[N+]1=CN(C=C1)C=C.C(C(=O)[O-])N,1-butyl-3-vinylimidazolium glycinate,,,,,,
+beNiO,303.15,101.3,1219,Fan et al. (2022),Density,Liquid,AArQSv,CCCC[N+]1=CN(C=C1)C=C.C(C(=O)[O-])N,1-butyl-3-vinylimidazolium glycinate,,,,,,
+beNiO,313.15,101.3,1212.2,Fan et al. (2022),Density,Liquid,AArQSv,CCCC[N+]1=CN(C=C1)C=C.C(C(=O)[O-])N,1-butyl-3-vinylimidazolium glycinate,,,,,,
+beNiO,323.15,101.3,1205.3,Fan et al. (2022),Density,Liquid,AArQSv,CCCC[N+]1=CN(C=C1)C=C.C(C(=O)[O-])N,1-butyl-3-vinylimidazolium glycinate,,,,,,
+beNiO,333.15,101.3,1198.5,Fan et al. (2022),Density,Liquid,AArQSv,CCCC[N+]1=CN(C=C1)C=C.C(C(=O)[O-])N,1-butyl-3-vinylimidazolium glycinate,,,,,,
+beNiO,343.15,101.3,1190.6,Fan et al. (2022),Density,Liquid,AArQSv,CCCC[N+]1=CN(C=C1)C=C.C(C(=O)[O-])N,1-butyl-3-vinylimidazolium glycinate,,,,,,
+beNiO,353.15,101.3,1185.9,Fan et al. (2022),Density,Liquid,AArQSv,CCCC[N+]1=CN(C=C1)C=C.C(C(=O)[O-])N,1-butyl-3-vinylimidazolium glycinate,,,,,,

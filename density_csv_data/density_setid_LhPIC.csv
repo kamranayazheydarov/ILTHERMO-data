@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LhPIC,303,101.325,1566,Vogl et al. (2016),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+LhPIC,313,101.325,1556,Vogl et al. (2016),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+LhPIC,323,101.325,1546,Vogl et al. (2016),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+LhPIC,333,101.325,1536,Vogl et al. (2016),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+LhPIC,343,101.325,1525,Vogl et al. (2016),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,
+LhPIC,353,101.325,1515,Vogl et al. (2016),Density,Liquid,ABUcca,CCn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide,,,,,,

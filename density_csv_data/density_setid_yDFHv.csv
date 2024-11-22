@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Mole ratio to solvent: 4-oxopentanoic acid,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yDFHv,298.15,101.3,2,1079.3,Zhang et al. (2022c),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+yDFHv,308.15,101.3,2,1072.8,Zhang et al. (2022c),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+yDFHv,318.15,101.3,2,1066.4,Zhang et al. (2022c),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+yDFHv,328.15,101.3,2,1059.9,Zhang et al. (2022c),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,
+yDFHv,338.15,101.3,2,1053.4,Zhang et al. (2022c),Density,Liquid,AAftPF,CC[N+](CC)(CC)CC.[Cl-],tetraethylammonium chloride,AAWRqX,CC(=O)CCC(=O)O,4-oxopentanoic acid,,,

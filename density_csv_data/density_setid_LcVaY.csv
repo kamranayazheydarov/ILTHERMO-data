@@ -1,0 +1,11 @@
+setid,"Temperature, K","MolaLity of lithium hexafluorophosphate, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+LcVaY,283.15,0.797,100,1278.1,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AATgdC,CC1COC(=O)O1,propylene carbonate,,,
+LcVaY,283.15,1.813,100,1357.2,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AATgdC,CC1COC(=O)O1,propylene carbonate,,,
+LcVaY,293.15,0.797,100,1267.7,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AATgdC,CC1COC(=O)O1,propylene carbonate,,,
+LcVaY,293.15,1.813,100,1346.7,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AATgdC,CC1COC(=O)O1,propylene carbonate,,,
+LcVaY,298.15,0.797,100,1262.5,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AATgdC,CC1COC(=O)O1,propylene carbonate,,,
+LcVaY,298.15,1.813,100,1341.5,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AATgdC,CC1COC(=O)O1,propylene carbonate,,,
+LcVaY,303.15,0.797,100,1257.3,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AATgdC,CC1COC(=O)O1,propylene carbonate,,,
+LcVaY,303.15,1.813,100,1336.4,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AATgdC,CC1COC(=O)O1,propylene carbonate,,,
+LcVaY,313.15,0.797,100,1247.1,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AATgdC,CC1COC(=O)O1,propylene carbonate,,,
+LcVaY,313.15,1.813,100,1326.2,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AATgdC,CC1COC(=O)O1,propylene carbonate,,,

@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of tetrabutylphosphonium bromide,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vsBHX,293.15,101,0.2,1089.1,Wang et al. (2019d),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,
+vsBHX,303.15,101,0.2,1082.5,Wang et al. (2019d),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,
+vsBHX,313.15,101,0.2,1075.8,Wang et al. (2019d),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,
+vsBHX,323.15,101,0.2,1069.1,Wang et al. (2019d),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,
+vsBHX,333.15,101,0.2,1062.5,Wang et al. (2019d),Density,Liquid,ABNNVs,CCCC[P+](CCCC)(CCCC)CCCC.[Br-],tetrabutylphosphonium bromide,AAUVWV,OCCOCCO,diethylene glycol,,,

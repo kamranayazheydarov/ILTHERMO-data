@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa",Weight fraction of water,Solvent: Mole fraction of 1-butyl-3-methylimidazolium methanesulfonate,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+hBTMe,283.13,101.3,0.0336,0.25,1161.1,Choudhury et al. (2022),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AAIiso,NC=O,formamide,AADYJk,O,water
+hBTMe,293.13,101.3,0.0336,0.25,1154,Choudhury et al. (2022),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AAIiso,NC=O,formamide,AADYJk,O,water
+hBTMe,298.11,101.3,0.0336,0.25,1150.7,Choudhury et al. (2022),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AAIiso,NC=O,formamide,AADYJk,O,water
+hBTMe,303.18,101.3,0.0336,0.25,1147.2,Choudhury et al. (2022),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AAIiso,NC=O,formamide,AADYJk,O,water
+hBTMe,313.17,101.3,0.0336,0.25,1140.2,Choudhury et al. (2022),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AAIiso,NC=O,formamide,AADYJk,O,water
+hBTMe,323.13,101.3,0.0336,0.25,1133.2,Choudhury et al. (2022),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AAIiso,NC=O,formamide,AADYJk,O,water
+hBTMe,333.13,101.3,0.0336,0.25,1126.2,Choudhury et al. (2022),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AAIiso,NC=O,formamide,AADYJk,O,water

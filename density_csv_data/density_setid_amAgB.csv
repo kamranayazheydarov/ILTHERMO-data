@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+amAgB,293.15,100,1359.8,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,
+amAgB,298.15,100,1355.7,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,
+amAgB,303.15,100,1351.7,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,
+amAgB,308.15,100,1347.8,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,
+amAgB,313.15,100,1343.2,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,
+amAgB,318.15,100,1339.1,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,
+amAgB,323.15,100,1335.1,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,
+amAgB,328.15,100,1331.3,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,
+amAgB,333.15,100,1327.1,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,
+amAgB,338.15,100,1322.7,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,
+amAgB,343.15,100,1318.7,Song et al. (2021),Density,Liquid,AAvwNA,CCCC[n+]1ccccc1.O=C([O-])C(F)(F)F,1-butylpyridinium trifluoroacetate,,,,,,

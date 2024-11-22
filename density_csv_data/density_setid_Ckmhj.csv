@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Ckmhj,278.15,101.325,1267.23,Vercher et al. (2012),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+Ckmhj,288.15,101.325,1259.74,Vercher et al. (2012),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+Ckmhj,298.15,101.325,1252.26,Vercher et al. (2012),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+Ckmhj,308.15,101.325,1245.09,Vercher et al. (2012),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+Ckmhj,318.15,101.325,1237.94,Vercher et al. (2012),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+Ckmhj,328.15,101.325,1230.81,Vercher et al. (2012),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,
+Ckmhj,338.15,101.325,1223.73,Vercher et al. (2012),Density,Liquid,ABEBwg,CCCC[N+]1(C)CCCC1.O=S(=O)([O-])C(F)(F)F,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate,,,,,,

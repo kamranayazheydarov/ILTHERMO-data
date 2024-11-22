@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+hhdyl,293.15,101,1217.1,Larriba et al. (2013a),Density,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,
+hhdyl,303.15,101,1210.3,Larriba et al. (2013a),Density,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,
+hhdyl,313.15,101,1203.5,Larriba et al. (2013a),Density,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,
+hhdyl,323.15,101,1196.7,Larriba et al. (2013a),Density,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,
+hhdyl,333.15,101,1189.9,Larriba et al. (2013a),Density,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,
+hhdyl,343.15,101,1183.2,Larriba et al. (2013a),Density,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,
+hhdyl,353.15,101,1176.5,Larriba et al. (2013a),Density,Liquid,AAquMR,CCCC[n+]1ccccc1.F[B-](F)(F)F,1-butylpyridinium tetrafluoroborate,,,,,,

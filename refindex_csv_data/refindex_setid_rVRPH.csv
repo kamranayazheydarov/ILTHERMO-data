@@ -1,0 +1,12 @@
+setid,Mole fraction of 1-methyl-3-octylimidazolium bromide,"Pressure, kPa","Temperature, K",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+rVRPH,0,100,293,1.3333,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,
+rVRPH,0.01,100,293,1.3541,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,
+rVRPH,0.03,100,293,1.3845,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,
+rVRPH,0.05,100,293,1.4066,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,
+rVRPH,0.099,100,293,1.4425,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,
+rVRPH,0.166,100,293,1.4668,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,
+rVRPH,0.244,100,293,1.4853,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,
+rVRPH,0.371,100,293,1.5015,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,
+rVRPH,0.498,100,293,1.5086,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,
+rVRPH,0.752,100,293,1.5184,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,
+rVRPH,1,100,293,1.5251,Kaneko et al. (2018a),Refractive index,Liquid,ABAwEw,CCCCCCCCn1cc[n+](C)c1.[Br-],1-methyl-3-octylimidazolium bromide,AADYJk,O,water,,,,

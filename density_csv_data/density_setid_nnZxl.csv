@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+nnZxl,293.15,101,1061.7,Umapathi et al. (2017),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+nnZxl,298.15,101,1058.7,Umapathi et al. (2017),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+nnZxl,303.15,101,1055.6,Umapathi et al. (2017),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+nnZxl,308.15,101,1052.5,Umapathi et al. (2017),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+nnZxl,313.15,101,1049.5,Umapathi et al. (2017),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+nnZxl,318.15,101,1046.5,Umapathi et al. (2017),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,
+nnZxl,323.15,101,1043.4,Umapathi et al. (2017),Density,Liquid,ABLIPe,CCCC[P+](C)(CCCC)CCCC.COS(=O)(=O)[O-],tributylmethylphosphonium methyl sulfate,,,,,,

@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+cJfWb,293.15,101.325,1082.5,Shah et al. (2015),Density,Liquid,ABIsGw,CCCCCCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-decyl-3-methylimidazolium phenolate,,,,,,
+cJfWb,303.15,101.325,1075.7,Shah et al. (2015),Density,Liquid,ABIsGw,CCCCCCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-decyl-3-methylimidazolium phenolate,,,,,,
+cJfWb,313.15,101.325,1069,Shah et al. (2015),Density,Liquid,ABIsGw,CCCCCCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-decyl-3-methylimidazolium phenolate,,,,,,
+cJfWb,323.15,101.325,1062.4,Shah et al. (2015),Density,Liquid,ABIsGw,CCCCCCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-decyl-3-methylimidazolium phenolate,,,,,,
+cJfWb,333.15,101.325,1055.7,Shah et al. (2015),Density,Liquid,ABIsGw,CCCCCCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-decyl-3-methylimidazolium phenolate,,,,,,
+cJfWb,343.15,101.325,1049,Shah et al. (2015),Density,Liquid,ABIsGw,CCCCCCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-decyl-3-methylimidazolium phenolate,,,,,,
+cJfWb,353.15,101.325,1042.4,Shah et al. (2015),Density,Liquid,ABIsGw,CCCCCCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-decyl-3-methylimidazolium phenolate,,,,,,
+cJfWb,363.15,101.325,1035.7,Shah et al. (2015),Density,Liquid,ABIsGw,CCCCCCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-decyl-3-methylimidazolium phenolate,,,,,,
+cJfWb,373.15,101.325,1029.2,Shah et al. (2015),Density,Liquid,ABIsGw,CCCCCCCCCC[n+]1ccn(C)c1.[O-]c1ccccc1,1-decyl-3-methylimidazolium phenolate,,,,,,

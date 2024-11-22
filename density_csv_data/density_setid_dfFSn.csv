@@ -1,0 +1,10 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+dfFSn,100,298.15,1192.4,Pan et al. (2018),Density,Liquid,AApKhv,CC(=O)[O-].CC[n+]1ccn(CCOC)c1,1-ethyl-3-(2-methoxyethyl)imidazolium acetate,,,,,,
+dfFSn,100,303.15,1189.1,Pan et al. (2018),Density,Liquid,AApKhv,CC(=O)[O-].CC[n+]1ccn(CCOC)c1,1-ethyl-3-(2-methoxyethyl)imidazolium acetate,,,,,,
+dfFSn,100,308.15,1185.7,Pan et al. (2018),Density,Liquid,AApKhv,CC(=O)[O-].CC[n+]1ccn(CCOC)c1,1-ethyl-3-(2-methoxyethyl)imidazolium acetate,,,,,,
+dfFSn,100,313.15,1182.4,Pan et al. (2018),Density,Liquid,AApKhv,CC(=O)[O-].CC[n+]1ccn(CCOC)c1,1-ethyl-3-(2-methoxyethyl)imidazolium acetate,,,,,,
+dfFSn,100,318.15,1179.1,Pan et al. (2018),Density,Liquid,AApKhv,CC(=O)[O-].CC[n+]1ccn(CCOC)c1,1-ethyl-3-(2-methoxyethyl)imidazolium acetate,,,,,,
+dfFSn,100,323.15,1175.9,Pan et al. (2018),Density,Liquid,AApKhv,CC(=O)[O-].CC[n+]1ccn(CCOC)c1,1-ethyl-3-(2-methoxyethyl)imidazolium acetate,,,,,,
+dfFSn,100,328.15,1172.6,Pan et al. (2018),Density,Liquid,AApKhv,CC(=O)[O-].CC[n+]1ccn(CCOC)c1,1-ethyl-3-(2-methoxyethyl)imidazolium acetate,,,,,,
+dfFSn,100,333.15,1169.3,Pan et al. (2018),Density,Liquid,AApKhv,CC(=O)[O-].CC[n+]1ccn(CCOC)c1,1-ethyl-3-(2-methoxyethyl)imidazolium acetate,,,,,,
+dfFSn,100,338.15,1166.1,Pan et al. (2018),Density,Liquid,AApKhv,CC(=O)[O-].CC[n+]1ccn(CCOC)c1,1-ethyl-3-(2-methoxyethyl)imidazolium acetate,,,,,,

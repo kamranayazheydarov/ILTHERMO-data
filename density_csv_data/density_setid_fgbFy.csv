@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+fgbFy,298.15,101.325,1069,Anthony et al. (2005),Density,Liquid,ABWlnv,CC(C)C[P+](C)(CC(C)C)CC(C)C.Cc1ccc(S(=O)(=O)[O-])cc1,triisobutylmethylphosphonium p-toluenesulfonate,,,,,,
+fgbFy,308.15,101.325,1063,Anthony et al. (2005),Density,Liquid,ABWlnv,CC(C)C[P+](C)(CC(C)C)CC(C)C.Cc1ccc(S(=O)(=O)[O-])cc1,triisobutylmethylphosphonium p-toluenesulfonate,,,,,,
+fgbFy,318.15,101.325,1058,Anthony et al. (2005),Density,Liquid,ABWlnv,CC(C)C[P+](C)(CC(C)C)CC(C)C.Cc1ccc(S(=O)(=O)[O-])cc1,triisobutylmethylphosphonium p-toluenesulfonate,,,,,,
+fgbFy,328.15,101.325,1052,Anthony et al. (2005),Density,Liquid,ABWlnv,CC(C)C[P+](C)(CC(C)C)CC(C)C.Cc1ccc(S(=O)(=O)[O-])cc1,triisobutylmethylphosphonium p-toluenesulfonate,,,,,,
+fgbFy,338.15,101.325,1046,Anthony et al. (2005),Density,Liquid,ABWlnv,CC(C)C[P+](C)(CC(C)C)CC(C)C.Cc1ccc(S(=O)(=O)[O-])cc1,triisobutylmethylphosphonium p-toluenesulfonate,,,,,,
+fgbFy,348.15,101.325,1040,Anthony et al. (2005),Density,Liquid,ABWlnv,CC(C)C[P+](C)(CC(C)C)CC(C)C.Cc1ccc(S(=O)(=O)[O-])cc1,triisobutylmethylphosphonium p-toluenesulfonate,,,,,,
+fgbFy,355.15,101.325,1035,Anthony et al. (2005),Density,Liquid,ABWlnv,CC(C)C[P+](C)(CC(C)C)CC(C)C.Cc1ccc(S(=O)(=O)[O-])cc1,triisobutylmethylphosphonium p-toluenesulfonate,,,,,,

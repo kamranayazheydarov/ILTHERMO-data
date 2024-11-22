@@ -1,0 +1,10 @@
+setid,Mole fraction of benzene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+VURUx,0,101,283.15,1230.73,Gonzalez et al. (2015c),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+VURUx,0.0483,101,283.15,1224.28,Gonzalez et al. (2015c),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+VURUx,0.1029,101,283.15,1217.14,Gonzalez et al. (2015c),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+VURUx,0.1981,101,283.15,1203.38,Gonzalez et al. (2015c),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+VURUx,0.3038,101,283.15,1184.39,Gonzalez et al. (2015c),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+VURUx,0.4028,101,283.15,1163.92,Gonzalez et al. (2015c),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+VURUx,0.4979,101,283.15,1140.45,Gonzalez et al. (2015c),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+VURUx,0.6009,101,283.15,1111.37,Gonzalez et al. (2015c),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,
+VURUx,1,101,283.15,889.58,Gonzalez et al. (2015c),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAvdhf,CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,1-ethyl-3-methylpyridinium ethylsulfate,,,

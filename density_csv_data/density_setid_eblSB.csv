@@ -1,0 +1,13 @@
+setid,Mole fraction of ethanol,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eblSB,0.0616,298.15,101.3,891.17,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.1053,298.15,101.3,890.69,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.2113,298.15,101.3,889.27,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.3038,298.15,101.3,887.74,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.4034,298.15,101.3,885.65,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.499,298.15,101.3,882.9,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.6004,298.15,101.3,878.9,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.7038,298.15,101.3,872.77,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.7993,298.15,101.3,863.65,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.8999,298.15,101.3,845.08,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.9497,298.15,101.3,826.4,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,
+eblSB,0.9808,298.15,101.3,805.94,Hwang et al. (2011a),Density,Liquid,AAIsrh,CCO,ethanol,ABvtRE,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-],trihexyl(tetradecyl)phosphonium chloride,,,

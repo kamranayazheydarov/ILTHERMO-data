@@ -1,0 +1,11 @@
+setid,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WaCLa,100,288.15,1183.1,Zhao et al. (2023b),Density,Liquid,AAjqbN,CC(=O)[O-].Cn1cc[n+](CCO)c1,1-(2-hydroxyethyl)-3-methylimidazolium acetate,,,,,,
+WaCLa,100,293.15,1180,Zhao et al. (2023b),Density,Liquid,AAjqbN,CC(=O)[O-].Cn1cc[n+](CCO)c1,1-(2-hydroxyethyl)-3-methylimidazolium acetate,,,,,,
+WaCLa,100,298.15,1176.8,Zhao et al. (2023b),Density,Liquid,AAjqbN,CC(=O)[O-].Cn1cc[n+](CCO)c1,1-(2-hydroxyethyl)-3-methylimidazolium acetate,,,,,,
+WaCLa,100,303.15,1173.5,Zhao et al. (2023b),Density,Liquid,AAjqbN,CC(=O)[O-].Cn1cc[n+](CCO)c1,1-(2-hydroxyethyl)-3-methylimidazolium acetate,,,,,,
+WaCLa,100,308.15,1170.4,Zhao et al. (2023b),Density,Liquid,AAjqbN,CC(=O)[O-].Cn1cc[n+](CCO)c1,1-(2-hydroxyethyl)-3-methylimidazolium acetate,,,,,,
+WaCLa,100,313.15,1167.1,Zhao et al. (2023b),Density,Liquid,AAjqbN,CC(=O)[O-].Cn1cc[n+](CCO)c1,1-(2-hydroxyethyl)-3-methylimidazolium acetate,,,,,,
+WaCLa,100,318.15,1163.9,Zhao et al. (2023b),Density,Liquid,AAjqbN,CC(=O)[O-].Cn1cc[n+](CCO)c1,1-(2-hydroxyethyl)-3-methylimidazolium acetate,,,,,,
+WaCLa,100,323.15,1160.8,Zhao et al. (2023b),Density,Liquid,AAjqbN,CC(=O)[O-].Cn1cc[n+](CCO)c1,1-(2-hydroxyethyl)-3-methylimidazolium acetate,,,,,,
+WaCLa,100,328.15,1157.4,Zhao et al. (2023b),Density,Liquid,AAjqbN,CC(=O)[O-].Cn1cc[n+](CCO)c1,1-(2-hydroxyethyl)-3-methylimidazolium acetate,,,,,,
+WaCLa,100,333.15,1154.1,Zhao et al. (2023b),Density,Liquid,AAjqbN,CC(=O)[O-].Cn1cc[n+](CCO)c1,1-(2-hydroxyethyl)-3-methylimidazolium acetate,,,,,,

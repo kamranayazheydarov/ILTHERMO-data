@@ -1,0 +1,8 @@
+setid,"MolaRity of tetrapropylammonium bromide, mol/dm3","Pressure, kPa","Temperature, K","Solvent: Volume fraction of N,N-dimethylethanamide","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DmNPL,0,101,298.15,0.5,998.77,Das and Das (2004),Density,Liquid,AAQngv,CC(=O)N(C)C,"N,N-dimethylethanamide",AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water
+DmNPL,0.00877,101,298.15,0.5,999.19,Das and Das (2004),Density,Liquid,AAQngv,CC(=O)N(C)C,"N,N-dimethylethanamide",AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water
+DmNPL,0.02046,101,298.15,0.5,999.7,Das and Das (2004),Density,Liquid,AAQngv,CC(=O)N(C)C,"N,N-dimethylethanamide",AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water
+DmNPL,0.03216,101,298.15,0.5,1000.2,Das and Das (2004),Density,Liquid,AAQngv,CC(=O)N(C)C,"N,N-dimethylethanamide",AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water
+DmNPL,0.05262,101,298.15,0.5,1001,Das and Das (2004),Density,Liquid,AAQngv,CC(=O)N(C)C,"N,N-dimethylethanamide",AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water
+DmNPL,0.07309,101,298.15,0.5,1001.7,Das and Das (2004),Density,Liquid,AAQngv,CC(=O)N(C)C,"N,N-dimethylethanamide",AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water
+DmNPL,0.10233,101,298.15,0.5,1002.7,Das and Das (2004),Density,Liquid,AAQngv,CC(=O)N(C)C,"N,N-dimethylethanamide",AAzKlv,CCC[N+](CCC)(CCC)CCC.[Br-],tetrapropylammonium bromide,AADYJk,O,water

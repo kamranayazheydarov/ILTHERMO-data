@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa",Mole fraction of 1-butyl-3-methylimidazolium methanesulfonate,"Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+pmKhj,293.15,99.6,0.5,1202.2,Akhmetshina et al. (2018),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AALcjF,NC(N)=O,urea,,,
+pmKhj,303.15,99.6,0.5,1195.6,Akhmetshina et al. (2018),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AALcjF,NC(N)=O,urea,,,
+pmKhj,313.15,99.6,0.5,1189.2,Akhmetshina et al. (2018),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AALcjF,NC(N)=O,urea,,,
+pmKhj,323.15,99.6,0.5,1182.7,Akhmetshina et al. (2018),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AALcjF,NC(N)=O,urea,,,
+pmKhj,333.15,99.6,0.5,1176.3,Akhmetshina et al. (2018),Density,Liquid,AAtDOY,CCCC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-butyl-3-methylimidazolium methanesulfonate,AALcjF,NC(N)=O,urea,,,

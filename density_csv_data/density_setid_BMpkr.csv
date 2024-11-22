@@ -1,0 +1,11 @@
+setid,Weight fraction of ethanol,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+BMpkr,0.009,313.15,101,1016.5,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+BMpkr,0.044,313.15,101,1006.7,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+BMpkr,0.074,313.15,101,998.4,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+BMpkr,0.105,313.15,101,989.9,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+BMpkr,0.159,313.15,101,975.2,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+BMpkr,0.227,313.15,101,956.8,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+BMpkr,0.315,313.15,101,933.4,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+BMpkr,0.436,313.15,101,902.8,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+BMpkr,0.635,313.15,101,855.4,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,
+BMpkr,0.778,313.15,101,822.7,Corderi et al. (2013),Density,Liquid,AAIsrh,CCO,ethanol,AAstlh,CCCCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-hexyl-3-methylimidazolium dicyanamide,,,

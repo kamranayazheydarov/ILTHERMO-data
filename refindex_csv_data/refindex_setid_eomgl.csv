@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+eomgl,293.15,101.325,1.45007,Yunus et al. (2010),Refractive index,Liquid,ABsNls,CCCCCCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-decylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,,
+eomgl,298.15,101.325,1.44859,Yunus et al. (2010),Refractive index,Liquid,ABsNls,CCCCCCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-decylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,,
+eomgl,303.15,101.325,1.44703,Yunus et al. (2010),Refractive index,Liquid,ABsNls,CCCCCCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-decylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,,
+eomgl,308.15,101.325,1.44546,Yunus et al. (2010),Refractive index,Liquid,ABsNls,CCCCCCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-decylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,,
+eomgl,313.15,101.325,1.44391,Yunus et al. (2010),Refractive index,Liquid,ABsNls,CCCCCCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-decylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,,
+eomgl,318.15,101.325,1.44239,Yunus et al. (2010),Refractive index,Liquid,ABsNls,CCCCCCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-decylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,,
+eomgl,323.15,101.325,1.44091,Yunus et al. (2010),Refractive index,Liquid,ABsNls,CCCCCCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-decylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,,
+eomgl,328.15,101.325,1.43943,Yunus et al. (2010),Refractive index,Liquid,ABsNls,CCCCCCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-decylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,,
+eomgl,333.15,101.325,1.43796,Yunus et al. (2010),Refractive index,Liquid,ABsNls,CCCCCCCCCC[n+]1ccccc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-decylpyridinium bis(trifluoromethylsulfonyl)imide,,,,,,,

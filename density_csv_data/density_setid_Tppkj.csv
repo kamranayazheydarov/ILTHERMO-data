@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Tppkj,293,101.325,890,Curnow et al. (2018),Density,Liquid,ADilIs,[N-](C#N)C#N.c(N(CCCCCCCCCC)CCCCCCCCCC)1c(N(CCCCCCCCCC)CCCCCCCCCC)[c+]1N(CCCCCCCCCC)CCCCCCCCCC,tris(didecylamino)cyclopropenium dicyanamide,,,,,,
+Tppkj,303,101.325,884,Curnow et al. (2018),Density,Liquid,ADilIs,[N-](C#N)C#N.c(N(CCCCCCCCCC)CCCCCCCCCC)1c(N(CCCCCCCCCC)CCCCCCCCCC)[c+]1N(CCCCCCCCCC)CCCCCCCCCC,tris(didecylamino)cyclopropenium dicyanamide,,,,,,
+Tppkj,313,101.325,878,Curnow et al. (2018),Density,Liquid,ADilIs,[N-](C#N)C#N.c(N(CCCCCCCCCC)CCCCCCCCCC)1c(N(CCCCCCCCCC)CCCCCCCCCC)[c+]1N(CCCCCCCCCC)CCCCCCCCCC,tris(didecylamino)cyclopropenium dicyanamide,,,,,,
+Tppkj,323,101.325,872,Curnow et al. (2018),Density,Liquid,ADilIs,[N-](C#N)C#N.c(N(CCCCCCCCCC)CCCCCCCCCC)1c(N(CCCCCCCCCC)CCCCCCCCCC)[c+]1N(CCCCCCCCCC)CCCCCCCCCC,tris(didecylamino)cyclopropenium dicyanamide,,,,,,
+Tppkj,333,101.325,866,Curnow et al. (2018),Density,Liquid,ADilIs,[N-](C#N)C#N.c(N(CCCCCCCCCC)CCCCCCCCCC)1c(N(CCCCCCCCCC)CCCCCCCCCC)[c+]1N(CCCCCCCCCC)CCCCCCCCCC,tris(didecylamino)cyclopropenium dicyanamide,,,,,,
+Tppkj,343,101.325,860,Curnow et al. (2018),Density,Liquid,ADilIs,[N-](C#N)C#N.c(N(CCCCCCCCCC)CCCCCCCCCC)1c(N(CCCCCCCCCC)CCCCCCCCCC)[c+]1N(CCCCCCCCCC)CCCCCCCCCC,tris(didecylamino)cyclopropenium dicyanamide,,,,,,
+Tppkj,353,101.325,854,Curnow et al. (2018),Density,Liquid,ADilIs,[N-](C#N)C#N.c(N(CCCCCCCCCC)CCCCCCCCCC)1c(N(CCCCCCCCCC)CCCCCCCCCC)[c+]1N(CCCCCCCCCC)CCCCCCCCCC,tris(didecylamino)cyclopropenium dicyanamide,,,,,,
+Tppkj,363,101.325,849,Curnow et al. (2018),Density,Liquid,ADilIs,[N-](C#N)C#N.c(N(CCCCCCCCCC)CCCCCCCCCC)1c(N(CCCCCCCCCC)CCCCCCCCCC)[c+]1N(CCCCCCCCCC)CCCCCCCCCC,tris(didecylamino)cyclopropenium dicyanamide,,,,,,

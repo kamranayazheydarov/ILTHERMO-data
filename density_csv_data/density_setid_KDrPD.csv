@@ -1,0 +1,9 @@
+setid,"Temperature, K","Mole fraction of 1,5-pentanediol","Pressure, kPa","Molar volume, m<SUP>3</SUP>/mol",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+KDrPD,303.15,0.129,100,0.0001423,Turnaoglu et al. (2019b),Density,Liquid,AAUBbF,OCCCCCO,"1,5-pentanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+KDrPD,303.15,0.982,100,0.0001069,Turnaoglu et al. (2019b),Density,Liquid,AAUBbF,OCCCCCO,"1,5-pentanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+KDrPD,308.15,0.151,100,0.0001416,Turnaoglu et al. (2019b),Density,Liquid,AAUBbF,OCCCCCO,"1,5-pentanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+KDrPD,308.15,0.977,100,0.0001075,Turnaoglu et al. (2019b),Density,Liquid,AAUBbF,OCCCCCO,"1,5-pentanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+KDrPD,313.15,0.183,100,0.0001412,Turnaoglu et al. (2019b),Density,Liquid,AAUBbF,OCCCCCO,"1,5-pentanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+KDrPD,313.15,0.97,100,0.0001062,Turnaoglu et al. (2019b),Density,Liquid,AAUBbF,OCCCCCO,"1,5-pentanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+KDrPD,318.15,0.231,100,0.0001381,Turnaoglu et al. (2019b),Density,Liquid,AAUBbF,OCCCCCO,"1,5-pentanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,
+KDrPD,318.15,0.969,100,0.0001064,Turnaoglu et al. (2019b),Density,Liquid,AAUBbF,OCCCCCO,"1,5-pentanediol",AAmDom,CC[n+]1ccn(C)c1.F[B-](F)(F)F,1-ethyl-3-methylimidazolium tetrafluoroborate,,,

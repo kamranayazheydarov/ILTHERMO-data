@@ -1,0 +1,10 @@
+setid,Mole fraction of acetone,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+yFTsW,0,101,298.15,1182.2,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+yFTsW,0.0973,101,298.15,1167.1,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+yFTsW,0.1863,101,298.15,1151.7,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+yFTsW,0.2878,101,298.15,1132.8,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+yFTsW,0.3877,101,298.15,1112.4,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+yFTsW,0.4853,101,298.15,1091.1,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+yFTsW,0.5858,101,298.15,1059.2,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+yFTsW,0.6762,101,298.15,1023.1,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,
+yFTsW,0.8151,101,298.15,939.3,Li et al. (2007c),Density,Liquid,AALIPU,CC(C)=O,acetone,AArYBF,CCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-butyl-3-methylimidazolium tetrafluoroborate,,,

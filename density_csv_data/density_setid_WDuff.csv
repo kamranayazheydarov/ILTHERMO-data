@@ -1,0 +1,9 @@
+setid,"Temperature, K",Mole fraction of decanoic acid,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+WDuff,293,0.667,101,932.9,Dietz et al. (2019),Density,Liquid,AAhGHf,CCCCCCCCCC(=O)O,decanoic acid,ACBIrh,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylammonium bromide,,,
+WDuff,298,0.667,101,929.6,Dietz et al. (2019),Density,Liquid,AAhGHf,CCCCCCCCCC(=O)O,decanoic acid,ACBIrh,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylammonium bromide,,,
+WDuff,303,0.667,101,926.3,Dietz et al. (2019),Density,Liquid,AAhGHf,CCCCCCCCCC(=O)O,decanoic acid,ACBIrh,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylammonium bromide,,,
+WDuff,308,0.667,101,923,Dietz et al. (2019),Density,Liquid,AAhGHf,CCCCCCCCCC(=O)O,decanoic acid,ACBIrh,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylammonium bromide,,,
+WDuff,313,0.667,101,919.7,Dietz et al. (2019),Density,Liquid,AAhGHf,CCCCCCCCCC(=O)O,decanoic acid,ACBIrh,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylammonium bromide,,,
+WDuff,318,0.667,101,916.5,Dietz et al. (2019),Density,Liquid,AAhGHf,CCCCCCCCCC(=O)O,decanoic acid,ACBIrh,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylammonium bromide,,,
+WDuff,323,0.667,101,913.2,Dietz et al. (2019),Density,Liquid,AAhGHf,CCCCCCCCCC(=O)O,decanoic acid,ACBIrh,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylammonium bromide,,,
+WDuff,328,0.667,101,910,Dietz et al. (2019),Density,Liquid,AAhGHf,CCCCCCCCCC(=O)O,decanoic acid,ACBIrh,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-],tetraoctylammonium bromide,,,

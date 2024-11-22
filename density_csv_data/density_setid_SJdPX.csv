@@ -1,0 +1,18 @@
+setid,Weight fraction of 1-butyl-3-methylimidazolium nitrate,Weight fraction of water,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SJdPX,0,0.7,313,100,1003.42,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.1,0.6,313,100,1018.5,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.2,0.5,313,100,1033.77,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.3,0.4,313,100,1048.57,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.4,0.3,313,100,1063.37,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.5,0.2,313,100,1076.91,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.6,0.1,303,100,1099.96,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.6,0.1,308,100,1096.39,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.6,0.1,313,100,1092.82,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.6,0.1,318,100,1089.26,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.6,0.1,323,100,1085.7,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.65,0.05,303,100,1100.55,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.65,0.05,308,100,1096.95,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.65,0.05,313,100,1093.34,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.65,0.05,318,100,1089.73,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.65,0.05,323,100,1086.12,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol
+SJdPX,0.7,0,313,100,1100.23,Zhang et al. (2014i),Density,Liquid,AAmkVH,CCCC[n+]1ccn(C)c1.O=[N+]([O-])[O-],1-butyl-3-methylimidazolium nitrate,AADYJk,O,water,AALmBl,NCCO,2-aminoethan-1-ol

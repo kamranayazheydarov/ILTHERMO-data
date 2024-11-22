@@ -1,0 +1,9 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+xtEIy,293.15,101.325,1322.1,Andresova et al. (2014),Density,Liquid,ABnWGs,CCCCCn1cc[n+](CCCC)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-pentylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+xtEIy,298.15,101.325,1317.6,Andresova et al. (2014),Density,Liquid,ABnWGs,CCCCCn1cc[n+](CCCC)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-pentylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+xtEIy,303.15,101.325,1313.2,Andresova et al. (2014),Density,Liquid,ABnWGs,CCCCCn1cc[n+](CCCC)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-pentylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+xtEIy,313.15,101.325,1304.3,Andresova et al. (2014),Density,Liquid,ABnWGs,CCCCCn1cc[n+](CCCC)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-pentylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+xtEIy,323.15,101.325,1295.5,Andresova et al. (2014),Density,Liquid,ABnWGs,CCCCCn1cc[n+](CCCC)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-pentylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+xtEIy,333.15,101.325,1286.7,Andresova et al. (2014),Density,Liquid,ABnWGs,CCCCCn1cc[n+](CCCC)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-pentylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+xtEIy,343.15,101.325,1278,Andresova et al. (2014),Density,Liquid,ABnWGs,CCCCCn1cc[n+](CCCC)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-pentylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,
+xtEIy,353.15,101.325,1269.4,Andresova et al. (2014),Density,Liquid,ABnWGs,CCCCCn1cc[n+](CCCC)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-3-pentylimidazolium bis((trifluoromethyl)sulfonyl)imide,,,,,,

@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+Zdsvt,298.15,101.325,893.4,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,
+Zdsvt,303.15,101.325,889.3,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,
+Zdsvt,308.15,101.325,885.2,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,
+Zdsvt,313.15,101.325,881.7,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,
+Zdsvt,318.15,101.325,876.3,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,
+Zdsvt,323.15,101.325,874.1,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,
+Zdsvt,328.15,101.325,870.2,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,
+Zdsvt,333.15,101.325,866.9,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,
+Zdsvt,338.15,101.325,862.8,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,
+Zdsvt,343.15,101.325,858.5,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,
+Zdsvt,348.15,101.325,854.9,Ghatee and Ghaed-sharaf (2017),Density,Liquid,ABAeiO,CCCCCCCCCC(=O)[O-].C[NH+]1CCOCC1,N-methylmorpholinium decanoate,,,,,,

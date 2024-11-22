@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+JWKgP,288.15,101,770.3,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AAQJlb,C1CCCCC1,cyclohexane,AAonnS,CCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-propyl-3-methylimidazolium tetrafluoroborate
+JWKgP,298.15,101,765.4,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AAQJlb,C1CCCCC1,cyclohexane,AAonnS,CCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-propyl-3-methylimidazolium tetrafluoroborate
+JWKgP,308.15,101,756.6,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AAQJlb,C1CCCCC1,cyclohexane,AAonnS,CCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-propyl-3-methylimidazolium tetrafluoroborate
+JWKgP,318.15,101,752.3,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AAQJlb,C1CCCCC1,cyclohexane,AAonnS,CCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-propyl-3-methylimidazolium tetrafluoroborate
+JWKgP,328.15,101,750.1,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AAQJlb,C1CCCCC1,cyclohexane,AAonnS,CCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-propyl-3-methylimidazolium tetrafluoroborate

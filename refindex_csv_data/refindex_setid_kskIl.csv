@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa",Refractive index (Na D-line),reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+kskIl,283.15,101.325,1.5018,Hasse et al. (2009),Refractive index,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,,
+kskIl,293.15,101.325,1.4996,Hasse et al. (2009),Refractive index,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,,
+kskIl,303.15,101.325,1.4977,Hasse et al. (2009),Refractive index,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,,
+kskIl,313.15,101.325,1.4949,Hasse et al. (2009),Refractive index,Liquid,AAniqB,CC[n+]1ccn(C)c1.CS(=O)(=O)[O-],1-ethyl-3-methylimidazolium methanesulfonate,,,,,,,

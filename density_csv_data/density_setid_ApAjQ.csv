@@ -1,0 +1,26 @@
+setid,"Temperature, K",Weight fraction of 2-aminoethan-1-ol,Weight fraction of 1-butyl-3-methylimidazolium dicyanamide,"Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ApAjQ,293.15,0.2998,0.2001,101,1026.33,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,293.15,0.2998,0.3002,101,1032.34,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,293.15,0.3003,0.0499,101,1016.5,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,293.15,0.3005,0.1008,101,1020,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,293.15,0.3009,0.4996,101,1042,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,303.15,0.2998,0.2001,101,1020.4,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,303.15,0.2998,0.3002,101,1025.91,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,303.15,0.3003,0.0499,101,1011.6,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,303.15,0.3005,0.1008,101,1015,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,303.15,0.3009,0.4996,101,1035,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,313.15,0.2998,0.2001,101,1014.22,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,313.15,0.2998,0.3002,101,1019.3,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,313.15,0.3003,0.0499,101,1006.3,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,313.15,0.3005,0.1008,101,1010,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,313.15,0.3009,0.4996,101,1028,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,323.15,0.2998,0.2001,101,1007.79,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,323.15,0.2998,0.3002,101,1012.53,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,323.15,0.3003,0.0499,101,1000.6,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,323.15,0.3005,0.1008,101,1003.5,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,323.15,0.3009,0.4996,101,1021,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,333.15,0.2998,0.2001,101,1001.11,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,333.15,0.2998,0.3002,101,1005.58,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,333.15,0.3003,0.0499,101,994.57,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,333.15,0.3005,0.1008,101,997.2,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide
+ApAjQ,333.15,0.3009,0.4996,101,1014,Xu et al. (2014a),Density,Liquid,AALmBl,NCCO,2-aminoethan-1-ol,AADYJk,O,water,AAnYjG,CCCC[n+]1ccn(C)c1.N#C[N-]C#N,1-butyl-3-methylimidazolium dicyanamide

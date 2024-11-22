@@ -1,0 +1,11 @@
+setid,"Temperature, K","MolaLity of lithium hexafluorophosphate, mol/kg","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+DikWg,283.15,0.926,100,1121.1,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AAUBWU,CCOC(=O)OC,ethyl methyl carbonate,,,
+DikWg,283.15,2.147,100,1227.2,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AAUBWU,CCOC(=O)OC,ethyl methyl carbonate,,,
+DikWg,293.15,0.926,100,1109.5,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AAUBWU,CCOC(=O)OC,ethyl methyl carbonate,,,
+DikWg,293.15,2.147,100,1216,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AAUBWU,CCOC(=O)OC,ethyl methyl carbonate,,,
+DikWg,298.15,0.926,100,1103.7,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AAUBWU,CCOC(=O)OC,ethyl methyl carbonate,,,
+DikWg,298.15,2.147,100,1210.5,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AAUBWU,CCOC(=O)OC,ethyl methyl carbonate,,,
+DikWg,303.15,0.926,100,1097.9,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AAUBWU,CCOC(=O)OC,ethyl methyl carbonate,,,
+DikWg,303.15,2.147,100,1204.4,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AAUBWU,CCOC(=O)OC,ethyl methyl carbonate,,,
+DikWg,313.15,0.926,100,1086.1,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AAUBWU,CCOC(=O)OC,ethyl methyl carbonate,,,
+DikWg,313.15,2.147,100,1193.7,Wang et al. (2023a),Density,Liquid,AAdLRX,F[P-](F)(F)(F)(F)F.[Li+],lithium hexafluorophosphate,AAUBWU,CCOC(=O)OC,ethyl methyl carbonate,,,

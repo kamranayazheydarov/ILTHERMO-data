@@ -1,0 +1,12 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+mFCTz,293.15,101.325,1491.6,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFCTz,298.15,101.325,1486.67,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFCTz,303.15,101.325,1481.76,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFCTz,308.15,101.325,1476.87,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFCTz,313.15,101.325,1472,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFCTz,318.15,101.325,1467.15,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFCTz,323.15,101.325,1462.32,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFCTz,328.15,101.325,1457.52,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFCTz,333.15,101.325,1452.73,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFCTz,338.15,101.325,1447.96,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,
+mFCTz,343.15,101.325,1443.21,Gonzalez et al. (2015b),Density,Liquid,ABZTYy,CC[n+]1ccc(C)cc1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide,,,,,,

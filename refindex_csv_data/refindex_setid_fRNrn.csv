@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Wavelength, A",Refractive index,reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3,Unnamed: 13
+fRNrn,298,101.325,633,1.5164,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABKUnd,CCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-2-butyl-3,5-dimethylpyrazolium methanesulfonate",,,,,,,
+fRNrn,308,101.325,633,1.5137,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABKUnd,CCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-2-butyl-3,5-dimethylpyrazolium methanesulfonate",,,,,,,
+fRNrn,313,101.325,633,1.5125,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABKUnd,CCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-2-butyl-3,5-dimethylpyrazolium methanesulfonate",,,,,,,
+fRNrn,333,101.325,633,1.5065,Ozdemir and Ozgun (2014),Refractive index,Liquid,ABKUnd,CCCCn1c(C)cc(C)[n+]1-c1ccccc1.CS(=O)(=O)[O-],"1-phenyl-2-butyl-3,5-dimethylpyrazolium methanesulfonate",,,,,,,

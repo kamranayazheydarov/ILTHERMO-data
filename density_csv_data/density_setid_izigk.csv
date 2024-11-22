@@ -1,0 +1,7 @@
+setid,Mole fraction of 1-butyl-3-methylimidazolium octyl sulfate,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+izigk,0.4524,298.15,101,976.2,Domanska et al. (2006b),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+izigk,0.5458,298.15,101,996.1,Domanska et al. (2006b),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+izigk,0.6497,298.15,101,1016.1,Domanska et al. (2006b),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+izigk,0.7416,298.15,101,1031.9,Domanska et al. (2006b),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+izigk,0.8454,298.15,101,1048.2,Domanska et al. (2006b),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,
+izigk,0.9508,298.15,101,1063.6,Domanska et al. (2006b),Density,Liquid,AAZCDI,CCCCCCCCO,octan-1-ol,ABPBvB,CCCCCCCCOS(=O)(=O)[O-].CCCC[n+]1ccn(C)c1,1-butyl-3-methylimidazolium octyl sulfate,,,

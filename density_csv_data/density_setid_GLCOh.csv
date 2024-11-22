@@ -1,0 +1,2 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+GLCOh,298.1,101.325,1200,Zhou et al. (2005),Density,Liquid,AAsqqt,CC[N+](C)(CC)CCOC.F[B-](F)(F)F,"N,N-diethyl-2-methoxy-N-methylethan-1-aminium tetrafluoroborate",,,,,,

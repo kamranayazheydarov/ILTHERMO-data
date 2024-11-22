@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+vNHEn,288.15,100,1139.5,Wei et al. (2020a),Density,Liquid,AApAEZ,CC[n+]1ccn(CCOC)c1.N#C[S-],1-ethyl-3-(2-methoxyethyl)imidazolium thiocyanate,,,,,,
+vNHEn,293.15,100,1136.2,Wei et al. (2020a),Density,Liquid,AApAEZ,CC[n+]1ccn(CCOC)c1.N#C[S-],1-ethyl-3-(2-methoxyethyl)imidazolium thiocyanate,,,,,,
+vNHEn,298.15,100,1133,Wei et al. (2020a),Density,Liquid,AApAEZ,CC[n+]1ccn(CCOC)c1.N#C[S-],1-ethyl-3-(2-methoxyethyl)imidazolium thiocyanate,,,,,,
+vNHEn,303.15,100,1129.7,Wei et al. (2020a),Density,Liquid,AApAEZ,CC[n+]1ccn(CCOC)c1.N#C[S-],1-ethyl-3-(2-methoxyethyl)imidazolium thiocyanate,,,,,,
+vNHEn,308.15,100,1126.5,Wei et al. (2020a),Density,Liquid,AApAEZ,CC[n+]1ccn(CCOC)c1.N#C[S-],1-ethyl-3-(2-methoxyethyl)imidazolium thiocyanate,,,,,,
+vNHEn,313.15,100,1123.3,Wei et al. (2020a),Density,Liquid,AApAEZ,CC[n+]1ccn(CCOC)c1.N#C[S-],1-ethyl-3-(2-methoxyethyl)imidazolium thiocyanate,,,,,,
+vNHEn,318.15,100,1120.1,Wei et al. (2020a),Density,Liquid,AApAEZ,CC[n+]1ccn(CCOC)c1.N#C[S-],1-ethyl-3-(2-methoxyethyl)imidazolium thiocyanate,,,,,,

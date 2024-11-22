@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+gKAtZ,293,101.325,986.4,Cui et al. (2020b),Density,Liquid,ABKeOo,O=C1[N-]C=CC=C1.C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium 2-oxo-2H-pyridin-1-ide,,,,,,
+gKAtZ,303,101.325,980.3,Cui et al. (2020b),Density,Liquid,ABKeOo,O=C1[N-]C=CC=C1.C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium 2-oxo-2H-pyridin-1-ide,,,,,,
+gKAtZ,313,101.325,974.2,Cui et al. (2020b),Density,Liquid,ABKeOo,O=C1[N-]C=CC=C1.C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium 2-oxo-2H-pyridin-1-ide,,,,,,
+gKAtZ,323,101.325,968.2,Cui et al. (2020b),Density,Liquid,ABKeOo,O=C1[N-]C=CC=C1.C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium 2-oxo-2H-pyridin-1-ide,,,,,,
+gKAtZ,333,101.325,962.1,Cui et al. (2020b),Density,Liquid,ABKeOo,O=C1[N-]C=CC=C1.C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium 2-oxo-2H-pyridin-1-ide,,,,,,
+gKAtZ,343,101.325,956.1,Cui et al. (2020b),Density,Liquid,ABKeOo,O=C1[N-]C=CC=C1.C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium 2-oxo-2H-pyridin-1-ide,,,,,,
+gKAtZ,353,101.325,950,Cui et al. (2020b),Density,Liquid,ABKeOo,O=C1[N-]C=CC=C1.C(CCC)[P+](CC)(CCCC)CCCC,tributyl(ethyl)phosphonium 2-oxo-2H-pyridin-1-ide,,,,,,

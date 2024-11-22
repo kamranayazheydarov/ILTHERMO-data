@@ -1,0 +1,10 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+CoEYr,303.15,101.325,1232.55,Seoane et al. (2012b),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+CoEYr,308.15,101.325,1228.77,Seoane et al. (2012b),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+CoEYr,313.15,101.325,1224.99,Seoane et al. (2012b),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+CoEYr,318.15,101.325,1221.21,Seoane et al. (2012b),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+CoEYr,323.15,101.325,1217.42,Seoane et al. (2012b),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+CoEYr,328.15,101.325,1213.63,Seoane et al. (2012b),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+CoEYr,333.15,101.325,1209.9,Seoane et al. (2012b),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+CoEYr,338.15,101.325,1206.09,Seoane et al. (2012b),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,
+CoEYr,343.15,101.325,1202.34,Seoane et al. (2012b),Density,Liquid,ABIrWy,CCCCCC[n+]1ccn(C)c1.O=S(=O)([O-])C(F)(F)F,1-hexyl-3-methylimidazolium trifluoromethanesulfonate,,,,,,

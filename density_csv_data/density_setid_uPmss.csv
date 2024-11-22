@@ -1,0 +1,11 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+uPmss,283.15,101.325,1154.8,Wang et al. (2011c),Density,Liquid,AAmaWV,CCn1cc[n+](C)c1.C[C@H](O)C(=O)[O-],3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate,,,,,,
+uPmss,293.15,101.325,1150.1,Wang et al. (2011c),Density,Liquid,AAmaWV,CCn1cc[n+](C)c1.C[C@H](O)C(=O)[O-],3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate,,,,,,
+uPmss,298.15,101.325,1146.1,Wang et al. (2011c),Density,Liquid,AAmaWV,CCn1cc[n+](C)c1.C[C@H](O)C(=O)[O-],3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate,,,,,,
+uPmss,303.15,101.325,1141.6,Wang et al. (2011c),Density,Liquid,AAmaWV,CCn1cc[n+](C)c1.C[C@H](O)C(=O)[O-],3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate,,,,,,
+uPmss,308.15,101.325,1136.9,Wang et al. (2011c),Density,Liquid,AAmaWV,CCn1cc[n+](C)c1.C[C@H](O)C(=O)[O-],3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate,,,,,,
+uPmss,313.15,101.325,1131.6,Wang et al. (2011c),Density,Liquid,AAmaWV,CCn1cc[n+](C)c1.C[C@H](O)C(=O)[O-],3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate,,,,,,
+uPmss,318.15,101.325,1126.9,Wang et al. (2011c),Density,Liquid,AAmaWV,CCn1cc[n+](C)c1.C[C@H](O)C(=O)[O-],3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate,,,,,,
+uPmss,323.15,101.325,1122.3,Wang et al. (2011c),Density,Liquid,AAmaWV,CCn1cc[n+](C)c1.C[C@H](O)C(=O)[O-],3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate,,,,,,
+uPmss,328.15,101.325,1118.9,Wang et al. (2011c),Density,Liquid,AAmaWV,CCn1cc[n+](C)c1.C[C@H](O)C(=O)[O-],3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate,,,,,,
+uPmss,333.15,101.325,1114,Wang et al. (2011c),Density,Liquid,AAmaWV,CCn1cc[n+](C)c1.C[C@H](O)C(=O)[O-],3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate,,,,,,

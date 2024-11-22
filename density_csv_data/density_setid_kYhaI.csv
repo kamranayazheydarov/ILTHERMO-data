@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kYhaI,288.15,101.325,1524,Tokuda et al. (2006b),Density,Liquid,ABvtlG,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+kYhaI,293.15,101.325,1519,Tokuda et al. (2006b),Density,Liquid,ABvtlG,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+kYhaI,298.15,101.325,1514,Tokuda et al. (2006b),Density,Liquid,ABvtlG,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+kYhaI,303.15,101.325,1509,Tokuda et al. (2006b),Density,Liquid,ABvtlG,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+kYhaI,308.15,101.325,1504,Tokuda et al. (2006b),Density,Liquid,ABvtlG,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,
+kYhaI,313.15,101.325,1498,Tokuda et al. (2006b),Density,Liquid,ABvtlG,CCCC[n+]1ccn(C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,1-butyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide,,,,,,

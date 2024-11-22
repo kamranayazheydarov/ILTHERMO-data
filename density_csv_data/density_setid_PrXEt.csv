@@ -1,0 +1,7 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+PrXEt,328,101.325,1558.3,Fadeeva et al. (2020),Density,Liquid,ABRszH,Cn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+PrXEt,333,101.325,1553,Fadeeva et al. (2020),Density,Liquid,ABRszH,Cn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+PrXEt,338,101.325,1547.8,Fadeeva et al. (2020),Density,Liquid,ABRszH,Cn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+PrXEt,343,101.325,1542.5,Fadeeva et al. (2020),Density,Liquid,ABRszH,Cn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+PrXEt,348,101.325,1537.4,Fadeeva et al. (2020),Density,Liquid,ABRszH,Cn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,
+PrXEt,353,101.325,1532.2,Fadeeva et al. (2020),Density,Liquid,ABRszH,Cn1cc[nH+]c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-methylimidazolium bis(trifluoromethylsulfonyl)imide,,,,,,

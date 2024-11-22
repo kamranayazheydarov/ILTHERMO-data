@@ -1,0 +1,13 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+rfaeX,298.15,101.325,1145.2,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,303.15,101.325,1142.3,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,308.15,101.325,1139.4,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,313.15,101.325,1136.7,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,318.15,101.325,1134,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,323.15,101.325,1131.2,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,328.15,101.325,1128.5,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,333.15,101.325,1125.7,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,338.15,101.325,1122.9,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,343.15,101.325,1120.2,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,348.15,101.325,1117.5,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,
+rfaeX,353.15,101.325,1114.8,Tao et al. (2013),Density,Liquid,AAiOjp,C[N+](C)(C)CCO.NCC(=O)[O-],"2-hydroxy-N,N,N-trimethylethanaminium glycinate",,,,,,

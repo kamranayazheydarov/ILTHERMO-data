@@ -1,0 +1,10 @@
+setid,"MolaLity of lithium nitrate, mol/kg","Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+IrUBW,0,100,298.15,1207.8,Vallet et al. (2022),Density,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+IrUBW,0.3,100,298.15,1219.8,Vallet et al. (2022),Density,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+IrUBW,0.6,100,298.15,1231.1,Vallet et al. (2022),Density,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+IrUBW,0.9,100,298.15,1240,Vallet et al. (2022),Density,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+IrUBW,1.2,100,298.15,1246.6,Vallet et al. (2022),Density,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+IrUBW,1.5,100,298.15,1256,Vallet et al. (2022),Density,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+IrUBW,1.8,100,298.15,1266.5,Vallet et al. (2022),Density,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+IrUBW,2.1,100,298.15,1275.9,Vallet et al. (2022),Density,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,
+IrUBW,2.4,100,298.15,1283.4,Vallet et al. (2022),Density,Liquid,AANNYY,O=[N+]([O-])[O-].[Li+],lithium nitrate,AAUohR,CC[NH3+].O=[N+]([O-])[O-],ethylammonium nitrate,,,

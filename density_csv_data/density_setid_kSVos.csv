@@ -1,0 +1,17 @@
+setid,Solvent: Weight fraction of diethylammonium hydrogen sulfate,"Mass ratio to solvent: 2,5-diketopiperazine","Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kSVos,0.113,0.0056,298.15,101,752.56,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.113,0.0077,298.15,101,847.7,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.113,0.0086,298.15,101,897.7,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.113,0.0099,298.15,101,957.67,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.113,0.0104,298.15,101,979.8,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.113,0.0113,298.15,101,1001.91,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.178,0.0026,298.15,101,1057.86,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.178,0.0038,298.15,101,1059.73,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.178,0.0051,298.15,101,1061.88,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.178,0.0058,298.15,101,1063.18,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.178,0.0071,298.15,101,1065.14,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.239,0.0025,298.15,101,1075.92,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.239,0.0033,298.15,101,1088.73,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.239,0.004,298.15,101,1098.89,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.239,0.0045,298.15,101,1104.27,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate
+kSVos,0.239,0.005,298.15,101,1112.47,Vasantha et al. (2013),Density,Liquid,AAVxel,O=C1CNC(=O)CN1,"2,5-diketopiperazine",AADYJk,O,water,AAgwZl,CC[NH2+]CC.O=S(=O)([O-])O,diethylammonium hydrogen sulfate

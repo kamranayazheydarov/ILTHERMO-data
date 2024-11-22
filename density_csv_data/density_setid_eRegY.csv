@@ -1,0 +1,3 @@
+setid,Mole fraction of benzene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+eRegY,0.81,101,298.15,1117.8,Requejo et al. (2016b),Density,Liquid,AAPBFE,c1ccccc1,benzene,ABdMNo,CCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,
+eRegY,0.811,101,298.15,1118.6,Requejo et al. (2016b),Density,Liquid,AAPBFE,c1ccccc1,benzene,ABdMNo,CCCC[N+]1(C)CCCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide,,,

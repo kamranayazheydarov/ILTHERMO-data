@@ -1,0 +1,16 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+ZpZWx,293.15,5383,984.6,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,293.15,5473,954,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,293.15,5494,933,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,293.15,5552,921.8,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,293.15,5601,915,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,313.15,8049,940,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,313.15,8072,926.4,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,313.15,8127,912,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,313.15,8183,891.3,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,313.15,8229,864,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,333.15,11269,813,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,333.15,11278,806,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,333.15,11284,800,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,333.15,11297,791.1,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol
+ZpZWx,333.15,11343,790.3,Chobanov et al. (2010),Density,Liquid mixture 2,Liquid mixture 1,,ABiCtA,Gas,,15,AAONVE,CCCCO,butan-1-ol

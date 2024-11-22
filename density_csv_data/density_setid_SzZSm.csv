@@ -1,0 +1,10 @@
+setid,Mole fraction of octane,Mole fraction of benzene,"Pressure, kPa","Temperature, K","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+SzZSm,0,0.706,100,298.15,964.8,Requejo et al. (2016a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide
+SzZSm,0.001,0.645,100,298.15,972.1,Requejo et al. (2016a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide
+SzZSm,0.006,0.503,100,298.15,985.7,Requejo et al. (2016a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide
+SzZSm,0.009,0.051,100,298.15,1010.6,Requejo et al. (2016a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide
+SzZSm,0.009,0.195,100,298.15,1004.4,Requejo et al. (2016a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide
+SzZSm,0.01,0,100,298.15,1012.4,Requejo et al. (2016a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide
+SzZSm,0.01,0.292,100,298.15,999.5,Requejo et al. (2016a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide
+SzZSm,0.01,0.405,100,298.15,992.6,Requejo et al. (2016a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide
+SzZSm,0.012,0.099,100,298.15,1008.5,Requejo et al. (2016a),Density,Liquid,AAPBFE,c1ccccc1,benzene,AAVyLr,CCCCCCCC,octane,AAoDPb,CCCC[N+]1(C)CCCC1.N#C[N-]C#N,1-butyl-1-methylpyrrolidinium dicyanamide

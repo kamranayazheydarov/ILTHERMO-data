@@ -1,0 +1,8 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+oLeai,293,101.325,1130.2,Sanchez (2008),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+oLeai,303,101.325,1123.9,Sanchez (2008),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+oLeai,313,101.325,1117.5,Sanchez (2008),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+oLeai,323,101.325,1111.2,Sanchez (2008),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+oLeai,333,101.325,1104.9,Sanchez (2008),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+oLeai,343,101.325,1098.6,Sanchez (2008),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,
+oLeai,353,101.325,1092.2,Sanchez (2008),Density,Liquid,AApAci,CCCC[n+]1ccn(C)c1.NCC(=O)[O-],1-butyl-3-methylimidazolium glycinate,,,,,,

@@ -1,0 +1,6 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+QiOBX,288.15,101,649.7,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AAQdzy,CCCCCC,hexane,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate
+QiOBX,298.15,101,643.3,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AAQdzy,CCCCCC,hexane,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate
+QiOBX,308.15,101,640.5,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AAQdzy,CCCCCC,hexane,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate
+QiOBX,318.15,101,628.9,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AAQdzy,CCCCCC,hexane,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate
+QiOBX,328.15,101,625.1,Wang et al. (2011a),Density,Liquid mixture 1,Liquid of pure component 2,,5,AAQdzy,CCCCCC,hexane,AAwscj,CCCCCC[n+]1ccn(C)c1.F[B-](F)(F)F,1-hexyl-3-methylimidazolium tetrafluoroborate

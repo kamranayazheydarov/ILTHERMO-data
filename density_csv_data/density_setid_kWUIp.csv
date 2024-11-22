@@ -1,0 +1,5 @@
+setid,"Temperature, K","Pressure, kPa","Specific density, kg/m<SUP>3</SUP>",reference,propertiy,phases,compound id 1,smile 1,compound name 1,compound id 2,smile 2,compound name 2,compound id 3,smile 3,compound name 3
+kWUIp,293.15,100,947.5,Lepre et al. (2019a),Density,Liquid,AAzMXB,CCCC[N+](C)(CCCC)CCCC.N#C[N-]C#N,tributylmethylammonium dicyanamide,,,,,,
+kWUIp,313.15,100,936.7,Lepre et al. (2019a),Density,Liquid,AAzMXB,CCCC[N+](C)(CCCC)CCCC.N#C[N-]C#N,tributylmethylammonium dicyanamide,,,,,,
+kWUIp,333.15,100,925.9,Lepre et al. (2019a),Density,Liquid,AAzMXB,CCCC[N+](C)(CCCC)CCCC.N#C[N-]C#N,tributylmethylammonium dicyanamide,,,,,,
+kWUIp,353.15,100,915.3,Lepre et al. (2019a),Density,Liquid,AAzMXB,CCCC[N+](C)(CCCC)CCCC.N#C[N-]C#N,tributylmethylammonium dicyanamide,,,,,,
